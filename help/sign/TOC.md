@@ -8,9 +8,9 @@ getting-started-url: https://helpx.adobe.com/sign/using/get-started-guide.html
 tutorials-title: Tutorials
 tutorials-url: https://helpx.adobe.com/sign/tutorials.html
 breadcrumb-title: Adobe Signチュートリアル
-source-git-commit: 9521930d29ca7e73e9658029733c5fe2c267d7ba
+source-git-commit: 626ef6a53b548c77134f9f551d9f8b05581c46db
 workflow-type: tm+mt
-source-wordcount: '406'
+source-wordcount: '414'
 ht-degree: 6%
 
 ---
@@ -25,6 +25,7 @@ ht-degree: 6%
       + [Adobe Signのクイックツアー](sign-beginner-tutorials/quick-tour.md)
       + [1人の受信者に送信中](sign-beginner-tutorials/send-to-single-recipient.md)
       + [複数の受信者に送信中](sign-beginner-tutorials/send-to-multiple-recipients.md)
+      + [新しい送信者用のAdobe Signの概要](sign-beginner-tutorials/new-sender.md)
    + Signing {#getting-started-signing}
       + [ドキュメントの電子署名](sign-beginner-tutorials/electronically-sign-a-document.md)
       + [ドキュメントの入力と署名](sign-beginner-tutorials/fill-and-sign.md)
