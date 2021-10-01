@@ -8,10 +8,10 @@ getting-started-url: https://helpx.adobe.com/acrobat/get-started.html
 tutorials-title: Tutorials
 tutorials-url: https://helpx.adobe.com/acrobat/tutorials.html
 breadcrumb-title: Acrobatチュートリアル
-source-git-commit: e59d56662ae9325fe1bcea5f067f847b25c396c3
+source-git-commit: 315ecb65a53d4f76f5ae12a12ff4207ac1f0d01d
 workflow-type: tm+mt
-source-wordcount: '276'
-ht-degree: 14%
+source-wordcount: '281'
+ht-degree: 13%
 
 ---
 
@@ -22,7 +22,7 @@ ht-degree: 14%
 + はじめに {#getting-started}
    + [概要](getting-started/getting-started-overview.md)
    + [Acrobat DC インターフェイスについて知る](getting-started/get-to-know-the-acrobat-dc-interface.md)
-   + [PDFはどこから入手できますか。](getting-started/where-do-pdfs-come-from.md)
+   + [Acrobat Webを使用してどこからでも作業可能](getting-started/acrobatweb.md)
    + [ファイルの PDF 結合](getting-started/combine-to-pdf.md)
    + [PDF ファイルの作成](getting-started/create-pdf.md)
    + [Acrobat DCのPDFファイルに対するコメント](getting-started/comment-on-pdf-files.md)
@@ -33,6 +33,7 @@ ht-degree: 14%
    + [ページを整理](getting-started/organize.md)
    + [PDFファイルをパスワードで保護する](getting-started/password-protect.md)
    + [PDFフォームに入力して署名する](getting-started/fill-and-sign.md)
+   + [PDFはどこから入手できますか。](getting-started/where-do-pdfs-come-from.md)
 + 高度なタスク{#advanced-tasks}
    + [概要](advanced-tasks/advanced-tasks-overview.md)
    + [2つのPDF間の相違を検出する](advanced-tasks/compare.md)

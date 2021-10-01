@@ -6,9 +6,9 @@ product: adobe acrobat
 level: Beginner
 thumbnail: KT-6856.jpg
 exl-id: 24660a17-a04e-4937-be94-0a42c4b2c2ca
-source-git-commit: 018cbcfd1d1605a8ff175a0cda98f0bfb4d528a8
+source-git-commit: 8d4260937ffc2c0bd907332dd4b805fb59147872
 workflow-type: tm+mt
-source-wordcount: '309'
+source-wordcount: '338'
 ht-degree: 5%
 
 ---
@@ -34,13 +34,13 @@ Adobe Acrobatの使用を開始する方法については、次の手順に従�
     <br>
   </td>
   <td>
-    <a href="where-do-pdfs-come-from.md">
-      <img alt="PDFはどこから入手できますか。" src="../assets/WherePDFs.jpg" />
+    <a href="acrobatweb.md">
+      <img alt="Acrobat Webを使用してどこからでも作業可能" src="../assets/Acrobatweb_1280.png" />
     </a>
     <div>
-    <a href="where-do-pdfs-come-from.md"><strong>PDFはどこから入手できますか。</strong></a>
+    <a href="acrobatweb.md"><strong>Acrobat Webを使用してどこからでも作業可能</strong></a>
     </div>
-    <em>PDFの出所と用途を理解する</em>
+    <em>ブラウザーのAcrobat Webツールを使用して、どこからでもビジネス文書の要求を処理する方法を説明します</em>
     <br>
   </td>
   <td>
@@ -147,6 +147,28 @@ Adobe Acrobatの使用を開始する方法については、次の手順に従�
     <a href="fill-and-sign.md"><strong>PDFフォームに入力して署名する</strong></a>
     </div>
     <em>PDFフォームにすばやく入力し、署名する</em>
+    <br>
+  </td>
+</tr>
+<tr>
+  <td>
+    <a href="where-do-pdfs-come-from.md">
+      <img alt="PDFはどこから入手できますか。" src="../assets/WherePDFs.jpg" />
+    </a>
+    <div>
+    <a href="where-do-pdfs-come-from.md"><strong>PDFはどこから入手できますか。</strong></a>
+    </div>
+    <em>PDFの出所と用途を理解する</em>
+    <br>
+  </td>
+  <td>
+   <img alt="スペーサ" src="../assets/Whitespacer.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+   <img alt="スペーサ" src="../assets/Whitespacer.png" />
+    <div>
     <br>
   </td>
 </tr>
