@@ -7,9 +7,9 @@ level: Beginner
 topic-revisit: Integrations
 thumbnail: KT-6859.jpg
 exl-id: 76cb40b4-bbb4-4f50-b01d-4c5a74bf9f20
-source-git-commit: e59d56662ae9325fe1bcea5f067f847b25c396c3
+source-git-commit: a6af71e2c1b20c6b3f9a899cdfecb81dfd7f6c36
 workflow-type: tm+mt
-source-wordcount: '298'
+source-wordcount: '329'
 ht-degree: 1%
 
 ---
@@ -37,6 +37,16 @@ Acrobatを[!DNL Box]、[!DNL Dropbox]、[!DNL Google Drive]、[!DNL OneDrive]、
     <br>
   </td>
   <td>
+    <a href="createofficeweb.md">
+      <img alt="[!DNL Office]でWeb用のPDFを作成する" src="../assets/Officeweb_1280.png" />
+    </a>
+    <div>
+    <a href="createofficeweb.md"><strong>[!DNL Office]でWeb用のPDFを作成する</strong></a>
+    </div>
+    <em>[!DNL Microsoft Office] for Webアプリを終了せずにPDFファイルを作成する方法を説明します</em>
+    <br>
+  </td>  
+  <td>
     <a href="acrobatandsp.md">
       <img alt="[!DNL SharePoint]ファイルを操作する" src="../assets/SharePoint.png" />
     </a>
@@ -46,6 +56,8 @@ Acrobatを[!DNL Box]、[!DNL Dropbox]、[!DNL Google Drive]、[!DNL OneDrive]、
     <em>[!DNL SharePoint]とAcrobat DCを使用してドキュメントワークフローを合理化</em>
     <br>
   </td>  
+</tr>
+<tr>
   <td>
     <a href="acrobatandteams.md">
       <img alt="[!DNL Microsoft Teams]でのPDFコラボレーション" src="../assets/MicrosoftTeams.png" />
@@ -56,8 +68,6 @@ Acrobatを[!DNL Box]、[!DNL Dropbox]、[!DNL Google Drive]、[!DNL OneDrive]、
     <em>[!DNL Microsoft Teams]を離れずにPDFを表示、注釈付け、レビューして、同僚と共同作業を行います。</em>
     <br>
   </td>
-</tr>
-<tr>
   <td>
     <a href="outlook.md">
       <img alt="Outlookで電子メールメッセージと添付ファイルをPDFに変換する" src="../assets/Outlook.jpg" />
@@ -76,11 +86,6 @@ Acrobatを[!DNL Box]、[!DNL Dropbox]、[!DNL Google Drive]、[!DNL OneDrive]、
     <a href="edge.md"><strong>[!DNL Microsoft Edge]で参照中にPDFコンテンツを作成する</strong></a>
     </div>
     <em>[!DNL Microsoft Edge]用Adobe Acrobat拡張機能を使用して、WebページをPDFに即座にアーカイブする方法を説明します。</em>
-    <br>
-  </td>
-  <td>
-   <img alt="スペーサ" src="../assets/Grayspacer.png" />
-    <div>
     <br>
   </td>
 </tr>

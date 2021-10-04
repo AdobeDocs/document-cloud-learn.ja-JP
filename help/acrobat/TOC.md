@@ -8,10 +8,10 @@ getting-started-url: https://helpx.adobe.com/acrobat/get-started.html
 tutorials-title: Tutorials
 tutorials-url: https://helpx.adobe.com/acrobat/tutorials.html
 breadcrumb-title: Acrobatチュートリアル
-source-git-commit: 315ecb65a53d4f76f5ae12a12ff4207ac1f0d01d
+source-git-commit: edc1584ce9b7190781e93a4d9a2cc7434a721ec2
 workflow-type: tm+mt
-source-wordcount: '281'
-ht-degree: 13%
+source-wordcount: '285'
+ht-degree: 11%
 
 ---
 
@@ -63,7 +63,8 @@ ht-degree: 13%
    + [ウェビナー](skill-builder/skill-builder-webinars.md)
 + 統合{#integrations}
    + [概要](integrate/integrate-overview.md)
-   + [Microsoft Word からの PDF の作成](integrate/createfromword.md)
+   + [ [!DNL Microsoft Word]からPDFを作成](integrate/createfromword.md)
+   + [ [!DNL Office] にWeb用のPDFを作成](integrate/createofficeweb.md)
    + [[!DNL Microsoft Teams]](integrate/acrobatandteams.md)
    + [SharePointファイルを使用する](integrate/acrobatandsp.md)
    + [Googleドライブ用Adobe Acrobat](integrate/acrobatandgoogle.md)
