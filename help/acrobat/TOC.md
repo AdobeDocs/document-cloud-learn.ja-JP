@@ -8,7 +8,7 @@ getting-started-url: https://helpx.adobe.com/acrobat/get-started.html
 tutorials-title: Tutorials
 tutorials-url: https://helpx.adobe.com/acrobat/tutorials.html
 breadcrumb-title: Acrobatチュートリアル
-source-git-commit: edc1584ce9b7190781e93a4d9a2cc7434a721ec2
+source-git-commit: 625a9e393a3326d241b7019d98252330d6bf1669
 workflow-type: tm+mt
 source-wordcount: '285'
 ht-degree: 11%
@@ -67,9 +67,9 @@ ht-degree: 11%
    + [ [!DNL Office] にWeb用のPDFを作成](integrate/createofficeweb.md)
    + [[!DNL Microsoft Teams]](integrate/acrobatandteams.md)
    + [SharePointファイルを使用する](integrate/acrobatandsp.md)
-   + [Googleドライブ用Adobe Acrobat](integrate/acrobatandgoogle.md)
    + [Outlookで電子メールメッセージと添付ファイルをPDFに変換する](integrate/outlook.md)
    + [Microsoft Edgeでの参照時にPDFコンテンツを作成する](integrate/edge.md)
+   + [Googleドライブ用Adobe Acrobat](integrate/acrobatandgoogle.md)
 + 業界{#by-industry}
    + [概要](industry/industry-overview.md)
    + 政府{#gov}
