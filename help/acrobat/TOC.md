@@ -8,10 +8,10 @@ getting-started-url: https://helpx.adobe.com/acrobat/get-started.html
 tutorials-title: Tutorials
 tutorials-url: https://helpx.adobe.com/acrobat/tutorials.html
 breadcrumb-title: Acrobatチュートリアル
-source-git-commit: dacb0b4177dec2be1df8f2e3978f3d0a470403c6
+source-git-commit: 3636c4fda58885d4b7ac995c077d4429c6fa727d
 workflow-type: tm+mt
-source-wordcount: '288'
-ht-degree: 11%
+source-wordcount: '292'
+ht-degree: 13%
 
 ---
 
@@ -23,6 +23,7 @@ ht-degree: 11%
    + [概要](getting-started/getting-started-overview.md)
    + [Acrobat DC インターフェイスについて知る](getting-started/get-to-know-the-acrobat-dc-interface.md)
    + [Acrobat Webを使用してどこからでも作業可能](getting-started/acrobatweb.md)
+   + [リアルタイムの共同作業](getting-started/collaborate.md)
    + [ファイルの PDF 結合](getting-started/combine-to-pdf.md)
    + [PDF ファイルの作成](getting-started/create-pdf.md)
    + [Acrobat DCのPDFファイルに対するコメント](getting-started/comment-on-pdf-files.md)
