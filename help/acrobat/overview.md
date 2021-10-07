@@ -6,9 +6,9 @@ product: adobe acrobat
 level: Beginner, Intermediate, Experienced
 thumbnail: KT-6864.jpg
 exl-id: 353c8352-88cc-4ada-a9a9-19a7423a993f
-source-git-commit: 018cbcfd1d1605a8ff175a0cda98f0bfb4d528a8
+source-git-commit: 85117d10744e8a2c9c18579d1f4b94c0a6516040
 workflow-type: tm+mt
-source-wordcount: '160'
+source-wordcount: '161'
 ht-degree: 4%
 
 ---
@@ -62,7 +62,7 @@ Adobe Document CloudソリューションであるAdobe Acrobatは、PDFの変�
     <div>
     <a href="integrate/integrate-overview.md"><strong>統合</strong></a>
     </div>
-    <em>既存のシステム、プロセス、およびアプリケーションにAcrobatを追加する</em>
+    <em>既存のビジネス・システム、プロセス、アプリケーションにAcrobatを追加</em>
     <br>
   </td>
   <td>
