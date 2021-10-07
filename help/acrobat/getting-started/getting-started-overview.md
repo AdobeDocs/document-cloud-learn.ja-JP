@@ -6,10 +6,10 @@ product: adobe acrobat
 level: Beginner
 thumbnail: KT-6856.jpg
 exl-id: 24660a17-a04e-4937-be94-0a42c4b2c2ca
-source-git-commit: 3636c4fda58885d4b7ac995c077d4429c6fa727d
+source-git-commit: 22a37cff7bd4ee2c1e124e33946bc914d5e0a237
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '382'
+ht-degree: 6%
 
 ---
 
@@ -44,6 +44,18 @@ Adobe Acrobatの使用を開始する方法については、次の手順に従�
     <br>
   </td>
   <td>
+    <a href="../integrate/integrate-overview.md#microsoft">
+      <img alt="Microsoft 365との連携" src="../assets/WorkMicrosoft365_1280.png" />
+    </a>
+    <div>
+     <a href="../integrate/integrate-overview.md#microsoft"><strong>Microsoft 365との連携</strong></a>
+    </div>
+    <em>Acrobatと[!DNL Microsoft 365]を使用して、生産性とビジネスドキュメントのワークフローを向上</em>
+    <br>
+  </td>
+</tr>
+<tr>
+   <td>
     <a href="collaborate.md">
       <img alt="リアルタイムの共同作業" src="../assets/Collaborate_1280.png" />
     </a>
@@ -53,8 +65,6 @@ Adobe Acrobatの使用を開始する方法については、次の手順に従�
     <em>コメントの収集、回答の共同作業、ドキュメントの進捗状況の管理を、リアルタイムでどこからでも行うことで、プロジェクトを進めます。</em>
     <br>
   </td>
-</tr>
-<tr>
   <td>
     <a href="combine-to-pdf.md">
       <img alt="ファイルをPDFに結合" src="../assets/Combine.jpg" />
@@ -75,6 +85,8 @@ Adobe Acrobatの使用を開始する方法については、次の手順に従�
     <em>さまざまな種類のドキュメントからPDFを作成</em>
     <br>
   </td>
+</tr>
+<tr>
   <td>
     <a href="comment-on-pdf-files.md">
       <img alt="Acrobat DCのPDFファイルに対するコメント" src="../assets/Comment.jpg" />
@@ -84,9 +96,7 @@ Adobe Acrobatの使用を開始する方法については、次の手順に従�
     </div>
     <em>PDFファイルにコメントを追加し、他のユーザーと共有する</em>
     <br>
-  </td>  
-</tr>
-<tr>
+  </td>
   <td>
     <a href="edit-pdf.md">
       <img alt="Acrobat DCでのPDFの編集" src="../assets/Edit.jpg" />
@@ -107,6 +117,8 @@ Adobe Acrobatの使用を開始する方法については、次の手順に従�
     <em>PDFファイルを編集可能な形式に書き出す方法を説明します</em>
     <br>
   </td>
+</tr>
+<tr>
   <td>
     <a href="create-fillable-forms.md">
       <img alt="入力可能なフォームの作成" src="../assets/Form.jpg" />
@@ -117,8 +129,6 @@ Adobe Acrobatの使用を開始する方法については、次の手順に従�
     <em>他のアプリケーションで作成したドキュメントを、入力可能なPDFフォームに変換する</em>
     <br>
   </td>
-</tr>
-<tr>
   <td>
     <a href="scan-and-ocr.md">
       <img alt="スキャンとOCR" src="../assets/Scan.jpg" />
@@ -139,6 +149,8 @@ Adobe Acrobatの使用を開始する方法については、次の手順に従�
     <em>PDF内のページの追加、置換、抽出、回転、削除、および移動</em>
     <br>
   </td>
+</tr>
+<tr>
   <td>
     <a href="password-protect.md">
       <img alt="PDFファイルをパスワードで保護する" src="../assets/Protect.jpg" />
@@ -149,8 +161,6 @@ Adobe Acrobatの使用を開始する方法については、次の手順に従�
     <em>PDFにパスワードを追加して、他のユーザーがファイルを開いたり編集したりできないようにする</em>
     <br>
   </td>
-</tr>
-<tr>
   <td>
     <a href="fill-and-sign.md">
       <img alt="PDFフォームに入力して署名する" src="../assets/FillSign.jpg" />
@@ -161,7 +171,7 @@ Adobe Acrobatの使用を開始する方法については、次の手順に従�
     <em>PDFフォームにすばやく入力し、署名する</em>
     <br>
   </td>
-   <td>
+  <td>
     <a href="where-do-pdfs-come-from.md">
       <img alt="PDFはどこから入手できますか。" src="../assets/WherePDFs.jpg" />
     </a>
@@ -169,11 +179,6 @@ Adobe Acrobatの使用を開始する方法については、次の手順に従�
     <a href="where-do-pdfs-come-from.md"><strong>PDFはどこから入手できますか。</strong></a>
     </div>
     <em>PDFの出所と用途を理解する</em>
-    <br>
-  </td>
-  <td>
-   <img alt="スペーサ" src="../assets/Whitespacer.png" />
-    <div>
     <br>
   </td>
 </tr>
