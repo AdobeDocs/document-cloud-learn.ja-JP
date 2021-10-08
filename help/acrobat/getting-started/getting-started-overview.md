@@ -6,10 +6,10 @@ product: adobe acrobat
 level: Beginner
 thumbnail: KT-6856.jpg
 exl-id: 24660a17-a04e-4937-be94-0a42c4b2c2ca
-source-git-commit: 22a37cff7bd4ee2c1e124e33946bc914d5e0a237
+source-git-commit: 6f539172b9d008ede42d5241454992f428a0045b
 workflow-type: tm+mt
-source-wordcount: '382'
-ht-degree: 6%
+source-wordcount: '375'
+ht-degree: 8%
 
 ---
 
@@ -80,7 +80,7 @@ Adobe Acrobatの使用を開始する方法については、次の手順に従�
       <img alt="PDF ファイルの作成" src="../assets/Create.jpg" />
     </a>
     <div>
-    <a href="create-pdf.md"><strong>PDF ファイルの作成</strong></a>
+    <a href="create-pdf.md"><strong>PDF の作成</strong></a>
     </div>
     <em>さまざまな種類のドキュメントからPDFを作成</em>
     <br>
@@ -92,7 +92,7 @@ Adobe Acrobatの使用を開始する方法については、次の手順に従�
       <img alt="Acrobat DCのPDFファイルに対するコメント" src="../assets/Comment.jpg" />
     </a>
     <div>
-    <a href="comment-on-pdf-files.md"><strong>Acrobat DCのPDFファイルに対するコメント</strong></a>
+    <a href="comment-on-pdf-files.md"><strong>PDFに対するコメント</strong></a>
     </div>
     <em>PDFファイルにコメントを追加し、他のユーザーと共有する</em>
     <br>
@@ -102,7 +102,7 @@ Adobe Acrobatの使用を開始する方法については、次の手順に従�
       <img alt="Acrobat DCでのPDFの編集" src="../assets/Edit.jpg" />
     </a>
     <div>
-    <a href="edit-pdf.md"><strong>Acrobat DCでのPDFの編集</strong></a>
+    <a href="edit-pdf.md"><strong>PDF を編集</strong></a>
     </div>
     <em>PDFファイル内のテキストと画像の編集</em>
     <br>
@@ -166,7 +166,7 @@ Adobe Acrobatの使用を開始する方法については、次の手順に従�
       <img alt="PDFフォームに入力して署名する" src="../assets/FillSign.jpg" />
     </a>
     <div>
-    <a href="fill-and-sign.md"><strong>PDFフォームに入力して署名する</strong></a>
+    <a href="fill-and-sign.md"><strong>PDF フォームの入力と署名</strong></a>
     </div>
     <em>PDFフォームにすばやく入力し、署名する</em>
     <br>

@@ -8,10 +8,10 @@ getting-started-url: https://helpx.adobe.com/acrobat/get-started.html
 tutorials-title: Tutorials
 tutorials-url: https://helpx.adobe.com/acrobat/tutorials.html
 breadcrumb-title: Acrobatチュートリアル
-source-git-commit: 22a37cff7bd4ee2c1e124e33946bc914d5e0a237
+source-git-commit: 6f539172b9d008ede42d5241454992f428a0045b
 workflow-type: tm+mt
-source-wordcount: '302'
-ht-degree: 12%
+source-wordcount: '295'
+ht-degree: 15%
 
 ---
 
@@ -26,15 +26,15 @@ ht-degree: 12%
    + [操作 [!DNL Microsoft 365]](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/integrations/integrate-overview.html#microsoft)
    + [リアルタイムの共同作業](getting-started/collaborate.md)
    + [ファイルの PDF 結合](getting-started/combine-to-pdf.md)
-   + [PDF ファイルの作成](getting-started/create-pdf.md)
-   + [Acrobat DCのPDFファイルに対するコメント](getting-started/comment-on-pdf-files.md)
-   + [Acrobat DCでのPDFの編集](getting-started/edit-pdf.md)
+   + [PDF の作成](getting-started/create-pdf.md)
+   + [PDFに対するコメント](getting-started/comment-on-pdf-files.md)
+   + [PDF を編集](getting-started/edit-pdf.md)
    + [PDFを編集可能な形式で書き出す](getting-started/export-pdf.md)
    + [入力可能なフォームの作成](getting-started/create-fillable-forms.md)
    + [スキャンとOCR](getting-started/scan-and-ocr.md)
    + [ページを整理](getting-started/organize.md)
    + [PDFファイルをパスワードで保護する](getting-started/password-protect.md)
-   + [PDFフォームに入力して署名する](getting-started/fill-and-sign.md)
+   + [PDF フォームの入力と署名](getting-started/fill-and-sign.md)
    + [PDFはどこから入手できますか。](getting-started/where-do-pdfs-come-from.md)
 + 高度なタスク{#advanced-tasks}
    + [概要](advanced-tasks/advanced-tasks-overview.md)
