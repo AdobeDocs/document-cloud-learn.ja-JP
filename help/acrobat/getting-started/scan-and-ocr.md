@@ -1,50 +1,50 @@
 ---
-title: スキャンとOCR
-description: ドキュメントのスキャンまたは画像を検索可能な編集可能なPDFファイルに変換し、結果ファイルの品質を調整します。
+title: スキャンと OCR
+description: 文書のスキャンや画像を検索可能で編集可能なPDFファイルに変換し、生成されるファイルの品質を調整します
 role: User
 product: adobe acrobat
 level: Beginner
 thumbnail: KT-6830.jpg
 exl-id: c898de6e-7320-4cd4-9998-6a99efd7ea56
-source-git-commit: fad21a78306eb79a9046747022a4c8f47304fae9
+source-git-commit: 95f9464fa0c37f53eeaaec5cccaf7124c108b500
 workflow-type: tm+mt
 source-wordcount: '173'
 ht-degree: 1%
 
 ---
 
-# スキャンとOCR
+# スキャンと OCR
 
-ドキュメントのスキャンまたは画像を検索可能な編集可能なPDFファイルに変換し、Acrobat DCで作成されるファイルの品質を調整します。
+文書のスキャンや画像を検索可能で編集可能なPDFファイルに変換し、生成されるファイルの品質を調整します。
 
 >[!TIP]
 >
->複数のPDFファイルをOCR処理するには、[操作ウィザード](../advanced-tasks/action.md)を使用してみてください。
+>複数のPDFファイルを OCR するには、 [Action Wizard](../advanced-tasks/action.md)を選択します。
 
-1. [!UICONTROL ツール]の中から&#x200B;**[!UICONTROL スキャン&amp; OCR]**&#x200B;を選択します。
+1. 選択 **[!UICONTROL スキャンと OCR]** 」を [!UICONTROL ツール] 中央または右側のパネル
 
-   ![スキャン手順1](../assets/Scan_1.png)
+   ![スキャン手順 1](../assets/Scan_1.png)
 
 1. ファイルを選択.
 
-   このファイルは、ドキュメントの写真か、スキャナまたはAdobe Scanモバイルアプリを使用して作成された、既にスキャンされたファイルの場合があります。 または、ドキュメントをスキャンして、接続されたスキャナを使用して新しいファイルを作成することもできます。
+   このファイルは、文書の写真か、スキャナーまたはAdobe Scanモバイルアプリを使用して作成されたスキャン済みのファイルです。 または、文書をスキャンし、接続されたスキャナーを使用して新しいファイルを作成することもできます。
 
-   ![スキャン手順2](../assets/Scan_2.png)
+   ![スキャン手順 2](../assets/Scan_2.png)
 
-1. **[!UICONTROL スキャンしたドキュメント]**&#x200B;または&#x200B;**[!UICONTROL カメライメージ]**&#x200B;を選択して、ドキュメントを拡張します。
+1. 選択 **[!UICONTROL スキャンした文書]** または **[!UICONTROL カメラ画像]** を選択して、文書を拡張します。
 
-1. **[!UICONTROL [拡張]**]をクリックして、イメージをクリーンアップします。
+1. 選択 **[!UICONTROL 強化]** を選択して、画像をクリーンアップします。
 
-   ![スキャン手順3](../assets/Scan_3.png)
+   ![スキャン手順 3](../assets/Scan_3.png)
 
-   Acrobatは、スキャンしたドキュメントからテキストを自動的に認識します。
+   Acrobatは、スキャンした文書のテキストを自動的に認識します。
 
-1. **[!UICONTROL 「テキストを認識]**」を選択して、イメージファイルのテキストを手動で認識します。
+1. 選択 **[!UICONTROL テキスト認識]** 画像ファイル上のテキストを手動で認識します。
 
-   ![スキャン手順4](../assets/Scan_4.png)
+   ![スキャン手順 4](../assets/Scan_4.png)
 
-これで、ファイルは検索可能な編集可能なPDFファイルになりました。
+これで、ファイルは検索可能で編集可能なPDFです。
 
-*スキャンとOCR*&#x200B;チュートリアルのPDFをダウンロードします。
+をクリックして、 *スキャンと OCR* チュートリアル
 
-[! [スキャンとOCRのチュートリアルをダウンロード](../assets/acrobat_PDF_96.png)](../assets/AcrobatDCScan.pdf)
+[! [Scan &amp; OCR チュートリアルをダウンロード ](../assets/acrobat_PDF_96.png)](../assets/AcrobatDCScan.pdf)
