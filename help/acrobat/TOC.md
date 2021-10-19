@@ -8,10 +8,10 @@ getting-started-url: https://helpx.adobe.com/acrobat/get-started.html
 tutorials-title: Tutorials
 tutorials-url: https://helpx.adobe.com/acrobat/tutorials.html
 breadcrumb-title: AcrobatTutorials
-source-git-commit: 7e9a97cbfbb39fe7958d3bc060142f9eabf4ebcc
+source-git-commit: 4778ac9431a9f5067e3f90d86ba80c94e46580bc
 workflow-type: tm+mt
-source-wordcount: '295'
-ht-degree: 14%
+source-wordcount: '290'
+ht-degree: 12%
 
 ---
 
@@ -21,7 +21,7 @@ ht-degree: 14%
 + [概要](overview.md)
 + はじめに {#getting-started}
    + [概要](getting-started/getting-started-overview.md)
-   + [Acrobat DC インターフェイスについて知る](getting-started/get-to-know-the-acrobat-dc-interface.md)
+   + [ワークスペース基準](getting-started/get-to-know-the-acrobat-dc-interface.md)
    + [Acrobat Web でどこでも作業](getting-started/acrobatweb.md)
    + [使用する [!DNL Microsoft 365]](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/integrations/integrate-overview.html#microsoft)
    + [リアルタイムの共同作業](getting-started/collaborate.md)

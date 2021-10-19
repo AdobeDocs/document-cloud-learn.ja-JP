@@ -1,56 +1,56 @@
 ---
-title: はじめにの概要
-description: Adobe Acrobatの使用を開始する方法については、次の簡単な手順（1 ～ 2分）のチュートリアルを参照してください。
+title: 概要
+description: Adobe Acrobatの使い方をステップバイステップ形式のチュートリアルで簡単に（1～2 分）説明します
 role: User
 product: adobe acrobat
 level: Beginner
 thumbnail: KT-6856.jpg
 exl-id: 24660a17-a04e-4937-be94-0a42c4b2c2ca
-source-git-commit: 6f539172b9d008ede42d5241454992f428a0045b
+source-git-commit: 4778ac9431a9f5067e3f90d86ba80c94e46580bc
 workflow-type: tm+mt
-source-wordcount: '375'
+source-wordcount: '363'
 ht-degree: 8%
 
 ---
 
 # 概要
 
-![Acrobatスタートアップイメージ](../assets/Hero-GettingStarted.png)
+![Acrobat入門の画像](../assets/Hero-GettingStarted.png)
 
-Adobe Acrobatの使用を開始する方法については、次の手順に従った簡単なチュートリアル（1 ～ 2分）を参照してください。 ドキュメントの作成からPDFファイルの保護まで、このコンテンツはPDFワークフローを簡単に作成できるように設計されています。
+Adobe Acrobatの使い方をステップバイステップ形式のチュートリアルで簡単に（1～2 分）説明します。 ドキュメントの作成からPDFファイルの保護に至るまで、ワークフローのPDFに役立ちます。
 
-## Acrobatのチュートリアル
+## Acrobat tutorials
 
 <table style="table-layout:fixed">
 <tr>
   <td>
     <a href="get-to-know-the-acrobat-dc-interface.md">
-      <img alt="Acrobat DCインターフェイスの詳細" src="../assets/Interface.jpg" />
+      <img alt="ワークスペースの基本" src="../assets/Workspace_1280.png" />
     </a>
     <div>
-    <a href="get-to-know-the-acrobat-dc-interface.md"><strong>Acrobat DC インターフェイスについて知る</strong></a>
+    <a href="get-to-know-the-acrobat-dc-interface.md"><strong>ワークスペースの基本</strong></a>
     </div>
-    <em>Adobe Acrobat DCインターフェイスを使用すると、デスクトップ、Web、モバイル全体でファイルやツールに簡単にアクセスできるのを確認できます</em>
+    <em>Adobe Acrobat DC のインターフェイスを使用して、デスクトップ、Web、モバイルから簡単にファイルやツールにアクセスする方法をご覧ください</em>
     <br>
   </td>
   <td>
     <a href="acrobatweb.md">
-      <img alt="Acrobat Webを使用してどこからでも作業可能" src="../assets/Acrobatweb_1280.png" />
+      <img alt="Acrobat Web でどこでも作業" src="../assets/Acrobatweb_1280.png" />
     </a>
     <div>
-    <a href="acrobatweb.md"><strong>Acrobat Webを使用してどこからでも作業可能</strong></a>
+    <a href="acrobatweb.md"><strong>Acrobat Web でどこでも作業</strong></a>
     </div>
-    <em>ブラウザーのAcrobat Webツールを使用して、どこからでもビジネス文書の要求を処理する方法を説明します</em>
+    <em>ブラウザーのAcrobat Web ツールを使用して、どこからでもビジネス文書の要求に対応する方法について説明します</em>
     <br>
   </td>
   <td>
     <a href="../integrate/integrate-overview.md#microsoft">
-      <img alt="Microsoft 365との連携" src="../assets/WorkMicrosoft365_1280.png" />
+      <img alt="Microsoft 365 の使用" src="../assets/WorkMicrosoft365_1280.png" />
     </a>
     <div>
-     <a href="../integrate/integrate-overview.md#microsoft"><strong>Microsoft 365との連携</strong></a>
+     <a href="../integrate/integrate-overview.md#microsoft"><strong>Microsoft 365 の使用</strong></a>
     </div>
-    <em>Acrobatと[!DNL Microsoft 365]を使用して、生産性とビジネスドキュメントのワークフローを向上</em>
+    <em>Acrobatと [!DNL Microsoft 365]</em>
     <br>
   </td>
 </tr>
@@ -62,17 +62,17 @@ Adobe Acrobatの使用を開始する方法については、次の手順に従�
     <div>
      <a href="collaborate.md"><strong>リアルタイムの共同作業</strong></a>
     </div>
-    <em>コメントの収集、回答の共同作業、ドキュメントの進捗状況の管理を、リアルタイムでどこからでも行うことで、プロジェクトを進めます。</em>
+    <em>コメントの収集、共同作業、文書の進捗状況のトラックをすべてリアルタイムでどこからでも行うことで、プロジェクトを前進できます</em>
     <br>
   </td>
   <td>
     <a href="combine-to-pdf.md">
-      <img alt="ファイルをPDFに結合" src="../assets/Combine.jpg" />
+      <img alt="Combine FilesからPDF" src="../assets/Combine.jpg" />
     </a>
     <div>
-     <a href="combine-to-pdf.md"><strong>ファイルをPDFに結合</strong></a>
+     <a href="combine-to-pdf.md"><strong>ファイルを結合してPDF</strong></a>
     </div>
-    <em>さまざまな種類のファイルを1つのPDFに結合</em>
+    <em>様々な種類のファイルを 1 つのPDF</em>
     <br>
   </td>
   <td>
@@ -82,19 +82,19 @@ Adobe Acrobatの使用を開始する方法については、次の手順に従�
     <div>
     <a href="create-pdf.md"><strong>PDF の作成</strong></a>
     </div>
-    <em>さまざまな種類のドキュメントからPDFを作成</em>
+    <em>様々なPDFからドキュメントを作成</em>
     <br>
   </td>
 </tr>
 <tr>
   <td>
     <a href="comment-on-pdf-files.md">
-      <img alt="Acrobat DCのPDFファイルに対するコメント" src="../assets/Comment.jpg" />
+      <img alt="Acrobat DCでのPDFファイルへのコメント" src="../assets/Comment.jpg" />
     </a>
     <div>
-    <a href="comment-on-pdf-files.md"><strong>PDFに対するコメント</strong></a>
+    <a href="comment-on-pdf-files.md"><strong>PDF</strong></a>
     </div>
-    <em>PDFファイルにコメントを追加し、他のユーザーと共有する</em>
+    <em>注釈を追加してPDFファイルを他のユーザーと共有</em>
     <br>
   </td>
   <td>
@@ -104,17 +104,17 @@ Adobe Acrobatの使用を開始する方法については、次の手順に従�
     <div>
     <a href="edit-pdf.md"><strong>PDF を編集</strong></a>
     </div>
-    <em>PDFファイル内のテキストと画像の編集</em>
+    <em>編集ファイル内のテキストとPDFの編集</em>
     <br>
   </td>
    <td>
     <a href="export-pdf.md">
-      <img alt="PDFを編集可能な形式で書き出す" src="../assets/Export.jpg" />
+      <img alt="編集可能なPDFへの書き出し" src="../assets/Export.jpg" />
     </a>
     <div>
-    <a href="export-pdf.md"><strong>PDFを編集可能な形式で書き出す</strong></a>
+    <a href="export-pdf.md"><strong>編集可能なPDFへの書き出し</strong></a>
     </div>
-    <em>PDFファイルを編集可能な形式に書き出す方法を説明します</em>
+    <em>編集可能な形式にPDFファイルを書き出す</em>
     <br>
   </td>
 </tr>
@@ -126,17 +126,17 @@ Adobe Acrobatの使用を開始する方法については、次の手順に従�
     <div>
     <a href="create-fillable-forms.md"><strong>入力可能なフォームの作成</strong></a>
     </div>
-    <em>他のアプリケーションで作成したドキュメントを、入力可能なPDFフォームに変換する</em>
+    <em>他のアプリケーションで作成した文書を入力可能なPDFフォームに</em>
     <br>
   </td>
   <td>
     <a href="scan-and-ocr.md">
-      <img alt="スキャンとOCR" src="../assets/Scan.jpg" />
+      <img alt="スキャンと OCR" src="../assets/Scan.jpg" />
     </a>
     <div>
-    <a href="scan-and-ocr.md"><strong>スキャンとOCR</strong></a>
+    <a href="scan-and-ocr.md"><strong>スキャンと OCR</strong></a>
     </div>
-    <em>共有、投稿、アーカイブの品質を損なうことなく、大きなファイルを削減し、PDFを最適化</em>
+    <em>共有、投稿、アーカイブの品質を損なうことなく、大きなファイルを削減し、PDFを最適化できます</em>
     <br>
   </td>
   <td>
@@ -146,39 +146,39 @@ Adobe Acrobatの使用を開始する方法については、次の手順に従�
     <div>
     <a href="organize.md"><strong>ページを整理</strong></a>
     </div>
-    <em>PDF内のページの追加、置換、抽出、回転、削除、および移動</em>
+    <em>PDF</em>
     <br>
   </td>
 </tr>
 <tr>
   <td>
     <a href="password-protect.md">
-      <img alt="PDFファイルをパスワードで保護する" src="../assets/Protect.jpg" />
+      <img alt="PDFファイルをパスワードでProtect" src="../assets/Protect.jpg" />
     </a>
     <div>
-    <a href="password-protect.md"><strong>PDFファイルをパスワードで保護する</strong></a>
+    <a href="password-protect.md"><strong>PDFファイルをパスワードでProtect</strong></a>
     </div>
-    <em>PDFにパスワードを追加して、他のユーザーがファイルを開いたり編集したりできないようにする</em>
+    <em>他のユーザーがファイルを開いたり編集したりできないように、PDFにパスワードを追加します</em>
     <br>
   </td>
   <td>
     <a href="fill-and-sign.md">
-      <img alt="PDFフォームに入力して署名する" src="../assets/FillSign.jpg" />
+      <img alt="署名フォームの入力とPDF" src="../assets/FillSign.jpg" />
     </a>
     <div>
     <a href="fill-and-sign.md"><strong>PDF フォームの入力と署名</strong></a>
     </div>
-    <em>PDFフォームにすばやく入力し、署名する</em>
+    <em>署名フォームにすばやく入力、PDF</em>
     <br>
   </td>
   <td>
     <a href="where-do-pdfs-come-from.md">
-      <img alt="PDFはどこから入手できますか。" src="../assets/WherePDFs.jpg" />
+      <img alt="PDFの出所" src="../assets/WherePDFs.jpg" />
     </a>
     <div>
-    <a href="where-do-pdfs-come-from.md"><strong>PDFはどこから入手できますか。</strong></a>
+    <a href="where-do-pdfs-come-from.md"><strong>PDFの出所</strong></a>
     </div>
-    <em>PDFの出所と用途を理解する</em>
+    <em>PDFの出所と用途</em>
     <br>
   </td>
 </tr>
