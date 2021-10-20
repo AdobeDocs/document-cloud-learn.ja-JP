@@ -6,9 +6,9 @@ product: adobe sign
 level: Beginner, Intermediate, Experienced
 thumbnail: KT-6846.jpg
 exl-id: 72762750-5764-4541-aedd-94230b56936b
-source-git-commit: 9e334f9523601cf5c5bad3a80663724d7b3670de
+source-git-commit: ec2ddf579a10d659ac8f92f2c8d7dcade74c56b9
 workflow-type: tm+mt
-source-wordcount: '197'
+source-wordcount: '198'
 ht-degree: 6%
 
 ---
@@ -82,7 +82,7 @@ Adobe Document CloudソリューションであるAdobe Signは、統合、API�
     <div>
     <a href="sign-usecase/expand-inspire-overview.md"><strong>業種および部門</strong></a>
     </div>
-    <em>業界や部門の実際の使用事例やレシピを確認し、電子サインで何が可能かを再定義</em>
+    <em>実際の業界や部門の使用事例やレシピを見て、電子サインで何ができるかを学びましょう</em>
     <br>
   </td>
 </tr>
