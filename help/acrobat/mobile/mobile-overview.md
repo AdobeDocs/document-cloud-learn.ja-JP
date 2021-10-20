@@ -1,6 +1,6 @@
 ---
 title: モバイルの概要
-description: モバイルデバイスでPDFを作成、入力、および署名する
+description: モバイルデバイスでPDFを作成、入力、署名
 role: User
 product: adobe acrobat
 level: Intermediate
@@ -8,27 +8,56 @@ topic-revisit: mobile
 thumbnail: KT-6863.jpg
 kt: 6863
 exl-id: d9fe154b-adf9-49da-ab15-6806a0f10edc
-source-git-commit: 7d82422e442cbbed9420050c30ca70821e9a2cdd
+source-git-commit: d2660127d9cd854a46fa8429bd6d53c051f981c0
 workflow-type: tm+mt
-source-wordcount: '169'
-ht-degree: 20%
+source-wordcount: '200'
+ht-degree: 0%
 
 ---
 
 # モバイルの概要
 
-![Acrobatモバイルイメージ](../assets/Hero-Mobile.png)
+![Acrobat Mobile Image](../assets/Hero-Mobile.png)
 
-モバイルデバイスでPDFを作成、入力、および署名します。
+モバイルデバイスでPDFを作成、入力、署名
 
-PDFの表示、注釈付け、署名を確実に行うための無料のグローバル標準を、[Adobe Acrobat Readerモバイルアプリ](https://acrobat.adobe.com/jp/ja/mobile/acrobat-reader.html){target=&quot;_blank&quot;}をダウンロードします。
+## Acrobat Reader mobile app tutorials
 
-[Acrobat Reader for iOSモバイルガイド](https://www.adobe.com/go/v_acrobatios_jp){target=&quot;_blank&quot;} 
-[Acrobat Reader for Androidモバイルガイド](https://www.adobe.com/go/v_acrobatandroid_jp){target=&quot;_blank&quot;}
+## Acrobat tutorials
 
-[Adobe Scanモバイルアプリ](https://acrobat.adobe.com/us/en/mobile/scanner-app.html){target=&quot;_blank&quot;}をダウンロードして、紙のドキュメントをキャプチャし、検索可能なテキストで高品質のPDFに変換します。
+<table style="table-layout:fixed">
+<tr>
+  <td>
+    <a href="../getting-started/productivity.md">
+      <img alt="モバイルで仕事をこなす" src="../assets/Productivity_1280.png" />
+    </a>
+    <div>
+     <a href="../getting-started/productivity.md"><strong>モバイルで仕事をこなす</strong></a>
+    </div>
+    <em>Acrobat Readerモバイル版アプリがあれば、タブレットやスマートフォンから直接、さらに多くの作業をおこなえます</em>
+    <br>
+  </td>
+  <td>
+   <img alt="スペーサー" src="../assets/Whitespacer.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+   <img alt="スペーサー" src="../assets/Whitespacer.png" />
+    <div>
+    <br>
+  </td>
+</tr>
+</table>
 
-[Adobe Scan for iOSモバイルガイド](https://www.adobe.com/go/adobescanios_jp){target=&quot;_blank&quot;} 
-[Adobe Scan for Androidモバイルガイド](https://www.adobe.com/go/adobescanandroid_jp){target=&quot;_blank&quot;}
+ダウンロード [Adobe Acrobat Readerモバイルアプリ](https://www.adobe.com/acrobat/mobile/acrobat-reader.html){target=&quot;_blank&quot;} は、アノテーションや署名の追加などを正確に行うための無料のグローバル標準PDFです。
 
-[Adobe Fill &amp; Signモバイルアプリ](https://acrobat.adobe.com/jp/ja/mobile/fill-sign-pdfs.html){target=&quot;_blank&quot;}をダウンロードして、指やスタイラスを使用して、どのデバイスからでもフォームに記入、署名、送信できます。
+[Acrobat Reader for iOSモバイルガイド](https://www.adobe.com/devnet-docs/acrobat/ios/en/){target=&quot;_blank&quot;}
+[Acrobat Reader for Android モバイルガイド](https://www.adobe.com/devnet-docs/acrobat/android/en/){target=&quot;_blank&quot;}
+
+ダウンロード [Adobe Scanモバイルアプリ](https://www.adobe.com/acrobat/mobile/scanner-app.html){target=&quot;_blank&quot;} を使用すると、紙の文書をキャプチャし、テキスト検索が可能な高品質のPDFに変換できます。
+
+[Adobe Scan for iOSモバイルガイド](https://www.adobe.com/devnet-docs/adobescan/ios/en/){target=&quot;_blank&quot;}
+[Adobe Scan for Android モバイルガイド](https://www.adobe.com/devnet-docs/adobescan/android/en/){target=&quot;_blank&quot;}
+
+ダウンロード [Adobe Fill &amp; Signモバイルアプリ](https://www.adobe.com/acrobat/mobile/fill-sign-pdfs.html){target=&quot;_blank&quot;} を使用すると、どこにいても、どのデバイスでも、指やスタイラスを使用して、あらゆるフォームに入力、署名、送信できます。

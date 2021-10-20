@@ -6,9 +6,9 @@ product: adobe acrobat
 level: Beginner
 thumbnail: KT-6856.jpg
 exl-id: 24660a17-a04e-4937-be94-0a42c4b2c2ca
-source-git-commit: cc76ad13f7c49c27600cd6fc7a44032bf77de454
+source-git-commit: dc80361b5910f8d6b41ca1e9b6b982e774687bc5
 workflow-type: tm+mt
-source-wordcount: '377'
+source-wordcount: '385'
 ht-degree: 6%
 
 ---
@@ -44,13 +44,13 @@ Adobe Acrobatの使い方をステップバイステップ形式のチュート�
     <br>
   </td>
   <td>
-    <a href="../integrate/integrate-overview.md#microsoft">
-      <img alt="Microsoft 365 の使用" src="../assets/WorkMicrosoft365_1280.png" />
+    <a href="productivity.md">
+      <img alt="モバイルで仕事をこなす" src="../assets/Productivity_1280.png" />
     </a>
     <div>
-     <a href="../integrate/integrate-overview.md#microsoft"><strong>Microsoft 365 の使用</strong></a>
+     <a href="productivity.md"><strong>モバイルで仕事をこなす</strong></a>
     </div>
-    <em>Acrobatと [!DNL Microsoft 365]</em>
+    <em>Acrobat Readerモバイル版アプリがあれば、タブレットやスマートフォンから直接、さらに多くの作業をおこなえます</em>
     <br>
   </td>
 </tr>
