@@ -8,10 +8,10 @@ getting-started-url: https://helpx.adobe.com/acrobat/get-started.html
 tutorials-title: Tutorials
 tutorials-url: https://helpx.adobe.com/acrobat/tutorials.html
 breadcrumb-title: AcrobatTutorials
-source-git-commit: 4778ac9431a9f5067e3f90d86ba80c94e46580bc
+source-git-commit: cc76ad13f7c49c27600cd6fc7a44032bf77de454
 workflow-type: tm+mt
-source-wordcount: '290'
-ht-degree: 12%
+source-wordcount: '295'
+ht-degree: 10%
 
 ---
 
@@ -23,6 +23,7 @@ ht-degree: 12%
    + [概要](getting-started/getting-started-overview.md)
    + [ワークスペース基準](getting-started/get-to-know-the-acrobat-dc-interface.md)
    + [Acrobat Web でどこでも作業](getting-started/acrobatweb.md)
+   + [モバイルで仕事をこなす](getting-started/productivity.md)
    + [使用する [!DNL Microsoft 365]](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/integrations/integrate-overview.html#microsoft)
    + [リアルタイムの共同作業](getting-started/collaborate.md)
    + [Combine FilesからPDF](getting-started/combine-to-pdf.md)
@@ -34,7 +35,7 @@ ht-degree: 12%
    + [スキャンと OCR](getting-started/scan-and-ocr.md)
    + [ページを整理](getting-started/organize.md)
    + [PDFファイルをパスワードでProtect](getting-started/password-protect.md)
-   + [PDF フォームの入力と署名](getting-started/fill-and-sign.md)
+   + [Fill &amp; SignPDF forms](getting-started/fill-and-sign.md)
    + [PDFの出所](getting-started/where-do-pdfs-come-from.md)
 + 高度なタスク {#advanced-tasks}
    + [概要](advanced-tasks/advanced-tasks-overview.md)
@@ -72,7 +73,7 @@ ht-degree: 12%
    + [Outlook で電子メールメッセージと添付ファイルをPDFに変換する](integrate/outlook.md)
    + [Microsoft Edge での参照時にPDFコンテンツを作成する](integrate/edge.md)
    + [Adobe Acrobat for Google Drive](integrate/acrobatandgoogle.md)
-+ 業界 {#by-industry}
++ 業種および部門 {#by-industry}
    + [概要](industry/industry-overview.md)
    + 官公庁 {#gov}
       + [概要](industry/gov/gov-overview.md)

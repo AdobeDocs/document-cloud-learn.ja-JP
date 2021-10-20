@@ -6,10 +6,10 @@ product: adobe acrobat
 level: Beginner
 thumbnail: KT-6856.jpg
 exl-id: 24660a17-a04e-4937-be94-0a42c4b2c2ca
-source-git-commit: 4778ac9431a9f5067e3f90d86ba80c94e46580bc
+source-git-commit: cc76ad13f7c49c27600cd6fc7a44032bf77de454
 workflow-type: tm+mt
-source-wordcount: '363'
-ht-degree: 8%
+source-wordcount: '377'
+ht-degree: 6%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 8%
 
 ![Acrobat入門の画像](../assets/Hero-GettingStarted.png)
 
-Adobe Acrobatの使い方をステップバイステップ形式のチュートリアルで簡単に（1～2 分）説明します。 ドキュメントの作成からPDFファイルの保護に至るまで、ワークフローのPDFに役立ちます。
+Adobe Acrobatの使い方をステップバイステップ形式のチュートリアルで学びましょう。 ドキュメントの作成からPDFファイルの保護に至るまで、ワークフローのPDFに役立ちます。
 
 ## Acrobat tutorials
 
@@ -56,6 +56,16 @@ Adobe Acrobatの使い方をステップバイステップ形式のチュート�
 </tr>
 <tr>
    <td>
+    <a href="../integrate/integrate-overview.md#microsoft">
+      <img alt="Microsoft 365 の使用" src="../assets/WorkMicrosoft365_1280.png" />
+    </a>
+    <div>
+     <a href="../integrate/integrate-overview.md#microsoft"><strong>Microsoft 365 の使用</strong></a>
+    </div>
+    <em>Acrobatと [!DNL Microsoft 365]</em>
+    <br>
+  </td>
+  <td>
     <a href="collaborate.md">
       <img alt="リアルタイムの共同作業" src="../assets/Collaborate_1280.png" />
     </a>
@@ -75,6 +85,8 @@ Adobe Acrobatの使い方をステップバイステップ形式のチュート�
     <em>様々な種類のファイルを 1 つのPDF</em>
     <br>
   </td>
+</tr>
+<tr>
   <td>
     <a href="create-pdf.md">
       <img alt="PDF ファイルの作成" src="../assets/Create.jpg" />
@@ -85,9 +97,7 @@ Adobe Acrobatの使い方をステップバイステップ形式のチュート�
     <em>様々なPDFからドキュメントを作成</em>
     <br>
   </td>
-</tr>
-<tr>
-  <td>
+ <td>
     <a href="comment-on-pdf-files.md">
       <img alt="Acrobat DCでのPDFファイルへのコメント" src="../assets/Comment.jpg" />
     </a>
@@ -107,7 +117,9 @@ Adobe Acrobatの使い方をステップバイステップ形式のチュート�
     <em>編集ファイル内のテキストとPDFの編集</em>
     <br>
   </td>
-   <td>
+</tr>
+<tr>
+  <td>
     <a href="export-pdf.md">
       <img alt="編集可能なPDFへの書き出し" src="../assets/Export.jpg" />
     </a>
@@ -117,11 +129,9 @@ Adobe Acrobatの使い方をステップバイステップ形式のチュート�
     <em>編集可能な形式にPDFファイルを書き出す</em>
     <br>
   </td>
-</tr>
-<tr>
   <td>
     <a href="create-fillable-forms.md">
-      <img alt="入力可能なフォームの作成" src="../assets/Form.jpg" />
+      <img alt="入力可能なフォームの作成" src="../assets/Form_1280.png" />
     </a>
     <div>
     <a href="create-fillable-forms.md"><strong>入力可能なフォームの作成</strong></a>
@@ -139,7 +149,9 @@ Adobe Acrobatの使い方をステップバイステップ形式のチュート�
     <em>共有、投稿、アーカイブの品質を損なうことなく、大きなファイルを削減し、PDFを最適化できます</em>
     <br>
   </td>
-  <td>
+</tr>
+<tr>
+ <td>
     <a href="organize.md">
       <img alt="ページを整理" src="../assets/Organize.jpg" />
     </a>
@@ -149,8 +161,6 @@ Adobe Acrobatの使い方をステップバイステップ形式のチュート�
     <em>PDF</em>
     <br>
   </td>
-</tr>
-<tr>
   <td>
     <a href="password-protect.md">
       <img alt="PDFファイルをパスワードでProtect" src="../assets/Protect.jpg" />
@@ -163,14 +173,16 @@ Adobe Acrobatの使い方をステップバイステップ形式のチュート�
   </td>
   <td>
     <a href="fill-and-sign.md">
-      <img alt="署名フォームの入力とPDF" src="../assets/FillSign.jpg" />
+      <img alt="署名フォームへの入力とPDF" src="../assets/FillSign_1280.png" />
     </a>
     <div>
-    <a href="fill-and-sign.md"><strong>PDF フォームの入力と署名</strong></a>
+    <a href="fill-and-sign.md"><strong>Fill &amp; SignPDF forms</strong></a>
     </div>
     <em>署名フォームにすばやく入力、PDF</em>
     <br>
   </td>
+</tr>
+<tr>
   <td>
     <a href="where-do-pdfs-come-from.md">
       <img alt="PDFの出所" src="../assets/WherePDFs.jpg" />
@@ -179,6 +191,16 @@ Adobe Acrobatの使い方をステップバイステップ形式のチュート�
     <a href="where-do-pdfs-come-from.md"><strong>PDFの出所</strong></a>
     </div>
     <em>PDFの出所と用途</em>
+    <br>
+  </td>
+  <td>
+   <img alt="スペーサー" src="../assets/Grayspacer.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+   <img alt="スペーサー" src="../assets/Grayspacer.png" />
+    <div>
     <br>
   </td>
 </tr>
