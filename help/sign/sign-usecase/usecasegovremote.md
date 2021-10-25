@@ -1,6 +1,6 @@
 ---
-title: リモート保証の要求
-description: 電子署名とWeb会議を併用して、審査員に対する要求と保証の保護に要する時間を短縮
+title: リモート令状要求
+description: 電子サインと web 会議を組み合わせて使用することで、裁判官からの令状の請求とセキュリティ確保にかかる時間を短縮できます
 role: User
 product: adobe sign
 solution: Document Cloud
@@ -14,12 +14,12 @@ ht-degree: 0%
 
 ---
 
-# リモート保証要求
+# リモート令状要求
 
-電子署名とWeb会議を併用して、審査員に対する要求と保証のセキュリティ保護に要する時間を短縮します。
+電子サインと web 会議を組み合わせて使用することで、裁判官からの令状の請求とセキュリティ確保にかかる時間を短縮できます。
 
 >[!VIDEO](https://video.tv.adobe.com/v/33813?hidetitle=true)
 
-リモート保証要求用のPDFレシピを順を追ってダウンロードする場合にクリックします。
+クリックして、リモートの令状リクエストのPDFレシピをダウンロードします。
 
-[! [PDFレシピのダウンロード](../assets/acrobat_PDF_96.png)](../assets/UseCaseRecipe-EN-Remote-Warrant-Request.pdf)
+[! [PDFレシピをダウンロード ](../assets/acrobat_PDF_96.png)](../assets/UseCaseRecipe-EN-Remote-Warrant-Request.pdf)

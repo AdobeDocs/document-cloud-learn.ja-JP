@@ -1,6 +1,6 @@
 ---
-title: 展開の概要
-description: お客様との連携によって得られた貴重な洞察と知識を備えた、導入とベストプラクティスの記事
+title: デプロイの概要
+description: お客様と協力して得られた貴重な洞察と知識を活用した導入とベストプラクティスの記事
 role: Admin
 product: adobe acrobat
 level: Intermediate
@@ -13,14 +13,14 @@ ht-degree: 0%
 
 ---
 
-# 配置の概要
+# デプロイの概要
 
-![Acrobat展開イメージ](../assets/Hero-Deploy.png)
+![Acrobat Deployment Image](../assets/Hero-Deploy.png)
 
-お客様との連携によって得られた貴重な洞察と知識を備えた、導入とベストプラクティスの記事。
+お客様と協力して得られた貴重な洞察と知識を活用した導入とベストプラクティスの記事
 
-* チームまたは企業でAdobe® Creative Cloud™を使用している場合は、[Adobe Acrobat](https://helpx.adobe.com/enterprise/using/deploying-acrobat.html){target=&quot;_blank&quot;}をデプロイする方法を説明します。
+* さらに詳しく [Adobe Acrobat](https://helpx.adobe.com/enterprise/using/deploying-acrobat.html)グループ版またはエンタープライズ版のAdobe®Creative Cloud™を使用している場合は、{target=&quot;_blank&quot;}。
 
-* [Enterprise Toolkit for Acrobat Products](https://www.adobe.com/devnet-docs/acrobatetk/index.html){target=&quot;_blank&quot;}について説明します。組織全体にカスタマイズされた製品を展開し、仮想インストールを設定し、エンタープライズPDFワークフローを作成します。
+* 詳しくは、 [Enterprise Toolkit for Acrobat Products](https://www.adobe.com/devnet-docs/acrobatetk/index.html){target=&quot;_blank&quot;} を使用すると、カスタマイズした製品を組織全体にデプロイし、仮想化インストールを設定し、エンタープライズPDFワークフローを作成できます。
 
-* 2020年8月から2020年11月20日まで、ETLA](signentitlementchanges.md){target=&quot;_blank&quot;} （エンタープライズ契約）に含まれる[Acrobat DCの利用資格に対する重要な変更について説明します。
+* ～に関する重要な変更について知る [Acrobat DCの使用権限をETLA](signentitlementchanges.md){target=&quot;_blank&quot;}（エンタープライズタームライセンス契約）は、2020 年 8 月から 2020 年 11 月 20 日まで提供されます。

@@ -1,6 +1,6 @@
 ---
-title: Webフォームの設定
-description: Webサイト上で直接電子署名できるドキュメントを作成する方法を説明します
+title: Web フォームの設定
+description: Web サイトで直接電子サインできる文書を作成する方法について説明します
 role: User, Admin
 product: adobe sign
 solution: Document Cloud
@@ -14,17 +14,17 @@ ht-degree: 0%
 
 ---
 
-# Webフォームの設定
+# Web フォームの設定
 
-Webサイト上で直接電子署名できるドキュメントを作成する方法を説明します。 フォーム](https://salesforceintegration.na2.echosign.com/public/esignWidget?wid=CBFCIBAA3AAABLblqZhAa5MmTHYoyIwWia3GbWuwgXo0CqUPbm9Fndza1A51v56MP1PP5GL6UzOKpAYQ9RTI*)に対する[ホスト型ハイパーリンクを作成するか、HTMLまたはJavaScriptにWebサイトに埋め込むためのリンクを使用できます。
+Web サイトで直接電子サインできる文書を作成する方法について説明します。 また、 [フォームへのホストされたハイパーリンク](https://salesforceintegration.na2.echosign.com/public/esignWidget?wid=CBFCIBAA3AAABLblqZhAa5MmTHYoyIwWia3GbWuwgXo0CqUPbm9Fndza1A51v56MP1PP5GL6UzOKpAYQ9RTI*) または、リンクを使用して html または JavaScript で Web サイトに埋め込みます。
 
-その他の実際の使用例を次に示します。
+その他の実際の使用事例をご覧ください。
 
-* [ビジネス助成金とロー](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/gov/usecasegovgrants.html?lang=en) ンサスケース。
-* [再雇用支](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/gov/usecasegovreemployment.html?lang=en) 援ケース。
+* [業務助成金](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/gov/usecasegovgrants.html?lang=en) ユースケース
+* [再雇用支援](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/gov/usecasegovreemployment.html?lang=en) ユースケース
 
 >[!VIDEO](https://video.tv.adobe.com/v/37841?hidetitle=true)
 
 >[!TIP]
 >
->このビデオは、エクスペリエンスリーグで無料で入手できる「[ユーザー向け高度なタスク](https://experienceleague.adobe.com/?recommended=Sign-U-1-2020.3)」および「[管理者向けAdobe Sign入門」コースの一部です。](https://experienceleague.adobe.com/?recommended=Sign-A-1-2020.2)
+>このビデオは、 [ユーザー向けの高度なタスク](https://experienceleague.adobe.com/?recommended=Sign-U-1-2020.3) および [管理者向けAdobe Sign入門](https://experienceleague.adobe.com/?recommended=Sign-A-1-2020.2) コースは無料でExperience League!

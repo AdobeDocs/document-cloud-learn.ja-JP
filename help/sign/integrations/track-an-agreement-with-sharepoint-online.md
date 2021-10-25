@@ -1,6 +1,6 @@
 ---
-title: SharePoint Onlineでの追跡
-description: 契約の進捗状況をMicrosoft Sharepoint内で直接追跡する
+title: SharePoint Onlineでのトラッキング
+description: Microsoft Sharepoint 内で契約書の進捗状況を直接追跡
 role: User
 product: adobe sign
 level: Intermediate
@@ -14,12 +14,12 @@ ht-degree: 0%
 
 ---
 
-# SharePoint Onlineでの追跡
+# SharePoint Onlineでのトラッキング
 
-契約の進捗状況をMicrosoft SharePoint内で直接追跡する方法を説明します。 署名用にドキュメントを送信した後、SharePointを離れずにドキュメントの状態を追跡できます。
+Microsoft SharePoint内で契約書の進捗状況を直接追跡する方法について説明します。 署名用に文書を送信した後、SharePointを離れることなく、文書のステータスをトラックできます。
 
 >[!VIDEO](https://video.tv.adobe.com/v/29767t1?hidetitle=true)
 
 >[!TIP]
 >
->このビデオは、エクスペリエンスリーグで無料で入手できる「Microsoft Apps Inside Adobe Sign Inside](https://experienceleague.adobe.com/?recommended=Sign-U-1-2020.2)の使用」コース[の一部です。
+>このビデオはコースの一部です [Adobe Sign Inside Microsoftアプリケーションの使用](https://experienceleague.adobe.com/?recommended=Sign-U-1-2020.2) それは無料で利用できますExperience League!

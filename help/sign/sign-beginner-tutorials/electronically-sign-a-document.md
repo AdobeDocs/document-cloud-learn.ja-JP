@@ -1,6 +1,6 @@
 ---
-title: 文書の電子署名
-description: Adobe Signで送信されたドキュメントに簡単に署名する方法を説明します
+title: 文書への電子署名
+description: Adobe Signで送信された文書に簡単に署名する方法について説明します
 role: User
 product: adobe sign
 solution: Document Cloud
@@ -14,8 +14,8 @@ ht-degree: 0%
 
 ---
 
-# ドキュメントの電子署名
+# 文書への電子署名
 
-Adobe Signで送信されたドキュメントに簡単に署名できる方法を説明します。
+Adobe Signで送信された文書に簡単に署名できることを説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/17360?hidetitle=true)

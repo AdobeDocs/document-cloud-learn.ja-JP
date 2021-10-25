@@ -1,6 +1,6 @@
 ---
-title: Acrobat WebでPDFを編集
-description: PDFをダウンロードせずに、テキストや画像を簡単に編集できます。
+title: Acrobat Web でPDFを編集
+description: PDFをダウンロードしなくても、テキストや画像を簡単に編集できます
 role: User
 product: adobe acrobat
 level: Beginner
@@ -14,8 +14,8 @@ ht-degree: 0%
 
 ---
 
-# Acrobat WebでPDFを編集
+# Acrobat Web でPDFを編集
 
-この60秒のビデオチュートリアルでは、PDFをダウンロードせずに、テキストや画像を簡単に編集する方法を学習します。
+この 60 秒のビデオチュートリアルでは、PDFをダウンロードしなくてもテキストや画像を簡単に編集する方法を説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/336362?hidetitle=true)

@@ -1,6 +1,6 @@
 ---
-title: アクセスできないPDFの是正
-description: このオンデマンドセッションでは、Word文書を変換し、概要のウェビナーに示すAcrobat Pro DCツールを使用してタグ付けの基本的な問題を解決するワークフローを学習します
+title: アクセスできないPDF
+description: このオンデマンドセッションでは、はじめにオンラインセミナーで紹介するAcrobat Pro DCツールを使用して、Word 文書を変換するワークフローと、基本的なタグ付けの問題を修正する方法について説明します
 role: User
 product: adobe acrobat
 level: Experienced
@@ -14,12 +14,12 @@ ht-degree: 0%
 
 ---
 
-# アクセスできないPDFの修復
+# アクセスできないPDF
 
-このオンデマンドセッションでは、Word文書を変換し、概要のウェビナーに示すAcrobat Pro DCツールを使用してタグ付けに関する基本的な問題を解決するワークフローを学習します。
+このオンデマンドセッションでは、はじめにオンラインセミナーで紹介するAcrobat Pro DCツールを使用して、Word 文書を変換するワークフローと、基本的なタグ付けの問題を修正する方法について説明します。
 
-[ここ](../assets/accessibilitysession2.zip)をクリックして、実践的なセッションファイルのzipフォルダをダウンロードします。
+クリック [ここ](../assets/accessibilitysession2.zip) 実践セッションファイルの zip フォルダーをダウンロードします。
 
-別のブラウザタブでビデオを表示するには、画像を選択します。
+画像を選択して、別のブラウザータブでビデオを表示します。
 
-[![セッション2ビデオ](../assets/Accessibilitysession2_YT.png)](https://youtu.be/eT2IFNszNuk){target=&quot;_blank&quot;}
+[![セッション 2 のビデオ](../assets/Accessibilitysession2_YT.png)](https://youtu.be/eT2IFNszNuk){target=&quot;_blank&quot;}

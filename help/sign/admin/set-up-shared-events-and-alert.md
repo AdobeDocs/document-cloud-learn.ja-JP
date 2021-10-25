@@ -1,6 +1,6 @@
 ---
-title: 共有イベントとアラートの設定
-description: Adobe Signでの共有イベントと警告の設定について
+title: 共有イベントおよび警告の設定
+description: Adobe Signの共有イベントと警告設定について説明します
 role: User, Admin
 product: adobe sign
 level: Intermediate
@@ -13,8 +13,8 @@ ht-degree: 0%
 
 ---
 
-# 共有イベントとアラートの設定
+# 共有イベントおよび警告の設定
 
-このビデオチュートリアルでは、Adobe Signで設定できる共有イベントと警告の設定について学習します。 アラートは、特定の期間に発生しなかったアクションで、イベントは発生したアクションです。
+このビデオチュートリアルでは、Adobe Signで構成できる共有イベントとアラート設定について学習します。 アラートは特定の時間枠で発生しなかったアクションであり、イベントは発生したアクションです。
 
 >[!VIDEO](https://video.tv.adobe.com/v/17359?hidetitle=true)

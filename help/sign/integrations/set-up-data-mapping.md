@@ -1,6 +1,6 @@
 ---
-title: データ・マッピングの設定
-description: Adobe Signin Salesforceのデータマッピングを設定する方法を説明します
+title: データマッピングの設定
+description: Salesforce でAdobe Signのデータマッピングを設定する方法について説明します。
 role: Admin
 product: adobe sign
 level: Intermediate
@@ -14,8 +14,8 @@ ht-degree: 0%
 
 ---
 
-# Salesforceでのデータ・マッピングの設定
+# Salesforce でのデータマッピングの設定
 
-Adobe Signin Salesforceのデータマッピングを設定する方法を説明します。 データ・マッピングを使用すると、契約に署名した後でSalesforceにデータをプルバックできます。
+Salesforce でAdobe Signのデータマッピングを設定する方法について説明します。 データマッピングを使用すると、契約書の署名後にデータを Salesforce に戻すことができます。
 
 >[!VIDEO](https://video.tv.adobe.com/v/17351?hidetitle=true)

@@ -1,6 +1,6 @@
 ---
-title: Adobe SignでSalesforce用のカスタムボタンを作成する
-description: 送信プロセスを開始し、契約を自動的に設定するカスタムボタンを作成する方法を説明します
+title: Salesforce 用Adobe Signでのカスタムボタンの作成
+description: 送信プロセスを開始して契約書を自動入力するカスタムボタンの作成方法について説明します。
 role: Admin
 product: adobe sign
 solution: Document Cloud
@@ -15,8 +15,8 @@ ht-degree: 16%
 
 ---
 
-# Adobe SignでSalesforce用のカスタムボタンを作成する
+# Salesforce 用Adobe Signでのカスタムボタンの作成
 
-Salesforce.com で標準オブジェクトのカスタムボタンを作成する方法を紹介します。この例では、Salesforceの&#x200B;**Contact**&#x200B;にカスタムボタンが追加されています。 ボタンをクリックすると、送信プロセスが開始され、**連絡先**&#x200B;から直接情報が契約に入力されます。
+Salesforce.com で標準オブジェクトのカスタムボタンを作成する方法を紹介します。この例では、カスタムボタンが **連絡先** を選択します。 ボタンをクリックすると、送信プロセスが開始され、 **連絡先** を契約書に直接追加できます。
 
 >[!VIDEO](https://video.tv.adobe.com/v/17352?hidetitle=true)

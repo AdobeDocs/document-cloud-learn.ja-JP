@@ -1,6 +1,6 @@
 ---
-title: '[!DNL Google Drive}用Adobe Acrobat'
-description: ' [!DNL Google Drive] アプリ内で、時間を節約するPDFツールや電子署名ワークフローに直接アクセスできます。'
+title: '[!DNL Google Drive} 用Adobe Acrobat'
+description: 効率的なPDFツールと電子サインワークフローに [!DNL Google Drive] app
 role: User
 product: adobe acrobat
 level: Beginner
@@ -15,8 +15,8 @@ ht-degree: 0%
 
 ---
 
-# [!DNL Google Drive]向けAdobe Acrobat
+# Adobe Acrobat [!DNL Google Drive]
 
-[!DNL Google Drive]アプリ内で、時間を節約するPDFツールや電子署名ワークフローに直接アクセスする方法を説明します。
+効率的な署名ツールや電子PDFワークフローに [!DNL Google Drive] アプリ
 
 >[!VIDEO](https://video.tv.adobe.com/v/333600?hidetitle=true)

@@ -1,6 +1,6 @@
 ---
-title: 政府向けAcrobat DC
-description: 連邦政府、州政府、および地方政府向けに特別に設計されたAcrobat DCチュートリアルをご覧ください
+title: 官公庁向けAcrobat DC
+description: 連邦、州、地方自治体を対象としたAcrobat DCチュートリアルをご覧ください
 role: User
 product: adobe acrobat
 level: Beginner
@@ -12,24 +12,24 @@ ht-degree: 0%
 
 ---
 
-# 政府向けAcrobat DC
+# 官公庁向けAcrobat DC
 
-このクイックスタートレシピと学習ビデオを集め、連邦政府、州、地方政府の緊急課題に迅速に対応します。
+この厳選されたクイックスタートレシピと学習ビデオを使用して、連邦、州、および地方自治体の緊急の課題にすばやく対応できます。
 
-「5つのヒント」チュートリアルは、ヒントの全集です。 特定のワークフローを確認する場合は、最も興味のあるヒントを選択して、ビデオ全体を省略します。
+5 つのヒントのチュートリアルは、ヒントの完全なセットです。 特定のワークフローを確認したい場合は、目的のヒントを選択してビデオ全体をバイパスします。
 
-[5 Acrobat DCを使用して政府機関向けに作業する際のヒント（全15:12）](5-tips-for-working-anywhere-with-acrobat-dc-for-government.md)
-1. [ツールの入手(2:59)](get-your-tools.md)
-1. [ドキュメントでの共同作業(2:03)](collaborate-on-documents.md)
-1. [デジタルドキュメントの保護(1:23)](protect-digital-documents.md)
-1. [フォームと署名の操作(7:03)](work-with-forms-and-signatures.md)
-1. [モバイルでのスキャンと編集(1:43)](scan-and-edit-on-mobile.md)
+[Acrobat DC for Government で場所を問わず作業できる環境を実現するための 5 つのヒント（完全な 15:12）](5-tips-for-working-anywhere-with-acrobat-dc-for-government.md)
+1. [ツールを入手する (2:59)](get-your-tools.md)
+1. [ドキュメントでの共同作業 (2:03)](collaborate-on-documents.md)
+1. [Protect Digital Documents(1:23)](protect-digital-documents.md)
+1. [Formsと署名の使用 (7:03)](work-with-forms-and-signatures.md)
+1. [モバイルでのスキャンと編集 (1:43)](scan-and-edit-on-mobile.md)
 
-「PDFをアクセス可能にする」チュートリアルを参照するか、トレーニング内で学習したい特定のワークフローを選択します。
+「アクセシブルなPDFの作成」チュートリアルを参照するか、トレーニング内の特定のワークフローを選択して学習します。
 
-[PDFをアクセス可能にする（全14:11）](making-pdfs-accessible.md)
-1. [アクセシビリティとは(6:42)](understanding-accessibility.md)
-1. [Wordでの作成(2:51)](authoring-in-word.md)
-1. [Acrobatでの仕上げ(4:37)](finishing-in-acrobat.md)
+[PDFのアクセシブル化（完成 14:11）](making-pdfs-accessible.md)
+1. [アクセシビリティについて (6:42)](understanding-accessibility.md)
+1. [Word でのオーサリング (2:51)](authoring-in-word.md)
+1. [Acrobatでの仕上げ (4:37)](finishing-in-acrobat.md)
 
-[PDF票のアクセス性の向上](making-pdf-ballots-accessible.md)
+[PDF投票の利便性の向上](making-pdf-ballots-accessible.md)

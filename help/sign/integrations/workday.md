@@ -1,6 +1,6 @@
 ---
 title: Workday 用に Adobe Sign を設定
-description: Adobe Signが勤務日内に直接作業し、すべてのHR事務処理をシームレスに管理するように構成する方法を説明します
+description: Adobe SignをWorkday内で直接動作するように設定して、すべての人事関連書類をシームレスに管理する方法について説明します
 product: adobe sign
 level: Intermediate
 topic-revisit: Integrations
@@ -15,6 +15,6 @@ ht-degree: 15%
 
 # Workday 用に Adobe Sign を設定
 
-Adobe Sign for Workdayを使用して、署名ワークフローを合理化し、チームの生産性をさらに高めます。 このビデオチュートリアルでは、Adobe Signが勤務日内に直接機能し、すべてのHR事務処理をシームレスに管理するように設定する方法を学習します。
+Adobe Sign for Workdayを使用すれば、署名ワークフローを効率化し、チームの生産性をさらに高めることができます。 このビデオチュートリアルでは、Workday内で直接Adobe Signを使用して、すべての人事関連書類をシームレスに管理する方法を説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/39372?hidetitle=true)

@@ -1,6 +1,6 @@
 ---
-title: ' [!DNL SharePoint] ファイルの操作'
-description: ' [!DNL SharePoint] および [!DNL Microsoft 365]用のAdobe Acrobatを使用して、Acrobat DCでドキュメントワークフローを合理化'
+title: クリエイティブアプリ [!DNL SharePoint] ファイル
+description: 文書ワークフローの効率化 [!DNL SharePoint] Acrobat DCのAdobe Acrobat [!DNL Microsoft 365]
 role: User
 product: adobe acrobat
 level: Beginner
@@ -14,12 +14,12 @@ ht-degree: 0%
 
 ---
 
-# [!DNL SharePoint]ファイルを操作する
+# クリエイティブアプリ [!DNL SharePoint] ファイル
 
-[!DNL SharePoint]Microsoft 365](https://appsource.microsoft.com/en-us/product/web-apps/adobeinc.adobe-document-cloud-pdf?tab=Overview)向けAdobe Acrobatを使用して、[とAcrobat DCを使用してドキュメントのワークフローを合理化します。 [!DNL Microsoft 365]ファイルを安全にPDFに変換し、ドキュメントを1つのファイルに結合し、コメントを付け、ページを並べ替える（[!DNL SharePoint]オンラインから直接）。
+文書ワークフローの効率化 [!DNL SharePoint] とAcrobat DC( [Microsoft 365 用Adobe Acrobat](https://appsource.microsoft.com/en-us/product/web-apps/adobeinc.adobe-document-cloud-pdf?tab=Overview)を選択します。 安全に変換 [!DNL Microsoft 365] ファイルからPDFに、文書を 1 つのファイルに結合、注釈の追加、ページの並べ替えなどを、 [!DNL SharePoint] オンライン。
 
 >[!NOTE]
 >
->[!DNL SharePoint]、[!DNL OneDrive]、および[!DNL Office 365]向けのAdobe Acrobatには、すべてのユーザーが利用できる無料の機能（PDF内での表示や検索など）が含まれています。 一部の機能（PDFの作成や結合など）では、チーム用に有料のAcrobat DCを、エンタープライズサブスクリプション用にAcrobat DCを必要とします。
+>Adobe Acrobat [!DNL SharePoint], [!DNL OneDrive]および [!DNL Office 365] には、すべてのユーザーが使用できる無料の機能 (PDF内での表示や検索など ) が含まれています。 一部の機能 (PDFの作成や組み合わせなど ) では、有料のAcrobat DCグループ版またはAcrobat DCエンタープライズ版のサブスクリプションが必要です。
 
 >[!VIDEO](https://video.tv.adobe.com/v/331855?hidetitle=true)

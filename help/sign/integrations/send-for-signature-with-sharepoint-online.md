@@ -1,6 +1,6 @@
 ---
-title: SharePoint Onlineで署名用に送信
-description: SharePoint Online内で署名用のドキュメントを直接送信する
+title: SharePoint OnlineのSend for Signature
+description: Sharepoint Online 内から署名用に文書を直接送信
 role: User
 product: adobe sign
 level: Intermediate
@@ -14,12 +14,12 @@ ht-degree: 0%
 
 ---
 
-# SharePoint Onlineで署名を送信
+# SharePoint Onlineでの署名用に送信
 
-署名用のドキュメントをSharePoint Online内で直接送信することで、ドキュメントのワークフローを合理化する方法を説明します。
+Sharepoint Online 内から署名用の文書を直接送信して、文書ワークフローを効率化する方法を説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/41263?hidetitle=true)
 
 >[!TIP]
 >
->このビデオは、エクスペリエンスリーグで無料で入手できる「Microsoft Apps Inside Adobe Sign Inside](https://experienceleague.adobe.com/?recommended=Sign-U-1-2020.2)の使用」コース[の一部です。
+>このビデオはコースの一部です [Adobe Sign Inside Microsoftアプリケーションの使用](https://experienceleague.adobe.com/?recommended=Sign-U-1-2020.2) それは無料で利用できますExperience League!

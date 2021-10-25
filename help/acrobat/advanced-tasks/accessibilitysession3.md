@@ -1,6 +1,6 @@
 ---
 title: 複合テーブル
-description: このオン・デマンド・セッションでは、PDFをアクセシビリティ用に修正する際に、より一般的で難しい問題の1つ（複雑な表）に対処します。
+description: このオンデマンドセッションでは、アクセシビリティの問題として扱われる複雑なテーブルを扱うPDFの修正に関する一般的で困難な問題を取り上げます
 role: User
 product: adobe acrobat
 level: Experienced
@@ -14,12 +14,12 @@ ht-degree: 0%
 
 ---
 
-# 複合テーブル
+# 複雑な表
 
-このオン・デマンド・セッションでは、PDFをアクセシビリティ用に修正する際に、より一般的で難しい問題（複雑な表）の1つに対処します。
+このオンデマンドセッションでは、アクセシビリティの問題として扱われる複雑なテーブルを扱うPDFの修正に関する一般的で困難な問題を取り上げます。
 
-[ここ](../assets/accessibilitysession3.zip)をクリックして、このセッションの実際のファイルのzipファイルをダウンロードします。
+クリック [ここ](../assets/accessibilitysession3.zip) このセッションの実践ファイルの zip ファイルをダウンロードします。
 
-別のブラウザタブでビデオを表示するには、画像を選択します。
+画像を選択して、別のブラウザータブでビデオを表示します。
 
-[![セッション3ビデオ](../assets/Accessibilitysession3_YT.png)](https://youtu.be/kcM_jyHGd6Y){target=&quot;_blank&quot;}
+[![セッション 3 のビデオ](../assets/Accessibilitysession3_YT.png)](https://youtu.be/kcM_jyHGd6Y){target=&quot;_blank&quot;}

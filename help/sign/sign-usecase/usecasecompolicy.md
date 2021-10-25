@@ -1,6 +1,6 @@
 ---
 title: ポリシー契約
-description: ポリシー契約、更新などに関するすべての従業員から署名を効率的に収集
+description: ポリシー契約やアップデートなどに関して、すべての従業員から効率的に署名を収集できます
 role: User
 product: adobe sign
 solution: Document Cloud
@@ -16,10 +16,10 @@ ht-degree: 0%
 
 # ポリシー契約
 
-ポリシー契約、ポリシーの更新などに関するすべての従業員から署名を効率的に収集できます。 **と**&#x200B;に記入し、印刷や郵送を行わずに署名できるオンラインWebフォームを作成する方法を説明します。
+ポリシー契約やポリシーの更新などに関して、すべての従業員から効率的に署名を収集できます。 入力可能なオンライン Web フォームを作成する方法について説明します **および** 印刷も郵送も必要ありません。
 
 >[!VIDEO](https://video.tv.adobe.com/v/33979?hidetitle=true)
 
-ポリシー契約のPDFレシピを順を追ってダウンロードする場合にクリックします。
+クリックして、ポリシー同意書のステップごとのPDFレシピをダウンロードします。
 
-[! [PDFレシピのダウンロード](../assets/acrobat_PDF_96.png)](../assets/adobe-sign_set_up_a_web_form_use_case.pdf)
+[! [PDFレシピをダウンロード ](../assets/acrobat_PDF_96.png)](../assets/adobe-sign_set_up_a_web_form_use_case.pdf)

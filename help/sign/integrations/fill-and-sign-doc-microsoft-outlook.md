@@ -1,6 +1,6 @@
 ---
-title: Outlookでの入力と署名
-description: Microsoft Outlook内で直接フォームに入力し、署名する
+title: Outlook での入力と署名
+description: Microsoft Outlook 内から直接フォームに入力して署名する
 role: User
 product: adobe sign
 level: Intermediate
@@ -14,12 +14,12 @@ ht-degree: 0%
 
 ---
 
-# Outlookでの入力と署名
+# Outlook での入力と署名
 
-Microsoft Outlook内で直接フォームに入力して署名することで、ドキュメントのワークフローを合理化する方法を説明します。
+Microsoft Outlook 内でフォームに直接入力して署名することで、文書ワークフローを効率化する方法について説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/29764t1?hidetitle=true)
 
 >[!TIP]
 >
->このビデオは、エクスペリエンスリーグで無料で入手できる「Microsoft Apps Inside Adobe Sign Inside](https://experienceleague.adobe.com/?recommended=Sign-U-1-2020.2)の使用」コース[の一部です。
+>このビデオはコースの一部です [Adobe Sign Inside Microsoftアプリケーションの使用](https://experienceleague.adobe.com/?recommended=Sign-U-1-2020.2) それは無料で利用できますExperience League!

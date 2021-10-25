@@ -1,6 +1,6 @@
 ---
-title: 工順順序の設定
-description: 複数の署名者のルーティング順序を設定する方法を説明します
+title: 工順の設定
+description: 複数の署名者のルーティング順序を設定する方法について説明します。
 role: User
 product: adobe sign
 solution: Document Cloud
@@ -14,8 +14,8 @@ ht-degree: 0%
 
 ---
 
-# 工順順序の設定
+# 工順の設定
 
-複数の署名者のルーティング順序を設定する方法を説明します。 ドキュメントを順に、並列に、または2つの組み合わせで送信します。
+複数の署名者のルーティング順序を設定する方法について説明します。 文書を順番に、並行して、またはその 2 つを組み合わせて送信します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/17347?hidetitle=true)

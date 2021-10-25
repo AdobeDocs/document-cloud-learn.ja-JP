@@ -1,6 +1,6 @@
 ---
-title: 一括署名の収集
-description: ドキュメントに対して数百の署名を一度に収集する方法を、ほんの数回の手順で説明します。
+title: 署名を一括で収集
+description: 様々な文書に対する数百もの署名を、わずか数ステップで一度に収集する方法をご確認ください
 role: User, Admin
 product: adobe sign
 solution: Document Cloud
@@ -14,16 +14,16 @@ ht-degree: 0%
 
 ---
 
-# 一括署名の収集
+# 署名を一括で収集
 
-数百の署名を数回の手順で収集する方法を説明します。 この使用例では、全員が自己責任免除の署名を受け、各個の免除の進捗状況を追跡できます。したがって、署名を行った人や未署名の人を正確に把握できます。 キャプチャした各オンライン署名は、安全で安全で、法的に有効です。
+数百もの署名をわずか数ステップで収集する方法をご確認ください。 この使用例では、全員が自分の免責同意書に署名し、個々の免責同意書の進行状況を追跡できるので、誰が署名していないかを正確に把握できます。 キャプチャしたオンライン署名は、すべて安全で安全であり、法的に有効です。
 
-この他の実際の[テレワーク契約](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/gov/usecasegovtelework.html?lang=en)の使用例をご覧ください。
+さらに詳しく [テレワーク契約](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/gov/usecasegovtelework.html?lang=en) ユースケース
 
 >[!VIDEO](https://video.tv.adobe.com/v/37839?hidetitle=true)
 
-[ZIP形式のサンプルCSVファイルをダウンロード](../assets/megasign_merge_sample.zip)
+[ZIP 形式のサンプル CSV ファイルをダウンロード](../assets/megasign_merge_sample.zip)
 
 >[!TIP]
 >
->このビデオは、エクスペリエンスリーグで無料で入手できる「[ユーザー向け高度なタスク](https://experienceleague.adobe.com/?recommended=Sign-U-1-2020.3)」および「[管理者向けAdobe Sign入門」コースの一部です。](https://experienceleague.adobe.com/?recommended=Sign-A-1-2020.2)
+>このビデオは、 [ユーザー向けの高度なタスク](https://experienceleague.adobe.com/?recommended=Sign-U-1-2020.3) および [管理者向けAdobe Sign入門](https://experienceleague.adobe.com/?recommended=Sign-A-1-2020.2) コースは無料でExperience League!

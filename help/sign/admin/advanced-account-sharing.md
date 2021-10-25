@@ -1,6 +1,6 @@
 ---
 title: 高度なアカウント共有
-description: 詳細なアカウント共有を使用すると、管理者とユーザーは送信、変更、および表示のアクセス許可を委任できます
+description: 高度なアカウント共有により、管理者とユーザーは送信、変更、表示の権限を委任できます
 role: User, Admin
 product: adobe sign
 solution: Document Cloud
@@ -15,12 +15,12 @@ ht-degree: 4%
 
 ---
 
-# アカウント共有の詳細設定
+# 高度なアカウント共有
 
-このビデオチュートリアルでは、高度なアカウント共有を設定する方法を学習します。この方法を使用すると、管理者とユーザーが自分の送信、変更、および表示権限を委任できます。
+このビデオチュートリアルでは、高度なアカウント共有を設定する方法を説明します。これにより、管理者とユーザーは送信、変更、表示の権限を委任できます。
 
 >[!VIDEO](https://video.tv.adobe.com/v/40186?hidetitle=true)
 
 >[!TIP]
 >
->このビデオは、エクスペリエンス・リーグで無料で利用できる[管理者向けの高度なタスク](https://experienceleague.adobe.com/?recommended=Sign-A-1-2020.1)コースの一部です。
+>このビデオはコースの一部です [管理者の高度なタスク](https://experienceleague.adobe.com/?recommended=Sign-A-1-2020.1) それは無料で利用できますExperience League!

@@ -1,6 +1,6 @@
 ---
-title: Adobe Sign管理者向けの起動と実行
-description: 管理者がAdobe Signを使用して迅速に起動および実行できる7つの主要な領域の概要
+title: Adobe Sign管理者向けのインストールと導入
+description: 管理者がAdobe Signを短時間で使い始められる、7 つの主要領域の概要
 role: Admin
 product: adobe sign
 level: Intermediate
@@ -13,12 +13,12 @@ ht-degree: 0%
 
 ---
 
-# Adobe Sign管理者向けの起動と実行
+# Adobe Sign管理者向けのインストールと導入
 
-このビデオチュートリアルでは、Adobe Signを使用してすばやく起動し、実行するために管理者が重点を置く7つの主要な領域について学習します。
+このビデオチュートリアルでは、Adobe Signを迅速に立ち上げて運用を開始するために管理者が重視する必要がある 7 つの主要分野について説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/33657?hidetitle=true)
 
 >[!TIP]
 >
->このビデオは、「Adobe Sign for Administrators」コース[の「Getting Started with Adobe Sign for Administrators](https://experienceleague.adobe.com/?recommended=Sign-A-1-2020.2)」コースの一部で、エクスペリエンス・リーグで無料で入手できます。
+>このビデオはコースの一部です [管理者向けAdobe Sign入門](https://experienceleague.adobe.com/?recommended=Sign-A-1-2020.2) それは無料で利用できますExperience League!

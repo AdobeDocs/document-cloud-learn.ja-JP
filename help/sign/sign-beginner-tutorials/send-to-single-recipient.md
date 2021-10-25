@@ -1,6 +1,6 @@
 ---
-title: 単一受信者への送信
-description: ドキュメントにジャンプして、署名用にドキュメントを簡単に送信する方法を学びます。
+title: 1 人の受信者への送信
+description: すばやく簡単に署名用の文書を送信する方法を学びます
 role: User
 product: adobe sign
 solution: Document Cloud
@@ -14,12 +14,12 @@ ht-degree: 0%
 
 ---
 
-# 1人の受信者に送信中
+# 1 人の受信者への送信
 
-Adobe Signで最も一般的なワークフロー – 署名用のドキュメントを送信します。 このビデオチュートリアルでは、ドキュメントのアップロード、フォームフィールドの追加、署名の送信を行う方法を学習します。
+Adobe Signで最も一般的なワークフローは、署名用に文書を送信することです。 このビデオチュートリアルでは、文書をアップロードし、フォームフィールドを追加し、署名用に送信する方法について説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/33659?hidetitle=true)
 
 >[!TIP]
 >
->このビデオは、「Adobe Sign](https://experienceleague.adobe.com/?recommended=Sign-U-1-2020.1)のご利用開始」コースの一部で、エクスペリエンスリーグで無料でご利用いただけます。[
+>このビデオはコースの一部です [Adobe Sign入門](https://experienceleague.adobe.com/?recommended=Sign-U-1-2020.1) それは無料で利用できますExperience League!

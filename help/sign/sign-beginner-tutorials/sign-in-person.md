@@ -1,6 +1,6 @@
 ---
-title: A.本人が署名をする
-description: Adobe Signモバイルアプリを使用して、他のユーザーの自分で署名を取得する方法を説明します
+title: 署名を対面で取得
+description: Adobe Signモバイルアプリを使用して、他の人から直接署名を得る方法を説明します
 role: User
 product: adobe sign
 solution: Document Cloud
@@ -15,8 +15,8 @@ ht-degree: 0%
 
 ---
 
-# 自分で署名を取得する
+# 署名を対面で取得
 
-Adobe Signモバイルアプリを使用して、他のユーザーの署名を直接入手する方法を説明します。
+Adobe Signモバイルアプリを使用して、他の人から直接署名を得る方法について説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/17362?hidetitle=true)

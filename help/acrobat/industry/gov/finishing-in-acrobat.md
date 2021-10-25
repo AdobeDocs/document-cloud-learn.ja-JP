@@ -1,6 +1,6 @@
 ---
-title: PDFをアクセス可能にする – Acrobatでの終了
-description: Acrobat DCでアクセス可能なドキュメントの作成を終了する
+title: PDFのアクセシブル化 —Acrobatでの仕上げ
+description: Acrobat DCでのアクセシブルなドキュメントの作成の完了
 role: User
 product: adobe acrobat
 level: Experienced
@@ -14,14 +14,14 @@ ht-degree: 0%
 
 ---
 
-# PDFをアクセス可能にする – Acrobatでの終了
+# PDFのアクセシブル化 —Acrobatでの仕上げ
 
-3番目のビデオチュートリアルでは、Acrobat Pro DCのツールを使用してPDFファイルにアクセスできるようにする方法を学習します。
+3 番目のビデオチュートリアルでは、Acrobat Pro DCのツールを使用してPDFファイルにアクセスできるようにすることを学習します。
 
 >[!NOTE]
 >
->Acrobat Pro DCでのみ使用可能です。
+>Acrobat Pro DCでのみ使用できます。
 
-## レッスン3:Acrobatでの仕上げ(4:37)
+## パート 3:Acrobatの仕上げ (4:37)
 
 >[!VIDEO](https://video.tv.adobe.com/v/34514)

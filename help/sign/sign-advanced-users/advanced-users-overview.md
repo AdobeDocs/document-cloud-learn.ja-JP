@@ -1,6 +1,6 @@
 ---
-title: 詳細タスクの概要
-description: ドキュメントを100人の受信者に一度に送信し、Webサイト用に署名準備のできるドキュメントを設定し、署名トランザクションを管理し、ドキュメントテンプレートを作成および管理する方法を説明します
+title: 高度なタスクの概要
+description: 100 人以上の受信者に署名用の文書を一度に送信する方法、Web サイト用に署名可能な文書を設定する方法、署名トランザクションを管理する方法、文書テンプレートを作成および管理する方法について説明します。
 role: User
 product: adobe sign
 solution: Document Cloud
@@ -14,11 +14,11 @@ ht-degree: 0%
 
 ---
 
-# 詳細タスクの概要
+# 高度なタスクの概要
 
-![詳細イメージに署名](../assets/Hero-Advanced.png)
+![詳細画像に署名](../assets/Hero-Advanced.png)
 
-ドキュメントを100人の受信者に一度に送信し、Webサイト用に署名準備のできるドキュメントを設定し、署名トランザクションを管理し、ドキュメントテンプレートを作成および管理する方法を説明します。 このチュートリアルは、署名の送信と要求の基本に精通し、Adobe Signが署名に対して機能する方法をさらに学びたいと考えている方を対象としています。
+100 人以上の受信者に署名用の文書を一度に送信する方法、Web サイト用に署名可能な文書を設定する方法、署名トランザクションを管理する方法、文書テンプレートを作成および管理する方法について説明します。 このチュートリアルは、署名の送信と依頼の基本を既に学習しているユーザーを対象としたもので、Adobe Signの機能について詳しく説明しています。
 
 ## 送信
 
@@ -26,12 +26,12 @@ ht-degree: 0%
 <tr>
   <td>
     <a href="setting-up-routing.md">
-      <img alt="工順順序の設定" src="../assets/Routing.png">
+      <img alt="工順の設定" src="../assets/Routing.png">
     </a>
     <div>
-    <a href="setting-up-routing.md"><strong>工順順序の設定</strong></a>
+    <a href="setting-up-routing.md"><strong>工順の設定</strong></a>
     </div>
-    <em>複数の署名者の工順順序を設定します</em>
+    <em>複数の署名者のルーティング順序の設定</em>
     <br>
   </td>
   <td>
@@ -41,7 +41,7 @@ ht-degree: 0%
     <div>
     <a href="delegate-signature.md"><strong>他のユーザーへの委任</strong></a>
     </div>
-    <em>委任者ロールを使用して、ドキュメントを仲介者に送信し、仲介者はドキュメントをルーティングして署名を得ることができます</em>
+    <em>委任者の役割を使用して文書を仲介者に送信し、仲介者は文書を署名用に回覧できます</em>
     <br>
   </td>
   <td>
@@ -51,39 +51,39 @@ ht-degree: 0%
     <div>
     <a href="add-an-approver.md"><strong>承認者の追加</strong></a>
     </div>
-    <em>契約承認プロセスに承認者ロールを追加します</em>
+    <em>契約承認プロセスへの承認者役割の追加</em>
     <br>
   </td>
 </tr>
 <tr>
   <td>
     <a href="megasign.md">
-      <img alt="一括署名の収集" src="../assets/Megasign.png" />
+      <img alt="署名の一括収集" src="../assets/Megasign.png" />
     </a>
     <div>
-    <a href="megasign.md"><strong>一括署名の収集</strong></a>
+    <a href="megasign.md"><strong>署名の一括収集</strong></a>
     </div>
-    <em>ドキュメントに対して数百の署名を数回の手順で一度に収集</em>
+    <em>わずか数ステップであらゆる文書に対して一度に数百件の署名を収集</em>
     <br>
   </td>
   <td>
     <a href="webform.md">
-      <img alt="Webフォームの設定" src="../assets/Webform.png" />
+      <img alt="Web フォームの設定" src="../assets/Webform.png" />
     </a>
     <div>
-    <a href="webform.md"><strong>Webフォームの設定</strong></a>
+    <a href="webform.md"><strong>Web フォームの設定</strong></a>
     </div>
-    <em>Webサイト上で直接電子署名できるドキュメントを作成する</em>
+    <em>Web サイトで直接電子的に署名できる文書を作成します</em>
     <br>
   </td> 
   <td>
     <a href="adobe-sign-text-tagging.md">
-      <img alt="Adobe署名テキストのタグ付け" src="../assets/Text-Tagging.png" />
+      <img alt="Adobe Sign Text Tagging" src="../assets/Text-Tagging.png" />
   </a>
     <div>
-    <a href="adobe-sign-text-tagging.md"><strong>Adobe署名テキストのタグ付け</strong></a>
+    <a href="adobe-sign-text-tagging.md"><strong>Adobe Sign Text Tagging</strong></a>
     </div>
-    <em>Adobe Acrobat DCを使用したテキストタグ付けによるAdobe Signフォームフィールドの作成</em>
+    <em>Adobe Acrobat DC を使用したテキストタグによるAdobe Signフォームフィールドの作成</em>
     <br>
   </td> 
 </table>
@@ -94,21 +94,21 @@ ht-degree: 0%
 <tr>
   <td>
     <a href="edit-a-template.md">
-      <img alt="ドキュメントテンプレートの管理" src="../assets/ManageTemplate.png" />
+      <img alt="文書テンプレートの管理" src="../assets/ManageTemplate.png" />
     </a>
     <div>
-    <a href="edit-a-template.md"><strong>ドキュメントテンプレートの管理</strong></a>
+    <a href="edit-a-template.md"><strong>文書テンプレートの管理</strong></a>
     </div>
-    <em>ライブラリからテンプレートを編集または削除する</em>
+    <em>ライブラリのテンプレートの編集または削除</em>
     <br>
   </td>  
   <td>
-    <img alt="スペーサ" src="../assets/Whitespacer.png" />
+    <img alt="スペーサー" src="../assets/Whitespacer.png" />
     <div>
     <br>
   </td>
   <td>
-    <img alt="スペーサ" src="../assets/Whitespacer.png" />
+    <img alt="スペーサー" src="../assets/Whitespacer.png" />
     <div>
     <br>
   </td>

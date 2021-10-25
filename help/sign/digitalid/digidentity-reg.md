@@ -1,6 +1,6 @@
 ---
-title: ' [!DNL Digidentity]からデジタルIDを取得する'
-description: ' [!DNL Digidentity]からデジタル署名証明書を取得する方法'
+title: デジタル ID の取得先 [!DNL Digidentity]
+description: 電子署名証明書を [!DNL Digidentity]
 role: User
 product: adobe sign
 solution: Document Cloud
@@ -15,14 +15,14 @@ ht-degree: 0%
 
 ---
 
-# [!DNL Digidentity]からデジタルIDを取得する
+# デジタル ID の取得元 [!DNL Digidentity]
 
-[!DNL Digidentity]からデジタル署名証明書を取得する方法を説明します。 登録され、本人確認が完了すると、[!DNL Digidentity]はAdobe Signクラウドの署名の適用に使用するデジタルIDを発行します。
+電子署名証明書を [!DNL Digidentity]を選択します。 登録が完了し、身元が確認されたら、 [!DNL Digidentity] Adobe Signクラウド署名の適用に使用されるデジタル ID を発行します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/337067?hidetitle=true)
 
 <br> 
 
-**Adobe SignでデジタルIDを使用する方法を学ぶには、下の [!DNL Digidentity] 画像を選択してください。**
+**以下の画像を選択して、 [!DNL Digidentity] Adobe Signのデジタル ID**
 
 [! [image](assets/Digidentitysign_400.png)](digidentity-sign.md)

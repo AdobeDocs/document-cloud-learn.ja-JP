@@ -1,6 +1,6 @@
 ---
-title: カスタムワークフローの構築
-description: 電子署名をすばやく取得し、フォームデータを収集するためのドキュメントワークフローの調整と自動化の方法を説明します
+title: カスタムワークフローの作成
+description: 文書ワークフローをカスタマイズおよび自動化して電子サインをすばやく取得し、フォームデータを収集する方法について説明します
 role: User, Admin
 product: adobe sign
 solution: Document Cloud
@@ -14,17 +14,17 @@ ht-degree: 0%
 
 ---
 
-# カスタムワークフローの構築
+# カスタムワークフローの作成
 
-このビデオチュートリアルでは、ドキュメントワークフローを調整および自動化して、電子署名の取得、フォームデータの収集、重要なドキュメントの配信の確認を行い、ワークフロー管理を合理化する方法を学習します。
+このビデオチュートリアルでは、文書ワークフローをカスタマイズおよび自動化して電子サインを取得し、フォームデータを収集し、重要な文書の配信を確認してワークフロー管理を合理化する方法について説明します。
 
-その他の実際の使用例を次に示します。
+その他の実際の使用事例をご覧ください。
 
-* [政府契約と購買依頼の](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/gov/usecasegovcontracts.html?lang=en) 正式ケース。
-* [商用契約と購買依頼](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/com/usecasecomcontracts.html?lang=en) の正式ケース。
+* [政府契約および購買依頼Forms](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/gov/usecasegovcontracts.html?lang=en) ユースケース
+* [業務契約および購買依頼Forms](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/com/usecasecomcontracts.html?lang=en) ユースケース
 
 >[!VIDEO](https://video.tv.adobe.com/v/33656?hidetitle=true)
 
 >[!TIP]
 >
->このビデオは、「Adobe Sign for Administrators」コース[の「Getting Started with Adobe Sign for Administrators](https://experienceleague.adobe.com/?recommended=Sign-A-1-2020.2)」コースの一部で、エクスペリエンス・リーグで無料で入手できます。
+>このビデオはコースの一部です [管理者向けAdobe Sign入門](https://experienceleague.adobe.com/?recommended=Sign-A-1-2020.2) それは無料で利用できますExperience League!

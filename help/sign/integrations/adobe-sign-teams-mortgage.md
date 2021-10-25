@@ -1,6 +1,6 @@
 ---
-title: ' [!DNL Microsoft Teams]で署名用のドキュメントを送信中'
-description: Adobe Sign & [!DNL Microsoft Teams] の統合により、 [!DNL Microsoft Teams]内から契約を送信して署名を行ったり、既存の契約のステータスを確認したりできます。
+title: 署名用の文書の送信 [!DNL Microsoft Teams]
+description: Adobe Sign [!DNL Microsoft Teams] 統合により、署名用に契約書を送信したり、既存の契約書のステータスを確認したりすることが、すべて [!DNL Microsoft Teams]
 role: User
 product: adobe sign
 solution: Document Cloud
@@ -15,12 +15,12 @@ ht-degree: 0%
 
 ---
 
-# [!DNL Microsoft Teams]で署名用のドキュメントを送信中
+# 署名用の文書の送信 [!DNL Microsoft Teams]
 
-Adobe Sign &amp; [!DNL Microsoft Teams]の統合により、[!DNL Microsoft Teams]内から契約を送信して署名を行ったり、既存の契約のステータスを確認したりできます。 次の使用例は、Teams内で直接ローン申請を送信する抵当証券会社を調べます。 この緊密な統合により、リモートの作業環境で住宅ローンの申請者と連携している場合でも、住宅ローンのローンプロセスが加速されます。
+Adobe Sign [!DNL Microsoft Teams] 統合により、署名用に契約書を送信したり、既存の契約書のステータスを確認したりすることが、すべて [!DNL Microsoft Teams]を選択します。 この例では、ローン申込書を Teams 内で直接送信する住宅ローン仲介を調べます。 この緊密な統合により、遠隔地の職場環境で住宅ローンの申し込み先と連携している場合でも、住宅ローンの手続きを迅速化できます。
 
 >[!VIDEO](https://video.tv.adobe.com/v/40125?hidetitle=true)
 
 >[!TIP]
 >
->このビデオは、エクスペリエンスリーグで無料で入手できる「Microsoft Apps Inside Adobe Sign Inside](https://experienceleague.adobe.com/?recommended=Sign-U-1-2020.2)の使用」コース[の一部です。
+>このビデオはコースの一部です [Adobe Sign Inside Microsoftアプリケーションの使用](https://experienceleague.adobe.com/?recommended=Sign-U-1-2020.2) それは無料で利用できますExperience League!

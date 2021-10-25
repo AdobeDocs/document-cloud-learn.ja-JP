@@ -1,6 +1,6 @@
 ---
-title: ' [!DNL Microsoft Teams]でのPDFコラボレーション'
-description: Adobe Acrobat for Teamsを使用すると、 [!DNL Microsoft Teams]を離れずにPDFを表示、注釈付け、レビューすることで、同僚との共同作業や共同作業が可能になります。
+title: PDFコラボレーション [!DNL Microsoft Teams]
+description: Adobe Acrobat for Teams を使用すると、ユーザーは離れることなくPDFを表示、注釈の追加、確認して、同僚と共同作業や共同作業をおこなうことができます [!DNL Microsoft Teams]
 role: User
 product: adobe acrobat
 level: Beginner
@@ -14,14 +14,14 @@ ht-degree: 0%
 
 ---
 
-# [!DNL Microsoft Teams]でのPDFコラボレーション
+# PDFコラボレーション [!DNL Microsoft Teams]
 
-Adobe Acrobat for Teamsを使用すると、PDFを[!DNL Microsoft Teams]から離れずに表示、注釈付け、レビューすることで、同僚との共同作業や共同作業を行うことができます。 この統合には、次のものが含まれます。
+Adobe Acrobat for Teams を使用すると、ユーザーは離れることなくPDFを表示、注釈の追加、確認して、同僚と共同作業や共同作業をおこなうことができます [!DNL Microsoft Teams]を選択します。 この統合には以下が含まれます。
 
-* 高品質な表示 – [!DNL Microsoft Teams]内で高忠実度のPDFを直接開くことができ、満足のいくシームレスな作業を実現するPDFの表示エクスペリエンスです。
-* PDFレビューの合理化：複数の添付ファイルを使用してフィードバックを収集し調整する代わりに、チャネル・メンバーのフィードバックを1つのPDFで直接[!DNL Microsoft Teams]に収集
-* 進捗状況の通知を保持 – 他のユーザーがドキュメントに対して処理を行ったときにTeamsで通知を受け取る
-* 校閲者に通知する – 校閲者は、他の人がコメントに返信したときに通知を受け取ります
-* 安全なコラボレーション – 信頼できるメンバーと安全に共同作業を行い、ドキュメントのバージョンを[!DNL Microsoft SharePoint]または[!DNL OneDrive]に保存する機能を維持します。
+* 高品質の表示 — これは、内で高精度のPDFを直接開くことができる唯一のPDF表示です [!DNL Microsoft Teams]を使用して、満足のいくシームレスな作業体験を実現できます
+* PDFレビューを効率化 — チャネルメンバーのフィードバックを直接 1 つのPDFで [!DNL Microsoft Teams] 複数の添付ファイルでフィードバックを収集して調整する必要がない
+* 進捗状況を常に通知 — 他のユーザーが文書に対してアクションを実行したときに、チームで通知を受け取れます
+* レビュー担当者に常に通知 — 他のユーザーが注釈に返信すると、レビュー担当者に通知されます。
+* 安全なコラボレーション：信頼できるメンバーと安全に共同作業を行い、ドキュメントのバージョンを [!DNL Microsoft SharePoint] または [!DNL OneDrive]
 
 >[!VIDEO](https://video.tv.adobe.com/v/331277?hidetitle=true)

@@ -1,6 +1,6 @@
 ---
 title: 文書の入力と署名
-description: フォームに入力し、電子署名をドキュメントに追加する方法を説明します
+description: フォームに入力して電子サインを文書に追加する方法を説明します
 role: User
 product: adobe sign
 solution: Document Cloud
@@ -14,8 +14,8 @@ ht-degree: 0%
 
 ---
 
-# ドキュメントの入力と署名
+# 文書への入力と署名
 
-フォームに入力し、電子署名をドキュメントに追加する方法を説明します。
+フォームに入力し、文書に電子サインを追加する方法を説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/33660?hidetitle=true)

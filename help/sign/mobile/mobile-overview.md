@@ -1,6 +1,6 @@
 ---
-title: モバイルの概要
-description: 署名用のドキュメントを送信し、電子署名の進行状況を追跡し、モバイルデバイス上でリアルタイムの更新をすべて取得します
+title: Mobile Overview
+description: Send documents for signature, track e-signing progress, and get real-time updates all on your mobile device
 role: User
 product: adobe sign
 level: Intermediate
@@ -16,36 +16,36 @@ ht-degree: 29%
 
 # モバイルの概要
 
-![モバイルイメージに署名](../assets/Hero-Mobile.png)
+![モバイル画像に署名](../assets/Hero-Mobile.png)
 
-署名用のドキュメントを送信し、電子署名の進行状況を追跡し、モバイルデバイス上でリアルタイムの更新情報を取得します。
+モバイルデバイスで、署名用に文書を送信、電子サインの進捗状況をトラックし、リアルタイムで更新できます。
 
 <table style="table-layout:fixed">
 <tr>
   <td>
     <a href="liquidmode.md">
-      <img alt="Adobe Signの液体モード" src="assets/liquidmode.png" />
+      <img alt="Liquid Mode in Adobe Sign" src="assets/liquidmode.png" />
     </a>
     <div>
-    <a href="liquidmode.md"><strong>Adobe Signの液体モード</strong></a>
+    <a href="liquidmode.md"><strong>Adobe Signの Liquid Mode</strong></a>
     </div>
-    <em>Liquid Modeがモバイル署名の操作性を向上させる方法を説明します。</em>
+    <em>Liquid Mode がモバイル署名エクスペリエンスをどのように改善するかご覧ください</em>
     <br>
   </td>
   <td>
     <a href="https://itunes.apple.com/jp/app/adobe-sign/id481082197?mt=8" target="_blank">
-      <img alt="iOS用にダウンロード" src="assets/Mobile_iOS.png" />
+      <img alt="Download for iOS" src="assets/Mobile_iOS.png" />
     </a>
     <div>
-    <a href="https://itunes.apple.com/us/app/adobe-sign/id481082197?mt=8" target="_blank"><strong>iOS用Adobe Sign Mobileアプリのダウンロード</strong></a>
+    <a href="https://itunes.apple.com/us/app/adobe-sign/id481082197?mt=8" target="_blank"><strong>iOS用Adobe Sign Mobile アプリのダウンロード</strong></a>
     <br>
   </td>
   <td>
     <a href="https://play.google.com/store/apps/details?id=com.adobe.echosign&amp;hl=ja" target="_blank">
-      <img alt="Android用ダウンロード" src="assets/Mobile_Android.png" />
+      <img alt="Android 版をダウンロード" src="assets/Mobile_Android.png" />
     </a>
     <div>
-    <a href="https://play.google.com/store/apps/details?id=com.adobe.echosign&amp;hl=en" target="_blank"><strong>Android用Adobe Sign Mobileアプリのダウンロード</strong></a>
+    <a href="https://play.google.com/store/apps/details?id=com.adobe.echosign&amp;hl=en" target="_blank"><strong>Android 用Adobe Sign Mobile アプリのダウンロード</strong></a>
     <br>
   </td>
 </tr>

@@ -1,6 +1,6 @@
 ---
 title: ユースケースレシピ
-description: 政府や商用の電子署名の例を使用して、組織のデジタルワークフローを迅速化
+description: 官公庁の電子サインや商用の電子サインのサンプルを利用して、組織のデジタルワークフローをスピードアップしましょう
 role: User
 product: adobe sign
 solution: Document Cloud
@@ -16,22 +16,22 @@ ht-degree: 0%
 
 ---
 
-# ユースケースレシピ
+# 事例紹介レシピ
 
-政府や商用の電子署名の例を使用して、組織のデジタルワークフローを迅速化します。 クリックすると、リソースと、これらの電子署名の使用例の設定方法の詳細を含むPDFが表示されます。
+官公庁の電子サインや商用の電子サインのサンプルを利用して、組織のデジタルワークフローをスピードアップしましょう。 クリックすると、PDFが表示され、これらの特定の電子サインのユースケースの設定方法に関するリソースと詳細が表示されます。
 
-## 政府の使用例
+## 官公庁の事例
 
 <table style="table-layout:fixed">
 <tr>
   <td>
     <a href="usecasegovgrants.md">
-      <img alt="事業助成金及び貸付金" src="../assets/UC_Business.png" />
+      <img alt="業務助成金" src="../assets/UC_Business.png" />
     </a>
     <div>
-    <a href="usecasegovgrants.md"><strong>事業助成金及び貸付金</strong></a>
+    <a href="usecasegovgrants.md"><strong>業務助成金</strong></a>
     </div>
-    <em>助成金、ローン、および税繰延請求書へのセルフサービスアクセスを提供し、ビジネスに対する迅速な支援を提供</em>
+    <em>助成金、ローン、税金控除の申請フォームにセルフサービスでアクセスできるようにすることで、ビジネスを迅速に支援</em>
     <br>
   </td> 
   <td>
@@ -41,29 +41,29 @@ ht-degree: 0%
     <div>
     <a href="usecasegovtelework.md"><strong>テレワーク契約</strong></a>
     </div>
-    <em>電話会議、ポリシーの更新など、すべての従業員から署名を効率的に収集</em>
+    <em>テレワーク契約やポリシーの更新などで、すべての従業員から効率的に署名を収集できます</em>
     <br>
   </td>
   <td>
     <a href="usecasegovcontracts.md">
-      <img alt="契約および購買依頼フォーム" src="../assets/UC_WorkflowR.png" />
+      <img alt="契約および購買依頼Forms" src="../assets/UC_WorkflowR.png" />
     </a>
     <div>
-    <a href="usecasegovcontracts.md"><strong>契約および購買依頼フォーム</strong></a>
+    <a href="usecasegovcontracts.md"><strong>契約および購買依頼Forms</strong></a>
     </div>
-    <em>紙の処理を準拠したデジタル・ワークフローに迅速に置き換え、監査レポートを作成</em>
+    <em>紙ベースの処理をコンプライアンスに準拠したデジタルワークフローにすばやく置き換え、監査レポートを作成</em>
     <br>
   </td>
 </tr>
 <tr>
   <td>
     <a href="usecasegovreemployment.md">
-      <img alt="再就職支援" src="../assets/UC_WebformsR.png" />
+      <img alt="再雇用支援" src="../assets/UC_WebformsR.png" />
     </a>
     <div>
-    <a href="usecasegovreemployment.md"><strong>再就職支援</strong></a>
+    <a href="usecasegovreemployment.md"><strong>再雇用支援</strong></a>
     </div>
-    <em>日々使用できるオールデジタルアプリケーションフォームに従わずに、市民が必要な支援を受けられるよう支援</em>
+    <em>市民が必要なサポートを受けられるよう、数日で稼働する完全デジタルの申請書に対応する必要はありません</em>
     <br>
   </td>
   <td>
@@ -73,34 +73,34 @@ ht-degree: 0%
     <div>
     <a href="usecasegovpaycheck.md"><strong>給与保護</strong></a>
     </div>
-    <em>Adobe Signを使用して、支払い保護プログラムフォームをオンラインの対話形式に変換する方法を表示します</em>
+    <em>Adobe Signを使用して、支払い保護プログラムフォームをオンラインインタラクティブフォームに変換する方法について説明します</em>
     <br>
   </td>
   <td>
     <a href="usecasegovremote.md">
-      <img alt="リモート保証の要求" src="../assets/UC_Remote_WarrantR.png" />
+      <img alt="リモート令状要求" src="../assets/UC_Remote_WarrantR.png" />
     </a>
     <div>
-    <a href="usecasegovremote.md"><strong>リモート保証の要求</strong></a>
+    <a href="usecasegovremote.md"><strong>リモート令状要求</strong></a>
     </div>
-    <em>電子署名とWeb会議を併用して、審査員に対する要求と保証の保護に要する時間を短縮</em>
+    <em>電子サインと web 会議を組み合わせて使用することで、裁判官からの令状の請求とセキュリティ確保にかかる時間を短縮できます</em>
     <br>
   </td>
 </tr>
 </table>
 
-## 商用用途
+## 商用ユースケース
 
 <table style="table-layout:fixed">
 <tr>
   <td>
     <a href="usecasecomcontracts.md">
-      <img alt="契約および購買依頼フォーム" src="../assets/UC_WorkflowR.png" />
+      <img alt="契約および購買依頼Forms" src="../assets/UC_WorkflowR.png" />
     </a>
     <div>
-    <a href="usecasecomcontracts.md"><strong>契約および購買依頼フォーム</strong></a>
+    <a href="usecasecomcontracts.md"><strong>契約および購買依頼Forms</strong></a>
     </div>
-    <em>紙の処理を準拠したデジタル・ワークフローに迅速に置き換え、監査レポートを作成</em>
+    <em>紙ベースの処理をコンプライアンスに準拠したデジタルワークフローにすばやく置き換え、監査レポートを作成</em>
     <br>
   </td> 
   <td>
@@ -110,11 +110,11 @@ ht-degree: 0%
     <div>
     <a href="usecasecompolicy.md"><strong>ポリシー契約</strong></a>
     </div>
-    <em>電話会議、ポリシーの更新など、すべての従業員から署名を効率的に収集</em>
+    <em>テレワーク契約やポリシーの更新などで、すべての従業員から効率的に署名を収集できます</em>
     <br>
   </td>
   <td>
-    <img alt="スペーサ" src="../assets/Whitespacer.png" />
+    <img alt="スペーサー" src="../assets/Whitespacer.png" />
     <div>
     <br>
   </td>

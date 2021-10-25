@@ -1,6 +1,6 @@
 ---
 title: 外部アーカイブの設定
-description: 送信された契約のバックアップコピー用に外部アーカイブを作成する方法を説明します
+description: 送信された契約書のバックアップコピー用の外部アーカイブを作成する方法について説明します。
 role: Admin
 product: adobe sign
 level: Beginner
@@ -15,44 +15,44 @@ ht-degree: 11%
 
 # 外部アーカイブの設定
 
-送信された契約のバックアップコピー用に外部アーカイブを作成する方法を説明します。 署名済み契約のコピーは、任意の電子メールアドレス、またはBoxとEvernoteにアーカイブできます。 署名済みの電子メールのコピーが、設定した電子メールアドレスまたはサービスに送信されます。
+送信された契約書のバックアップコピー用の外部アーカイブを作成する方法について説明します。 署名済み契約書のコピーは、任意の電子メールアドレス、または Box や Evernote にアーカイブできます。 署名済みおよび保存済みの電子メールのコピーが、設定した電子メールアドレスまたはサービスに送信されます。
 
 ## 外部アーカイブ：電子メールアドレス
 
 1. アカウント管理者としてログインします。
 
-1. [[!UICONTROL アカウント]]タブで、[**[!UICONTROL アカウント設定]**] > [**[!UICONTROL 外部アーカイブ]**]をクリックします。
+1. クリック **[!UICONTROL アカウント設定]** > **[!UICONTROL 外部アーカイブ]** の下に [!UICONTROL アカウント] 」タブをクリックします。
 
-   ![電子メールでアーカイブする](../assets/archiveemail1.png)
+   ![電子メールによるアーカイブ](../assets/archiveemail1.png)
 
-1. アーカイブの電子メールアドレスを入力し、**[!UICONTROL [変更の保存]]**&#x200B;をクリックします。
+1. アーカイブ電子メールアドレスを入力し、「 **[!UICONTROL 変更の保存]**&#x200B;を選択します。
 
-   ![電子メールでアーカイブする](../assets/archiveemail2.png)
+   ![電子メールによるアーカイブ](../assets/archiveemail2.png)
 
 ## 外部アーカイブ：Box.com
 
 1. アカウント管理者としてログインします。
 
-1. [[!UICONTROL アカウント]]タブで、[**[!UICONTROL アカウント設定]**] > [**[!UICONTROL 外部アーカイブ]**]をクリックします。
+1. クリック **[!UICONTROL アカウント設定]** > **[!UICONTROL 外部アーカイブ]** の下に [!UICONTROL アカウント] 」タブをクリックします。
 
-1. ボックスのロゴの右側にある[!UICONTROL ここをクリック]します。
+1. 次の [!UICONTROL ここをクリック] box ロゴの右側にリンクします。
 
-   ![ボックス経由のアーカイブ](../assets/archivebox1.png)
+   ![box 経由でアーカイブ](../assets/archivebox1.png)
 
 1. ポップアップウィンドウに表示される Box 向けの指示に従います。
 
-   ![ボックス経由のアーカイブ](../assets/archivebox2.png)
+   ![box 経由でアーカイブ](../assets/archivebox2.png)
 
 ## 外部アーカイブ：Evernote
 
 1. アカウント管理者としてログインします。
 
-1. [[!UICONTROL アカウント]]タブで、[**[!UICONTROL アカウント設定]**] > [**[!UICONTROL 外部アーカイブ]**]をクリックします。
+1. クリック **[!UICONTROL アカウント設定]** > **[!UICONTROL 外部アーカイブ]** の下に [!UICONTROL アカウント] 」タブをクリックします。
 
-1. Evernoteロゴの右側にある&#x200B;**[!UICONTROL ここをクリック]**&#x200B;します。
+1. 次の **[!UICONTROL ここをクリック]** Evernote ロゴの右側にリンクします。
 
-   ![Evernote経由のアーカイブ](../assets/archiveevernote1.png)
+   ![evernote 経由でアーカイブ](../assets/archiveevernote1.png)
 
 1. ポップアップウィンドウに表示される Evernote 向けの指示に従います。
 
-   ![Evernote経由のアーカイブ](../assets/archiveevernote2.png)
+   ![evernote 経由でアーカイブ](../assets/archiveevernote2.png)

@@ -1,6 +1,6 @@
 ---
-title: 展開の概要
-description: ベストプラクティスの記事とAdobe Signの展開に関する貴重な情報
+title: デプロイの概要
+description: Adobe Signのデプロイに関するベストプラクティス記事と貴重なインサイト
 role: Admin
 product: adobe sign
 solution: Document Cloud
@@ -14,11 +14,11 @@ ht-degree: 16%
 
 ---
 
-# 配置の概要
+# デプロイの概要
 
-![配置イメージの署名](assets/Hero-Deploy.png)
+![Sign デプロイイメージ](assets/Hero-Deploy.png)
 
-組織内でのAdobe Signの展開に関する貴重な情報を含むベストプラクティスの記事。
+Best practice articles with valuable insight on deploying Adobe Sign within your organization.
 
 <table style="table-layout:fixed">
 <tr>
@@ -27,9 +27,9 @@ ht-degree: 16%
       <img alt="Admin Console" src="assets/Deploy_Admin.png" />
     </a>
     <div>
-    <a href="https://helpx.adobe.com/enterprise/using/adobe-sign-for-enterprise.html" target="_blank"><strong>管理コンソールでのAdobe Signの管理</strong></a>
+    <a href="https://helpx.adobe.com/enterprise/using/adobe-sign-for-enterprise.html" target="_blank"><strong>Admin ConsoleでのAdobe Signの管理</strong></a>
     </div>
-    <em>Adobe管理コンソールでAdobeのエンタープライズプラットフォーム上でAdobe Signのユーザーとライセンスを管理する方法を説明します。</em>
+    <em>AdobeのエンタープライズプラットフォームであるAdobe Admin ConsoleでAdobe Signのユーザーとライセンスを管理する方法について説明します</em>
     <br>
   </td>
   <td>
@@ -39,38 +39,38 @@ ht-degree: 16%
     <div>
     <a href="https://helpx.adobe.com/sign/using/adobe-sign-training-best-practice.html" target="_blank"><strong>ベストプラクティス</strong></a>
     </div>
-    <em>Adobe Signの導入に関するお客様との協力により得られた貴重な洞察と知識のレビュー</em>
+    <em>Adobe Signのデプロイにおいて、カスタマーサクセスマネージャーがお客様と協力して獲得した貴重なインサイトと知識をご確認ください</em>
     <br>
   </td>  
   <td>
     <a href="https://www.adobe.com/trust/document-cloud-security.html" target="_blank">
-      <img alt="Adobe Trust Center" src="assets/Deploy_Trust.png" />
+      <img alt="Adobeトラストセンター" src="assets/Deploy_Trust.png" />
     </a>
     <div>
     <a href="https://www.adobe.com/trust/document-cloud-security.html" target="_blank"><strong>Adobe Trust Center</strong></a>
     </div>
-    <em>Adobe Signのセキュリティ、合法性、および標準に関するデルの継続的な取り組みについて</em>
+    <em>Adobe Signのセキュリティ、適法性、標準に関するアドビの継続的な取り組みについてご覧ください</em>
     <br>
   </td>
 </tr>
 <tr>
   <td>
     <a href="assets/SignStudyGuide.pdf">
-      <img alt="Adobe Sign Essentialsスタディガイド" src="assets/SignStudyGuide.png" />
+      <img alt="Adobe Sign Essentials Study Guide" src="assets/SignStudyGuide.png" />
     </a>
     <div>
-    <a href="assets/SignStudyGuide.pdf"><strong>Adobe Sign Essentialsスタディガイド</strong></a>
+    <a href="assets/SignStudyGuide.pdf"><strong>Adobe Sign Essentials Study Guide</strong></a>
     </div>
-    <em>Adobe Sign Essentials評価用Adobe Sign Study Guide (AD3-D104)</em>
+    <em>Adobe Sign Essentials Assessment(AD3-D104) のAdobe Sign学習ガイド</em>
     <br>
   </td>
   <td>
-    <img alt="スペーサ" src="assets/Grayspacer.png" />
+    <img alt="スペーサー" src="assets/Grayspacer.png" />
     <div>
     <br>
   </td>
   <td>
-    <img alt="スペーサ" src="assets/Grayspacer.png" />
+    <img alt="Spacer" src="assets/Grayspacer.png" />
     <div>
     <br>
   </td>

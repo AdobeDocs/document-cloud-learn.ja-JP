@@ -1,6 +1,6 @@
 ---
-title: 契約および購買依頼フォーム
-description: 紙の処理を準拠したデジタル・ワークフローに迅速に置き換え、監査レポートを作成
+title: 契約および購買依頼Forms
+description: 紙ベースの処理をコンプライアンスに準拠したデジタルワークフローにすばやく置き換え、監査レポートを作成
 role: User
 product: adobe sign
 solution: Document Cloud
@@ -14,13 +14,12 @@ ht-degree: 0%
 
 ---
 
-# 契約書と要求書
+# 契約書および請求書フォーム
 
-紙の処理を、準拠したデジタル・ワークフローに迅速に置き換え、監査レポートで完了します。 Adobe SignのWorkflow Designerツールを使用して、
-プロセス全体を合理化します。
+紙ベースの処理を、監査レポートを備えたコンプライアンスに準拠したデジタルワークフローにすばやく置き換えることができます。 Adobe Sign Workflow Designer ツールを使用して、プロセス全体を合理化する方法を説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/33980?hidetitle=true)
 
-契約フォームと購買依頼フォームのステップバイステップのPDFレシピをダウンロードする場合にクリックします。
+クリックして、契約および要求フォームのステップごとのPDFレシピをダウンロードしてください。
 
-[! [PDFレシピのダウンロード](../assets/acrobat_PDF_96.png)](../assets/adobe-sign_set_up_a_workflow_use_case.pdf)
+[! [PDFレシピをダウンロード ](../assets/acrobat_PDF_96.png)](../assets/adobe-sign_set_up_a_workflow_use_case.pdf)

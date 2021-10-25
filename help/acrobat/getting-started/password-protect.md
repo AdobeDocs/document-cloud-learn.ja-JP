@@ -1,6 +1,6 @@
 ---
-title: PDFファイルをパスワードで保護する
-description: PDFにパスワードを追加して、他のユーザーがファイルを開いたり編集したりできないようにする方法を説明します
+title: PDFファイルをパスワードでProtect
+description: 他のユーザーがファイルを開いたり編集したりできないように、PDFにパスワードを追加する方法について説明します
 role: User
 product: adobe acrobat
 level: Beginner
@@ -13,13 +13,13 @@ ht-degree: 0%
 
 ---
 
-# PDFファイルをパスワードで保護する
+# PDFファイルをパスワードでProtect
 
-PDFにパスワードを追加して、他のユーザーがファイルを開いたり編集したりできないようにする方法を説明します。
+他のユーザーがファイルを開いたり編集したりできないように、PDFにパスワードを追加する方法について説明します。
 
 >[!TIP]
 >
->複数のPDFファイルをパスワードで保護するには、[操作ウィザード](../advanced-tasks/action.md)を使用してみてください。
+>複数のPDFファイルを [Action Wizard](../advanced-tasks/action.md)を選択します。
 
 <br> 
 

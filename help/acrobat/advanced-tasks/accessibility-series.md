@@ -1,6 +1,6 @@
 ---
-title: Acrobatアクセシビリティシリーズ
-description: 6セッションのオンデマンド・アクセシビリティ・シリーズ
+title: Acrobat Accessibility Series
+description: 6 セッションのオンデマンドアクセシビリティシリーズ
 role: User
 product: adobe acrobat
 level: Experienced
@@ -14,74 +14,74 @@ ht-degree: 0%
 
 ---
 
-# Acrobat Accessibilityシリーズ
+# Acrobat Accessibility series
 
-![Acrobat Accessibilityシリーズの画像](../assets/Hero_Accessibility.png)
+![Acrobat Accessibility Series Image](../assets/Hero_Accessibility.png)
 
-この6部構成のオンデマンドウェビナーシリーズでは、アクセシビリティの基本からPDFファイルの詳細なタグ付けに進みます。 各セッションには、従う練習ファイルが含まれます。
+この 6 回のオンデマンド型オンラインセミナーシリーズでは、アクセシビリティの基本からPDFファイルのタグ付けまで網羅しています。 各セッションには、練習用ファイルが含まれています。
 
 <table style="table-layout:fixed">
 <tr>
   <td>
     <a href="accessibilitysession1.md">
-      <img alt="PDFアクセシビリティの概要" src="../assets/Accessibilitysession1_1280.png" />
+      <img alt="アクセシビリティPDFの概要" src="../assets/Accessibilitysession1_1280.png" />
     </a>
     <div>
-    <a href="accessibilitysession1.md"><strong>PDFアクセシビリティの概要</strong></a>
+    <a href="accessibilitysession1.md"><strong>アクセシビリティPDFの概要</strong></a>
     </div>
-    <em>このオンデマンドセッションでは、PDFをアクセス可能にする方法、PDFでアクセシビリティを確保するためにAcrobat Pro DCを設定する方法、およびソース文書からPDFへの変換プロセスについて説明します。</em>
+    <em>このオンデマンドセッションでは、PDFをアクセシブルにすることの意味、アクセシビリティに対応したPDFで作業するためのAcrobat Pro DCの設定方法、ソースドキュメントからPDFへの変換プロセスについて説明します</em>
     <br>
   </td>
   <td>
     <a href="accessibilitysession2.md">
-      <img alt="アクセスできないPDFの修復" src="../assets/Accessibilitysession2_1280.png" />
+      <img alt="アクセスできないPDF" src="../assets/Accessibilitysession2_1280.png" />
     </a>
     <div>
-    <a href="accessibilitysession2.md"><strong>アクセスできないPDFの修復</strong></a>
+    <a href="accessibilitysession2.md"><strong>アクセスできないPDF</strong></a>
     </div>
-    <em>このオンデマンドセッションでは、Word文書を変換し、概要のウェビナーに示すAcrobat Pro DCツールを使用してタグ付けの基本的な問題を解決するワークフローを学習します</em>
+    <em>このオンデマンドセッションでは、はじめにオンラインセミナーで紹介するAcrobat Pro DCツールを使用して、Word 文書を変換するワークフローと、基本的なタグ付けの問題を修正する方法について説明します</em>
     <br>
   </td>  
   <td>
     <a href="accessibilitysession3.md">
-      <img alt="複合テーブル" src="../assets/Accessibilitysession3_1280.png" />
+      <img alt="複雑な表" src="../assets/Accessibilitysession3_1280.png" />
     </a>
     <div>
-    <a href="accessibilitysession3.md"><strong>複合テーブル</strong></a>
+    <a href="accessibilitysession3.md"><strong>複雑な表</strong></a>
     </div>
-    <em>このオン・デマンド・セッションでは、PDFをアクセシビリティ用に修正する際に、より一般的で難しい問題の1つ（複雑な表）に対処します。</em>
+    <em>このオンデマンドセッションでは、アクセシビリティの問題として扱われる複雑なテーブルを扱うPDFの修正に関する一般的で困難な問題を取り上げます</em>
     <br>
   </td>
 </tr>
 <tr>
   <td>
     <a href="accessibilitysession4.md">
-      <img alt="スキャンされたドキュメントと複雑なリスト" src="../assets/Accessibilitysession4_1280.png" />
+      <img alt="スキャンした文書と複雑なリスト" src="../assets/Accessibilitysession4_1280.png" />
     </a>
     <div>
-    <a href="accessibilitysession4.md"><strong>スキャンされたドキュメントと複雑なリスト</strong></a>
+    <a href="accessibilitysession4.md"><strong>スキャンした文書と複雑なリスト</strong></a>
     </div>
-    <em>このオン・デマンド・セッションでは、スキャンされたドキュメントや複雑なリストなど、頻繁に発生する複雑な問題に対処します。</em>
+    <em>このオンデマンドセッションでは、スキャンした文書や複雑なリストなど、多くのユーザーが遭遇するより複雑な問題について説明します</em>
     <br>
   </td>
   <td>
     <a href="accessibilitysession5.md">
-      <img alt="タグ付きPDFへのフォームフィールドの追加" src="../assets/Accessibilitysession5_1280.png" />
+      <img alt="フォームフィールドのタグ付きPDF" src="../assets/Accessibilitysession5_1280.png" />
     </a>
     <div>
-    <a href="accessibilitysession5.md"><strong>タグ付きPDFへのフォームフィールドの追加</strong></a>
+    <a href="accessibilitysession5.md"><strong>フォームフィールドのタグ付きPDF</strong></a>
     </div>
-    <em>このオンデマンドセッションでは、以前にタグ付けされたPDFにフォームフィールドを追加することに重点を置いています</em>
+    <em>このオンデマンドセッションでは、以前にタグ付けしたPDFへのフォームフィールドの追加に重点を置いて説明します</em>
     <br>
   </td>  
   <td>
     <a href="accessibilitysession6.md">
-      <img alt="タグなしPDFへのフォームフィールドの追加" src="../assets/Accessibilitysession6_1280.png" />
+      <img alt="タグなしテンプレートへのフォームフィールドの追加PDF" src="../assets/Accessibilitysession6_1280.png" />
     </a>
     <div>
     <a href="accessibilitysession6.md"><strong>タグなしPDFへのフォームフィールドの追加</strong></a>
     </div>
-    <em>このオンデマンドセッションでは、手動フォームフィールドの作成と追加のフォームフィールドプロパティの作成について詳しく説明します</em>
+    <em>このオンデマンドセッションでは、手動フォームフィールドの作成と、追加のフォームフィールドプロパティについて詳しく説明します</em>
     <br>
   </td> 
 </tr>

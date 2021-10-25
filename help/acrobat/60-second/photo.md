@@ -1,6 +1,6 @@
 ---
 title: 写真のPDFを瞬時に作成
-description: JPGの束をAcrobatアイコンにドラッグアンドドロップしてPDFを作成する方法を説明します。
+description: たくさんのJPGをAcrobatアイコンにドラッグ&ドロップするだけで、PDFを作成できます
 role: User
 product: adobe acrobat
 level: Beginner
@@ -16,6 +16,6 @@ ht-degree: 0%
 
 # 写真のPDFを瞬時に作成
 
-この60秒のビデオチュートリアルでは、JPGの束をAcrobatアイコンにドラッグアンドドロップする方法を学習します。 複数ページのPDFを作成する場合は、[はい]をクリックします。 次に、JPGファイルをページパネルにドラッグするだけで、PDFにページを追加できます。
+この 60 秒のビデオチュートリアルでは、Acrobatアイコンに複数のJPGをドラッグ&amp;ドロップする方法を説明します。 「はい」をクリックして、複数ページのPDFを作成 その後、ページパネルに追加のJPGファイルをドラッグするだけで、PDFに追加のページを追加できます。
 
 >[!VIDEO](https://video.tv.adobe.com/v/336365?hidetitle=true)

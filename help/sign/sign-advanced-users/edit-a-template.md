@@ -1,6 +1,6 @@
 ---
-title: ドキュメントテンプレートの管理
-description: ライブラリからテンプレートを編集または削除する
+title: 文書テンプレートの管理
+description: ライブラリのテンプレートの編集または削除
 role: User, Admin
 product: adobe sign
 solution: Document Cloud
@@ -14,12 +14,12 @@ ht-degree: 0%
 
 ---
 
-# ドキュメントテンプレートの管理
+# 文書テンプレートの管理
 
-ライブラリ内のテンプレートを編集または削除する方法を説明します。
+ライブラリのテンプレートを編集または削除する方法について説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/17346?hidetitle=true)
 
 >[!TIP]
 >
->このビデオは、エクスペリエンス・リーグで無料で入手できる「ユーザー向けの高度なタスク[」コースの一部です。](https://experienceleague.adobe.com/?recommended=Sign-U-1-2020.3)
+>このビデオはコースの一部です [ユーザー向けの高度なタスク](https://experienceleague.adobe.com/?recommended=Sign-U-1-2020.3) それは無料で利用できますExperience League!

@@ -1,6 +1,6 @@
 ---
-title: Adobe Sign for SalesforceとMarketoのビデオチュートリアルを使用して、事前通知を送信する
-description: このビデオチュートリアルでは、契約が一定期間署名されていない場合に、Marketoから電子メールで通知を送信する方法を学習します
+title: Adobe Sign for Salesforce とMarketoのビデオチュートリアルを使用したリマインダーの送信
+description: このビデオチュートリアルでは、契約書が一定期間後も署名されていない場合に、Marketoから電子メールでリマインダーを送信する方法について説明します
 role: Admin
 product: adobe sign
 solution: Adobe Sign, Marketo, Document Cloud
@@ -15,23 +15,23 @@ ht-degree: 0%
 
 ---
 
-# Adobe Sign for SalesforceとMarketoのビデオチュートリアルを使用して、事前通知を送信する
+# Adobe Sign for Salesforce とMarketoのビデオチュートリアルを使用したリマインダーの送信
 
-署名されていない契約に関する電子メールの通知をMarketoから送信する方法を説明します。 この統合では、Adobe Sign、Adobe Sign for Salesforce、Marketo、およびMarketo Salesforce Syncを使用します。
+未署名の契約書に対してMarketoからリマインダーを電子メールで送信する方法について説明します。 この統合では、Adobe Sign、Salesforce 用Adobe Sign、Marketo、Marketo Salesforce Sync を使用します。
 
 ## 前提条件
 
-1. Marketo Salesforce Syncをインストールします。
+1. Marketo Salesforce Sync をインストールします。
 
-   Salesforce Syncの情報と最新のプラグインは、[ここで入手できます。](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/salesforce-sync/understanding-the-salesforce-sync.html)
+   Salesforce Sync の情報と最新のプラグインが利用できます。 [はい。](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/salesforce-sync/understanding-the-salesforce-sync.html)
 
-1. Salesforce用Adobe Signをインストールします。
+1. Salesforce 用Adobe Signをインストールします。
 
-   このプラグインに関する情報は、[ここで入手できます。](https://helpx.adobe.com/ca/sign/using/salesforce-integration-installation-guide.html)
+   このプラグインに関する情報は利用可能です [はい。](https://helpx.adobe.com/ca/sign/using/salesforce-integration-installation-guide.html)
 
 >[!VIDEO](https://video.tv.adobe.com/v/332506?hidetitle=true)
 
 >[!TIP]
 >
->このビデオは、エクスペリエンス・リーグで無料で入手できるAdobe Sign for SalesforceとMarketo](https://experienceleague.adobe.com/?recommended=Sign-U-1-2021.1)を使用して、コース[のセールスサイクルを加速するコースの一部です。
+>このビデオはコースの一部です [Salesforce およびMarketo向けAdobe Signで販売サイクルを加速](https://experienceleague.adobe.com/?recommended=Sign-U-1-2021.1) それは無料で利用できますExperience League!
 

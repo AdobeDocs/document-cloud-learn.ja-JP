@@ -1,6 +1,6 @@
 ---
-title: Adobe Signの液体モード
-description: Liquid Modeがモバイル署名の操作性を向上させる方法を説明します。
+title: Adobe Signの Liquid Mode
+description: Liquid Mode がモバイル署名エクスペリエンスをどのように改善するかご覧ください
 role: User
 product: adobe sign
 level: Beginner
@@ -14,8 +14,8 @@ ht-degree: 0%
 
 ---
 
-# Adobe Signの液体モード
+# Adobe Signの Liquid Mode
 
-液体モードによってモバイル署名の操作性が向上する方法を説明します。 これにより、ピンチとズームが減り、入力可能なフィールドに簡単にフォーカスできます。
+Liquid Mode がモバイル署名エクスペリエンスをどのように向上するかご覧ください。 ピンチングやズームを減らし、入力可能なフィールドに簡単に焦点を合わせることができます。
 
 >[!VIDEO](https://video.tv.adobe.com/v/333803?hidetitle=true)

@@ -1,6 +1,6 @@
 ---
-title: Acrobat DCを使用してどこからでも作業を行うための5つのヒント – デジタル文書の保護
-description: PDFにパスワードを追加して、コピー、編集、印刷を禁止する方法を説明します
+title: Acrobat DCでどこでも作業できる環境を実現するための 5 つのヒント —Protect Digital Documents
+description: コピー、編集、印刷を防止するためにPDFにパスワードを追加する方法を説明します
 role: User
 product: adobe acrobat
 level: Beginner
@@ -13,10 +13,10 @@ ht-degree: 0%
 
 ---
 
-# Acrobat DCを使用してどこからでも作業を行うための5つのヒント – デジタル文書の保護
+# Acrobat DCでどこでも作業できる環境を実現するための 5 つのヒント —Protect Digital Documents
 
-PDFにパスワードを追加して、コピー、編集、印刷を禁止します。
+コピー、編集、印刷を防止するには、PDFにパスワードを追加します。
 
-## ヒント#3 – デジタルドキュメントを保護する(1:23)
+## ヒント#3 -Protectデジタル文書 (1:23)
 
 >[!VIDEO](https://video.tv.adobe.com/v/34510)

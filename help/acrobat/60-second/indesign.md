@@ -1,6 +1,6 @@
 ---
-title: PDFコメントをInDesignに読み込む
-description: Acrobatの共有レビュー後にPDFコメントをInDesignに再び読み込む方法を説明します
+title: PDF注釈の読み込みInDesign
+description: Acrobatの共有レビューの後、PDFのコメントをInDesignに読み込み直す方法について説明します
 role: User
 product: adobe acrobat
 level: Beginner
@@ -14,8 +14,8 @@ ht-degree: 0%
 
 ---
 
-# PDFコメントをInDesignに読み込む
+# PDFコメントのInDesign
 
-この60秒のビデオチュートリアルでは、Acrobatの共有レビュー後にPDFコメントをInDesignに再び読み込む方法を学習します。 このデジタルワークフローは、レコード時間の改訂を完了するのに役立ちます。
+この 60 秒のビデオチュートリアルでは、Acrobatの共有レビューの後にPDFのコメントをInDesignに読み込む方法について説明します。 このデジタルワークフローにより、記録的な速さで修正を完了できます。
 
 >[!VIDEO](https://video.tv.adobe.com/v/336907?hidetitle=true)

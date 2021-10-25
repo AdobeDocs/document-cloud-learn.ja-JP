@@ -1,6 +1,6 @@
 ---
-title: Adobe署名テキストのタグ付け
-description: Adobe Acrobat DCを使用してテキストタグを付けることで、Adobe Signフォームフィールドを作成する方法を説明します
+title: Adobe Sign Text Tagging
+description: Adobe Acrobat DC を使用して、テキストタグによりAdobe Signフォームフィールドを作成する方法について説明します
 role: User, Admin
 product: adobe sign
 solution: Document Cloud
@@ -14,14 +14,14 @@ ht-degree: 0%
 
 ---
 
-# Adobe署名テキストのタグ付け
+# Adobe Sign Text Tagging
 
-この記録済みのウェビナー（登録は不要）では、Adobe Acrobat DCを使用してテキストタグ付けを使用してAdobe Signフォームフィールドを作成する方法を説明します。 テキストのタグ付けを行うと、多くのフォームフィールドを含むドキュメントの作成や修正に要する時間が大幅に短縮されます。 ドキュメントの送信者は、個々のフィールドをすべてのドキュメントに配置する必要はありません。また、別の重要な時間節約にもなります。 その他の利点としては、フォームフィールドの検証（正確でエラーのないデータ収集）や、プロフェッショナルなフォームのデザインの一貫性が挙げられます。 Q&amp;Aポッドを通じて、ウェビナーでご質問をお送りください。 下の画像をクリックして、録画の視聴を開始します。
+このオンラインセミナーでは、Adobe Acrobat DC を使用してテキストタグ付けされたAdobe Signフォームフィールドを作成する方法について説明します（登録は必要ありません）。 テキストタグを使用すると、多くのフォームフィールドを含む文書の作成や修正にかかる時間が大幅に短縮されます。 文書の送信者は、各文書に個別のフィールドを配置する必要がありません。また、時間を大幅に節約できます。 その他の利点として、フォームフィールドの検証（正確でエラーのないデータ収集）やプロフェッショナルなフォームデザインの一貫性があります。 ウェビナーの期間中は、Q&amp;A ポッドを通じて質問をお寄せください。 下の画像をクリックして、録画の視聴を開始します。
 
-[![ウォッチセッション](../assets/Text-Tagging.png)](https://event.on24.com/wcc/r/2338276/415BE4603F60A61A546C0A91528B444F)
+[![セッションを見る](../assets/Text-Tagging.png)](https://event.on24.com/wcc/r/2338276/415BE4603F60A61A546C0A91528B444F)
 
-[Adobe Sign Text Taggingの録画されたウェビナーを見る](https://event.on24.com/wcc/r/2338276/415BE4603F60A61A546C0A91528B444F)
+[Adobe Sign Text Tagging のウェビナーを見る](https://event.on24.com/wcc/r/2338276/415BE4603F60A61A546C0A91528B444F)
 
 >[!TIP]
 >
->このビデオは、エクスペリエンスリーグで無料で利用できる[ユーザー向けの高度なタスク](https://experienceleague.adobe.com/?recommended=Sign-U-1-2020.3)と[管理者向けの高度なタスク](https://experienceleague.adobe.com/?recommended=Sign-A-1-2020.1)のコースの一部です。
+>このビデオは、 [ユーザー向けの高度なタスク](https://experienceleague.adobe.com/?recommended=Sign-U-1-2020.3) および [管理者の高度なタスク](https://experienceleague.adobe.com/?recommended=Sign-A-1-2020.1) コースはExperience Leagueで無料！Experience Leagueで無料！

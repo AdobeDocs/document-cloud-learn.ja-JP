@@ -1,6 +1,6 @@
 ---
-title: Adobe Signのクイックツアー
-description: Adobe Signのクイックツアーを使用して起動と実行を行う
+title: Adobe Signクイックツアー
+description: Adobe Signのクイックツアーをご覧ください
 role: User
 product: adobe sign
 solution: Document Cloud
@@ -14,13 +14,13 @@ ht-degree: 0%
 
 ---
 
-# Adobe Signのクイックツアー
+# Adobe Signクイックツアー
 
-Adobe Signワークスペースのクイックビデオツアーを使用して、起動と実行を行います。
+Adobe Signワークスペースの概要をビデオツアーでご確認ください。
 
 >[!VIDEO](https://video.tv.adobe.com/v/41205?hidetitle=true)
 
 >[!TIP]
 >
->このビデオは、「Adobe Sign](https://experienceleague.adobe.com/?recommended=Sign-U-1-2020.1)のご利用開始」コースの一部で、エクスペリエンスリーグで無料でご利用いただけます。[
+>このビデオはコースの一部です [Adobe Sign入門](https://experienceleague.adobe.com/?recommended=Sign-U-1-2020.1) それは無料で利用できますExperience League!
 

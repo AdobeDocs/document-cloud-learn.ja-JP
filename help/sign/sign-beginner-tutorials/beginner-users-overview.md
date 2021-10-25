@@ -1,6 +1,6 @@
 ---
-title: はじめにの概要
-description: ドキュメントの送信、署名、追跡の方法に関する最新の情報を、これらの簡単なステップバイステップのチュートリアルで入手できます。
+title: 概要
+description: 以下の簡単な手順を踏んだチュートリアルを利用して、文書を送信、署名、トラックする方法を習得しましょう
 role: User
 product: adobe sign
 level: Beginner
@@ -15,9 +15,9 @@ ht-degree: 0%
 
 # 概要
 
-![スタートアップイメージの署名](../assets/Hero-GettingStarted.png)
+![「はじめに」画像に署名](../assets/Hero-GettingStarted.png)
 
-ドキュメントの送信、署名、追跡の方法に関する最新の情報を、これらの簡単なステップバイステップのチュートリアルで入手できます。 Adobe Signのクイックツアーを利用して、1人以上のユーザーにドキュメントを送信します。 このコンテンツは、電子署名のワークフローを容易にするように設計されています。
+以下の簡単な手順を踏んだチュートリアルで、文書を送信、署名、トラックする方法を習得しましょう。 Adobe Signのクイックツアーを入手して、1 人または複数の人に文書を送信することができます。 このコンテンツは、電子サインのワークフローを容易に開始できるように設計されています。
 
 ## 送信
 
@@ -25,53 +25,53 @@ ht-degree: 0%
 <tr>
  <td>
     <a href="quick-tour.md">
-      <img alt="Adobe Signのクイックツアー" src="../assets/Quick-Tour.png" />
+      <img alt="Adobe Signクイックツアー" src="../assets/Quick-Tour.png" />
     </a>
     <div>
-    <a href="quick-tour.md"><strong>Adobe Signのクイックツアー</strong></a>
+    <a href="quick-tour.md"><strong>Adobe Signクイックツアー</strong></a>
     </div>
-    <em>Adobe Signインターフェイスのクイックツアーを使用して起動と実行を行う</em>
+    <em>Adobe Signインターフェイスのクイックツアーを参照して、使い方を学習しましょう</em>
     <br>
   </td>
   <td>
     <a href="send-to-single-recipient.md">
-      <img alt="1人の受信者に送信中" src="../assets/Send-to-single-recipient.png" />
+      <img alt="1 人の受信者への送信" src="../assets/Send-to-single-recipient.png" />
     </a>
     <div>
-    <a href="send-to-single-recipient.md"><strong>1人の受信者に送信中</strong></a>
+    <a href="send-to-single-recipient.md"><strong>1 人の受信者への送信</strong></a>
     </div>
-    <em>ドキュメントを送信して署名を得るのがどれだけ簡単かを確認する</em>
+    <em>すばやく簡単に署名用に文書を送信する方法を確認しましょう</em>
     <br>
   </td>
   <td>
     <a href="send-to-multiple-recipients.md">
-      <img alt="複数の受信者に送信中" src="../assets/Sending-to-multiple-recipients.png" />
+      <img alt="複数の受信者への送信" src="../assets/Sending-to-multiple-recipients.png" />
     </a>
     <div>
-    <a href="send-to-multiple-recipients.md"><strong>複数の受信者に送信中</strong></a>
+    <a href="send-to-multiple-recipients.md"><strong>複数の受信者への送信</strong></a>
     </div>
-    <em>電子署名用のドキュメントを複数のユーザーに送信します。</em>
+    <em>電子サイン用の文書を複数の人に正確に目的の順序で送信できます</em>
     <br>
   </td>
 </tr>
 <tr>
   <td>
     <a href="new-sender.md">
-      <img alt="新しい送信者用のAdobe Signの概要" src="../assets/gettingstartednew.png" />
+      <img alt="新しい送信者のためのAdobe Sign入門" src="../assets/gettingstartednew.png" />
     </a>
     <div>
-    <a href="new-sender.md"><strong>新しい送信者用のAdobe Signの概要</strong></a>
+    <a href="new-sender.md"><strong>新しい送信者のためのAdobe Sign入門</strong></a>
     </div>
-    <em>この包括的なチュートリアルは、Adobe Signの新しい送信者に最適です。</em>
+    <em>この包括的なチュートリアルは、Adobe Signを初めて使用する方に最適です</em>
     <br>
   </td>
   <td>
-    <img alt="スペーサ" src="../assets/Grayspacer.png" />
+    <img alt="スペーサー" src="../assets/Grayspacer.png" />
     <div>
     <br>
   </td>
   <td>
-    <img alt="スペーサ" src="../assets/Grayspacer.png" />
+    <img alt="スペーサー" src="../assets/Grayspacer.png" />
     <div>
     <br>
   </td>
@@ -84,44 +84,44 @@ ht-degree: 0%
 <tr>
   <td>
     <a href="electronically-sign-a-document.md">
-      <img alt="ドキュメントの電子署名" src="../assets/Electronically-sign.png" />
+      <img alt="文書への電子署名" src="../assets/Electronically-sign.png" />
     </a>
     <div>
-    <a href="electronically-sign-a-document.md"><strong>ドキュメントの電子署名</strong></a>
+    <a href="electronically-sign-a-document.md"><strong>文書への電子署名</strong></a>
     </div>
-    <em>Adobe Signで送信されたドキュメントに簡単に署名する方法を説明します</em>
+    <em>Adobe Signで送信された文書に簡単に署名する方法について説明します</em>
     <br>
   </td>
   <td>
     <a href="fill-and-sign.md">
-      <img alt="ドキュメントの入力と署名" src="../assets/FillandSign.png" />
+      <img alt="文書への入力と署名" src="../assets/FillandSign.png" />
     </a>
     <div>
-    <a href="fill-and-sign.md"><strong>ドキュメントの入力と署名</strong></a>
+    <a href="fill-and-sign.md"><strong>文書への入力と署名</strong></a>
     </div>
-    <em>フォームに入力し、電子署名をドキュメントに追加する</em>
+    <em>フォームに入力し、文書に電子サインを追加</em>
     <br>
   </td>
   <td>
     <a href="sign-in-person.md">
-      <img alt="自分で署名を取得する" src="../assets/In-person.png" />
+      <img alt="署名を対面で取得" src="../assets/In-person.png" />
     </a>
     <div>
-    <a href="sign-in-person.md"><strong>自分で署名を取得する</strong></a>
+    <a href="sign-in-person.md"><strong>署名を対面で取得</strong></a>
     </div>
-    <em>Adobe Signモバイルアプリを使用して、他のユーザーの自分の署名を取得する</em>
+    <em>Adobe Signモバイルアプリを使用して、他の人から直接署名を取得</em>
     <br>
   </td>
 </tr>
 <tr>
   <td>
     <a href="sign-with-a-digital-signature.md">
-      <img alt="デジタル署名とは" src="../assets/Whatisdigsig_1280.jpg" />
+      <img alt="電子署名とは" src="../assets/Whatisdigsig_1280.jpg" />
     </a>
     <div>
-    <a href="sign-with-a-digital-signature.md"><strong>デジタル署名とは</strong></a>
+    <a href="sign-with-a-digital-signature.md"><strong>電子署名とは</strong></a>
     </div>
-    <em>証明書ベースのデジタル署名の詳細</em>
+    <em>証明書付き電子署名について</em>
     <br>
   </td>
   <td>
@@ -131,11 +131,11 @@ ht-degree: 0%
     <div>
     <a href="sign-with-a-stamp.md"><strong>スタンプを使用した署名</strong></a>
     </div>
-    <em>印鑑を使用して、ドキュメントを承認または完了済みとマークします</em>
+    <em>スタンプを使用して、文書を承認済みまたは完了済みとしてマーク</em>
      <br>
   </td> 
   <td>
-    <img alt="スペーサ" src="../assets/Grayspacer.png" />
+    <img alt="スペーサー" src="../assets/Grayspacer.png" />
     <div>
     <br>
   </td>
@@ -148,30 +148,30 @@ ht-degree: 0%
 <tr>
   <td>
     <a href="manage-and-track.md">
-      <img alt="ドキュメントの管理と追跡" src="../assets/Managing.png" />
+      <img alt="文書の管理とトラック" src="../assets/Managing.png" />
     </a>
     <div>
-    <a href="manage-and-track.md"><strong>ドキュメントの管理と追跡</strong></a>
+    <a href="manage-and-track.md"><strong>文書の管理とトラック</strong></a>
     </div>
-    <em>署名のために送信した契約を管理および追跡します</em>
+    <em>署名用に送信した契約書の管理とトラック</em>
     <br>
   </td>
   <td>
     <a href="../sign-advanced-users/create-a-template.md">
-      <img alt="ドキュメントテンプレートの作成" src="../assets/Template.png" />
+      <img alt="文書テンプレートの作成" src="../assets/Template.png" />
     </a>
     <div>
-    <a href="../sign-advanced-users/create-a-template.md"><strong>ドキュメントテンプレートの作成</strong></a>
+    <a href="../sign-advanced-users/create-a-template.md"><strong>文書テンプレートの作成</strong></a>
     </div>
-    <em>組織の速度と一貫性を提供する、再利用可能なドキュメントテンプレートを作成します</em>
+    <em>再利用可能な文書テンプレートを作成して、組織に迅速かつ一貫性を提供</em>
     <br>
   </td>
   <td>
     <a href="modify-in-flight.md">
-      <img alt="署名用に既に送信されたドキュメントを変更する" src="../assets/Modifying-sending.png" />
+      <img alt="署名用に既に送信されている文書の変更" src="../assets/Modifying-sending.png" />
     </a>
     <div>
-    <a href="modify-in-flight.md"><strong>署名用に既に送信されたドキュメントを変更する</strong></a>
+    <a href="modify-in-flight.md"><strong>署名用に既に送信されている文書の変更</strong></a>
     </div>
     <br>
     <em>既に進行中のドキュメントのワークフローを変更する</em>

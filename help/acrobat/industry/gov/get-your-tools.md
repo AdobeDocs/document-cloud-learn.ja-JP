@@ -1,6 +1,6 @@
 ---
-title: Acrobat DCを使用してどこからでも作業を行うための5つのヒント – ツールを入手する
-description: Acrobat DCツールとモバイルアプリをどこからでも使用できるようにする方法
+title: Acrobat DCでどこでも作業できる 5 つのヒント — ツールを入手
+description: Acrobat DCのツールと関連するモバイルアプリをどこからでも使用する方法について説明します
 role: User
 product: adobe acrobat
 level: Beginner
@@ -13,10 +13,10 @@ ht-degree: 0%
 
 ---
 
-# Acrobat DCを使用してどこからでも作業を行うための5つのヒント – ツールを入手する
+# Acrobat DCでどこでも作業できる 5 つのヒント — ツールを入手
 
-どこからでも作業を開始するには、まずAcrobat DCツールとモバイルアプリを入手します。
+どこからでも作業を開始するための最初のステップは、Acrobat DCツールと関連するモバイルアプリを入手することです。
 
-## ヒント#1 – ツールを入手する(2:59)
+## ヒント#1 — ツールを入手する (2:59)
 
 >[!VIDEO](https://video.tv.adobe.com/v/34290)

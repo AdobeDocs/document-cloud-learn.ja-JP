@@ -1,6 +1,6 @@
 ---
-title: ファイルを1つのPDFに結合
-description: PDF、Word、Excel、PowerPoint、JPEGなど、さまざまな種類のファイルを1つのPDFに結合
+title: Combine Filesを単一のPDFに
+description: PDF、Word、Excel、PowerPoint、JPEGなど、様々な種類のファイルを 1 つのPDFに
 role: User
 product: adobe acrobat
 level: Beginner
@@ -13,8 +13,8 @@ ht-degree: 0%
 
 ---
 
-# ファイルを1つのPDFに結合する
+# ファイルを 1 つのPDFに
 
-さまざまな種類のファイル（PDF、Word、Excel、PowerPoint、JPEGなど）を組み合わせる方法を説明します。 を1つのPDFに変換します。 ファイルを1つのPDFに結合すると、他のユーザーに送信するコンテンツを管理および制御でき、より優れた操作性を実現できます。
+様々な種類のファイル (PDF、Word、Excel、PowerPoint、JPEGなど ) を 単一のPDFに ファイルを単一のPDFに結合すると、他のユーザーに送信するコンテンツを管理および制御して、より優れたエクスペリエンスを作成できます。
 
 >[!VIDEO](https://video.tv.adobe.com/v/35452?hidetitle=true)

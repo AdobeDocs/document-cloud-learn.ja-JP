@@ -1,6 +1,6 @@
 ---
-title: 概要の作成
-description: JavaScript、プラグイン、またはIACを使用してAcrobatおよびAdobe Readerと統合するソフトウェアを開発する
+title: 現像の概要
+description: JavaScript、プラグインまたは IAC を使用して、AcrobatおよびAdobe Readerと統合するソフトウェアを開発します
 role: Developer
 product: adobe acrobat
 level: Intermediate
@@ -8,22 +8,22 @@ thumbnail: KT-6861.jpg
 exl-id: 6cb60610-ee77-4212-b9a4-8e078593be29
 source-git-commit: ef4a9f39084c7803a9e277182534376298e8fc7f
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '94'
+ht-degree: 5%
 
 ---
 
-# 概要の作成
+# 現像の概要
 
-![Acrobat画像の作成](../assets/Hero-Develop.png)
+![Acrobat Develop Image](../assets/Hero-Develop.png)
 
-JavaScript、プラグイン、またはIACを使用して、AcrobatおよびAdobe Readerと統合するソフトウェアを開発します。
+JavaScript、プラグインまたは IAC を使用して、AcrobatおよびAdobe Readerと統合するソフトウェアを開発します。
 
 ## Acrobat SDK
 
-[Acrobat DC SDK](https://www.adobe.io/apis/documentcloud/acrobat.html){target=&quot;_blank&quot;}は、Acrobatテクノロジと連携するソフトウェアの開発に役立つツールのセットです。
+この [Acrobat DC SDK](https://www.adobe.io/apis/documentcloud/acrobat.html){target=&quot;_blank&quot;} は、Acrobatテクノロジーと連携するソフトウェアの開発に役立つ一連のツールです。
 
-## Adobe Document Services API
+## Adobeドキュメントサービス API
 
-[PDFの埋め込み表示と操作を行うAPI](https://www.adobe.io/apis/documentcloud/dcsdk/) {target=&quot;_blank&quot;} 
-[Adobe Document Servicesチュートリアル](https://experienceleague.adobe.com/docs/document-services/tutorials/overview.html){target=&quot;_blank&quot;}
+[埋め込み型の表示および操作PDF](https://www.adobe.io/apis/documentcloud/dcsdk/){target=&quot;_blank&quot;}
+[Adobeドキュメントサービスのチュートリアル](https://experienceleague.adobe.com/docs/document-services/tutorials/overview.html){target=&quot;_blank&quot;}

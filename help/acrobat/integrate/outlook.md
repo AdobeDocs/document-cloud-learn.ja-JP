@@ -1,6 +1,6 @@
 ---
-title: ' [!DNL Outlook]の電子メールメッセージと添付ファイルをPDFに変換'
-description: ' [!DNL Outlook]の内部で、よりプロフェッショナルで安全な方法で情報を配信する方法を学ぶ'
+title: 電子メールメッセージと添付ファイルを [!DNL Outlook]
+description: よりプロフェッショナルで安全な方法で [!DNL Outlook]
 role: User
 product: adobe acrobat
 level: Beginner
@@ -15,8 +15,8 @@ ht-degree: 0%
 
 ---
 
-# [!DNL Outlook]で電子メールメッセージと添付ファイルをPDFに変換
+# 電子メールメッセージと添付ファイルのPDFへの変換 [!DNL Outlook]
 
-電子メールメッセージと添付ファイルを[!DNL Outlook]のPDFにアーカイブして、プロジェクト用に作成する方法を説明します。 添付ファイルをPDFに自動的に変換することで、よりプロフェッショナルで安全な方法で情報を配信できます。 このツールはWindowsでのみ使用できます。
+電子メールメッセージと添付ファイルを [!DNL Outlook] プロジェクトに最適です。 添付ファイルを自動的に情報に変換することで、よりプロフェッショナルで安全な方法で情報を提供する方法についてPDFします。 このツールは Windows でのみ使用できます。
 
 >[!VIDEO](https://video.tv.adobe.com/v/336859?hidetitle=true)

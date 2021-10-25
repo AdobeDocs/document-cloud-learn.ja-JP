@@ -1,6 +1,6 @@
 ---
-title: デジタル署名とは
-description: 証明書ベースのデジタル署名の詳細
+title: 電子署名とは
+description: 証明書付き電子署名について
 role: User
 product: adobe sign
 solution: Document Cloud
@@ -15,8 +15,8 @@ ht-degree: 0%
 
 ---
 
-# デジタル署名とは
+# 電子署名とは
 
-世界中で最も厳しい法規制に準拠し、署名者の身元に対する最高レベルの保証を提供する、証明書ベースのデジタル署名について説明します。
+世界で最も厳格な法的規制に準拠し、署名者の ID について最高レベルの保証を提供する、証明書ベースの電子署名について説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/337130?hidetitle=true)

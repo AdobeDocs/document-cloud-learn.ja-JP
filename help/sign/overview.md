@@ -40,7 +40,7 @@ Adobe Document CloudソリューションであるAdobe Signは、統合、API�
     <div>
     <a href="sign-advanced-users/advanced-users-overview.md"><strong>高度なタスク</strong></a>
     </div>
-    <em>特定のタスクや自動化を基本から脱却</em>
+    <em>特定のタスクと自動化で基本を超える</em>
     <br>
   </td>  
   <td>

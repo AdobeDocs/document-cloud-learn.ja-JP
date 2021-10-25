@@ -1,6 +1,6 @@
 ---
-title: スタンプで署名
-description: スタンプを使用してドキュメントを承認または完了済みにマークする方法を説明します
+title: スタンプによる署名
+description: スタンプを使用して、文書を承認済みまたは完了済みとしてマークする方法を説明します。
 role: User
 product: adobe sign
 solution: Document Cloud
@@ -14,8 +14,8 @@ ht-degree: 0%
 
 ---
 
-# 切手で署名する
+# スタンプによる署名
 
-スタンプを使用して、ドキュメントを承認または完了済みにマークする方法を説明します。
+スタンプを使用して、文書が承認または完了したことをマークする方法について説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/20703?hidetitle=true)

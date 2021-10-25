@@ -1,6 +1,6 @@
 ---
-title: PDFアクセシビリティの概要
-description: このセッションでは、PDFをアクセス可能にする方法、PDFにアクセシビリティを持たせるためにAcrobat Pro DCを設定する方法、およびソース文書からPDFへの変換プロセスについて説明します
+title: アクセシビリティPDFの概要
+description: このセッションでは、PDFをアクセシブルにすることの意味、アクセシビリティに対応したPDFで作業するためのAcrobat Pro DCの設定方法、ソースドキュメントからPDFへの変換プロセスについて説明します
 role: User
 product: adobe acrobat
 level: Experienced
@@ -14,12 +14,12 @@ ht-degree: 0%
 
 ---
 
-# PDFアクセシビリティの概要
+# アクセシビリティPDFの概要
 
-このセッションでは、PDFをアクセス可能にする方法、PDFにアクセシビリティを持たせるためにAcrobat Pro DCを設定する方法、およびソース文書からPDFへの変換プロセスについて説明します。
+このセッションでは、PDFをアクセシブルにすることの意味、アクセシビリティに対応したPDFで作業するためのAcrobat Pro DCの設定方法、ソースドキュメントからPDFへの変換プロセスについて説明します。
 
-[ここ](../assets/accessibilitysession1.zip)をクリックして、実践的なセッションファイルのzipフォルダをダウンロードします。
+クリック [ここ](../assets/accessibilitysession1.zip) 実践セッションファイルの zip フォルダーをダウンロードします。
 
-別のブラウザタブでビデオを表示するには、画像を選択します。
+画像を選択して、別のブラウザータブでビデオを表示します。
 
-[![セッション1ビデオ](../assets/Accessibilitysession1_YT.png)](https://www.youtube.com/embed/DaadHIWHgzU){target=&quot;_blank&quot;}
+[![セッション 1 のビデオ](../assets/Accessibilitysession1_YT.png)](https://www.youtube.com/embed/DaadHIWHgzU){target=&quot;_blank&quot;}

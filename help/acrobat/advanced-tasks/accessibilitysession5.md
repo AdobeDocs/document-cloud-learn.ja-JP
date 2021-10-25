@@ -1,6 +1,6 @@
 ---
-title: タグ付きPDFへのフォームフィールドの追加
-description: このオンデマンドセッションでは、以前にタグ付けされたPDFにフォームフィールドを追加することに重点を置いています
+title: フォームフィールドのタグ付きPDF
+description: このオンデマンドセッションでは、以前にタグ付けしたPDFへのフォームフィールドの追加に重点を置いて説明します
 role: User
 product: adobe acrobat
 level: Experienced
@@ -14,12 +14,12 @@ ht-degree: 0%
 
 ---
 
-# タグ付きPDFへのフォームフィールドの追加
+# フォームフィールドのタグ付きPDF
 
-このオンデマンドセッションでは、以前にタグ付けされたPDFにフォームフィールドを追加することに重点を置いています。
+このオンデマンドセッションでは、前にタグ付けしたセッションへのフォームフィールドの追加に重点を置いてPDFします。
 
-[ここ](../assets/accessibilitysession5.zip)をクリックして、このセッションの実際のファイルのzipファイルをダウンロードします。
+クリック [ここ](../assets/accessibilitysession5.zip) このセッションの実践ファイルの zip ファイルをダウンロードします。
 
-別のブラウザタブでビデオを表示するには、画像を選択します。
+画像を選択して、別のブラウザータブでビデオを表示します。
 
-[![セッション5ビデオ](../assets/Accessibilitysession5_YT.png)](https://youtu.be/vaM9R-mt5Jo){target=&quot;_blank&quot;}
+[![セッション 5 のビデオ](../assets/Accessibilitysession5_YT.png)](https://youtu.be/vaM9R-mt5Jo){target=&quot;_blank&quot;}

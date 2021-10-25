@@ -1,6 +1,6 @@
 ---
-title: ' [!DNL Intesi Group]を使用して署名中'
-description: ' [!DNL Intesi Group] デジタルIDをAdobe Signで使用する方法'
+title: 使用した署名 [!DNL Intesi Group]
+description: ここでは、 [!DNL Intesi Group] Adobe Signによるデジタル ID
 role: User
 product: adobe sign
 solution: Document Cloud
@@ -15,8 +15,8 @@ ht-degree: 0%
 
 ---
 
-# [!DNL Intesi Group]を使用して署名中
+# 使用した署名 [!DNL Intesi Group]
 
-[!DNL Intesi Group]デジタルIDを使用してIDを認証し、ドキュメント上のリモートデジタル署名（クラウド署名）を承認する方法を説明します。
+ここでは、 [!DNL Intesi Group] デジタル ID を使用して、ID を認証し、文書に対するリモート電子署名（クラウド署名）を認証します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/336989?hidetitle=true)

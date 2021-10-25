@@ -1,6 +1,6 @@
 ---
 title: タグなしPDFへのフォームフィールドの追加
-description: このオンデマンドセッションでは、手動フォームフィールドの作成と追加のフォームフィールドプロパティの作成について詳しく説明します
+description: このオンデマンドセッションでは、手動フォームフィールドの作成と、追加のフォームフィールドプロパティについて詳しく説明します
 role: User
 product: adobe acrobat
 level: Experienced
@@ -14,12 +14,12 @@ ht-degree: 0%
 
 ---
 
-# タグなしPDFへのフォームフィールドの追加
+# タグなしテンプレートへのフォームフィールドの追加PDF
 
-このオンデマンドセッションでは、手動フォームフィールドの作成と追加のフォームフィールドプロパティの作成について詳しく説明します。
+このオンデマンドセッションでは、手動フォームフィールドの作成と、追加のフォームフィールドプロパティについて詳しく説明します。
 
-[ここ](../assets/accessibilitysession6.zip)をクリックして、このセッションの実際のファイルのzipファイルをダウンロードします。
+クリック [ここ](../assets/accessibilitysession6.zip) このセッションの実践ファイルの zip ファイルをダウンロードします。
 
-別のブラウザタブでビデオを表示するには、画像を選択します。
+画像を選択して、別のブラウザータブでビデオを表示します。
 
-[![セッション6ビデオ](../assets/Accessibilitysession6_YT.png)](https://youtu.be/xh4pJQiY0nw){target=&quot;_blank&quot;}
+[![セッション 6 のビデオ](../assets/Accessibilitysession6_YT.png)](https://youtu.be/xh4pJQiY0nw){target=&quot;_blank&quot;}

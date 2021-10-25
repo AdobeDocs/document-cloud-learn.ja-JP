@@ -1,6 +1,6 @@
 ---
-title: ドキュメントテンプレートの作成
-description: 再利用可能なドキュメントテンプレートを作成し、速度と一貫性を提供
+title: 文書テンプレートの作成
+description: 再利用可能な文書テンプレートを作成して、すばやく一貫性を保つ
 role: User, Admin
 product: adobe sign
 solution: Document Cloud
@@ -14,12 +14,12 @@ ht-degree: 0%
 
 ---
 
-# ドキュメントテンプレートの作成
+# 文書テンプレートの作成
 
-再利用可能なドキュメントテンプレートを作成し、Adobe Signライブラリに追加して将来使用する方法を説明します。 ドキュメントテンプレートは、署名トランザクションの速度と一貫性を提供し、ドキュメントの改訂と変更を管理する機能を提供します。
+再利用可能な文書テンプレートを作成し、後で使用するためにAdobe Signライブラリに追加する方法について説明します。 文書テンプレートを使用すると、署名トランザクションの速度と一貫性を維持し、文書の改訂と変更を管理できます。
 
 >[!VIDEO](https://video.tv.adobe.com/v/38037?hidetitle=true)
 
 >[!TIP]
 >
->このビデオは、「Adobe Sign](https://experienceleague.adobe.com/?recommended=Sign-U-1-2020.1)のご利用開始」コースの一部で、エクスペリエンスリーグで無料でご利用いただけます。[
+>このビデオはコースの一部です [Adobe Sign入門](https://experienceleague.adobe.com/?recommended=Sign-U-1-2020.1) それは無料で利用できますExperience League!

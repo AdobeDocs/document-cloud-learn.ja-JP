@@ -1,6 +1,6 @@
 ---
 title: レポートの作成
-description: Adobe Signでレポートを実行、保存、スケジュールする方法を説明します
+description: Adobe Signでレポートを実行、保存、スケジュールする方法について説明します
 role: User, Admin
 product: adobe sign
 solution: Document Cloud
@@ -16,10 +16,10 @@ ht-degree: 0%
 
 # レポートの作成
 
-このビデオチュートリアルでは、Adobe Signでレポートを実行、保存、およびスケジュール設定する方法を学習します。
+このビデオチュートリアルでは、Adobe Signでレポートを実行、保存、スケジュールする方法について説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/17357?hidetitle=true)
 
 >[!TIP]
 >
->このビデオは、「Adobe Sign for Administrators」コース[の「Getting Started with Adobe Sign for Administrators](https://experienceleague.adobe.com/?recommended=Sign-A-1-2020.2)」コースの一部で、エクスペリエンス・リーグで無料で入手できます。
+>このビデオはコースの一部です [管理者向けAdobe Sign入門](https://experienceleague.adobe.com/?recommended=Sign-A-1-2020.2) それは無料で利用できますExperience League!

@@ -1,6 +1,6 @@
 ---
 title: PDF の作成
-description: さまざまな種類のドキュメントからPDFを作成
+description: すべてのPDFタイプのドキュメントからのドキュメントの作成
 role: User
 product: adobe acrobat
 level: Beginner
@@ -15,6 +15,6 @@ ht-degree: 12%
 
 # PDF の作成
 
-さまざまな種類のドキュメントからPDFを作成する方法を説明します。 Microsoft OfficeまたはCreative Cloudアプリで作成したファイルを使用するか、イメージ、スキャン、またはWebサイトを使用します。
+様々な種類のドキュメントからPDFを作成する方法について説明します。 Microsoft Office やCreative Cloudアプリで作成したファイルから始めたり、画像、スキャン、web サイトを使用したりできます。
 
 >[!VIDEO](https://video.tv.adobe.com/v/35491?hidetitle=true)

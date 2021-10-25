@@ -1,6 +1,6 @@
 ---
-title: デジタルIDの概要
-description: Adobe Signを使用して、世界中のデジタルIDを使用する方法を学習します
+title: デジタル ID の概要
+description: Adobe Signで世界中のデジタル ID を使用する方法
 role: User
 product: adobe sign
 level: Beginner
@@ -9,20 +9,20 @@ kt: 8990
 exl-id: 753b7016-6331-40df-9003-5acee8be752a
 source-git-commit: 30917ce6eb6d682649a21d486eefa9482339410e
 workflow-type: tm+mt
-source-wordcount: '247'
+source-wordcount: '214'
 ht-degree: 0%
 
 ---
 
-# デジタルIDの概要
+# デジタル ID の概要
 
-![デジタルIDイメージに署名](../assets/Hero-DigitalID.png)
+![デジタル ID 画像に署名](../assets/Hero-DigitalID.png)
 
-電子形式のパスポートと同様に、デジタルID（デジタルID）を使用すると、自分が自分であることを確実に証明できます。 また、Adobe Signで電子署名を行う場合、デジタルIDを使用すると、特定のドキュメントに対して電子署名を承認したことをより高いレベルで保証できます。 次のチュートリアルでは、Adobe Signを使用して世界中のデジタルIDを使用する方法を示します。
+電子パスポートと同様に、デジタル ID を使用すると、本人確認を安全に行うことができます。 また、Adobe Signで電子サインする場合は、デジタル ID を使用することで、その文書に対して電子サインを認証したことを保証できます。 次のチュートリアルは、Adobe Signで世界中のデジタル ID を使用する方法を示しています。
 
 >[!NOTE]
 >
->クラウド署名付きのデジタルIDを使用する前に、組織の管理者に問い合わせて、プロバイダのソリューションがAdobe Signで有効になっていることを確認してください。
+>クラウド署名でデジタル ID を使用する前に、Adobe Signでプロバイダーのソリューションが有効になっていることを組織の管理者に確認してください。
 
 ## [!DNL Digidentity]
 
@@ -30,26 +30,26 @@ ht-degree: 0%
 <tr>
  <td>
     <a href="digidentity-reg.md">
-      <img alt="[!DNL Digidentity]からデジタルIDを取得する" src="assets/Digidentityreg_1280.png" />
+      <img alt="デジタル ID の取得元 [!DNL Digidentity]" src="assets/Digidentityreg_1280.png" />
     </a>
     <div>
-    <a href="digidentity-reg.md"><strong>[!DNL Digidentity]からデジタルIDを取得する</strong></a>
+    <a href="digidentity-reg.md"><strong>デジタル ID の取得元 [!DNL Digidentity]</strong></a>
     </div>
-    <em>[!DNL Digidentity]からデジタル署名証明書を取得する方法を説明します</em>
+    <em>電子署名証明書を [!DNL Digidentity]</em>
     <br>
   </td>
   <td>
     <a href="digidentity-sign.md">
-      <img alt="[!DNL Digidentity]を使用して署名しています" src="assets/Digidentitysign_1280.png" />
+      <img alt="使用した署名 [!DNL Digidentity]" src="assets/Digidentitysign_1280.png" />
     </a>
     <div>
-    <a href="digidentity-sign.md"><strong>[!DNL Digidentity]を使用して署名しています</strong></a>
+    <a href="digidentity-sign.md"><strong>使用した署名 [!DNL Digidentity]</strong></a>
     </div>
-    <em>[!DNL Digidentity]デジタルIDをAdobe Signで使用する方法を説明します</em>
+    <em>ここでは、 [!DNL Digidentity] Adobe Signによるデジタル ID</em>
     <br>
   </td>
   <td>
-    <img alt="スペーサ" src="../assets/Whitespacer.png" />
+    <img alt="スペーサー" src="../assets/Whitespacer.png" />
     <div>
     <br>
   </td>
@@ -62,32 +62,32 @@ ht-degree: 0%
 <tr>
   <td>
     <a href="intesi-advanced.md">
-      <img alt="インテジグループからデジタルIDを取得する（詳細）" src="assets/IntesiAdvanced_1280.png" />
+      <img alt="Intesi Group からデジタル ID を取得（高度）" src="assets/IntesiAdvanced_1280.png" />
     </a>
     <div>
-    <a href="intesi-advanced.md"><strong>[!DNL Intesi Group] （詳細設定）からデジタルIDを取得する</strong></a>
+    <a href="intesi-advanced.md"><strong>デジタル ID の取得元 [!DNL Intesi Group] （詳細）</strong></a>
     </div>
-    <em>[!DNL Intesi Group]から高度なデジタル署名証明書を取得する方法を説明します</em>
+    <em>高度な電子署名証明書を [!DNL Intesi Group]</em>
     <br>
   </td>
   <td>
     <a href="intesi-qualified.md">
-      <img alt="[!DNL Intesi Group] (Qualified)からデジタルIDを取得する" src="assets/IntesiQualified_1280.png" />
+      <img alt="デジタル ID の取得元 [!DNL Intesi Group] （対象）" src="assets/IntesiQualified_1280.png" />
     </a>
     <div>
-    <a href="intesi-qualified.md"><strong>[!DNL Intesi Group] (Qualified)からデジタルIDを取得する</strong></a>
+    <a href="intesi-qualified.md"><strong>デジタル ID の取得元 [!DNL Intesi Group] （対象）</strong></a>
     </div>
-    <em>[!DNL Intesi Group]から資格付きデジタル署名証明書を取得する方法を説明します</em>
+    <em>適格電子署名証明書を [!DNL Intesi Group]</em>
     <br>
   </td>
   <td>
     <a href="intesi-sign.md">
-      <img alt="インテジグループを使用した署名" src="assets/IntesiSign_1280.png" />
+      <img alt="Intesi Group を使用した署名" src="assets/IntesiSign_1280.png" />
     </a>
     <div>
-    <a href="intesi-sign.md"><strong>[!DNL Intesi Group]を使用して署名しています</strong></a>
+    <a href="intesi-sign.md"><strong>使用した署名 [!DNL Intesi Group]</strong></a>
     </div>
-    <em>[!DNL Intesi Group]デジタルIDをAdobe Signで使用する方法を説明します</em>
+    <em>ここでは、 [!DNL Intesi Group] Adobe Signによるデジタル ID</em>
     <br>
   </td>
 </tr>

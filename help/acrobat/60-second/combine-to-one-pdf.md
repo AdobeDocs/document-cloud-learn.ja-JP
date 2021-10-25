@@ -1,6 +1,6 @@
 ---
-title: ファイルを1つのPDFに結合
-description: 複数の異なる種類のファイルを1つのPDFに組み合わせて、ドキュメントをすばやく作成
+title: Combine Filesを 1 つのPDFに
+description: 複数の異なる種類のファイルを 1 つのファイルに結合して、ドキュメントをすばやく作成するPDF
 role: User
 product: adobe acrobat
 level: Beginner
@@ -14,8 +14,8 @@ ht-degree: 0%
 
 ---
 
-# ファイルを1つのPDFに結合する
+# ファイルを 1 つのPDFに
 
-この60秒のビデオチュートリアルでは、複数の異なる種類のファイルを1つのPDFに組み合わせて、ドキュメントをすばやく作成する方法を学習します。
+この 60 秒のビデオチュートリアルでは、様々な種類のファイルを組み合わせて 1 つのドキュメントを作成する方法をPDFします。
 
 >[!VIDEO](https://video.tv.adobe.com/v/336361?hidetitle=true)

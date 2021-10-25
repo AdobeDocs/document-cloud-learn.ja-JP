@@ -1,6 +1,6 @@
 ---
 title: Adobe Sign Skill Builder
-description: Adobe Sign Skill Buildersは、1日に余分な作業を加えることなく、電子署名を機能させる30分間のセッションです。
+description: Adobe Sign Skill Builders は、1 日の作業を増やすことなく、電子サインを機能させるために用意された 30 分間のセッションです
 role: User
 product: adobe sign
 level: Intermediate
@@ -16,26 +16,26 @@ ht-degree: 0%
 
 # Adobe Sign Skill Builder
 
-![Skill Builderバナー](../assets/SB_Hero.png)
+![スキルビルダーバナー](../assets/SB_Hero.png)
 
-Adobe Sign Skill Buildersは、1日に余分な作業を加えることなく、電子署名を機能させる30分間のセッションです。 毎月、新しいトピックが強調表示されます。
+Adobe Sign Skill Builders は、1 日の作業を増やすことなく、電子サインを機能させるために用意された 30 分間のセッションです。 月ごとに新しいトピックがハイライトされます。
 
-## 月次セッション
+## 月間セッション
 
-* **[Adobe Sign for Microsoft Power Automate](https://sign-skillbuilder-july.joinus.adobeevents.com/)**
-{target=&quot;_blank&quot;}日付：2021年7月22日電子署名ワークフローから手動プロセスを取り除く方法を説明します。Microsoft Power Automate用のAdobe Signコネクタを使用すると、Adobe Sign契約に対する単純な自動化または複雑な自動化を簡単に設定できます。 署名されたドキュメントをSharePointに自動的にルーティングできます。契約名にカスタム情報を追加するWebフォームフィールドをCSVデータにマップするそしてもっと多くの このセッションでは、Adobe Sign for Microsoft Power Automateを使用して可能な機能について説明します。
+* **[Microsoft Power Automate 向けAdobe Signによる容易な自動化](https://sign-skillbuilder-july.joinus.adobeevents.com/){target=&quot;_blank&quot;}**
+日付：2021 年 7 月 22 日電子サインワークフローから手動プロセスを排除する方法について説明します。 Microsoft Power Automate 用Adobe Signコネクタを使用すると、Adobe Sign契約書に対してシンプルまたは複雑なオートメーションを簡単に設定できます。 署名済み文書を自動的にSharePointに転送できます。契約書名へのカスタム情報の追加web フォームフィールドを CSV データにマッピングその他 このセッションでは、Microsoft Power Automate に対応したAdobe Signで実現できる機能について説明します。
 
-* **[12.2リリースのオンデマンド記録](https://event.on24.com/wcc/r/3163201/07B1E175783B1F37248E7AE08091D6C6){target=&quot;_blank&quot;}日**
-付：2021年6月17日Adobe Sign 12.2リリースの新機能を確認します。最新の更新プログラムは次のとおりです。複数署名者のWebフォームのサポート。複数のグループ、液体モード、およびURLを変更せずにシームレスに更新できるWebフォームにユーザーを割り当てます。
+* **[12.2 リリースオンデマンド録画](https://event.on24.com/wcc/r/3163201/07B1E175783B1F37248E7AE08091D6C6){target=&quot;_blank&quot;}**
+日付：2021 年 6 月 17 日Adobe Sign 12.2 リリースの新機能を確認します。 最新のアップデートは次のとおりです。複数署名者の Web フォームのサポート、複数のグループへのユーザーの割り当て、Liquid Mode、URL を変更せずにシームレスに更新できる Web フォーム。
 
-* **[電子署名のオンデマンド記録用にドキュメントを準備しています](https://event.on24.com/wcc/r/3121756/E99C17996EB39D270728FC57D062F46B){target=&quot;_blank&quot;}**
-日付：2021年5月20日PDFフォームのフィールドとテキストタグを使用して、時間の節約、クリックの節約、エラーの軽減を行う方法について説明します。
+* **[電子サインのオンデマンド記録用に文書を準備する](https://event.on24.com/wcc/r/3121756/E99C17996EB39D270728FC57D062F46B){target=&quot;_blank&quot;}**
+日付：2021 年 5 月 20 日PDFフォームフィールドとテキストタグを使用して、時間を節約し、クリック数を減らし、エラーを減らす方法について説明します。
 
-* **[メガサインとWebフォームのオンデマンド記録](https://event.on24.com/wcc/r/3032025/7FF45B7F803724D32534FD1B0D610AD6){target=&quot;_blank&quot;}日付**
-:2021年4月15日オンラインでドキュメントを入力および署名できるWebフォームの作成方法と、1回のクリックで1つのドキュメントを複数のユーザーに送信するメガサインを使用する方法を説明します。
+* **[Mega サインと web フォームのオンデマンド録画](https://event.on24.com/wcc/r/3032025/7FF45B7F803724D32534FD1B0D610AD6){target=&quot;_blank&quot;}**
+日付：2021 年 4 月 15 日個々のユーザーがオンラインで文書への入力と署名ができる Web フォームの作成方法と、Mega Sign を使用して 1 つの文書を複数のユーザーに 1 クリックで送信する方法について説明します。
 
-* **[ワークフローデザイナのオンデマンド記録](https://event.on24.com/wcc/r/3031957/7D9B2B2431639F2D6B91449B932F6632){target=&quot;_blank&quot;}**
-日付：2021年3月25日Adobe Signで自動化ワークフローを作成し、手動タスクを削減し、人為的なエラーを減らす方法を説明します。ワークフローデザイナを使用すると、ビジュアルデザインツールを使用して、ドキュメントワークフロー内のすべてのタスクを最初から最後まで自動化できます。 署名者を特定の文書に事前設定し、承認や認定のために自動的にルーティングします。
+* **[ワークフローデザイナーのオンデマンド録画](https://event.on24.com/wcc/r/3031957/7D9B2B2431639F2D6B91449B932F6632){target=&quot;_blank&quot;}**
+日付：2021 年 3 月 25 日Adobe Signで自動化ワークフローを作成して、手作業を減らし、人為的ミスを減らす方法について説明します。 ワークフローデザイナーでは、ビジュアルデザインツールを使用して、ドキュメントワークフローのすべてのタスクを最初から最後まで自動化できます。 特定の文書に対して署名者を事前に設定しておき、自動的にルーティングして承認や証明用に送信するなど、様々な機能が用意されています。
 
-* **[ユーザー管理とグループのオンデマンド記録](https://event.on24.com/wcc/r/2954084/6EEDCD348E72E9C8E64F5B7E4ADB4642){target=&quot;_blank&quot;}日**
-付：2021年2月11日Adobe Signで効率的で大規模なユーザー管理を可能にする方法を学ぶには、組織の構造をより適切に反映するグループを作成します。必要なすべての資産、ライブラリテンプレート、ワークフローにユーザーがアクセスできるようにし、アカウント管理者は複数のグループにわたって管理、管理、レポート作成を行うことができます。
+* **[ユーザー管理とグループのオンデマンド録画](https://event.on24.com/wcc/r/2954084/6EEDCD348E72E9C8E64F5B7E4ADB4642){target=&quot;_blank&quot;}**
+日付：2021 年 2 月 11 日組織の構造を反映したグループを作成することで、Adobe Signで効率的かつ大規模なユーザー管理を可能にする方法について説明します。 ユーザーに必要なすべてのアセット、ライブラリテンプレート、ワークフローへのアクセス権を付与すると同時に、アカウント管理者は複数のグループにわたる管理、レポートを実行できます。

@@ -1,6 +1,6 @@
 ---
-title: PDFはどこから入手できますか。
-description: PDFの出所と用途を理解する
+title: PDFの出所
+description: PDFの出所と用途
 role: User
 product: adobe acrobat
 level: Beginner
@@ -13,8 +13,8 @@ ht-degree: 0%
 
 ---
 
-# PDFはどこから入手できますか。
+# PDFの出所
 
-PDFの出所と、デジタルワークフローでのPDFの使用方法を説明します。
+PDFの出所とデジタルワークフローでの活用方法を説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/17096?hidetitle=true)

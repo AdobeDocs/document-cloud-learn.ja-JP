@@ -1,6 +1,6 @@
 ---
-title: ドキュメントの管理と追跡
-description: 署名用に送信した契約を管理および追跡する方法を説明します
+title: 文書の管理とトラック
+description: 署名用に送信した契約書を管理およびトラックする方法について説明します。
 role: User
 product: adobe sign
 solution: Document Cloud
@@ -14,12 +14,12 @@ ht-degree: 0%
 
 ---
 
-# ドキュメントの管理と追跡
+# 文書の管理とトラック
 
-Adobe Signで署名用に送信したドキュメントを管理および追跡する方法を説明します。
+Adobe Signで署名用に送信した文書を管理およびトラックする方法について説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/17341?hidetitle=true)
 
 >[!TIP]
 >
->このビデオは、「Adobe Sign](https://experienceleague.adobe.com/?recommended=Sign-U-1-2020.1)のご利用開始」コースの一部で、エクスペリエンスリーグで無料でご利用いただけます。[
+>このビデオはコースの一部です [Adobe Sign入門](https://experienceleague.adobe.com/?recommended=Sign-U-1-2020.1) それは無料で利用できますExperience League!

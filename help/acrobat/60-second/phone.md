@@ -1,6 +1,6 @@
 ---
-title: PPTファイルを電話でPDFに変換する
-description: 電話でPowerPointの添付ファイルをPDFに変換する方法を説明します
+title: スマートフォンで PPT ファイルをPDFに変換
+description: 電子メールの PowerPoint 添付ファイルをスマートフォンのPDFに変換する方法
 role: User
 product: adobe acrobat
 level: Beginner
@@ -14,8 +14,8 @@ ht-degree: 0%
 
 ---
 
-# PPTファイルを電話でPDFに変換する
+# スマートフォンで PPT ファイルをPDFに変換
 
-この60秒のビデオチュートリアルでは、PowerPointの電子メールの添付ファイルを電話でPDFに変換する方法を学習します。 ファイルが戻ったら、ファイルを表示し、[共有]をタップして、PowerPointを電話に入れずにチームに送信します。
+この 60 秒のビデオチュートリアルでは、電子メールの PowerPoint 添付ファイルをスマートフォンのPDFに変換する方法を説明します。 ファイルが戻ったら、表示して「共有」をタップし、チームに送信します。PowerPoint をスマートフォンにインストールする必要はありません。
 
 >[!VIDEO](https://video.tv.adobe.com/v/336366?hidetitle=true)

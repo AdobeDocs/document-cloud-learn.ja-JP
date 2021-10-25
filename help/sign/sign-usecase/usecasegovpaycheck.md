@@ -1,6 +1,6 @@
 ---
 title: 給与保護
-description: Adobe Signを使用して、支払い保護プログラムフォームをオンラインの対話形式に変換する方法を表示します
+description: Adobe Signを使用して、支払い保護プログラムフォームをオンラインインタラクティブフォームに変換する方法について説明します
 role: User
 product: adobe sign
 solution: Document Cloud
@@ -16,6 +16,6 @@ ht-degree: 0%
 
 # 給与保護
 
-以下の画像をクリックして、Adobe Signを使用して、支払い保護プログラムフォームをオンラインの対話型フォームに変換する方法を確認してください。
+下の画像をクリックして、Adobe Signを使用して、支払い保護プログラムのフォームをオンラインインタラクティブフォームに変換する方法を確認してください。
 
-[![支払いキャプチャ対話型ウォークスルー](../assets/Paycheck.jpg)](https://acrobatusers.com/paycheck-protection-program-resource-hub/walkthrough/)
+[![Payment Capture のインタラクティブチュートリアル](../assets/Paycheck.jpg)](https://acrobatusers.com/paycheck-protection-program-resource-hub/walkthrough/)

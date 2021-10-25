@@ -1,6 +1,6 @@
 ---
 title: 共有アカウントアクセス
-description: 別のユーザーのアカウントのトランザクションに対する表示専用アクセスを設定する方法を説明します
+description: 他のユーザーのアカウントのトランザクションに対して表示専用アクセスを設定する方法について説明します
 role: User, Admin
 product: adobe sign
 level: Intermediate
@@ -13,12 +13,12 @@ ht-degree: 0%
 
 ---
 
-# 共有アカウントアクセス
+# アカウントアクセスの共有
 
-このビデオチュートリアルでは、別のユーザーのアカウントのトランザクションに対する表示専用アクセスを設定する方法を学習します。
+このビデオチュートリアルでは、別のユーザーのアカウントのトランザクションに対して表示専用アクセスを設定する方法について説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/40187?hidetitle=true)
 
 >[!TIP]
 >
->このビデオは、エクスペリエンス・リーグで無料で利用できる[管理者向けの高度なタスク](https://experienceleague.adobe.com/?recommended=Sign-A-1-2020.1)コースの一部です。
+>このビデオはコースの一部です [管理者の高度なタスク](https://experienceleague.adobe.com/?recommended=Sign-A-1-2020.1) それは無料で利用できますExperience League!

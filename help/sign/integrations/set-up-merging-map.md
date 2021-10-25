@@ -1,6 +1,6 @@
 ---
-title: マージ・マッピングの設定
-description: Salesforceのデータを直接契約に結合する方法を説明します。
+title: 結合マッピングの設定
+description: Salesforce のデータを契約書に直接結合する方法について説明します。
 role: Admin
 product: adobe sign
 level: Intermediate
@@ -14,8 +14,8 @@ ht-degree: 0%
 
 ---
 
-# Salesforceでのマージ・マッピングの設定
+# Salesforce での結合マッピングの設定
 
-Adobe SignインSalesforceのマージマッピングを設定する方法を説明します。 マージ・マッピングを使用すると、Salesforceのデータを直接基本契約にマージできます。
+Salesforce でAdobe Signの結合マッピングを設定する方法について説明します。 結合マッピングを使用すると、Salesforce のデータを契約書に直接結合できます。
 
 >[!VIDEO](https://video.tv.adobe.com/v/17350?hidetitle=true)

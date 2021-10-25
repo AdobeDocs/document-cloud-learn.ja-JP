@@ -1,6 +1,6 @@
 ---
-title: バイオファーマ設定の使用
-description: FDA 21 CFR Part 11の要件を満たすようにAdobe Signを構成できるバイオファーマの設定について説明します
+title: バイオ医薬業界標準対応の使用
+description: FDA 21 CFR Part 11 要件を満たすようにAdobe Signを設定できるバイオ医薬業界標準対応について説明します
 role: Admin
 product: adobe sign
 level: Experienced
@@ -13,12 +13,12 @@ ht-degree: 0%
 
 ---
 
-# バイオファーマの設定の使用
+# バイオ医薬業界標準対応の使用
 
-このビデオチュートリアルでは、FDA 21 CFR Part 11の要件を満たすようにAdobe Signを構成できるバイオファーマの設定について学習します。
+このビデオチュートリアルでは、FDA 21 CFR Part 11 要件を満たすようにAdobe Signを設定できるバイオ医薬業界標準対応について説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/21748?hidetitle=true)
 
 >[!TIP]
 >
->このビデオは、エクスペリエンス・リーグで無料で利用できる[管理者向けの高度なタスク](https://experienceleague.adobe.com/?recommended=Sign-A-1-2020.1)コースの一部です。
+>このビデオはコースの一部です [管理者の高度なタスク](https://experienceleague.adobe.com/?recommended=Sign-A-1-2020.1) それは無料で利用できますExperience League!

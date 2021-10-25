@@ -1,6 +1,6 @@
 ---
-title: ' [!DNL Digidentity]を使用して署名中'
-description: ' [!DNL Digidentity] デジタルIDをAdobe Signで使用する方法'
+title: 使用した署名 [!DNL Digidentity]
+description: ここでは、 [!DNL Digidentity] Adobe Signによるデジタル ID
 role: User
 product: adobe sign
 solution: Document Cloud
@@ -15,8 +15,8 @@ ht-degree: 0%
 
 ---
 
-# [!DNL Digidentity]を使用して署名中
+# 使用した署名 [!DNL Digidentity]
 
-[!DNL Digidentity]デジタルIDを使用してIDを認証し、ドキュメント上のリモートデジタル署名（クラウド署名）を承認する方法を説明します。
+ここでは、 [!DNL Digidentity] デジタル ID を使用して、ID を認証し、文書に対するリモート電子署名（クラウド署名）を認証します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/336991?hidetitle=true)

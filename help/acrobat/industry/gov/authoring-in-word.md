@@ -1,6 +1,6 @@
 ---
-title: PDFをアクセス可能にする – Microsoft Wordでのオーサリング
-description: Microsoft Wordでのアクセス可能な文書の作成
+title: PDFのアクセシブル化 —Microsoft Word でのオーサリング
+description: Microsoft Word でのアクセシブルな文書のオーサリング
 role: User
 product: adobe acrobat
 level: Experienced
@@ -14,10 +14,10 @@ ht-degree: 0%
 
 ---
 
-# PDFをアクセス可能にする – Microsoft Wordでのオーサリング
+# PDFのアクセシブル化 —Microsoft Word でのオーサリング
 
-「PDFをアクセス可能にする」シリーズの2番目のビデオチュートリアルでは、Microsoft Wordで作成したPDFファイルを作成する際のベストプラクティスを学習します。
+「PDFをアクセシブルにする」シリーズの 2 番目のビデオチュートリアルでは、Microsoft Word で作成されるPDFファイルを作成するためのベストプラクティスについて学習します。
 
-## パート2 - Microsoft Wordでの作成(2:51)
+## パート 2 - Microsoft Word でのオーサリング (2:51)
 
 >[!VIDEO](https://video.tv.adobe.com/v/34513)

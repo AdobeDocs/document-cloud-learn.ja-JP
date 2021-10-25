@@ -1,6 +1,6 @@
 ---
-title: 60秒のAcrobatの概要
-description: 60秒のAcrobatでは、Acrobat DCで1分以内に新しいトリックを学ぶのに役立つ、一口サイズのチュートリアルを提供します
+title: 60 秒のAcrobatの概要
+description: 60 秒Acrobatには、Acrobat DCの新しいトリックを 1 分以内に習得できる簡単なチュートリアルが用意されています
 role: User
 product: adobe acrobat
 level: Beginner
@@ -14,44 +14,44 @@ ht-degree: 0%
 
 ---
 
-# 60秒のAcrobatの概要
+# 60 秒のAcrobatの概要
 
-![60秒のAcrobatイメージ](../assets/Hero-60sec.png)
+![60 秒のAcrobat Image](../assets/Hero-60sec.png)
 
-60秒のAcrobatでは、Acrobat DCで1分以内に新しいトリックを学ぶのに役立つ、一口サイズのチュートリアルを提供します。 これらのタスクベースのヒントは、Acrobatの隠しGemの一部をロック解除して、PDFファイルを操作する新しいスキルを習得するのに役立ちます。 簡単な回答を得るために見ることも、ドキュメントの生産性を高めるために5回見ることもできます。コーヒー休憩を楽しむ時間もあります。
+60 秒Acrobatには、Acrobat DCの新しいトリックを 1 分以内に習得できる簡単なチュートリアルが用意されています。 Acrobatの役立つヒントを活用して、PDFファイルを操作する新しいスキルを学びましょう。 すぐに答えが得られるビデオや、文書の生産性を向上させる 5 つのビデオを見ながら、コーヒーブレイクを楽しむこともできます。
 
-## 60秒間のAcrobatチュートリアル
+## 60 秒のAcrobat tutorials
 
 <table style="table-layout:fixed">
 <tr>
   <td>
     <a href="combine-to-one-pdf.md">
-      <img alt="ファイルを1つのPDFに結合する" src="../assets/60sec_Combine_1280.jpg" />
+      <img alt="ファイルを 1 つのPDFに" src="../assets/60sec_Combine_1280.jpg" />
     </a>
     <div>
-    <a href="combine-to-one-pdf.md"><strong>ファイルを1つのPDFに結合する</strong></a>
+    <a href="combine-to-one-pdf.md"><strong>ファイルを 1 つのPDFに</strong></a>
     </div>
-    <em>複数の異なる種類のファイルを1つのPDFに結合して、新しい文書をすばやく作成</em>
+    <em>複数の異なる種類のファイルを 1 つのファイルに結合して、新規ドキュメントをすばやく作成するPDF</em>
     <br>
   </td>
   <td>
     <a href="edit.md">
-      <img alt="Acrobat WebでPDFを編集" src="../assets/60sec_Edit_1280.jpg" />
+      <img alt="Acrobat Web でPDFを編集" src="../assets/60sec_Edit_1280.jpg" />
     </a>
     <div>
-    <a href="edit.md"><strong>Acrobat WebでPDFを編集</strong></a>
+    <a href="edit.md"><strong>Acrobat Web でPDFを編集</strong></a>
     </div>
-    <em>PDFをダウンロードせずに、テキストや画像を簡単に編集できます。</em>
+    <em>PDFをダウンロードしなくても、テキストや画像を簡単に編集できます</em>
     <br>
   </td>
   <td>
     <a href="search.md">
-      <img alt="一度に複数のPDFファイルを検索する" src="../assets/60sec_Search_1280.jpg" />
+      <img alt="複数のPDFファイルの一括検索" src="../assets/60sec_Search_1280.jpg" />
     </a>
     <div>
-     <a href="search.md"><strong>一度に複数のPDFファイルを検索する</strong></a>
+     <a href="search.md"><strong>複数のPDFファイルの一括検索</strong></a>
     </div>
-    <em>PDFファイルで検索を開始し、「高度な検索」を開いてPDFファイルのフォルダ全体を検索します。</em>
+    <em>PDFファイルで検索を開始し、「詳細検索」を開いて、フォルダー全体のPDFを検索</em>
     <br>
   </td>
 </tr>
@@ -63,27 +63,27 @@ ht-degree: 0%
     <div>
     <a href="photo.md"><strong>写真のPDFを瞬時に作成</strong></a>
     </div>
-    <em>JPGの束をAcrobatアイコンにドラッグアンドドロップしてPDFを作成する方法を説明します。</em>
+    <em>たくさんのJPGをAcrobatアイコンにドラッグ&amp;ドロップするだけで、PDFを作成できます</em>
     <br>
   </td>
   <td>
     <a href="phone.md">
-      <img alt="PPTファイルを電話でPDFに変換する" src="../assets/60sec_Phone_1280.jpg" />
+      <img alt="スマートフォンで PPT ファイルをPDFに変換" src="../assets/60sec_Phone_1280.jpg" />
     </a>
     <div>
-    <a href="phone.md"><strong>PPTファイルを電話でPDFに変換する</strong></a>
+    <a href="phone.md"><strong>スマートフォンで PPT ファイルをPDFに変換</strong></a>
     </div>
-    <em>電話でPowerPointの添付ファイルをPDFに変換する方法を説明します</em>
+    <em>電子メールの PowerPoint 添付ファイルをスマートフォンのPDFに変換する方法</em>
     <br>
   </td>  
  <td>
     <a href="indesign.md">
-      <img alt="PDFコメントをInDesignに読み込む" src="../assets/60sec_InDesign_1280.jpg" />
+      <img alt="PDFコメントのInDesign" src="../assets/60sec_InDesign_1280.jpg" />
     </a>
     <div>
-    <a href="indesign.md"><strong>PDFコメントをInDesignに読み込む</strong></a>
+    <a href="indesign.md"><strong>PDFコメントのInDesign</strong></a>
     </div>
-    <em>Acrobatの共有レビュー後にPDFコメントをInDesignに再び読み込む方法を説明します</em>
+    <em>Acrobatの共有レビューの後、PDFのコメントをInDesignに読み込み直す方法について説明します</em>
     <br>
   </td>  
 </tr>

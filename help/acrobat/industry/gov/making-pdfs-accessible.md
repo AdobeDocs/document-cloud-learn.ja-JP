@@ -1,6 +1,6 @@
 ---
-title: PDFをアクセス可能にする
-description: アクセス可能なPDFファイルを作成するための最適なワークフローについて
+title: アクセシブルなPDFの作成
+description: アクセシブルなワークフローファイルを作成するための最適なワークフローについてPDFします。
 role: User
 product: adobe acrobat
 level: Experienced
@@ -14,12 +14,12 @@ ht-degree: 0%
 
 ---
 
-# PDFをアクセス可能にする（14:11完了）
+# PDFのアクセシブル化（完全 14:11）
 
-アクセス可能なPDFファイルを作成するための最適なワークフローについて説明します。 最初に、アクセシビリティが重要な理由を学び、次にMicrosoft Wordで作成したPDFを操作する方法を学び、次にAcrobat Pro DCのアクセシビリティツールを使用して作業を終了します。
+アクセシブルなワークフローファイルを作成するための最適なPDFを説明します。 まずアクセシビリティが非常に重要である理由を学び、次にMicrosoft Word で作成されたPDFの操作方法を学び、最後にAcrobat Pro DCのアクセシビリティツールを使用します。
 
 >[!NOTE]
 >
->Acrobat Pro DCでのみ使用可能です。
+>Acrobat Pro DCでのみ使用できます。
 
 >[!VIDEO](https://video.tv.adobe.com/v/34291)

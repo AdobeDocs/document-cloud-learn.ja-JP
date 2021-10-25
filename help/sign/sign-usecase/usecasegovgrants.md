@@ -1,6 +1,6 @@
 ---
-title: 事業助成金及び貸付金
-description: 助成金、ローン、および税繰延請求書へのセルフサービスアクセスを提供し、ビジネスに対する迅速な支援を提供
+title: 業務助成金
+description: 助成金、ローン、税金控除の申請フォームにセルフサービスでアクセスできるようにすることで、ビジネスを迅速に支援
 role: User
 product: adobe sign
 solution: Document Cloud
@@ -14,12 +14,12 @@ ht-degree: 0%
 
 ---
 
-# 事業の助成金と融資
+# 業務助成金
 
-助成金、ローン、および税繰延請求書にセルフサービスでアクセスできるようにすることで、ビジネスを迅速に支援します。 **と**&#x200B;に記入し、印刷や郵送を行わずに署名できるオンラインWebフォームを作成する方法を説明します。
+助成金、ローン、税金控除のリクエストフォームにセルフサービスでアクセスできるようにすることで、ビジネスを迅速に支援します。 入力可能なオンライン Web フォームを作成する方法について説明します **および** 印刷も郵送も必要ありません。
 
 >[!VIDEO](https://video.tv.adobe.com/v/33810?hidetitle=true)
 
-クリックすると、ビジネスの助成金とローン用のPDFレシピがステップバイステップでダウンロードされます。
+クリックして、事業補助金とローンのPDFレシピをダウンロードします。
 
-[! [PDFレシピのダウンロード](../assets/acrobat_PDF_96.png)](../assets/UseCaseRecipe-EN-CreatingWebForms.pdf)
+[! [PDFレシピをダウンロード ](../assets/acrobat_PDF_96.png)](../assets/UseCaseRecipe-EN-CreatingWebForms.pdf)

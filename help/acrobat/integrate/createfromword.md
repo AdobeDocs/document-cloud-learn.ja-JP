@@ -1,6 +1,6 @@
 ---
-title: ' [!DNL Microsoft Word]からPDFファイルを作成'
-description: ハイパーリンクされた目次、相互参照、ブックマーク、添付ファイルを含む豊富で堅牢なPDFファイルは、 [!DNL Microsoft Word]用Acrobatアドオンを使用して簡単に作成できます。
+title: PDFファイルの作成元 [!DNL Microsoft Word]
+description: Acrobat Add-on for [!DNL Microsoft Word]
 role: User
 product: adobe acrobat
 level: Beginner
@@ -14,8 +14,8 @@ ht-degree: 0%
 
 ---
 
-# [!DNL Microsoft Word]からPDFファイルを作成
+# PDFファイルの作成元 [!DNL Microsoft Word]
 
-[!DNL Microsoft Word]用Acrobatアドオンを使用して、ハイパーリンクされた目次、相互参照、しおり、および添付ファイルを含む、リッチで堅牢なPDFファイルを作成する方法を説明します。
+ハイパーリンクされた目次、相互参照、ブックマーク、添付ファイルを含む、リッチで堅牢なPDFファイルを、 [!DNL Microsoft Word]を選択します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/331736?hidetitle=true)

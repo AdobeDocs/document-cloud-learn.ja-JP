@@ -1,6 +1,6 @@
 ---
-title: スキャンしたドキュメントと複雑なリスト
-description: このオン・デマンド・セッションでは、スキャンされたドキュメントや複雑なリストなど、頻繁に発生する複雑な問題に対処します。
+title: スキャンした文書と複雑なリスト
+description: このオンデマンドセッションでは、スキャンした文書や複雑なリストなど、多くのユーザーが遭遇するより複雑な問題について説明します
 role: User
 product: adobe acrobat
 level: Experienced
@@ -14,12 +14,12 @@ ht-degree: 0%
 
 ---
 
-# スキャンされたドキュメントと複雑なリスト
+# スキャンした文書と複雑なリスト
 
-このオン・デマンド・セッションでは、スキャンされたドキュメントや複雑なリストなど、頻繁に発生する複雑な問題に対処します。
+このオンデマンドセッションでは、スキャンした文書や複雑なリストなど、多くのユーザーが遭遇するより複雑な問題について説明します。
 
-[ここ](../assets/accessibilitysession4.zip)をクリックして、このセッションの実際のファイルのzipファイルをダウンロードします。
+クリック [ここ](../assets/accessibilitysession4.zip) このセッションの実践ファイルの zip ファイルをダウンロードします。
 
-別のブラウザタブでビデオを表示するには、画像を選択します。
+画像を選択して、別のブラウザータブでビデオを表示します。
 
-[![セッション4ビデオ](../assets/Accessibilitysession4_YT.png)](https://youtu.be/RuBk6DqJBFc){target=&quot;_blank&quot;}
+[![セッション 4 のビデオ](../assets/Accessibilitysession4_YT.png)](https://youtu.be/RuBk6DqJBFc){target=&quot;_blank&quot;}
