@@ -7,9 +7,9 @@ level: Beginner
 thumbnail: KT-8493.jpg
 KT: 8493
 exl-id: 43750150-6e0d-4326-946d-61e1bae86f2a
-source-git-commit: 2d471a54113c79a14b4415b28cc10ee567965db8
+source-git-commit: 27c2eebfcdf359a3b3cca5cc9f31ba4ed39f7652
 workflow-type: tm+mt
-source-wordcount: '343'
+source-wordcount: '365'
 ht-degree: 0%
 
 ---
@@ -76,7 +76,19 @@ ht-degree: 0%
     <em>PowerPoint の電子メールの添付ファイルをスマートフォンのPDFに変換する方法</em>
     <br>
   </td>  
- <td>
+  <td>
+    <a href="sign.md">
+      <img alt="紙の文書に電子サインする" src="../assets/60sec_Sign_1280.jpg" />
+    </a>
+    <div>
+    <a href="sign.md"><strong>紙の文書に電子サインする</strong></a>
+    </div>
+    <em>Adobe Scanを使用して印刷フォームに署名する方法について説明します。</em>
+    <br>
+  </td>  
+</tr>
+<tr>
+  <td>
     <a href="indesign.md">
       <img alt="PDFコメントの読み込みInDesign" src="../assets/60sec_InDesign_1280.jpg" />
     </a>
@@ -85,10 +97,8 @@ ht-degree: 0%
     </div>
     <em>Acrobatの共有レビューの後に、PDFのコメントをInDesignに読み込む方法について説明します。</em>
     <br>
-  </td>  
-</tr>
-<tr>
-  <td>
+  </td>
+   <td>
     <a href="editphoto.md">
       <img alt="PDFで写真を編集" src="../assets/60sec_Editphoto_1280.jpg" />
     </a>
@@ -107,8 +117,10 @@ ht-degree: 0%
     </div>
     <em>Illustratorを使用して、PDFのグラフィックに高度な編集を加える方法について説明します</em>
     <br>
-  </td>  
- <td>
+  </td> 
+</tr>
+<tr>
+  <td>
     <a href="organize.md">
       <img alt="ページを瞬時に整理" src="../assets/60sec_Organize_1280.jpg" />
     </a>
@@ -116,6 +128,16 @@ ht-degree: 0%
     <a href="organize.md"><strong>ページを瞬時に整理</strong></a>
     </div>
     <em>ページを整理ツールを使用して、PDFを俯瞰する方法を説明します</em>
+    <br>
+  </td>
+  <td>
+   <img alt="スペーサー" src="../assets/Grayspacer.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+   <img alt="スペーサー" src="../assets/Grayspacer.png" />
+    <div>
     <br>
   </td>  
 </tr>

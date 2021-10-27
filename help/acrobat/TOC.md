@@ -8,9 +8,9 @@ getting-started-url: https://helpx.adobe.com/acrobat/get-started.html
 tutorials-title: Tutorials
 tutorials-url: https://helpx.adobe.com/acrobat/tutorials.html
 breadcrumb-title: AcrobatTutorials
-source-git-commit: 2d471a54113c79a14b4415b28cc10ee567965db8
+source-git-commit: 27c2eebfcdf359a3b3cca5cc9f31ba4ed39f7652
 workflow-type: tm+mt
-source-wordcount: '312'
+source-wordcount: '317'
 ht-degree: 9%
 
 ---
@@ -60,6 +60,7 @@ ht-degree: 9%
    + [複数のPDFファイルの一括検索](60-second/search.md)
    + [写真のPDFを瞬時に作成](60-second/photo.md)
    + [スマートフォンで PPT ファイルをPDFに変換](60-second/phone.md)
+   + [紙の文書に電子サインする](60-second/sign.md)
    + [PDFコメントの読み込みInDesign](60-second/indesign.md)
    + [PDFで写真を編集](60-second/editphoto.md)
    + [PDF](60-second/editgraphic.md)
