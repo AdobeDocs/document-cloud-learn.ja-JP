@@ -6,7 +6,7 @@ product: adobe acrobat
 level: Experienced
 thumbnail: KT-6857.jpg
 exl-id: 2e2dc54d-23e1-4bd8-81de-62131aa5c966
-source-git-commit: 19eaddb4279de3cb41675714575ee451089c947c
+source-git-commit: cf207a5bda859635de879758aae307689b708678
 workflow-type: tm+mt
 source-wordcount: '209'
 ht-degree: 2%
@@ -25,7 +25,7 @@ Acrobat DCの高度なツールで、さらに高度な編集が可能です。 
 <tr>
   <td>
     <a href="compare.md">
-      <img alt="Detect differences between two PDFs" src="../assets/Compare_1280.png" />
+      <img alt="2 つのPDFの違いを検出" src="../assets/Compare_1280.png" />
     </a>
     <div>
     <a href="compare.md"><strong>2 つのPDFの違いを検出</strong></a>
@@ -40,7 +40,7 @@ Acrobat DCの高度なツールで、さらに高度な編集が可能です。 
     <div>
     <a href="action.md"><strong>アクションウィザード</strong></a>
     </div>
-    <em>Save time and keystrokes by using an Action to automatically apply a set of commands to one or multiple files</em>
+    <em>アクションを使用して一連のコマンドを 1 つまたは複数のファイルに自動的に適用することで、時間とキーストロークを節約できます</em>
     <br>
   </td>
   <td>
@@ -50,7 +50,7 @@ Acrobat DCの高度なツールで、さらに高度な編集が可能です。 
     <div>
     <a href="redact.md"><strong>墨消しと削除</strong></a>
     </div>
-    <em>Permanently remove private or sensitive information from your PDF</em>
+    <em>個人情報や機密情報をPDFから完全に削除</em>
     <br>
   </td>  
 </tr>
@@ -70,14 +70,14 @@ Acrobat DCの高度なツールで、さらに高度な編集が可能です。 
       <img alt="アクションウィザード" src="../assets/FormData.jpg" />
     </a>
     <div>
-    <a href="formdata.md"><strong>Working with form data</strong></a>
+    <a href="formdata.md"><strong>フォームデータの操作</strong></a>
     </div>
     <em>フォームデータを単一のスプレッドシートにコンパイル</em>
     <br>
   </td>
   <td>
     <a href="accessibility.md">
-      <img alt="アクセシビリティPDFのチェック" src="../assets/PreparingAccessible.jpg" />
+      <img alt="アクセシビリティPDFのチェック" src="../assets/Checkingaccessible_1280.jpg" />
     </a>
     <div>
     <a href="accessibility.md"><strong>アクセシビリティPDFのチェック</strong></a>
