@@ -8,9 +8,9 @@ getting-started-url: https://helpx.adobe.com/acrobat/get-started.html
 tutorials-title: Tutorials
 tutorials-url: https://helpx.adobe.com/acrobat/tutorials.html
 breadcrumb-title: AcrobatTutorials
-source-git-commit: cacee2906e240c1164741d47b0f9e588a9fa1694
+source-git-commit: 38120816e9a49575ef0d14a230525ce7b7b9fd4f
 workflow-type: tm+mt
-source-wordcount: '319'
+source-wordcount: '318'
 ht-degree: 9%
 
 ---
@@ -30,22 +30,22 @@ ht-degree: 9%
    + [PDF の作成](getting-started/create-pdf.md)
    + [PDF](getting-started/comment-on-pdf-files.md)
    + [PDF を編集](getting-started/edit-pdf.md)
-   + [Export a PDF to editable formats](getting-started/export-pdf.md)
+   + [編集可能な形式へのPDFの書き出し](getting-started/export-pdf.md)
    + [入力可能なフォームの作成](getting-started/create-fillable-forms.md)
    + [スキャンと OCR](getting-started/scan-and-ocr.md)
    + [ページを整理](getting-started/organize.md)
    + [PDFファイルへのパスワードのProtect](getting-started/password-protect.md)
    + [Fill &amp; SignPDF forms](getting-started/fill-and-sign.md)
-   + [Get signatures](getting-started/signatures.md)
+   + [署名を取得](getting-started/signatures.md)
    + [PDFの出所](getting-started/where-do-pdfs-come-from.md)
-+ Advanced tasks {#advanced-tasks}
++ 高度なタスク {#advanced-tasks}
    + [概要](advanced-tasks/advanced-tasks-overview.md)
    + [2 つのPDFの違いを検出](advanced-tasks/compare.md)
    + [アクションウィザード](advanced-tasks/action.md)
    + [墨消しと削除](advanced-tasks/redact.md)
-   + [Reduce file size &amp; optimize](advanced-tasks/reduce.md)
+   + [ファイルサイズの縮小と最適化](advanced-tasks/reduce.md)
    + [フォームデータの操作](advanced-tasks/formdata.md)
-   + [アクセシブルなPDFファイルの準備](advanced-tasks/accessibility.md)
+   + [アクセシビリティPDFのチェック](advanced-tasks/accessibility.md)
    + Acrobat Accessibility series {#accessibility-series}
       + [概要](advanced-tasks/accessibility-series.md)
       + [アクセシビリティPDFの概要](advanced-tasks/accessibilitysession1.md)
@@ -53,16 +53,16 @@ ht-degree: 9%
       + [複雑な表](advanced-tasks/accessibilitysession3.md)
       + [スキャンした文書と複雑なリスト](advanced-tasks/accessibilitysession4.md)
       + [タグ付きPDF](advanced-tasks/accessibilitysession5.md)
-      + [Adding form fields to an untagged PDF](advanced-tasks/accessibilitysession6.md)
+      + [タグなしPDF](advanced-tasks/accessibilitysession6.md)
 + 60 秒Acrobat {#60-second}
    + [概要](60-second/60-second-overview.md)
-   + [Combine files into one PDF](60-second/combine-to-one-pdf.md)
+   + [ファイルを 1 つのPDFに](60-second/combine-to-one-pdf.md)
    + [Acrobat Web でのPDFの編集](60-second/edit.md)
    + [複数のPDFファイルの一括検索](60-second/search.md)
-   + [Create a PDF of photos in an instant](60-second/photo.md)
+   + [写真のPDFを瞬時に作成](60-second/photo.md)
    + [スマートフォンで PPT ファイルをPDFに変換](60-second/phone.md)
-   + [Electronically sign a paper document](60-second/sign.md)
-   + [Load PDF comments into InDesign](60-second/indesign.md)
+   + [紙の文書に電子サインする](60-second/sign.md)
+   + [PDFコメントの読み込みInDesign](60-second/indesign.md)
    + [PDFで写真を編集](60-second/editphoto.md)
    + [PDF](60-second/editgraphic.md)
    + [ページを瞬時に整理](60-second/organize.md)
@@ -71,33 +71,33 @@ ht-degree: 9%
    + [Web セミナー](skill-builder/skill-builder-webinars.md)
 + 統合 {#integrations}
    + [概要](integrate/integrate-overview.md)
-   + [Create PDF from [!DNL Microsoft Word]](integrate/createfromword.md)
+   + [PDFの作成元 [!DNL Microsoft Word]](integrate/createfromword.md)
    + [PDFの作成 [!DNL Office] web 用](integrate/createofficeweb.md)
    + [PDFコラボレーション [!DNL Microsoft Teams]](integrate/acrobatandteams.md)
    + [SharePointファイルの操作](integrate/acrobatandsp.md)
    + [Outlook で電子メールメッセージと添付ファイルをPDFに変換する](integrate/outlook.md)
    + [Microsoft Edge での参照時にPDFコンテンツを作成する](integrate/edge.md)
-   + [Adobe Acrobat for Google Drive](integrate/acrobatandgoogle.md)
-+ Industries and departments {#by-industry}
+   + [Google Drive 向けAdobe Acrobat](integrate/acrobatandgoogle.md)
++ 業種および部門 {#by-industry}
    + [概要](industry/industry-overview.md)
    + 官公庁 {#gov}
       + [概要](industry/gov/gov-overview.md)
       + Acrobat DCで場所を問わず作業できる環境を実現するための 5 つのヒント {#tips}
          + [Acrobat DCでどこでも作業できる環境を実現するための 5 つのヒント](industry/gov/5-tips-for-working-anywhere-with-acrobat-dc-for-government.md)
-         + [Tip #1 – Get your tools](industry/gov/get-your-tools.md)
+         + [ヒント#1 — ツールの入手](industry/gov/get-your-tools.md)
          + [ヒント#2 — ドキュメントでの共同作業](industry/gov/collaborate-on-documents.md)
          + [ヒント#3 -Protect digital documents](industry/gov/protect-digital-documents.md)
          + [ヒント#4 — フォームと署名の使用](industry/gov/work-with-forms-and-signatures.md)
          + [ヒント#5 — モバイルでのスキャンと編集](industry/gov/scan-and-edit-on-mobile.md)
       + アクセシビリティ {#pdfs}
-         + [Making PDFs Accessible](industry/gov/making-pdfs-accessible.md)
-         + [#1 – Understanding Accessibility](industry/gov/understanding-accessibility.md)
-         + [#2 – Authoring in Word](industry/gov/authoring-in-word.md)
+         + [アクセス可能なPDFの作成](industry/gov/making-pdfs-accessible.md)
+         + [#1 — アクセシビリティについて](industry/gov/understanding-accessibility.md)
+         + [#2 - Word でのオーサリング](industry/gov/authoring-in-word.md)
          + [#3 - Finishing in Acrobat](industry/gov/finishing-in-acrobat.md)
-         + [Making PDF Ballots more Accessible](industry/gov/making-pdf-ballots-accessible.md)
-+ Develop {#develop}
+         + [PDF投票の利便性の向上](industry/gov/making-pdf-ballots-accessible.md)
++ 開発 {#develop}
    + [概要](develop/develop-overview.md)
-+ Deploy {#deploy}
++ デプロイ {#deploy}
    + [概要](deploy/deploy-overview.md)
    + [ETLA版のお客様向けのAcrobat DC製品の重要なアップデート](deploy/signentitlementchanges.md)
 + モバイル {#mobile}
