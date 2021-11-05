@@ -8,9 +8,9 @@ getting-started-url: https://helpx.adobe.com/acrobat/get-started.html
 tutorials-title: Tutorials
 tutorials-url: https://helpx.adobe.com/acrobat/tutorials.html
 breadcrumb-title: AcrobatTutorials
-source-git-commit: 38120816e9a49575ef0d14a230525ce7b7b9fd4f
+source-git-commit: 1e8dc23acc3d461b5623855b348329479958baf5
 workflow-type: tm+mt
-source-wordcount: '318'
+source-wordcount: '321'
 ht-degree: 9%
 
 ---
@@ -37,6 +37,7 @@ ht-degree: 9%
    + [PDFファイルへのパスワードのProtect](getting-started/password-protect.md)
    + [Fill &amp; SignPDF forms](getting-started/fill-and-sign.md)
    + [署名を取得](getting-started/signatures.md)
+   + [ドキュメントのトラック](getting-started/track.md)
    + [PDFの出所](getting-started/where-do-pdfs-come-from.md)
 + 高度なタスク {#advanced-tasks}
    + [概要](advanced-tasks/advanced-tasks-overview.md)
