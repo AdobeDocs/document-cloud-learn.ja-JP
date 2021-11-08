@@ -6,16 +6,16 @@ product: adobe acrobat
 level: Experienced
 thumbnail: KT-6803.jpg
 exl-id: d932f20e-7e7c-4087-8ccc-cba7253f1394
-source-git-commit: 436a3d53d7978baf7d9b74291e0ae06d6837fdfc
+source-git-commit: 5d32ecf3a2a4a71eb82a0532c1d251495e99eda9
 workflow-type: tm+mt
-source-wordcount: '191'
+source-wordcount: '192'
 ht-degree: 2%
 
 ---
 
 # アクションウィザード
 
-アクションを使用して一連のコマンドを 1 つまたは複数のコマンドに自動的に適用することで、時間とキーストロークを節約できます。
+アクションを使用して一連のコマンドを 1 つまたは複数のファイルに自動的に適用することで、時間とキーストロークを節約できます。
 
 >[!NOTE]
 >
