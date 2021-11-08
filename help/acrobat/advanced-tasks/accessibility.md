@@ -1,22 +1,22 @@
 ---
-title: Check PDF Accessibility
-description: Learn how to check if your PDF is universally accessible to people with disabilities
+title: アクセシビリティPDFのチェック
+description: 障害を持つ人々が自分のPDFに誰もがアクセスできるかを確認する方法を学ぶ
 role: User
 product: adobe acrobat
 level: Intermediate
 topics: Accessibility
 thumbnail: KT-6829.jpg
 exl-id: 1f72fe22-c3f7-4aad-8f57-a48ed8fc7193
-source-git-commit: 38120816e9a49575ef0d14a230525ce7b7b9fd4f
+source-git-commit: 511ca8853dd7072b50b3a73d9bc09a45b232e1c3
 workflow-type: tm+mt
-source-wordcount: '242'
+source-wordcount: '239'
 ht-degree: 0%
 
 ---
 
-# Check PDF accessibility
+# アクセシビリティPDFのチェック
 
-Learn how to check if your PDF is universally accessible to people with disabilities. これには、運動障害、視覚障害、低視力、聴覚障害、難聴、または認知障害を持つ人々によるアクセスが含まれます。
+自分のPDFが、運動障害、視覚障害、弱視、ろう、難聴、認知障害など、障害を持つ人に普遍的にアクセスできるかどうかを確認する方法について説明します。
 
 >[!NOTE]
 >
@@ -40,7 +40,7 @@ Learn how to check if your PDF is universally accessible to people with disabili
 
    ![アクセシビリティステップ 3](../assets/Accessibility_3.png)
 
-   左側のナビゲーションパネルが開き、レポートの結果が表示されます。 Expand a section to see the details.
+   左側のナビゲーションパネルが開き、レポートの結果が表示されます。 セクションを展開して詳細を表示します。
 
    ![アクセシビリティステップ 4](../assets/Accessibility_4.png)
 
@@ -48,12 +48,12 @@ Learn how to check if your PDF is universally accessible to people with disabili
 
 ## アクセシビリティの問題の修正
 
-In the accessibility report window, right-click on an item to bring up the context menu. The context menu for any item that failed the accessibility check gives you the option to fix the issue.
+アクセシビリティレポートウィンドウで、アイテムを右クリックしてコンテキストメニューを表示します。 アクセシビリティチェックに失敗したアイテムのコンテキストメニューには、問題を修正するオプションが表示されます。
 
 >[!NOTE]
 >
->Some issues cannot be fixed automatically and need your manual intervention to correct the problem. そのような場合は、>Acrobatにより、修正内容を示すダイアログボックスが表示されます。
+>一部の問題は自動的に修正できず、問題を修正するために手動での操作が必要です。 そのような場合は、>Acrobatにより、修正内容を示すダイアログボックスが表示されます。
 
-Select the PDF icon to download the *Check PDF accessibility* tutorial.
+PDFアイコンを選択して、 *アクセシビリティPDFのチェック* チュートリアル
 
-[![Download Accessibility tutorial](../assets/acrobat_PDF_96.png)](../assets/AcrobatDCAccessible.pdf).
+[![アクセシビリティのダウンロード](../assets/acrobat_PDF_96.png)](../assets/AcrobatDCAccessible.pdf)を選択します。
