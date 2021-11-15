@@ -1,23 +1,23 @@
 ---
 title: 概要
-description: 以下の簡単な手順を踏んだチュートリアルを利用して、文書を送信、署名、トラックする方法を習得しましょう
+description: 以下の簡単な手順を踏んだチュートリアルを使用して、文書を送信、署名、トラックする方法を習得してください
 role: User
 product: adobe sign
 level: Beginner
 thumbnail: KT-6847.jpg
 exl-id: e58ce43d-2e8e-4804-8f30-6591fa943607
-source-git-commit: 03591d0e9e5fac66b8ea083c8db98669c1b4f646
+source-git-commit: 08fed7bdd64ee6d4aff253c34a6205bc155adf8e
 workflow-type: tm+mt
-source-wordcount: '337'
+source-wordcount: '338'
 ht-degree: 0%
 
 ---
 
 # 概要
 
-![「はじめに」画像に署名](../assets/Hero-GettingStarted.png)
+![「はじめに」に署名の画像](../assets/Hero-GettingStarted.png)
 
-以下の簡単な手順を踏んだチュートリアルで、文書を送信、署名、トラックする方法を習得しましょう。 Adobe Signのクイックツアーを入手して、1 人または複数の人に文書を送信することができます。 このコンテンツは、電子サインのワークフローを容易に開始できるように設計されています。
+以下の簡単な手順を踏んだチュートリアルで、文書を送信、署名、トラックする方法を習得しましょう。 Adobe Signのクイックツアーを参照した後、1 人または複数のユーザーへのドキュメントの送信に進みます。 このコンテンツは、電子サインのワークフローを容易に開始できるように設計されています。
 
 ## 送信
 
@@ -30,7 +30,7 @@ ht-degree: 0%
     <div>
     <a href="quick-tour.md"><strong>Adobe Signクイックツアー</strong></a>
     </div>
-    <em>Adobe Signインターフェイスのクイックツアーを参照して、使い方を学習しましょう</em>
+    <em>Adobe Signインターフェイスのクイックツアーを参照して、使い始めてみましょう</em>
     <br>
   </td>
   <td>
@@ -40,7 +40,7 @@ ht-degree: 0%
     <div>
     <a href="send-to-single-recipient.md"><strong>1 人の受信者への送信</strong></a>
     </div>
-    <em>すばやく簡単に署名用に文書を送信する方法を確認しましょう</em>
+    <em>すばやく簡単に署名用に文書を送信する方法をご確認ください</em>
     <br>
   </td>
   <td>
@@ -50,7 +50,7 @@ ht-degree: 0%
     <div>
     <a href="send-to-multiple-recipients.md"><strong>複数の受信者への送信</strong></a>
     </div>
-    <em>電子サイン用の文書を複数の人に正確に目的の順序で送信できます</em>
+    <em>電子サイン用の文書を複数の相手に正確に必要な順序で送信する</em>
     <br>
   </td>
 </tr>
@@ -62,7 +62,7 @@ ht-degree: 0%
     <div>
     <a href="new-sender.md"><strong>新しい送信者のためのAdobe Sign入門</strong></a>
     </div>
-    <em>この包括的なチュートリアルは、Adobe Signを初めて使用する方に最適です</em>
+    <em>この包括的なチュートリアルは、Adobe Signで新しい送信者を作成する場合に最適です</em>
     <br>
   </td>
   <td>
@@ -99,7 +99,7 @@ ht-degree: 0%
     <div>
     <a href="fill-and-sign.md"><strong>文書への入力と署名</strong></a>
     </div>
-    <em>フォームに入力し、文書に電子サインを追加</em>
+    <em>フォームに入力して文書に電子サインを追加</em>
     <br>
   </td>
   <td>
@@ -148,12 +148,12 @@ ht-degree: 0%
 <tr>
   <td>
     <a href="manage-and-track.md">
-      <img alt="文書の管理とトラック" src="../assets/Managing.png" />
+      <img alt="契約書の管理とトラック" src="../assets/Manage_1280.png" />
     </a>
     <div>
-    <a href="manage-and-track.md"><strong>文書の管理とトラック</strong></a>
+    <a href="manage-and-track.md"><strong>契約書の管理とトラック</strong></a>
     </div>
-    <em>署名用に送信した契約書の管理とトラック</em>
+    <em>署名用に送信された契約書を管理およびトラックする方法について説明します。</em>
     <br>
   </td>
   <td>
@@ -163,7 +163,7 @@ ht-degree: 0%
     <div>
     <a href="../sign-advanced-users/create-a-template.md"><strong>文書テンプレートの作成</strong></a>
     </div>
-    <em>再利用可能な文書テンプレートを作成して、組織に迅速かつ一貫性を提供</em>
+    <em>再利用可能な文書テンプレートを作成して、組織がすばやく一貫性を維持できるようにします</em>
     <br>
   </td>
   <td>

@@ -1,5 +1,5 @@
 ---
-user-guide-title: Adobe Sign Tutorials
+user-guide-title: Adobe SignTutorials
 solution: Document Cloud, Adobe Sign
 solution-title: Learning Hub
 solution-hub-url: https://helpx.adobe.com/support/sign.html
@@ -7,8 +7,8 @@ getting-started-title: Getting Started
 getting-started-url: https://helpx.adobe.com/sign/using/get-started-guide.html
 tutorials-title: Tutorials
 tutorials-url: https://helpx.adobe.com/sign/tutorials.html
-breadcrumb-title: Adobe Sign Tutorials
-source-git-commit: cacee2906e240c1164741d47b0f9e588a9fa1694
+breadcrumb-title: Adobe SignTutorials
+source-git-commit: 08fed7bdd64ee6d4aff253c34a6205bc155adf8e
 workflow-type: tm+mt
 source-wordcount: '418'
 ht-degree: 6%
@@ -16,7 +16,7 @@ ht-degree: 6%
 ---
 
 
-# Adobe Sign Tutorials {#sign-learning-hub}
+# Adobe SignTutorials {#sign-learning-hub}
 
 + [概要](overview.md)
 + はじめに {#getting-started}
@@ -27,22 +27,22 @@ ht-degree: 6%
       + [複数の受信者への送信](sign-beginner-tutorials/send-to-multiple-recipients.md)
       + [新しい送信者のためのAdobe Sign入門](sign-beginner-tutorials/new-sender.md)
    + Signing {#getting-started-signing}
-      + [Electronically signing a document](sign-beginner-tutorials/electronically-sign-a-document.md)
+      + [文書への電子署名](sign-beginner-tutorials/electronically-sign-a-document.md)
       + [文書への入力と署名](sign-beginner-tutorials/fill-and-sign.md)
       + [署名を対面で取得](sign-beginner-tutorials/sign-in-person.md)
       + [電子署名とは？](sign-beginner-tutorials/sign-with-a-digital-signature.md)
       + [スタンプによる署名](sign-beginner-tutorials/sign-with-a-stamp.md)
-   + Managing {#getting-started-managing}
-      + [文書の管理とトラック](sign-beginner-tutorials/manage-and-track.md)
+   + 管理 {#getting-started-managing}
+      + [契約書の管理とトラック](sign-beginner-tutorials/manage-and-track.md)
       + [文書テンプレートの作成](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/create-a-template.html)
-      + [Modifying a document already sent for signature](sign-beginner-tutorials/modify-in-flight.md)
+      + [署名用に既に送信されている文書の変更](sign-beginner-tutorials/modify-in-flight.md)
 + 高度なタスク {#advanced-tasks}
    + [概要](sign-advanced-users/advanced-users-overview.md)
    + 送信 {#advanced-tasks-sending}
       + [工順の設定](sign-advanced-users/setting-up-routing.md)
-      + [Delegating to someone else](sign-advanced-users/delegate-signature.md)
+      + [他のユーザーへの委任](sign-advanced-users/delegate-signature.md)
       + [承認者の追加](sign-advanced-users/add-an-approver.md)
-      + [Collecting signatures in bulk](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/megasign.html)
+      + [署名の一括収集](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/megasign.html)
       + [Web フォームの設定](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/webform.html)
       + [Adobe Sign Text Tagging](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/advanced-tasks-admins/adobe-sign-text-tagging.html)
    + 管理 {#advanced-tasks-managing}
@@ -54,9 +54,9 @@ ht-degree: 6%
       + [共有イベントと警告の設定](admin/set-up-shared-events-and-alert.md)
       + [ユーザーの追加](admin/add-users-to-your-account.md)
       + [グループの作成と管理](admin/create-and-manage-groups.md)
-      + [Setting up an external archive](admin/set-up-your-external-archive.md)
+      + [外部アーカイブの設定](admin/set-up-your-external-archive.md)
       + [テンプレートの作成](sign-advanced-users/create-a-template.md)
-      + [Creating a report](admin/create-a-report.md)
+      + [レポートの作成](admin/create-a-report.md)
       + [Web フォームの設定](sign-advanced-users/webform.md)
       + [署名の一括収集](sign-advanced-users/megasign.md)
       + [ワークフローの設定](admin/building-a-custom-workflow.md)
@@ -71,17 +71,17 @@ ht-degree: 6%
    + Aadhaar {#aadhaar}
       + [Aadhaar を使用した署名](digitalid/aadhaar-sign.md)
    + Digidentity {#digidentity}
-      + [Get a digital ID from Digidentity](digitalid/digidentity-reg.md)
+      + [Digidentity からデジタル ID を取得](digitalid/digidentity-reg.md)
       + [Digidentity を使用した署名](digitalid/digidentity-sign.md)
    + Intesi Group {#intesi}
       + [Intesi Group からのデジタル ID の取得（上級者）](digitalid/intesi-advanced.md)
       + [Intesi Group からデジタル ID を取得（認定）](digitalid/intesi-qualified.md)
-      + [Signing using Intesi Group](digitalid/intesi-sign.md)
+      + [Intesi Group を使用した署名](digitalid/intesi-sign.md)
 + 統合 {#integrations}
    + [概要](integrations/integrations-overview.md)
    + Microsoft {#microsoft}
       + [Outlook での入力と署名](integrations/fill-and-sign-doc-microsoft-outlook.md)
-      + [Send for signature in Outlook](integrations/send-for-signature-with-outlook.md)
+      + [Outlook の署名用に送信](integrations/send-for-signature-with-outlook.md)
       + [SharePoint Onlineでの署名用に送信](integrations/send-for-signature-with-sharepoint-online.md)
       + [SharePoint Onlineでのトラッキング](integrations/track-an-agreement-with-sharepoint-online.md)
       + [署名用の文書の送信 [!DNL Microsoft Teams]](integrations/adobe-sign-teams-mortgage.md)
@@ -97,9 +97,9 @@ ht-degree: 6%
       + [Salesforce 用Adobe SignおよびMarketoを使用した通知の送信](integrations/marketo-salesforce-sms.md)
       + [Adobe Sign for Salesforce とMarketoのビデオチュートリアルを使用したリマインダーの送信](integrations/marketo-salesforce-reminder-video.md)
       + [Adobe Sign for Salesforce およびMarketo設定ガイドを使用したリマインダーの送信](integrations/marketo-salesforce-reminder.md)
-      + [Send notifications using Adobe Sign for Microsoft Dynamics and Marketo](integrations/marketo-dynamics-sms.md)
+      + [Adobe Sign for Microsoft Dynamics およびMarketoを使用した通知の送信](integrations/marketo-dynamics-sms.md)
       + [Adobe Sign for Microsoft Dynamics 365 およびMarketoを使用したリマインダーの送信](integrations/marketo-dynamics-reminder.md)
-+ Industries and departments {#expand}
++ 業種および部門 {#expand}
    + [概要](sign-usecase/expand-inspire-overview.md)
    + スキルビルダー {#innovation}
       + [Web セミナー](sign-usecase/innovation-series.md)
@@ -109,15 +109,15 @@ ht-degree: 6%
          + [業務助成金](sign-usecase/usecasegovgrants.md)
          + [テレワーク契約](sign-usecase/usecasegovtelework.md)
          + [契約書および請求書フォーム](sign-usecase/usecasegovcontracts.md)
-         + [Reemployment assistance](sign-usecase/usecasegovreemployment.md)
+         + [再雇用支援](sign-usecase/usecasegovreemployment.md)
          + [給与保護](sign-usecase/usecasegovpaycheck.md)
          + [リモート令状要求](sign-usecase/usecasegovremote.md)
       + Commercial {#com}
-         + [Contracts and requisition forms](sign-usecase/usecasecomcontracts.md)
+         + [契約書および請求書フォーム](sign-usecase/usecasecomcontracts.md)
          + [契約書](sign-usecase/usecasecompolicy.md)
    + 事例紹介ショーケース {#use-case}
       + [ショーケース](sign-usecase/use-case-showcase.md)
-+ Develop {#develop}
++ 開発 {#develop}
    + [概要](develop/develop-overview.md)
    + カスタム API {#custom}
       + [GigaSign を使用した大量の文書の収集](develop/gigasign.md)
@@ -126,5 +126,5 @@ ht-degree: 6%
    + [概要](deploy-overview.md)
 + モバイル {#mobile}
    + [概要](mobile/mobile-overview.md)
-   + Mobile tutorials {#mobile-tutorials}
+   + モバイルチュートリアル {#mobile-tutorials}
       + [Adobe Signの Liquid Mode](mobile/liquidmode.md)
