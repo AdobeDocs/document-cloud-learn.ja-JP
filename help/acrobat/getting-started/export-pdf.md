@@ -6,9 +6,9 @@ product: adobe acrobat
 level: Beginner
 thumbnail: 35494.jpg
 exl-id: 83896285-7339-4d95-8a51-b91de4d4731a
-source-git-commit: 85117d10744e8a2c9c18579d1f4b94c0a6516040
+source-git-commit: 886d374b81979e8927bc823cbcb4d312222797c5
 workflow-type: tm+mt
-source-wordcount: '84'
+source-wordcount: '111'
 ht-degree: 0%
 
 ---
@@ -27,4 +27,8 @@ Microsoft Word、PowerPoint、Excel などの編集可能な形式にPDFファ�
 
 >[!TIP]
 >
->操作方法の詳細 [AcrobatとMicrosoft 365](../integrate/integrate-overview.md)を選択します。
+>操作方法について詳細を見る [AcrobatとMicrosoft 365](../integrate/integrate-overview.md)を選択します。
+
+>[!TIP]
+>
+>このビデオはコースの一部です [Acrobat DCとMicrosoft 365 でスマートに作業](https://experienceleague.adobe.com/?recommended=Acrobat-U-1-2021.microsoft365) それは無料で利用できますExperience League!
