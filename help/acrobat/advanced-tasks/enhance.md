@@ -6,9 +6,9 @@ product: adobe acrobat
 level: Intermediate
 thumbnail: KT-9343.jpg
 kt: 9343
-source-git-commit: 364a521c1114cb89e781c07386634a9464676bc3
+source-git-commit: e1238d1dd61aea9a5b209d802d92b0b5a96d18a5
 workflow-type: tm+mt
-source-wordcount: '314'
+source-wordcount: '318'
 ht-degree: 0%
 
 ---
@@ -17,9 +17,13 @@ ht-degree: 0%
 
 グラフィックの装飾を追加し、自動で番号を付けることで、PDFを一変させる方法を説明します。
 
+&amp;nbsp
+
 ## 必要なもの
 
-[![ダウンロード](../assets/Getfiles.png)](../assets/Enhance.zip) 練習用のサンプルファイル (ZIP、342 KB)
+[![ダウンロード](../assets/Getfiles.png)](../assets/Enhance.zip)   練習用のサンプルファイル (ZIP、342 KB)
+
+&amp;nbsp
 
 ## 背景グラフィックの追加方法
 
@@ -27,15 +31,15 @@ ht-degree: 0%
 
 >[!VIDEO](https://video.tv.adobe.com/v/338746?hidetitle=true)
 
-学習内容：編集ツールを使用してPDFに背景グラフィックを追加する
+**学習内容：編集ツールを使用してPDFに背景グラフィックを追加する**
 
 背景を追加すると、元のソースファイルまたはPDFに戻ることなく、アプリケーションに視覚的な要素を追加できます。
 
-1. サンプルファイルから Altura Technology Employee Handbook.pdf を開きます。
+1. 開く *Altura Technology Employee Handbook.pdf* を選択します。
 1. 選択 **編集PDF** をクリックします。
 1. 選択 **その他/背景/追加**&#x200B;を選択します。
 1. 選択 **ページ範囲オプション…** を選択し、 **ページ元：** 」オプションを選択し、「 **OK**&#x200B;を選択します。
-1. 選択 **ファイル** 「ソース」オプションの下で、 **参照** を使用して、サンプルファイル Background Graphic.pdf を追加します。
+1. 「ソース」オプションで、 **ファイル** を選択し、 **参照** を選択して、 *Background Graphic.pdf* サンプルファイル
 1. 選択 **OK** を選択して、背景グラフィックを追加します。
 
 ## 新しいフッターの追加方法
@@ -44,13 +48,13 @@ ht-degree: 0%
 
 >[!VIDEO](https://video.tv.adobe.com/v/338745?hidetitle=true)
 
-学習内容：を選択して、新しいフッターをPDFに追加
+**学習内容：を選択して、新しいフッターをPDFに追加**
 
 新しいヘッダーやフッターを追加すると、統一感のあるPDFファイルを作成して、見やすくすることができます。
 
 1. 選択 **ヘッダーとフッター/追加/新規追加**&#x200B;を選択します。
-1. 内の 2 を選択 **プレビューページ** ボックス
-1. の下にある Calibri Bold を選択します。 **名前：**, 12 **サイズ：**&#x200B;を選択し、「フォント」セクションで白を選択します。
+1. 」を **プレビューページ** ボックスで 2 を選択します。
+1. Under **名前** の下にある Calibri Bold を選択します。 **サイズ** 12 を選択し、「フォント」セクションで白を選択します。
 1. Altura Technology Confidential を **左フッターテキスト** ボックス
 1. 選択 **ページ番号を挿入** 」を **フッターテキストを中央揃え** ボックス
 1. 「リビジョン 3.0」と入力します。 **右フッターテキスト** ボックス
