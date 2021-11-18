@@ -6,9 +6,9 @@ product: adobe acrobat
 level: Intermediate
 thumbnail: KT-9343.jpg
 kt: 9343
-source-git-commit: 58d605c20b66590c47f2aaaced35ba6afe0bcbe4
+source-git-commit: c27632c8a4ed98d75120062bb0ee976a3bb9fb21
 workflow-type: tm+mt
-source-wordcount: '320'
+source-wordcount: '319'
 ht-degree: 0%
 
 ---
@@ -17,14 +17,10 @@ ht-degree: 0%
 
 この実践チュートリアルでは、グラフィックの機能強化と自動番号付けを追加して、PDFを変形させる方法について説明します。
 
-<br> 
-
-## 必要なもの
-
-[![ダウンロード](../assets/Getfiles.png)](../assets/Enhance.zip)
-練習用のサンプルファイル (ZIP、342 KB)
-
-<br> 
+>[!TIP]
+>
+>[![ダウンロード](../assets/Getfiles.png)](../assets/Enhance.zip)
+> 練習用のサンプルファイルをダウンロード (ZIP、342 KB)
 
 ## 背景グラフィックの追加方法
 
@@ -39,7 +35,7 @@ ht-degree: 0%
 1. 開く *Altura Technology Employee Handbook.pdf* を選択します。
 1. 選択 **編集PDF** をクリックします。
 1. 選択 **その他/背景/追加**&#x200B;を選択します。
-1. 選択 **ページ範囲オプション…** を選択し、 **ページ元：** 」オプションを選択し、「 **OK**&#x200B;を選択します。
+1. 選択 **ページ範囲オプション…**&#x200B;を選択し、 **次のページから** 」オプションを選択し、「 **OK**&#x200B;を選択します。
 1. 「ソース」オプションで、 **ファイル** を選択し、 **参照** を選択して、 *Background Graphic.pdf* サンプルファイル
 1. 選択 **OK** を選択して、背景グラフィックを追加します。
 
