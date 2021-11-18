@@ -8,9 +8,9 @@ getting-started-url: https://helpx.adobe.com/acrobat/get-started.html
 tutorials-title: Tutorials
 tutorials-url: https://helpx.adobe.com/acrobat/tutorials.html
 breadcrumb-title: AcrobatTutorials
-source-git-commit: 33e3af56d2a97c43a2f11d585c73560460f0dd62
+source-git-commit: 351ae53b4a4a5d80094d76f01aa504ef775f0c21
 workflow-type: tm+mt
-source-wordcount: '332'
+source-wordcount: '335'
 ht-degree: 9%
 
 ---
@@ -41,6 +41,7 @@ ht-degree: 9%
    + [PDFの出所](getting-started/where-do-pdfs-come-from.md)
 + 高度なタスク {#advanced-tasks}
    + [概要](advanced-tasks/advanced-tasks-overview.md)
+   + [PDF](advanced-tasks/enhance.md)
    + [2 つのPDFの違いを検出](advanced-tasks/compare.md)
    + [アクションウィザード](advanced-tasks/action.md)
    + [墨消しと削除](advanced-tasks/redact.md)

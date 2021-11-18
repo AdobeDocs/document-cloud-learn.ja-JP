@@ -6,9 +6,9 @@ product: adobe acrobat
 level: Experienced
 thumbnail: KT-6857.jpg
 exl-id: 2e2dc54d-23e1-4bd8-81de-62131aa5c966
-source-git-commit: cf207a5bda859635de879758aae307689b708678
+source-git-commit: 351ae53b4a4a5d80094d76f01aa504ef775f0c21
 workflow-type: tm+mt
-source-wordcount: '209'
+source-wordcount: '224'
 ht-degree: 2%
 
 ---
@@ -23,6 +23,16 @@ Acrobat DCの高度なツールで、さらに高度な編集が可能です。 
 
 <table style="table-layout:fixed">
 <tr>
+  <td>
+    <a href="enhance.md">
+      <img alt="PDF" src="../assets/Enhance_1280.png" />
+    </a>
+    <div>
+    <a href="enhance.md"><strong>PDF</strong></a>
+    </div>
+    <em>グラフィックの装飾をPDFに追加し、自動番号を設定して、テンプレートを一新しましょう</em>
+    <br>
+  </td>
   <td>
     <a href="compare.md">
       <img alt="2 つのPDFの違いを検出" src="../assets/Compare_1280.png" />
@@ -42,7 +52,9 @@ Acrobat DCの高度なツールで、さらに高度な編集が可能です。 
     </div>
     <em>アクションを使用して一連のコマンドを 1 つまたは複数のファイルに自動的に適用することで、時間とキーストロークを節約できます</em>
     <br>
-  </td>
+  </td>  
+</tr>
+<tr>
   <td>
     <a href="redact.md">
       <img alt="墨消しと削除" src="../assets/Redact.jpg" />
@@ -52,9 +64,7 @@ Acrobat DCの高度なツールで、さらに高度な編集が可能です。 
     </div>
     <em>個人情報や機密情報をPDFから完全に削除</em>
     <br>
-  </td>  
-</tr>
-<tr>
+  </td>
   <td>
     <a href="reduce.md">
       <img alt="ファイルサイズの縮小と最適化" src="../assets/Reduce.jpg" />
@@ -75,6 +85,8 @@ Acrobat DCの高度なツールで、さらに高度な編集が可能です。 
     <em>フォームデータを単一のスプレッドシートにコンパイル</em>
     <br>
   </td>
+</tr>
+<tr>
   <td>
     <a href="accessibility.md">
       <img alt="アクセシビリティPDFのチェック" src="../assets/Checkingaccessible_1280.jpg" />
@@ -85,8 +97,6 @@ Acrobat DCの高度なツールで、さらに高度な編集が可能です。 
     <em>障害を持つ人々が自分のPDFに誰もがアクセスできるかを確認する方法を学ぶ</em>
     <br>
   </td>
-</tr>
-<tr>
   <td>
     <a href="accessibility-series.md">
       <img alt="アクセシブルなPDFファイルの準備" src="../assets/Accessibilityseries_1280.png" />
@@ -95,11 +105,6 @@ Acrobat DCの高度なツールで、さらに高度な編集が可能です。 
     <a href="accessibility-series.md"><strong>Acrobat Accessibility series</strong></a>
     </div>
     <em>この 6 部構成のオンデマンド型オンラインセミナーシリーズでは、アクセシビリティの基本からPDFファイルのタグ付けまで網羅しています</em>
-    <br>
-  </td>
-  <td>
-   <img alt="スペーサー" src="../assets/Whitespacer.png" />
-    <div>
     <br>
   </td>
   <td>
