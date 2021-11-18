@@ -1,27 +1,28 @@
 ---
 title: PDF
-description: グラフィックの装飾を追加し、自動で番号を付けることで、PDFを一変させる方法を説明します
+description: グラフィックの機能強化や自動番号付けを追加して、PDFを一変させる方法について説明します
 role: User
 product: adobe acrobat
 level: Intermediate
 thumbnail: KT-9343.jpg
 kt: 9343
-source-git-commit: 8aef75c4b6317ce72dad3c57ca46dd1f4636ef23
+source-git-commit: 58d605c20b66590c47f2aaaced35ba6afe0bcbe4
 workflow-type: tm+mt
-source-wordcount: '316'
+source-wordcount: '320'
 ht-degree: 0%
 
 ---
 
 # PDF
 
-グラフィックの装飾を追加し、自動で番号を付けることで、PDFを一変させる方法を説明します。
+この実践チュートリアルでは、グラフィックの機能強化と自動番号付けを追加して、PDFを変形させる方法について説明します。
 
 <br> 
 
 ## 必要なもの
 
-[![ダウンロード](../assets/Getfiles.png)](../assets/Enhance.zip)   練習用のサンプルファイル (ZIP、342 KB)
+[![ダウンロード](../assets/Getfiles.png)](../assets/Enhance.zip)
+練習用のサンプルファイル (ZIP、342 KB)
 
 <br> 
 
