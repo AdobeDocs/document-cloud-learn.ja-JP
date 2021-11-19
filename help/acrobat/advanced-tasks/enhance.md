@@ -6,7 +6,8 @@ product: adobe acrobat
 level: Intermediate
 thumbnail: KT-9343.jpg
 kt: 9343
-source-git-commit: e3a2ea5687ac123e88a051f320df2d4051cb63d7
+exl-id: 827d5ff0-1c81-4c5c-9627-a01f7f5a8e6d
+source-git-commit: b9fa2e683c88094f1fa92628c04f5d2bd4c00b94
 workflow-type: tm+mt
 source-wordcount: '321'
 ht-degree: 0%
@@ -19,9 +20,9 @@ ht-degree: 0%
 
 >[!TIP]
 >
->練習用のサンプルファイルをダウンロード (ZIP、342 KB)
+>[これらのサンプルファイルをダウンロード](../assets/Enhance.zip) 練習用 (ZIP、342 KB)
 
-[! [ ファイルを取得 ](../assets/Getfiles.png)](../assets/Enhance.zip)
+[! [ ファイルを取得 ](../assets/Getfiles.svg)](../assets/Enhance.zip)
 
 ## 背景グラフィックの追加方法
 
@@ -61,5 +62,3 @@ ht-degree: 0%
 1. で 0.7 を選択します。 **下** 」ボックスをクリックします。
 1. 選択 **設定の保存**&#x200B;で、ボックスに Revision 3.0 と入力し、「 **OK**&#x200B;を選択します。
 1. 選択 **OK** 」をクリックして、新しいフッターをPDFに適用します。
-
-
