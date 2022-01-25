@@ -1,15 +1,15 @@
 ---
 title: 管理者の概要
-description: アカウントへのユーザーの追加、グループの設定、アクセスの共有、ワークフロー、外部アーカイブ、共有イベントおよび警告の設定の基本について説明します
+description: アカウントへのユーザーの追加、グループの設定、アクセスの共有、ワークフロー、外部アーカイブ、共有イベントおよび警告の設定の基礎について説明します
 role: Admin
 product: adobe sign
 level: Intermediate
 topic-revisit: Administration
 thumbnail: KT-6849.jpg
 exl-id: 1b6ea9f0-6bbb-4ea5-aa22-bfa42f7cca18
-source-git-commit: a4f35378f4f45bd2c3f2ef4ddf95474a83655709
+source-git-commit: 8028012db95639613dd71dcf5b99f697d962ffb9
 workflow-type: tm+mt
-source-wordcount: '398'
+source-wordcount: '397'
 ht-degree: 1%
 
 ---
@@ -18,7 +18,7 @@ ht-degree: 1%
 
 ![Sign 管理者イメージ](../assets/Hero-Admin.png)
 
-アカウントへのユーザーの追加、グループの設定、アクセスの共有、ワークフロー、外部アーカイブ、共有イベントおよび警告の設定について説明します。 これらのチュートリアルは、インストールフェーズを終了し、Adobe Signの管理を開始する準備が整った管理者向けです。 高度なタスクでは、管理者が設定した部分を超えて、グローバル設定の定義、アカウントのアクセスと共有、テキストタグ付けに移動するトピックについて説明します。
+アカウントへのユーザーの追加、グループの設定、アクセスの共有、ワークフロー、外部アーカイブ、共有イベントおよび警告の設定について説明します。 これらのチュートリアルは、インストール段階を過ぎてAdobe Signの管理を開始する準備ができた管理者を対象としています。 高度なタスクでは、管理者が設定した部分を超えて、グローバル設定の定義、アカウントのアクセスと共有、テキストのタグ付けに移動するトピックについて説明します。
 
 ## はじめに
 
@@ -26,12 +26,12 @@ ht-degree: 1%
 <tr>
   <td>
     <a href="up-and-running-admin.md">
-      <img alt="管理者向けのセットアップと実行" src="../assets/Up-Running.png" />
+      <img alt="管理者向けのインストールと導入" src="../assets/Up-Running.png" />
     </a>
     <div>
-    <a href="up-and-running-admin.md"><strong>管理者向けのセットアップと実行</strong></a>
+    <a href="up-and-running-admin.md"><strong>管理者向けのインストールと導入</strong></a>
     </div>
-    <em>管理者がAdobe Signをすばやく使い始めるための 7 つの主要領域の概要</em>
+    <em>管理者がAdobe Signを短時間で使い始めるための 7 つの主要領域の概要</em>
     <br>
   </td>
   <td>
@@ -41,17 +41,17 @@ ht-degree: 1%
     <div>
     <a href="set-up-shared-events-and-alert.md"><strong>共有イベントと警告の設定</strong></a>
     </div>
-    <em>組織のイベントと警告の設定を構成する</em>
+    <em>組織のイベントと警告の設定を構成します</em>
     <br>
   </td>
   <td>
     <a href="add-users-to-your-account.md">
-      <img alt="サーバーの追加" src="../assets/Adding-Users.png" />
+      <img alt="ユーザーの追加" src="../assets/Adding-Users.png" />
     </a>
     <div>
     <a href="add-users-to-your-account.md"><strong>ユーザーの追加</strong></a>
     </div>
-    <em>Adobe Signアカウントにユーザーを個別にまたは一括で追加する</em>
+    <em>Adobe Signアカウントへのユーザーの個別または一括追加</em>
     <br>
   </td>
 </tr>
@@ -95,7 +95,7 @@ ht-degree: 1%
     <div>
     <a href="create-a-report.md"><strong>レポートの作成</strong></a>
     </div>
-    <em>レポートを作成およびスケジュール設定して、組織でのAdobe Signの使用を可視化します</em>
+    <em>組織でのAdobe Signの使用を明確に把握するためのレポートを作成してスケジュール設定できます</em>
     <br>
   </td>
   <td>
@@ -164,7 +164,7 @@ ht-degree: 1%
     <div>
     <a href="share-account-access.md"><strong>アカウントアクセスの共有</strong></a>
     </div>
-    <em>他のユーザーのアカウントのトランザクションに対して表示専用アクセスを設定する</em>
+    <em>別のユーザーのアカウントのトランザクションに対して表示専用アクセスを設定する</em>
     <br>
   </td>
   <td>
@@ -186,7 +186,7 @@ ht-degree: 1%
     <div>
     <a href="use-bio-pharma-settings.md"><strong>バイオ医薬業界標準対応の使用</strong></a>
     </div>
-    <em>FDA 21 CFR Part 11 要件を満たせるようにバイオ医薬業界標準対応を設定する</em>
+    <em>FDA 21 CFR Part 11 の要件を満たせるようにバイオ医薬業界標準対応を設定します</em>
     <br>
   </td> 
   <td>
@@ -196,7 +196,7 @@ ht-degree: 1%
     <div>
     <a href="../sign-advanced-users/adobe-sign-text-tagging.md"><strong>Adobe Sign Text Tagging</strong></a>
     <div>
-    <em>Adobe Acrobat DC を使用したテキストタグによるAdobe Signフォームフィールドの作成</em>
+    <em>Adobe Acrobatを使用したテキストタグによるAdobe Signフォームフィールドの作成</em>
     <br>
   </td>
   <td>

@@ -1,14 +1,14 @@
 ---
 title: チュートリアル
-description: Adobe Acrobat DC のチュートリアル、Web セミナー、ユースケース
+description: Adobe Acrobatのチュートリアル、Web セミナー、ユースケースのコレクション
 role: User
 product: adobe acrobat
 level: Beginner, Intermediate, Experienced
 thumbnail: KT-6864.jpg
 exl-id: 353c8352-88cc-4ada-a9a9-19a7423a993f
-source-git-commit: d389fd51354a2ecf1a1b0e10716509c18966bc69
+source-git-commit: 8028012db95639613dd71dcf5b99f697d962ffb9
 workflow-type: tm+mt
-source-wordcount: '165'
+source-wordcount: '164'
 ht-degree: 5%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 5%
 
 ![Acrobat Hero Image](assets/Hero_Acrobat.jpg)
 
-Adobe Document CloudのソリューションであるAdobe Acrobatは、変換、編集、共有、署名の機能を使用して、ビジネスを進化させ続けるPDFです。 初心者から上級ユーザーまですばやくAdobe Acrobatを習得できるように設計された、幅広い学習体験が用意されています。
+Adobe Document CloudのソリューションであるAdobe Acrobatを使用すれば、アセットの変換、編集、共有、署名をおこなうことで、ビジネスを推進できます。PDF 初心者から上級ユーザーまですばやくAdobe Acrobatで学習できるように設計された、幅広い学習体験が用意されています。
 
 ## 学習パス
 
@@ -40,7 +40,7 @@ Adobe Document CloudのソリューションであるAdobe Acrobatは、変換�
     <div>
     <a href="advanced-tasks/advanced-tasks-overview.md"><strong>高度なタスク</strong></a>
     </div>
-    <em>特定のタスクと自動化で基本を超える</em>
+    <em>特定のタスクや自動化を基本から脱却</em>
     <br>
   </td>
   <td>
@@ -48,7 +48,7 @@ Adobe Document CloudのソリューションであるAdobe Acrobatは、変換�
       <img alt="スキルビルダー" src="assets/acrobat_title_skill_builder.png" />
     </a>
     <div>
-    <a href="skill-builder/skill-builder-overview.md"><strong>Skill Builders</strong></a>
+    <a href="skill-builder/skill-builder-overview.md"><strong>スキルビルダー</strong></a>
     </div>
     <em>デジタル化を進め、デジタル化を維持し、業務を遂行するためのタスクベースのヒント</em>
     <br>
@@ -72,7 +72,7 @@ Adobe Document CloudのソリューションであるAdobe Acrobatは、変換�
     <div>
     <a href="industry/industry-overview.md"><strong>業種および部門</strong></a>
     </div>
-    <em>現実のビジネスが 100%デジタル化される方法を探る</em>
+    <em>現実のビジネスが完全にデジタル化される方法を探る</em>
     <br>
   </td>  
   <td>

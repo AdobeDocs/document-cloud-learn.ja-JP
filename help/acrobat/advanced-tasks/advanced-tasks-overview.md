@@ -6,9 +6,9 @@ product: adobe acrobat
 level: Experienced
 thumbnail: KT-6857.jpg
 exl-id: 2e2dc54d-23e1-4bd8-81de-62131aa5c966
-source-git-commit: 58d605c20b66590c47f2aaaced35ba6afe0bcbe4
+source-git-commit: 8028012db95639613dd71dcf5b99f697d962ffb9
 workflow-type: tm+mt
-source-wordcount: '224'
+source-wordcount: '223'
 ht-degree: 2%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 2%
 
 ![Acrobat入門の画像](../assets/Hero-AdvancedTasks.png)
 
-Acrobat DCの高度なツールで、さらに高度な編集が可能です。 日常的な作業の繰り返し、機密情報の削除、大きなファイルの削減と最適化、フォームデータの迅速な収集、ユニバーサルアクセス可能なPDFファイルの作成などを行うアクションの作成方法を説明します。
+Acrobatの高度なツールで、さらに高度な編集が可能です。 日常的な作業の繰り返し、機密情報の削除、大きなファイルの削減と最適化、フォームデータの迅速な収集、ユニバーサルアクセス可能なPDFファイルの作成などを行うアクションの作成方法を説明します。
 
 ## Acrobat tutorials
 

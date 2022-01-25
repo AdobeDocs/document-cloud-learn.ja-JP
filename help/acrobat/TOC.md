@@ -8,9 +8,9 @@ getting-started-url: https://helpx.adobe.com/acrobat/get-started.html
 tutorials-title: Tutorials
 tutorials-url: https://helpx.adobe.com/acrobat/tutorials.html
 breadcrumb-title: AcrobatTutorials
-source-git-commit: 351ae53b4a4a5d80094d76f01aa504ef775f0c21
+source-git-commit: 5dd1f4ed06940181869991a6361a365c8571c990
 workflow-type: tm+mt
-source-wordcount: '335'
+source-wordcount: '334'
 ht-degree: 9%
 
 ---
@@ -85,7 +85,7 @@ ht-degree: 9%
    + 官公庁 {#gov}
       + [概要](industry/gov/gov-overview.md)
       + Acrobat DCで場所を問わず作業できる環境を実現するための 5 つのヒント {#tips}
-         + [Acrobat DCでどこでも作業できる環境を実現するための 5 つのヒント](industry/gov/5-tips-for-working-anywhere-with-acrobat-dc-for-government.md)
+         + [Acrobatでどこでも作業できる環境を実現するための 5 つのヒント](industry/gov/5-tips-for-working-anywhere-with-acrobat-dc-for-government.md)
          + [ヒント#1 — ツールの入手](industry/gov/get-your-tools.md)
          + [ヒント#2 — ドキュメントでの共同作業](industry/gov/collaborate-on-documents.md)
          + [ヒント#3 -Protect digital documents](industry/gov/protect-digital-documents.md)

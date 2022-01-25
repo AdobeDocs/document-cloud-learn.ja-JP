@@ -1,21 +1,21 @@
 ---
 title: Acrobat DC Skill Builders
-description: インタラクティブなスキルビルダーによるAcrobat DCの最新情報の紹介
+description: インタラクティブなスキルビルダーによるAcrobatの最新情報の紹介
 role: User
 product: adobe acrobat
 level: Beginner, Intermediate
 thumbnail: KT-6858.jpg
 exl-id: 59269c6c-f471-4bc5-9ad4-ad7b7fdcdb76
-source-git-commit: 44e5709089c40474fae3646da79577a1cf6c2761
+source-git-commit: 8028012db95639613dd71dcf5b99f697d962ffb9
 workflow-type: tm+mt
-source-wordcount: '267'
+source-wordcount: '265'
 ht-degree: 0%
 
 ---
 
 # Acrobat Skill Builders
 
-インタラクティブなスキルビルダーがAcrobat DCの最新情報を伝えます。 または、 [月間ライブセッション](skill-builder-webinars.md)を選択します。
+インタラクティブなスキルビルダーの紹介でAcrobatの最新情報を入手しましょう。 または、 [月間ライブセッション](skill-builder-webinars.md)を選択します。
 
 ![Acrobat Skill Builder の画像](../assets/Hero-SkillBuilders.png)
 
@@ -30,7 +30,7 @@ ht-degree: 0%
     <div>
     <a href="https://doccloud.adobeconnect.com/paperpdf/" target="_blank"><strong>紙からPDF</strong></a>
     </div>
-    <em>紙の文書をデジタルでPDF</em>
+    <em>紙の文書をデジタルなPDF</em>
     <br>
   </td>
   <td>
@@ -62,7 +62,7 @@ ht-degree: 0%
     <div>
     <a href="https://doccloud.adobeconnect.com/createpdfs/" target="_blank"><strong>作成と整理PDF</strong></a>
     </div>
-    <em>あらゆる種類のPDFからファイルを作成、整理</em>
+    <em>あらゆる種類のPDFファイルの作成と整理</em>
     <br>
   </td>
   <td>
@@ -126,7 +126,7 @@ ht-degree: 0%
     <div>
     <a href="https://doccloud.adobeconnect.com/optimizepdfs/" target="_blank"><strong>最適化されたPDF</strong></a>
     </div>
-    <em>配布するPDFの準備</em>
+    <em>配布PDFの準備</em>
     <br>
   </td>
   <td>
@@ -142,7 +142,7 @@ ht-degree: 0%
 </tr>
 </table>
 
-## 作業を完了
+## 作業の完了
 
 <table style="table-layout:fixed">
 <tr>
@@ -153,7 +153,7 @@ ht-degree: 0%
     <div>
     <a href="https://doccloud.adobeconnect.com/skillbuilder-share/" target="_blank"><strong>フィードバックの共有と収集</strong></a>
     </div>
-    <em>収集してフィードバックを取得するPDF</em>
+    <em>フィードバックの収集とPDF</em>
     <br>
   </td>
   <td>

@@ -1,15 +1,15 @@
 ---
 title: 統合の概要
-description: Acrobatを Box、Dropbox、Google Drive、OneDrive、Microsoftアプリと統合
+description: Acrobatを Box、Dropbox、Google Drive、OneDrive、Microsoftアプリと連携
 role: User
 product: adobe acrobat
 level: Beginner
 topic-revisit: Integrations
 thumbnail: KT-6859.jpg
 exl-id: 76cb40b4-bbb4-4f50-b01d-4c5a74bf9f20
-source-git-commit: d389fd51354a2ecf1a1b0e10716509c18966bc69
+source-git-commit: 8028012db95639613dd71dcf5b99f697d962ffb9
 workflow-type: tm+mt
-source-wordcount: '282'
+source-wordcount: '281'
 ht-degree: 1%
 
 ---
@@ -18,11 +18,11 @@ ht-degree: 1%
 
 ![Acrobat Integrate Image](../assets/Hero-Integrate.png)
 
-Acrobatを [!DNL Box], [!DNL Dropbox], [!DNL Google Drive], [!DNL OneDrive]および [!DNL Microsoft] アプリ、
+Acrobatと [!DNL Box], [!DNL Dropbox], [!DNL Google Drive], [!DNL OneDrive]および [!DNL Microsoft] できます。
 
 ## Microsoft
 
-チーム全員がファイルを直接、PDF 内でシームレスにPDF作業できます [Microsoft 365](https://www.adobe.com/documentcloud/integrations/microsoft-office-365.html)を選択します。
+チーム全員がその中で直接、シームレスにPDFファイルを操作できます [Microsoft 365](https://www.adobe.com/documentcloud/integrations/microsoft-office-365.html)を選択します。
 
 <table style="table-layout:fixed">
 <tr>
@@ -43,7 +43,7 @@ Acrobatを [!DNL Box], [!DNL Dropbox], [!DNL Google Drive], [!DNL OneDrive]お�
     <div>
     <a href="createofficeweb.md"><strong>PDFの作成 [!DNL Office] web 用</strong></a>
     </div>
-    <em>デスクトップでPDFファイルを作成し、 [!DNL Microsoft Office] web アプリケーションの場合</em>
+    <em>ブラウザー内でPDFファイルを作成し、 [!DNL Microsoft Office] web アプリケーションの場合</em>
     <br>
   </td>  
   <td>
@@ -53,7 +53,7 @@ Acrobatを [!DNL Box], [!DNL Dropbox], [!DNL Google Drive], [!DNL OneDrive]お�
     <div>
     <a href="acrobatandsp.md"><strong>クリエイティブアプリ [!DNL SharePoint] ファイル</strong></a>
     </div>
-    <em>文書ワークフローの効率化 [!DNL SharePoint] とAcrobat DC</em>
+    <em>文書ワークフローの効率化 [!DNL SharePoint] とAcrobat</em>
     <br>
   </td>  
 </tr>
@@ -65,7 +65,7 @@ Acrobatを [!DNL Box], [!DNL Dropbox], [!DNL Google Drive], [!DNL OneDrive]お�
     <div>
     <a href="acrobatandteams.md"><strong>PDFコラボレーション [!DNL Microsoft Teams]</strong></a>
     </div>
-    <em>外に出ることなく、アセットの表示、注釈の追加、確認をおこなって、同僚とPDFして共同作業できます [!DNL Microsoft Teams]</em>
+    <em>他のユーザーとの共同作業や共同作業が可能になります。アプリケーション内でPDFの表示、注釈の追加、確認ができます [!DNL Microsoft Teams]</em>
     <br>
   </td>
   <td>
@@ -73,19 +73,19 @@ Acrobatを [!DNL Box], [!DNL Dropbox], [!DNL Google Drive], [!DNL OneDrive]お�
       <img alt="Outlook で電子メールメッセージと添付ファイルをPDFに変換する" src="../assets/Outlook.jpg" />
     </a>
     <div>
-    <a href="outlook.md"><strong>電子メールメッセージと添付ファイルのPDFへの変換 [!DNL Outlook]</strong></a>
+    <a href="outlook.md"><strong>電子メールメッセージと添付ファイルを [!DNL Outlook]</strong></a>
     </div>
     <em>よりプロフェッショナルで安全な方法で [!DNL Outlook]</em>
     <br>
   </td>
   <td>
     <a href="edge.md">
-      <img alt="閲覧中にPDFコンテンツを作成する [!DNL Microsoft Edge]" src="../assets/Edge_1280.png" />
+      <img alt="参照中にPDFコンテンツを作成する [!DNL Microsoft Edge]" src="../assets/Edge_1280.png" />
     </a>
     <div>
-    <a href="edge.md"><strong>閲覧中にPDFコンテンツを作成する [!DNL Microsoft Edge]</strong></a>
+    <a href="edge.md"><strong>参照中にPDFコンテンツを作成する [!DNL Microsoft Edge]</strong></a>
     </div>
-    <em>Adobe Acrobat拡張機能を使用して、Web ページをPDFにすばやくアーカイブする方法を [!DNL Microsoft Edge]</em>
+    <em>Adobe Acrobat拡張機能を使用して、Web ページをその場でPDFにアーカイブする方法を学習します。 [!DNL Microsoft Edge]</em>
     <br>
   </td>
 </tr>
@@ -93,18 +93,18 @@ Acrobatを [!DNL Box], [!DNL Dropbox], [!DNL Google Drive], [!DNL OneDrive]お�
 
 ## Google ドライブ
 
-必要な署名ツールと電子サインツールを内蔵しているため、短時間で多くのPDFを実行できます [!DNL Google Drive]を選択します。
+必要な電子サインツールが組み込まれているため、短時間で多くのPDFを実行できます [!DNL Google Drive]を選択します。
 
 <table style="table-layout:fixed">
 <tr>
   <td>
     <a href="acrobatandgoogle.md">
-      <img alt="Adobe Acrobat for Google Drive" src="../assets/acrobatgoogle.jpg" />
+      <img alt="Google Drive 向けAdobe Acrobat" src="../assets/acrobatgoogle.jpg" />
     </a>
     <div>
     <a href="acrobatandgoogle.md"><strong>Adobe Acrobat [!DNL Google Drive]</strong></a>
     </div>
-    <em>効率的なPDFツールと電子サインワークフローに [!DNL Google Drive] app</em>
+    <em>効率的なPDFツールや電子サインワークフローを [!DNL Google Drive] app</em>
     <br>
   </td>
   <td>
@@ -126,4 +126,4 @@ Acrobat DCと [ボックス](https://www.adobe.com/documentcloud/integrations/bo
 
 ## Dropbox
 
-に保存されているPDFへの [Dropbox](https://www.adobe.com/documentcloud/integrations/dropbox.html){target=&quot;_blank&quot;}。
+次の場所に保存されているPDFに [Dropbox](https://www.adobe.com/documentcloud/integrations/dropbox.html){target=&quot;_blank&quot;}。

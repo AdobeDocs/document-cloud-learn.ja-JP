@@ -7,9 +7,9 @@ level: Intermediate
 thumbnail: KT-9343.jpg
 kt: 9343
 exl-id: 827d5ff0-1c81-4c5c-9627-a01f7f5a8e6d
-source-git-commit: 20fc08c045a8ade2ebd4994e9d6295a18c9f33a2
+source-git-commit: 8028012db95639613dd71dcf5b99f697d962ffb9
 workflow-type: tm+mt
-source-wordcount: '321'
+source-wordcount: '317'
 ht-degree: 0%
 
 ---
@@ -35,7 +35,7 @@ ht-degree: 0%
 
 <br> 
 
-**学習内容：編集ツールを使用してPDFに背景グラフィックを追加する**
+## 学習内容：PDFに背景グラフィックを追加するには
 
 背景を追加すると、元のソースファイルまたはPDFに戻ることなく、アプリケーションに視覚的な要素を追加できます。
 
@@ -55,7 +55,7 @@ ht-degree: 0%
 
 <br> 
 
-**学習内容：を選択して、新しいフッターをPDFに追加**
+## 学習内容：新しいフッターをPDF
 
 新しいヘッダーやフッターを追加すると、統一感のあるPDFファイルを作成して、見やすくすることができます。
 
