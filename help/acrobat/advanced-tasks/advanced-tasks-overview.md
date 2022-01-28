@@ -6,9 +6,9 @@ product: adobe acrobat
 level: Experienced
 thumbnail: KT-6857.jpg
 exl-id: 2e2dc54d-23e1-4bd8-81de-62131aa5c966
-source-git-commit: 933c6a81397c381c05e69a5d7d0e438c6d55260d
+source-git-commit: b728e0bee2743cd24059a5958bc657bb6a4a64cb
 workflow-type: tm+mt
-source-wordcount: '223'
+source-wordcount: '243'
 ht-degree: 2%
 
 ---
@@ -43,7 +43,16 @@ Acrobatの高度なツールで、さらに高度な編集が可能です。 日
     <em>グラフィックの機能強化や自動番号付けを追加して、PDFを一変させましょう</em>
     <br>
   </td>
-  <td>  
+   <td>
+    <a href="compare.md">
+      <img alt="2 つのPDFの違いを検出" src="../assets/Compare_1280.png" />
+    </a>
+    <div>
+    <a href="compare.md"><strong>2 つのPDFの違いを検出</strong></a>
+    </div>
+    <em>2 つのファイル間の差異をすばやく正確にPDFする</em>
+    <br>
+  </td>
 </tr>
 <tr>
   <td>
