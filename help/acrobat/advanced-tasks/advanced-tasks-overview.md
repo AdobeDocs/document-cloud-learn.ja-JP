@@ -6,7 +6,7 @@ product: adobe acrobat
 level: Experienced
 thumbnail: KT-6857.jpg
 exl-id: 2e2dc54d-23e1-4bd8-81de-62131aa5c966
-source-git-commit: 8028012db95639613dd71dcf5b99f697d962ffb9
+source-git-commit: 933c6a81397c381c05e69a5d7d0e438c6d55260d
 workflow-type: tm+mt
 source-wordcount: '223'
 ht-degree: 2%
@@ -24,6 +24,16 @@ Acrobatの高度なツールで、さらに高度な編集が可能です。 日
 <table style="table-layout:fixed">
 <tr>
   <td>
+    <a href="workforms.md">
+      <img alt="フォームフィールドの操作" src="../assets/Workform_1280.png" />
+    </a>
+    <div>
+    <a href="workforms.md"><strong>フォームフィールドの操作</strong></a>
+    </div>
+    <em>様々なタイプのフォームフィールドの追加、フォームフィールドプロパティの設定、セキュリティの追加をおこなって、高品質でプロフェッショナルなフォームを作成できます</em>
+    <br>
+  </td>
+  <td>
     <a href="enhance.md">
       <img alt="PDF" src="../assets/Enhance_1280.png" />
     </a>
@@ -33,16 +43,9 @@ Acrobatの高度なツールで、さらに高度な編集が可能です。 日
     <em>グラフィックの機能強化や自動番号付けを追加して、PDFを一変させましょう</em>
     <br>
   </td>
-  <td>
-    <a href="compare.md">
-      <img alt="2 つのPDFの違いを検出" src="../assets/Compare_1280.png" />
-    </a>
-    <div>
-    <a href="compare.md"><strong>2 つのPDFの違いを検出</strong></a>
-    </div>
-    <em>2 つの文書ファイル間の相違点をすばやく正確に検出して、PDFレビューワークフローを改善します。</em>
-    <br>
-  </td>
+  <td>  
+</tr>
+<tr>
   <td>
     <a href="action.md">
       <img alt="アクションウィザード" src="../assets/Action.jpg" />
@@ -53,8 +56,6 @@ Acrobatの高度なツールで、さらに高度な編集が可能です。 日
     <em>アクションを使用して一連のコマンドを 1 つまたは複数のファイルに自動的に適用することで、時間とキーストロークを節約できます</em>
     <br>
   </td>  
-</tr>
-<tr>
   <td>
     <a href="redact.md">
       <img alt="墨消しと削除" src="../assets/Redact.jpg" />
@@ -75,6 +76,8 @@ Acrobatの高度なツールで、さらに高度な編集が可能です。 日
     <em>共有、投稿、アーカイブの品質を損なうことなく、大きなファイルを削減し、PDFを最適化できます</em>
     <br>
   </td>
+</tr>
+<tr>
   <td>
     <a href="formdata.md">
       <img alt="アクションウィザード" src="../assets/FormData.jpg" />
@@ -85,9 +88,7 @@ Acrobatの高度なツールで、さらに高度な編集が可能です。 日
     <em>フォームデータを単一のスプレッドシートにコンパイル</em>
     <br>
   </td>
-</tr>
-<tr>
-  <td>
+   <td>
     <a href="accessibility.md">
       <img alt="アクセシビリティPDFのチェック" src="../assets/Checkingaccessible_1280.jpg" />
     </a>
@@ -105,11 +106,6 @@ Acrobatの高度なツールで、さらに高度な編集が可能です。 日
     <a href="accessibility-series.md"><strong>Acrobat Accessibility series</strong></a>
     </div>
     <em>この 6 部構成のオンデマンド型オンラインセミナーシリーズでは、アクセシビリティの基本からPDFファイルのタグ付けまで網羅しています</em>
-    <br>
-  </td>
-  <td>
-   <img alt="スペーサー" src="../assets/Whitespacer.png" />
-    <div>
     <br>
   </td>
 </tr>
