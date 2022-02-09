@@ -5,9 +5,10 @@ role: User
 product: adobe acrobat
 level: Experienced
 thumbnail: KT-9347.jpg
-source-git-commit: 388ef8f5d320ecdcd0d5167b83728302c2ea473e
+exl-id: 2f24d745-762a-4631-8495-08b9e9d77af0
+source-git-commit: 1ed8a83a49d8e87a6ddb806c70b3b26d428fd567
 workflow-type: tm+mt
-source-wordcount: '656'
+source-wordcount: '655'
 ht-degree: 0%
 
 ---
@@ -71,7 +72,7 @@ Web 表示用にデバイスを準備し、PDFのファイルサイズを縮小�
 
 ## キーワードファイル名の作成
 
-ファイル名は、Web に投稿されたPDFの一部になります。 キーワードに最適化したタイトルをファイル名と一致させることが最適です。 検索に便利にするには、小文字を使用し、句読点やハッシュは使用せず、ストップワード (a、an、the、and、it、for、or、but、in、my、your、our、their、etc.) は使用しないようにします。 単語を分ける場合は、単語の間にハイフンまたはアンダースコアを追加します。
+ファイル名は、Web に投稿されたPDFの一部になります。 キーワードに最適化したタイトルをファイル名と一致させることを推奨します。 検索に便利にするには、小文字を使用し、句読点やハッシュは使用せず、ストップワード (a、an、the、and、it、for、or、but、in、my、your、our、their、etc.) は使用しないようにします。 単語を分ける場合は、単語の間にハイフンまたはアンダースコアを追加します。
 
 ## 安全なPDF
 
