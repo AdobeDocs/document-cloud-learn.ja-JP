@@ -6,9 +6,9 @@ product: adobe acrobat
 level: Experienced
 thumbnail: KT-6857.jpg
 exl-id: 2e2dc54d-23e1-4bd8-81de-62131aa5c966
-source-git-commit: 1ed8a83a49d8e87a6ddb806c70b3b26d428fd567
+source-git-commit: c7c0d0d337dd385ac0e90bbfeef24d926424dce5
 workflow-type: tm+mt
-source-wordcount: '272'
+source-wordcount: '269'
 ht-degree: 2%
 
 ---
@@ -109,12 +109,12 @@ Acrobatの高度なツールで、さらに高度な編集が可能です。 日
   </td>
    <td>
     <a href="accessibility.md">
-      <img alt="アクセシビリティPDFのチェック" src="../assets/Checkingaccessible_1280.jpg" />
+      <img alt="アクセシビリティPDFのチェック" src="../assets/Checkaccessible_1280.jpg" />
     </a>
     <div>
     <a href="accessibility.md"><strong>アクセシビリティPDFのチェック</strong></a>
     </div>
-    <em>障害を持つ人々が自分のPDFに誰もがアクセスできるかを確認する方法を学ぶ</em>
+    <em>障害を持つユーザーがPDFに誰もがアクセスできるかどうかを確認する</em>
     <br>
   </td>
 </tr>
