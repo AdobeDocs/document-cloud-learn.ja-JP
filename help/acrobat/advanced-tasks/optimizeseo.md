@@ -6,9 +6,9 @@ product: adobe acrobat
 level: Experienced
 thumbnail: KT-9347.jpg
 exl-id: 2f24d745-762a-4631-8495-08b9e9d77af0
-source-git-commit: 1ed8a83a49d8e87a6ddb806c70b3b26d428fd567
+source-git-commit: 2f144b3c657e77fa043fe572f18bbbf162fbad6a
 workflow-type: tm+mt
-source-wordcount: '655'
+source-wordcount: '690'
 ht-degree: 0%
 
 ---
@@ -69,6 +69,10 @@ Web 表示用にデバイスを準備し、PDFのファイルサイズを縮小�
 この手順により、ファイルサイズが小さくなり、 **Web 表示用に最適化** PDF **Web 表示用に最適化** ファイル全体がストリーミングまたはダウンロードされる前に、ファイルをすぐに開いて表示し、検索できます。これにより、エンドユーザーの操作性が最適化されます。 開く **[!UICONTROL 文書のプロパティ]** (*Ctrl + D* Windows または *Cmd + D* (Mac) で **Web 表示用に最適化** は有効です。
 
 ![文書のプロパティのスクリーンショット](../assets/optimizeseo5.png)
+
+>[!TIP]
+>
+>Acrobat Proを使用している場合は、最適化ツールで「 Web およびモバイル用に最適化」をAction Wizardします。 このアクションは、色を sRGB に変換し、フォントを埋め込むことで、ブラウザーやモバイルデバイス間でPDFが一貫して表示されるようにします。
 
 ## キーワードファイル名の作成
 
