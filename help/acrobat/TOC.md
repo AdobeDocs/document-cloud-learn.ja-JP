@@ -8,10 +8,10 @@ getting-started-url: https://helpx.adobe.com/acrobat/get-started.html
 tutorials-title: Tutorials
 tutorials-url: https://helpx.adobe.com/acrobat/tutorials.html
 breadcrumb-title: AcrobatTutorials
-source-git-commit: f9b2d1afb21b3b6b67fbc8f2ef7f5f0b8aa80d0c
+source-git-commit: 744006c7d8229df39a202355b7b79bf9f6a38b3d
 workflow-type: tm+mt
-source-wordcount: '344'
-ht-degree: 10%
+source-wordcount: '387'
+ht-degree: 9%
 
 ---
 
@@ -61,6 +61,12 @@ ht-degree: 10%
       + [タグなしPDF](advanced-tasks/accessibilitysession6.md)
 + 60 秒Acrobat {#60-second}
    + [概要](60-second/60-second-overview.md)
+   + [効率的なPDFファイルの簡単な作成](60-second/optimize.md)
+   + [パスワードでPDFファイルをProtect](60-second/protect.md)
+   + [フォームフィールドを含むPDFに Word を変換する](60-second/wordform.md)
+   + [AcrobatでアクセシブルなPDF](60-second/accessible.md)
+   + [Export PDFから Word へ](60-second/exportwordphone.md)
+   + [スキャンした認識ファイルのテキストPDF](60-second/textrecognition.md)
    + [ファイルを 1 つのPDFに](60-second/combine-to-one-pdf.md)
    + [Acrobat Web でのPDFの編集](60-second/edit.md)
    + [複数のPDFファイルの一括検索](60-second/search.md)

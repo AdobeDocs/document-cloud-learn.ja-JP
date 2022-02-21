@@ -1,15 +1,15 @@
 ---
 title: 60 秒のAcrobatの概要
-description: 60 秒のAcrobatには、Acrobat DCの新しいトリックを 1 分以内に習得できる簡単なチュートリアルが用意されています
+description: 60 秒のAcrobatには、Acrobatの新しいトリックを 1 分以内に習得できる簡単なチュートリアルが用意されています
 role: User
 product: adobe acrobat
 level: Beginner
 thumbnail: KT-8493.jpg
 KT: 8493
 exl-id: 43750150-6e0d-4326-946d-61e1bae86f2a
-source-git-commit: 27c2eebfcdf359a3b3cca5cc9f31ba4ed39f7652
+source-git-commit: 744006c7d8229df39a202355b7b79bf9f6a38b3d
 workflow-type: tm+mt
-source-wordcount: '365'
+source-wordcount: '529'
 ht-degree: 0%
 
 ---
@@ -18,11 +18,75 @@ ht-degree: 0%
 
 ![60 秒のAcrobat Image](../assets/Hero-60sec.png)
 
-60 秒のAcrobatには、Acrobat DCの新しいトリックを 1 分以内に習得できる簡単なチュートリアルが用意されています。 これらのタスクベースのヒントを使用して、Acrobatの隠れた機能の一部をロック解除することで、PDFファイルを操作するための新しいスキルを身につけることができます。 1 つ目のチュートリアルで答えをすぐに見つけたり、5 つ目のチュートリアルで文書の生産性を高めたりしながら、コーヒーブレイクを楽しむ時間を確保できます。
+60 秒のAcrobatには、Acrobatの新しいトリックを 1 分以内に習得できる簡単なチュートリアルが用意されています。 これらのタスクベースのヒントを使用して、Acrobatの隠れた機能の一部をロック解除することで、PDFファイルを操作するための新しいスキルを身につけることができます。 1 つ目のチュートリアルで答えをすぐに見つけたり、5 つ目のチュートリアルで文書の生産性を高めたりしながら、コーヒーブレイクを楽しむ時間を確保できます。
 
 ## 60 秒のAcrobat tutorials
 
 <table style="table-layout:fixed">
+<tr>
+  <td>
+    <a href="optimize.md">
+      <img alt="効率的なPDFファイルの簡単な作成" src="../assets/60sec_Optimize_1280.jpg" />
+    </a>
+    <div>
+    <a href="optimize.md"><strong>効率的なPDFファイルの簡単な作成</strong></a>
+    </div>
+    <em>Optimize PDFツールを使用して、PDFファイル</em>
+    <br>
+  </td>
+  <td>
+    <a href="protect.md">
+      <img alt="パスワードでPDFファイルをProtect" src="../assets/60sec_Protect_1280.jpg" />
+    </a>
+    <div>
+    <a href="protect.md"><strong>パスワードでPDFファイルをProtect</strong></a>
+    </div>
+    <em>PDFをProtectして、PDFを開くか編集するためにパスワードが必要となるようにする</em>
+    <br>
+  </td>
+  <td>
+    <a href="wordform.md">
+      <img alt="フォームフィールドを含むPDFに Word を変換する" src="../assets/60sec_Wordform_1280.jpg" />
+    </a>
+    <div>
+     <a href="wordform.md"><strong>フォームフィールドを含むPDFに Word を変換する</strong></a>
+    </div>
+    <em>Word のファイルとフォームをPDFに変換し、フォームフィールドを自動的に作成</em>
+    <br>
+  </td>
+</tr>
+<tr>
+  <td>
+    <a href="accessible.md">
+      <img alt="AcrobatでアクセシブルなPDF" src="../assets/60sec_Accessible_1280.jpg" />
+    </a>
+    <div>
+    <a href="accessible.md"><strong>AcrobatでアクセシブルなPDF</strong></a>
+    </div>
+    <em>アクセス可能なPDFの確認</em>
+    <br>
+  </td>
+  <td>
+    <a href="exportwordphone.md">
+      <img alt="Export PDFから Word へ" src="../assets/60sec_Exportphone_1280.jpg" />
+    </a>
+    <div>
+    <a href="exportwordphone.md"><strong>Export PDFから Word へ</strong></a>
+    </div>
+    <em>Acrobatモバイル版アプリで、PDFファイルを編集可能なMicrosoft Word 文書に変換できます</em>
+    <br>
+  </td>
+  <td>
+    <a href="textrecognition.md">
+      <img alt="スキャンした認識ファイルのテキストPDF" src="../assets/60sec_Textrecognition_1280.jpg" />
+    </a>
+    <div>
+     <a href="textrecognition.md"><strong>スキャンした認識ファイルのテキストPDF</strong></a>
+    </div>
+    <em>スキャンしたPDFを変換して、PDF</em>
+    <br>
+  </td>
+</tr>
 <tr>
   <td>
     <a href="combine-to-one-pdf.md">
