@@ -6,9 +6,9 @@ product: adobe acrobat
 level: Experienced
 thumbnail: KT-6857.jpg
 exl-id: 2e2dc54d-23e1-4bd8-81de-62131aa5c966
-source-git-commit: 680e3d304959b96e864c4438c95ab66b3d510eb0
+source-git-commit: fcefe03e275c011a03542c7134188cb091b11495
 workflow-type: tm+mt
-source-wordcount: '282'
+source-wordcount: '299'
 ht-degree: 4%
 
 ---
@@ -23,6 +23,16 @@ Acrobatの高度なツールで、さらに高度な編集が可能です。 日
 
 <table style="table-layout:fixed">
 <tr>
+  <td>
+    <a href="custom.md">
+      <img alt="カスタムコマンドとツール" src="../assets/Createcustom_1280.png" />
+    </a>
+    <div>
+    <a href="custom.md"><strong>カスタムコマンドとツール</strong></a>
+    </div>
+    <em>カスタムコマンドとツールセットを使用して文書ワークフローの生産性を向上</em>
+    <br>
+  </td>
   <td>
     <a href="advancedforms.md">
       <img alt="高度なフォームフィールド" src="../assets/Advancedforms_1280.png" />
@@ -43,6 +53,8 @@ Acrobatの高度なツールで、さらに高度な編集が可能です。 日
     <em>PDFを最適化して、Web 上での検出可能性と検索エンジンのランキングを向上</em>
     <br>
   </td>
+</tr>
+<tr>
   <td>
     <a href="workforms.md">
       <img alt="フォームフィールドの操作" src="../assets/Workform_1280.png" />
@@ -53,8 +65,6 @@ Acrobatの高度なツールで、さらに高度な編集が可能です。 日
     <em>様々なタイプのフォームフィールドの追加、フォームフィールドプロパティの設定、セキュリティの追加をおこなって、高品質でプロフェッショナルなフォームを作成できます</em>
     <br>
   </td>
-</tr>
-<tr>
   <td>
     <a href="enhance.md">
       <img alt="PDF" src="../assets/Enhance_1280.png" />
@@ -74,7 +84,9 @@ Acrobatの高度なツールで、さらに高度な編集が可能です。 日
     </div>
     <em>2 つのファイル間の差異をすばやく正確にPDFする</em>
     <br>
-  </td> 
+  </td>   
+</tr>
+<tr>
   <td>
     <a href="action.md">
       <img alt="アクションウィザード" src="../assets/Action.jpg" />
@@ -84,9 +96,7 @@ Acrobatの高度なツールで、さらに高度な編集が可能です。 日
     </div>
     <em>アクションを使用して一連のコマンドを 1 つまたは複数のファイルに自動的に適用することで、時間とキーストロークを節約できます</em>
     <br>
-  </td>  
-</tr>
-<tr>
+  </td>
   <td>
     <a href="redact.md">
       <img alt="墨消しと削除" src="../assets/Redact.jpg" />
@@ -107,7 +117,9 @@ Acrobatの高度なツールで、さらに高度な編集が可能です。 日
     <em>共有、投稿、アーカイブの品質を損なうことなく、大きなファイルを削減し、PDFを最適化できます</em>
     <br>
   </td>
-   <td>
+</tr>
+<tr>
+  <td>
     <a href="formdata.md">
       <img alt="アクションウィザード" src="../assets/FormData.jpg" />
     </a>
@@ -117,8 +129,6 @@ Acrobatの高度なツールで、さらに高度な編集が可能です。 日
     <em>フォームデータを単一のスプレッドシートにコンパイル</em>
     <br>
   </td>
-</tr>
-<tr>
   <td>
     <a href="accessibility.md">
       <img alt="アクセシビリティPDFのチェック" src="../assets/Checkaccessible_1280.jpg" />
@@ -129,7 +139,7 @@ Acrobatの高度なツールで、さらに高度な編集が可能です。 日
     <em>障害を持つユーザーがPDFに誰もがアクセスできるかどうかを確認する</em>
     <br>
   </td>
-   <td>
+  <td>
     <a href="accessibility-series.md">
       <img alt="アクセシブルなPDFファイルの準備" src="../assets/Accessibilityseries_1280.png" />
     </a>
@@ -137,11 +147,6 @@ Acrobatの高度なツールで、さらに高度な編集が可能です。 日
     <a href="accessibility-series.md"><strong>Acrobat Accessibility series</strong></a>
     </div>
     <em>この 6 部構成のオンデマンド型オンラインセミナーシリーズでは、アクセシビリティの基本からPDFファイルのタグ付けまで網羅しています</em>
-    <br>
-  </td>
-  <td>
-   <img alt="スペーサー" src="../assets/Grayspacer.png" />
-    <div>
     <br>
   </td>
 </tr>
