@@ -6,10 +6,10 @@ product: adobe acrobat
 level: Experienced
 thumbnail: KT-6857.jpg
 exl-id: 2e2dc54d-23e1-4bd8-81de-62131aa5c966
-source-git-commit: d3e1c0c09fd9a65acb2d9a437c0ba1667c882937
+source-git-commit: a659861d626e5b6799959ec2b4208bbbdf574885
 workflow-type: tm+mt
-source-wordcount: '299'
-ht-degree: 4%
+source-wordcount: '321'
+ht-degree: 3%
 
 ---
 
@@ -23,6 +23,16 @@ Acrobatの高度なツールで、さらに高度な編集が可能です。 日
 
 <table style="table-layout:fixed">
 <tr>
+  <td>
+    <a href="optimizescan.md">
+      <img alt="スキャンした文書の最適化" src="../assets/Scan_1280.png" />
+    </a>
+    <div>
+    <a href="optimizescan.md"><strong>スキャンした文書の最適化</strong></a>
+    </div>
+    <em>スキャンした文書を補正して、表示や検索の操作性を向上させるPDFの方法について説明します</em>
+    <br>
+  </td>
   <td>
     <a href="custom.md">
       <img alt="カスタムコマンドとツール" src="../assets/Createcustom_1280.png" />
@@ -43,6 +53,8 @@ Acrobatの高度なツールで、さらに高度な編集が可能です。 日
     <em>プロフェッショナルなPDF forms</em>
     <br>
   </td>
+</tr>
+<tr>
   <td>
     <a href="optimizeseo.md">
       <img alt="SEO(Search Engine Optimization) のOptimize PDF" src="../assets/seo_1280.png" />
@@ -53,8 +65,6 @@ Acrobatの高度なツールで、さらに高度な編集が可能です。 日
     <em>PDFを最適化して、Web 上での検出可能性と検索エンジンのランキングを向上</em>
     <br>
   </td>
-</tr>
-<tr>
   <td>
     <a href="workforms.md">
       <img alt="フォームフィールドの操作" src="../assets/Workform_1280.png" />
@@ -74,7 +84,9 @@ Acrobatの高度なツールで、さらに高度な編集が可能です。 日
     </div>
     <em>グラフィックの機能強化や自動番号付けを追加して、PDFを一変させましょう</em>
     <br>
-  </td>
+  </td>   
+</tr>
+<tr>
   <td>
     <a href="compare.md">
       <img alt="2 つのPDFの違いを検出" src="../assets/Compare_1280.png" />
@@ -84,9 +96,7 @@ Acrobatの高度なツールで、さらに高度な編集が可能です。 日
     </div>
     <em>2 つのファイル間の差異をすばやく正確にPDFする</em>
     <br>
-  </td>   
-</tr>
-<tr>
+  </td>
   <td>
     <a href="action.md">
       <img alt="アクションウィザード" src="../assets/Action.jpg" />
@@ -107,7 +117,9 @@ Acrobatの高度なツールで、さらに高度な編集が可能です。 日
     <em>個人情報や機密情報をPDFから完全に削除</em>
     <br>
   </td>
-   <td>
+</tr>
+<tr>
+ <td>
     <a href="reduce.md">
       <img alt="ファイルサイズの縮小と最適化" src="../assets/Reduce.jpg" />
     </a>
@@ -117,8 +129,6 @@ Acrobatの高度なツールで、さらに高度な編集が可能です。 日
     <em>共有、投稿、アーカイブの品質を損なうことなく、大きなファイルを削減し、PDFを最適化できます</em>
     <br>
   </td>
-</tr>
-<tr>
   <td>
     <a href="formdata.md">
       <img alt="アクションウィザード" src="../assets/FormData.jpg" />
@@ -139,6 +149,8 @@ Acrobatの高度なツールで、さらに高度な編集が可能です。 日
     <em>障害を持つユーザーがPDFに誰もがアクセスできるかどうかを確認する</em>
     <br>
   </td>
+</tr>
+<tr>
   <td>
     <a href="accessibility-series.md">
       <img alt="アクセシブルなPDFファイルの準備" src="../assets/Accessibilityseries_1280.png" />
@@ -149,5 +161,15 @@ Acrobatの高度なツールで、さらに高度な編集が可能です。 日
     <em>この 6 部構成のオンデマンド型オンラインセミナーシリーズでは、アクセシビリティの基本からPDFファイルのタグ付けまで網羅しています</em>
     <br>
   </td>
+  <td>
+   <img alt="スペーサー" src="../assets/Whitespacer.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+   <img alt="スペーサー" src="../assets/Whitespacer.png" />
+    <div>
+    <br>
+  </td>  
 </tr>
 </table>
