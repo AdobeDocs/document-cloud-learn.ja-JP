@@ -6,9 +6,9 @@ product: adobe acrobat
 level: Experienced
 thumbnail: KT-6857.jpg
 exl-id: 2e2dc54d-23e1-4bd8-81de-62131aa5c966
-source-git-commit: 5adbbe1b9791cc50822e49957a254f79639a30cc
+source-git-commit: 058905c4830374745bc3e42dab923b9dd57ed056
 workflow-type: tm+mt
-source-wordcount: '342'
+source-wordcount: '340'
 ht-degree: 3%
 
 ---
@@ -30,7 +30,7 @@ Acrobatの高度なツールで、さらに高度な編集が可能です。 日
     <div>
     <a href="bookmarks.md"><strong>ブックマークとハイパーリンクの追加</strong></a>
     </div>
-    <em>スキャンした文書を補正して、表示や検索の操作性を向上させるPDFの方法について説明します</em>
+    <em>ブックマークとハイパーリンクを追加して、ナビゲーションとインタラクションを改善する方法について説明します</em>
     <br>
   </td>
   <td>
