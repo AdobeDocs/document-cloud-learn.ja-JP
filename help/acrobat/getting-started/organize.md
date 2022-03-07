@@ -6,9 +6,9 @@ product: adobe acrobat
 level: Beginner
 thumbnail: KT-6832.jpg
 exl-id: 1b39380c-ebdc-48b3-8237-1512cbc7b146
-source-git-commit: 8028012db95639613dd71dcf5b99f697d962ffb9
+source-git-commit: 40be81a04921205a63ecb99e723d4b62b7b6ba3f
 workflow-type: tm+mt
-source-wordcount: '163'
+source-wordcount: '145'
 ht-degree: 2%
 
 ---
@@ -40,7 +40,3 @@ ht-degree: 2%
    PDFを分割する場合、ページ数、ファイルサイズ、または上位レベルのしおりによって分割できます。
 
    ![スキャン手順 5](../assets/Organize_4.png)
-
-をクリックして、 *ページを整理* チュートリアル
-
-[! [ ページの整理チュートリアルのダウンロード ](../assets/acrobat_PDF_96.png)](../assets/AcrobatDCOrganize.pdf)

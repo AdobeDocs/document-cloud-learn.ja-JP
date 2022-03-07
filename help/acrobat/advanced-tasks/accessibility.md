@@ -7,9 +7,9 @@ level: Intermediate
 topics: Accessibility
 thumbnail: KT-6829.jpg
 exl-id: 1f72fe22-c3f7-4aad-8f57-a48ed8fc7193
-source-git-commit: 680e3d304959b96e864c4438c95ab66b3d510eb0
+source-git-commit: 40be81a04921205a63ecb99e723d4b62b7b6ba3f
 workflow-type: tm+mt
-source-wordcount: '238'
+source-wordcount: '224'
 ht-degree: 0%
 
 ---
@@ -53,7 +53,3 @@ ht-degree: 0%
 >[!NOTE]
 >
 >一部の問題は自動的に修正できず、問題を修正するために手動での操作が必要です。 そのような場合は、>Acrobatにより、修正内容を示すダイアログボックスが表示されます。
-
-PDFアイコンを選択して、 *アクセシビリティPDFのチェック* チュートリアル
-
-[![アクセシビリティのダウンロード](../assets/acrobat_PDF_96.png)](../assets/AcrobatDCAccessible.pdf)を選択します。

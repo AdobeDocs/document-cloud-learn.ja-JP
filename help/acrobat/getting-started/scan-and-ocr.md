@@ -6,9 +6,9 @@ product: adobe acrobat
 level: Beginner
 thumbnail: KT-6830.jpg
 exl-id: c898de6e-7320-4cd4-9998-6a99efd7ea56
-source-git-commit: 886d374b81979e8927bc823cbcb4d312222797c5
+source-git-commit: 40be81a04921205a63ecb99e723d4b62b7b6ba3f
 workflow-type: tm+mt
-source-wordcount: '200'
+source-wordcount: '182'
 ht-degree: 1%
 
 ---
@@ -44,10 +44,6 @@ ht-degree: 1%
    ![スキャン手順 4](../assets/Scan_4.png)
 
 これで、ファイルは検索および編集可能なPDFです。
-
-をクリックして、 *スキャンと OCR* チュートリアル
-
-[! [Scan &amp; OCR チュートリアルをダウンロード ](../assets/acrobat_PDF_96.png)](../assets/AcrobatDCScan.pdf)
 
 >[!TIP]
 >
