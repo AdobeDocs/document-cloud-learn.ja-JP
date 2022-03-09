@@ -1,15 +1,15 @@
 ---
 title: 統合の概要
-description: 既存のシステム、プロセス、アプリケーションにAdobe Signを追加する方法について説明します
+description: 既存のシステム、プロセス、アプリケーションにAdobe Signを追加する方法を説明します
 role: User
 product: adobe sign
 level: Intermediate
 topic-revisit: Integrations
 thumbnail: KT-6850.jpg
 exl-id: 2b1b9fae-7b4c-4092-aec7-c2025ef07cf4
-source-git-commit: 34490d609f3e19d2e0100a96e6c4858831e5c22c
+source-git-commit: 3717f0805eec8d413fe55c1f0cc2bac24199abc0
 workflow-type: tm+mt
-source-wordcount: '544'
+source-wordcount: '545'
 ht-degree: 0%
 
 ---
@@ -18,7 +18,7 @@ ht-degree: 0%
 
 ![Sign 画像を統合](../assets/Hero-Integrate.png)
 
-Adobe Signは、既に組織で使用している他のアプリケーション (Microsoft、Salesforce、Workday、Marketoなど ) 内で使用できます。 統合ガイドとチュートリアルで、電子サインのワークフローを簡素化する方法をご確認ください。
+Adobe Signは、組織で既に使用している他のアプリケーション (Microsoft、Salesforce、Workday、Marketoなど ) 内で使用できます。 統合ガイドとチュートリアルで、電子サインのワークフローを簡素化する方法をご確認ください。
 
 >[!NOTE]
 > これらの機能にアクセスできない場合は、組織の管理者に連絡して、統合が有効になっていることを確認してください。
@@ -34,7 +34,7 @@ Adobe Signは、既に組織で使用している他のアプリケーション 
     <div>
     <a href="fill-and-sign-doc-microsoft-outlook.md"><strong>Microsoft Outlook での入力と署名</strong></a>
     </div>
-    <em>Microsoft Outlook 内から直接フォームに入力して署名する</em>
+    <em>Microsoft Outlook 内から直接フォームに入力して署名します</em>
     <br>
   </td>
   <td>
@@ -54,7 +54,7 @@ Adobe Signは、既に組織で使用している他のアプリケーション 
     <div>
     <a href="send-for-signature-with-sharepoint-online.md"><strong>SharePoint Onlineでの署名用に送信</strong></a>
     </div>
-    <em>Sharepoint Online 内から署名用に文書を直接送信</em>
+    <em>Sharepoint Online 内から直接署名用に文書を送信する</em>
     <br>
   </td>
 </tr>
@@ -103,7 +103,7 @@ Adobe Signは、既に組織で使用している他のアプリケーション 
     <div>
     <a href="create-an-agreement-template.md"><strong>Salesforce 用Adobe Signでの文書テンプレートの作成</strong></a>
     </div>
-    <em>再利用可能な文書テンプレートを作成して、すばやく一貫性を保つ</em>
+    <em>再利用可能な文書テンプレートを作成してすばやく一貫性を保つ</em>
     <br>
   </td>
   <td>
@@ -113,7 +113,7 @@ Adobe Signは、既に組織で使用している他のアプリケーション 
     <div>
     <a href="set-up-data-mapping.md"><strong>データマッピングの設定</strong></a>
     </div>
-    <em>契約書が署名された後、データを Salesforce に戻す</em>
+    <em>契約書の署名後に、データを Salesforce に戻す</em>
     <br>
   </td>
   <td>
@@ -157,12 +157,12 @@ Adobe Signは、既に組織で使用している他のアプリケーション 
 <tr>
   <td>
     <a href="workday.md">
-      <img alt="Workdayを使用したAdobe Signの設定" src="../assets/WD-Configure.png" />
+      <img alt="WorkdayでのAdobe Signの設定" src="../assets/WD-Configure.png" />
     </a>
     <div>
-    <a href="workday.md"><strong>Workdayを使用したAdobe Signの設定</strong></a>
+    <a href="workday.md"><strong>WorkdayでのAdobe Signの設定</strong></a>
     </div>
-    <em>Adobe SignをWorkday内で直接動作するように設定して、すべての人事関連書類をシームレスに管理する方法について説明します</em>
+    <em>Adobe SignがWorkday内で直接動作するように設定し、すべての人事関連書類をシームレスに管理する方法について説明します</em>
     <br>
   </td>
   <td>
@@ -184,12 +184,12 @@ Adobe Signは、既に組織で使用している他のアプリケーション 
 <tr>
   <td>
     <a href="marketo-salesforce-sms.md">
-      <img alt="Salesforce およびMarketo用Adobe Signを使用した通知の送信" src="../assets/Integrate-Salesforce-SMS.jpg" />
+      <img alt="Salesforce 用Adobe SignおよびMarketoを使用した通知の送信" src="../assets/Integrate-Salesforce-SMS.jpg" />
     </a>
     <div>
-    <a href="marketo-salesforce-sms.md"><strong>Salesforce およびMarketo用Adobe Signを使用した通知の送信</strong></a>
+    <a href="marketo-salesforce-sms.md"><strong>Salesforce 用Adobe SignおよびMarketoを使用した通知の送信</strong></a>
     </div>
-    <em>テキストメッセージ、電子メール、プッシュ通知を送信して、署名者に契約書が署名中であることを知らせる方法について説明します。</em>
+    <em>テキストメッセージ、電子メール、プッシュ通知を送信して、署名者に契約書が署名中であることを知らせる方法を説明します。</em>
     <br>
   </td>
   <td>
@@ -197,9 +197,9 @@ Adobe Signは、既に組織で使用している他のアプリケーション 
       <img alt="Adobe Sign for Salesforce とMarketoのビデオチュートリアルを使用したリマインダーの送信" src="../assets/Integrate-Salesforce-Reminder-Video.png" />
     </a>
     <div>
-    <a href="marketo-salesforce-reminder.md"><strong>Salesforce および Marketovideo 向けAdobe Signチュートリアルを使用したリマインダーの送信</strong></a>
+    <a href="marketo-salesforce-reminder.md"><strong>Adobe Sign for Salesforce とMarketoのビデオチュートリアルを使用したリマインダーの送信</strong></a>
     </div>
-    <em>一定期間が経過しても契約書が署名されていない場合に、Marketoから電子メールでリマインダーを送信する方法について説明します。</em>
+    <em>一定期間が経過しても契約書が署名されていない場合に、Marketoから電子メールでリマインダーを送信する方法を説明します。</em>
     <br>
   </td>
   <td>
@@ -209,7 +209,7 @@ Adobe Signは、既に組織で使用している他のアプリケーション 
     <div>
     <a href="marketo-salesforce-reminder.md"><strong>Adobe Sign for Salesforce およびMarketo設定ガイドを使用したリマインダーの送信</strong></a>
     </div>
-    <em>一定期間が経過しても契約書が署名されていない場合に、Marketoから電子メールでリマインダーを送信する方法を確認してください。</em>
+    <em>一定期間が経過しても契約書が署名されていない場合に、Marketoから電子メールのリマインダーを送信する方法を参照してください。</em>
     <br>
   </td>
 </tr>
@@ -221,7 +221,7 @@ Adobe Signは、既に組織で使用している他のアプリケーション 
     <div>
     <a href="marketo-dynamics-reminder.md"><strong>Adobe Sign for Microsoft Dynamics およびMarketoを使用したリマインダーの送信</strong></a>
     </div>
-    <em>一定期間が経過しても契約書が署名されていない場合に、電子メールでリマインダーを送信する方法について説明します。</em>
+    <em>一定期間が経過しても契約書が署名されていない場合に、電子メールでリマインダーを送信する方法を説明します。</em>
     <br>
   </td>
   <td>
@@ -231,7 +231,7 @@ Adobe Signは、既に組織で使用している他のアプリケーション 
     <div>
     <a href="marketo-dynamics-sms.md"><strong>Adobe Sign for Microsoft Dynamics およびMarketoを使用した通知の送信</strong></a>
     </div>
-    <em>テキストメッセージ、電子メール、プッシュ通知を送信して、署名者に契約書が署名中であることを知らせる方法について説明します。</em>
+    <em>テキストメッセージ、電子メール、プッシュ通知を送信して、署名者に契約書が署名中であることを知らせる方法を説明します。</em>
     <br>
   </td>
   <td>
