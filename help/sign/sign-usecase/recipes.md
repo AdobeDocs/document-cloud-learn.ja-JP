@@ -9,16 +9,16 @@ team: DC Product Marketing Retention and Engagement
 thumbnail: 8200.jpg
 kt: 8200
 exl-id: 7f6edd52-c3fc-4cf0-af84-c956db3bd008
-source-git-commit: b958523f87b657f0a9db8c1eea0de829ab32b02b
+source-git-commit: d8abe34e1228a32f5cf4fecfe7fcad67884d0bc5
 workflow-type: tm+mt
 source-wordcount: '232'
 ht-degree: 0%
 
 ---
 
-# 事例紹介レシピ
+# 事例レシピ
 
-官公庁の電子サインや商用の電子サインのサンプルを利用して、組織のデジタルワークフローをスピードアップしましょう。 クリックすると、PDFが表示され、これらの特定の電子サインのユースケースの設定方法に関するリソースと詳細が表示されます。
+官公庁の電子サインや商用の電子サインのサンプルを利用して、組織のデジタルワークフローをスピードアップしましょう。 クリックすると、PDFが表示され、これらの特定の電子サインの使用例の設定方法に関するリソースと詳細が表示されます。
 
 ## 官公庁の事例
 
@@ -31,7 +31,7 @@ ht-degree: 0%
     <div>
     <a href="usecasegovgrants.md"><strong>業務助成金</strong></a>
     </div>
-    <em>助成金、ローン、税金控除の申請フォームにセルフサービスでアクセスできるようにすることで、ビジネスを迅速に支援</em>
+    <em>助成金やローン、税金控除の申請フォームにセルフサービスでアクセスできるようにすることで、ビジネスを迅速に支援します。</em>
     <br>
   </td> 
   <td>
@@ -41,15 +41,15 @@ ht-degree: 0%
     <div>
     <a href="usecasegovtelework.md"><strong>テレワーク契約</strong></a>
     </div>
-    <em>テレワーク契約やポリシーの更新などで、すべての従業員から効率的に署名を収集できます</em>
+    <em>テレワーク契約やポリシーの更新などに関する署名を、すべての従業員から効率的に収集できます</em>
     <br>
   </td>
   <td>
     <a href="usecasegovcontracts.md">
-      <img alt="契約および購買依頼Forms" src="../assets/UC_WorkflowR.png" />
+      <img alt="契約書および請求書フォーム" src="../assets/UC_WorkflowR.png" />
     </a>
     <div>
-    <a href="usecasegovcontracts.md"><strong>契約および購買依頼Forms</strong></a>
+    <a href="usecasegovcontracts.md"><strong>契約書および請求書フォーム</strong></a>
     </div>
     <em>紙ベースの処理をコンプライアンスに準拠したデジタルワークフローにすばやく置き換え、監査レポートを作成</em>
     <br>
@@ -73,7 +73,7 @@ ht-degree: 0%
     <div>
     <a href="usecasegovpaycheck.md"><strong>給与保護</strong></a>
     </div>
-    <em>Adobe Signを使用して、支払い保護プログラムフォームをオンラインインタラクティブフォームに変換する方法について説明します</em>
+    <em>Adobe Signを使用して、支払い保護プログラムのフォームをオンラインのインタラクティブフォームに変換する方法について説明します</em>
     <br>
   </td>
   <td>
@@ -83,7 +83,7 @@ ht-degree: 0%
     <div>
     <a href="usecasegovremote.md"><strong>リモート令状要求</strong></a>
     </div>
-    <em>電子サインと web 会議を組み合わせて使用することで、裁判官からの令状の請求とセキュリティ確保にかかる時間を短縮できます</em>
+    <em>電子サインと web 会議を併用することで、裁判官による令状の要求と確保にかかる時間を短縮できます</em>
     <br>
   </td>
 </tr>
@@ -95,22 +95,22 @@ ht-degree: 0%
 <tr>
   <td>
     <a href="usecasecomcontracts.md">
-      <img alt="契約および購買依頼Forms" src="../assets/UC_WorkflowR.png" />
+      <img alt="契約書および請求書フォーム" src="../assets/UC_WorkflowR.png" />
     </a>
     <div>
-    <a href="usecasecomcontracts.md"><strong>契約および購買依頼Forms</strong></a>
+    <a href="usecasecomcontracts.md"><strong>契約書および請求書フォーム</strong></a>
     </div>
     <em>紙ベースの処理をコンプライアンスに準拠したデジタルワークフローにすばやく置き換え、監査レポートを作成</em>
     <br>
   </td> 
   <td>
     <a href="usecasecompolicy.md">
-      <img alt="ポリシー契約" src="../assets/UC_Policy.png" />
+      <img alt="契約書" src="../assets/UC_Policy.png" />
     </a>
     <div>
-    <a href="usecasecompolicy.md"><strong>ポリシー契約</strong></a>
+    <a href="usecasecompolicy.md"><strong>契約書</strong></a>
     </div>
-    <em>テレワーク契約やポリシーの更新などで、すべての従業員から効率的に署名を収集できます</em>
+    <em>テレワーク契約やポリシーの更新などに関する署名を、すべての従業員から効率的に収集できます</em>
     <br>
   </td>
   <td>
