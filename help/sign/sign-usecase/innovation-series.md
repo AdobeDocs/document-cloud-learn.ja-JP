@@ -1,15 +1,15 @@
 ---
 title: Adobe Sign Skill Builder
-description: Adobe Sign Skill Builders は、1 日の作業を増やすことなく、電子サインを機能させるために用意された 30 分間のセッションです
+description: Adobe Sign Skill Builders は、1 日の作業を増やすことなく電子サインを機能させるために作られた 30 分のセッションです
 role: User
 product: adobe sign
 level: Intermediate
 thumbnail: KT-8197.jpg
 kt: 8197
 exl-id: 8b7f85b8-f499-4402-8c0b-8170e7159ba0
-source-git-commit: 44e5709089c40474fae3646da79577a1cf6c2761
+source-git-commit: d807214c99b2fbcbee1b3a2bdbb9781a61ebef05
 workflow-type: tm+mt
-source-wordcount: '450'
+source-wordcount: '651'
 ht-degree: 0%
 
 ---
@@ -18,24 +18,30 @@ ht-degree: 0%
 
 ![スキルビルダーバナー](../assets/SB_Hero.png)
 
-Adobe Sign Skill Builders は、1 日の作業を増やすことなく、電子サインを機能させるために用意された 30 分間のセッションです。 月ごとに新しいトピックがハイライトされます。
+Adobe Sign Skill Builders は、1 日の作業を増やすことなく電子サインを機能させるために作られた 30 分のセッションです。 月ごとに新しいトピックがハイライトされます。
 
 ## 月間セッション
 
-* **[Microsoft Power Automate 向けAdobe Signによる容易な自動化](https://sign-skillbuilder-july.joinus.adobeevents.com/){target=&quot;_blank&quot;}**
-日付：2021 年 7 月 22 日電子サインワークフローから手動プロセスを排除する方法について説明します。 Microsoft Power Automate 用Adobe Signコネクタを使用すると、Adobe Sign契約書に対してシンプルまたは複雑なオートメーションを簡単に設定できます。 署名済み文書を自動的にSharePointに転送できます。契約書名へのカスタム情報の追加web フォームフィールドを CSV データにマッピングその他 このセッションでは、Microsoft Power Automate に対応したAdobe Signで実現できる機能について説明します。
+* **[Adobe Sign新規リリース — 2022 年 8 月](https://adobe-sign-skill-builder.joinus.adobeevents.com/attendease/networking/experience/06d8a836-4b51-426b-913e-189b23a82bd6/8b777e11-0e6d-45a8-b954-bbff5c887efc){target=&quot;_blank&quot;}**
+日付：2022 年 8 月 18 日Adobe Signの新機能に関する四半期ごとのレビューをご覧ください。 今回の製品に追加された最新の機能の詳細をお知らせします。アップデートのチームへのメリットについて、ライブ Q&amp;A 形式でお知らせします。
 
-* **[12.2 リリースオンデマンド録画](https://event.on24.com/wcc/r/3163201/07B1E175783B1F37248E7AE08091D6C6){target=&quot;_blank&quot;}**
-日付：2021 年 6 月 17 日Adobe Sign 12.2 リリースの新機能を確認します。 最新のアップデートは次のとおりです。複数署名者の Web フォームのサポート、複数のグループへのユーザーの割り当て、Liquid Mode、URL を変更せずにシームレスに更新できる Web フォーム。
+* **[管理者向けスキルビルダー：ワークフローの作成](https://adobe-sign-skill-builder.joinus.adobeevents.com/attendease/networking/experience/83926d76-9959-4657-8b0c-f312835b46f6/aa1c9b21-1b16-4890-9c24-26dc630c4a95){target=&quot;_blank&quot;}**
+日付：2022 年 7 月 14 日文書への署名が、最初から毎回確実に行われるようにします。 グループ管理者またはアカウント管理者は、Adobe Signで事前設定されたワークフローを定義して、署名が必要な文書を適切な関係者に自動的に転送することができます。その後、Adobe Signグループ全体にアクセス権を付与して、重要な署名プロセスのワークフローを実行できるようにします。
 
-* **[電子サインのオンデマンド記録用に文書を準備する](https://event.on24.com/wcc/r/3121756/E99C17996EB39D270728FC57D062F46B){target=&quot;_blank&quot;}**
-日付：2021 年 5 月 20 日PDFフォームフィールドとテキストタグを使用して、時間を節約し、クリック数を減らし、エラーを減らす方法について説明します。
+* **[入力可能で署名可能な Web フォームの投稿](https://adobe-sign-skill-builder.joinus.adobeevents.com/attendease/networking/experience/4499bc28-9f26-4b68-88a6-3815ebdff7cf/337fa9d6-c9d3-4bcc-b6d8-9c7580b9be40){target=&quot;_blank&quot;}**
+日付：2022 年 6 月 16 日誰でもフォームに入力して署名できる Web フォームを作成できます。トランザクションを開始する必要はなく、電子メールアドレスを知る必要もありません。 このセッションでは、個々の署名トランザクションに使用したり、幅広い共有のために一意の URL に投稿したりできる文書テンプレートを準備する方法について説明します。
 
-* **[Mega サインと web フォームのオンデマンド録画](https://event.on24.com/wcc/r/3032025/7FF45B7F803724D32534FD1B0D610AD6){target=&quot;_blank&quot;}**
-日付：2021 年 4 月 15 日個々のユーザーがオンラインで文書への入力と署名ができる Web フォームの作成方法と、Mega Sign を使用して 1 つの文書を複数のユーザーに 1 クリックで送信する方法について説明します。
+* **[Adobe Acrobat Sign の新機能](https://adobe-sign-skill-builder.joinus.adobeevents.com/attendease/networking/experience/a51b7ffa-ccf1-41f7-a82c-27bf50d8eb5d/22ee6c72-b92e-43f8-9cc6-c177c9244fea){target=&quot;_blank&quot;}**
+日付：2022 年 5 月 19 日ビジネスワークフローを変革し、重要な文書への署名を迅速におこなうための最新のヒントとベストプラクティスをご確認ください。
 
-* **[ワークフローデザイナーのオンデマンド録画](https://event.on24.com/wcc/r/3031957/7D9B2B2431639F2D6B91449B932F6632){target=&quot;_blank&quot;}**
-日付：2021 年 3 月 25 日Adobe Signで自動化ワークフローを作成して、手作業を減らし、人為的ミスを減らす方法について説明します。 ワークフローデザイナーでは、ビジュアルデザインツールを使用して、ドキュメントワークフローのすべてのタスクを最初から最後まで自動化できます。 特定の文書に対して署名者を事前に設定しておき、自動的にルーティングして承認や証明用に送信するなど、様々な機能が用意されています。
+* **[Adobe Acrobat Sign の新機能](https://adobe-sign-skill-builder.joinus.adobeevents.com/attendease/networking/experience/479894a1-131f-411d-b4c8-f699d72413bb/30619f65-b374-40db-85d1-0854dc48af0d){target=&quot;_blank&quot;}**
+日付：2022 年 4 月 14 日ビジネスワークフローを変革し、重要な文書への署名を迅速におこなうための最新のヒントとベストプラクティスをご確認ください。
 
-* **[ユーザー管理とグループのオンデマンド録画](https://event.on24.com/wcc/r/2954084/6EEDCD348E72E9C8E64F5B7E4ADB4642){target=&quot;_blank&quot;}**
-日付：2021 年 2 月 11 日組織の構造を反映したグループを作成することで、Adobe Signで効率的かつ大規模なユーザー管理を可能にする方法について説明します。 ユーザーに必要なすべてのアセット、ライブラリテンプレート、ワークフローへのアクセス権を付与すると同時に、アカウント管理者は複数のグループにわたる管理、レポートを実行できます。
+* **[多くの署名をワンクリックで収集](https://adobe-sign-skill-builder.joinus.adobeevents.com/attendease/networking/experience/44e4b483-7d05-44b3-b7e7-b265c9b84d07/2736bed0-b416-4578-ac3f-a57491f22c26){target=&quot;_blank&quot;}**
+日付：2022 年 3 月 17 日Adobe Acrobat Sign の一括送信機能により、1 つの文書を数百もの署名者に送信できます。 複数の個人が同じ NDA、リリースフォーム、全社的なポリシーの更新、その他の単一署名者文書の一意のコピーに署名する必要がある場合は、ファイルを 1 回準備し、個々の回答を自動的に収集することで時間を節約できます。
+
+* **[電子サイン用の契約書の準備](https://adobe-sign-skill-builder.joinus.adobeevents.com/attendease/networking/experience/9024b058-ade1-420f-87f0-68bd5f6d527a/cf8b172f-b9df-41ef-bfce-e6d4b0c3ddf4){target=&quot;_blank&quot;}**
+日付：2022 年 2 月 17 日電子サイン用の文書を簡単に設定する 3 つの方法をご紹介します。 PDF、Microsoft 365 ファイル、単純な画像ファイルなど、このセッションでは文書に署名するために必要なツールを提供します。 ここでは、次の 3 つの方法について説明します。-Adobe Signのシンプルなドラッグ&amp;ドロップオーサリング環境 — Adobe AcrobatでPDFフォームを設定 — テキストタグを使用して、文書のオーサリングを高速化。
+
+* **[Microsoftアプリでの電子サイン](https://adobe-sign-skill-builder.joinus.adobeevents.com/attendease/networking/experience/2dcd80a6-6335-4756-bbc8-3505fe99594b/866c4314-dc74-473b-9859-828801814e13){target=&quot;_blank&quot;}**
+日付：2022 年 1 月 20 日既存のワークフローにAdobe Signを追加することで、Word、Outlook、Sharepoint などのMicrosoftアプリケーションの使用方法を拡張できます。 このセッションでは、一般的なMicrosoftアプリケーションで文書プロセスを合理化し、署名を取得したりステータスを確認するためだけにコンテキストを切り替える必要がないようにする方法について説明します。
