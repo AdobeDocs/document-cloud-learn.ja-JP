@@ -6,10 +6,10 @@ product: adobe acrobat
 level: Intermediate
 thumbnail: KT-6861.jpg
 exl-id: 6cb60610-ee77-4212-b9a4-8e078593be29
-source-git-commit: 8028012db95639613dd71dcf5b99f697d962ffb9
+source-git-commit: 8ae1adb0e860bb57a5f029369ce68024ca92d958
 workflow-type: tm+mt
-source-wordcount: '93'
-ht-degree: 5%
+source-wordcount: '121'
+ht-degree: 0%
 
 ---
 
@@ -21,9 +21,12 @@ JavaScript、プラグイン、IAC を使用して、AcrobatやAdobe Readerと�
 
 ## Acrobat SDK
 
-この [Acrobat SDK](https://www.adobe.io/apis/documentcloud/acrobat.html){target=&quot;_blank&quot;} は、Acrobatテクノロジーと連携するソフトウェアの開発に役立つ一連のツールです。
+この [Acrobat SDK](https://opensource.adobe.com/dc-acrobat-sdk-docs/acrobatsdk/){target=&quot;_blank&quot;} は、Acrobatテクノロジーと連携するソフトウェアの開発に役立つ一連のツールです。
 
 ## Adobeドキュメントサービス API
 
-[組み込み型の表示および操作PDF](https://www.adobe.io/apis/documentcloud/dcsdk/){target=&quot;_blank&quot;}
+[Adobe PDF Services API](https://developer.adobe.com/document-services/apis/pdf-services/){target=&quot;_blank&quot;}
+[Adobe PDF Extract API](https://developer.adobe.com/document-services/apis/pdf-extract/){target=&quot;_blank&quot;}
+[Adobeドキュメント生成 API](https://developer.adobe.com/document-services/apis/doc-generation/){target=&quot;_blank&quot;}
+[Adobe PDF Embed API](https://developer.adobe.com/document-services/apis/pdf-embed/){target=&quot;_blank&quot;}
 [Adobeドキュメントサービスのチュートリアル](https://experienceleague.adobe.com/docs/document-services/tutorials/overview.html){target=&quot;_blank&quot;}
