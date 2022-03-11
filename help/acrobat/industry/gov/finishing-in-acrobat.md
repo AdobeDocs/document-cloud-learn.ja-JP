@@ -1,22 +1,22 @@
 ---
 title: PDFのアクセシブル化 —Acrobatでの仕上げ
-description: Acrobat DCでのアクセシブルなドキュメントの作成の完了
+description: Acrobatでのアクセシブルなドキュメントの作成の完了
 role: User
 product: adobe acrobat
 level: Experienced
 topic-revisit: Accessibility
 thumbnail: 34514.jpg
 exl-id: 422ba8be-b24a-422b-b2d6-6070c2f06a7d
-source-git-commit: 696f9b77c5fc584b257c3657ffe39fb91f50adf5
+source-git-commit: bf9e6f65d32d95fd3a2e3690e25f33b3ca6ad5dd
 workflow-type: tm+mt
-source-wordcount: '46'
+source-wordcount: '52'
 ht-degree: 0%
 
 ---
 
-# PDFのアクセシブル化 —Acrobatでの仕上げ
+# アクセス可能なPDFの作成：Acrobatでの仕上げ
 
-3 番目のビデオチュートリアルでは、Acrobat Proのツールを使用してPDFファイルにアクセスできるようにする方法を学習します。
+PDFをアクセシブルにするシリーズの 3 番目のビデオチュートリアルでは、Acrobat Proのツールを使用してPDFファイルをアクセシブルにする方法を学習します。
 
 >[!NOTE]
 >
@@ -24,4 +24,4 @@ ht-degree: 0%
 
 ## レッスン 3:Acrobatの仕上げ (4:37)
 
->[!VIDEO](https://video.tv.adobe.com/v/34514)
+>[!VIDEO](https://video.tv.adobe.com/v/34514?hidetitle=true)

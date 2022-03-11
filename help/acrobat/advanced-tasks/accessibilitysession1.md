@@ -1,22 +1,22 @@
 ---
 title: アクセシビリティPDFの概要
-description: このセッションでは、PDFをアクセシブルにすることの意味、アクセシビリティに対応したPDFで作業するためのAcrobat Pro DCの設定方法、ソースドキュメントからPDFへの変換プロセスについて説明します
+description: このセッションでは、PDFをアクセシブルにすることの意味、アクセシビリティのPDFを操作するためのAcrobat Proの設定方法、ソースドキュメントからPDFへの変換プロセスについて説明します
 role: User
 product: adobe acrobat
 level: Experienced
 thumbnail: KT-8606.jpg
 kt: 8606
 exl-id: 3765673b-15fd-4071-bb31-e589feffa471
-source-git-commit: 2de5b609b3f23bb5796786b6bc413a831c2b78c3
+source-git-commit: bf9e6f65d32d95fd3a2e3690e25f33b3ca6ad5dd
 workflow-type: tm+mt
-source-wordcount: '112'
+source-wordcount: '110'
 ht-degree: 0%
 
 ---
 
 # アクセシビリティPDFの概要
 
-このセッションでは、PDFをアクセシブルにすることの意味、アクセシビリティに対応したPDFで作業するためのAcrobat Pro DCの設定方法、ソースドキュメントからPDFへの変換プロセスについて説明します。
+このセッションでは、PDFをアクセシブルにすることの意味、アクセシビリティのPDFを処理するためのAcrobat Proの設定方法、ソースドキュメントからPDFへの変換プロセスについて説明します。
 
 クリック [ここ](../assets/accessibilitysession1.zip) 実践セッションファイルの zip フォルダーをダウンロードします。
 

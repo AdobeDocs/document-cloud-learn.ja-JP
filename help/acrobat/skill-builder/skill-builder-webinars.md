@@ -4,9 +4,9 @@ description: Adobe Acrobat Skill Builders が提供する 30 分のセッショ�
 product: adobe acrobat
 level: Intermediate
 exl-id: 56ef2120-1765-4ed4-bf80-b048cbabe805
-source-git-commit: 90a87ef20bd46d3439c93a2876c6026576bb2e55
+source-git-commit: bf9e6f65d32d95fd3a2e3690e25f33b3ca6ad5dd
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '512'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,7 @@ Adobe Acrobat Skill Builder のセッションは 30 分間で終了します。
 日付：2022 年 8 月 25 日情報コンテンツの保護に関する必要なPDFを入手 このセッションでは、PDFの表示、編集、印刷を防ぐためのパスワードの追加方法を紹介します。目に見えないメタデータから機密情報を完全に削除する方法も紹介します。
 
 * **[シンプルな自動化とAction Wizard](https://adobe-acrobat-skill-builder.joinus.adobeevents.com/attendease/networking/experience/45ef14f7-e5e4-4fe0-ba26-905adac092a2/24bf421e-f489-47dc-a5a4-d8d70858348c){target=&quot;_blank&quot;}**
-日付：2022 年 7 月 28 日単純な手動タスクの繰り返しを停止！ このセッションでは、Acrobat DCでAction Wizardを使用してPDFファイルをバッチ処理し、シリアル番号を使用した繰り返し作業を自動的に実行する方法について説明します。
+日付：2022 年 7 月 28 日単純な手動タスクの繰り返しを停止！ このセッションでは、AcrobatでAction Wizardを使用してPDFファイルをバッチ処理し、シリアル番号を使用した繰り返し作業を自動的に実行する方法について説明します。
 
 * **[すべての人に読みやすさ：アクセシブルなPDF](https://adobe-acrobat-skill-builder.joinus.adobeevents.com/attendease/networking/experience/18c111bd-9c63-4636-a4fd-8dc045a20423/8484f6c9-e2c9-4e1c-8d03-c2ca1d4db77c){target=&quot;_blank&quot;}**
 日付：2022 年 6 月 23 日アクセシビリティ機能をPDFに追加すると、すべての読者がコンテンツにアクセスできます。 このセッションでは、Acrobatを使用してコンプライアンスを維持し、アクセスしやすいPDFを作成する方法を説明します。

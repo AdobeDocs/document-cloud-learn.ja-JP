@@ -3,9 +3,9 @@ title: オンラインでPDFファイルを共有してレビュー
 description: Adobe Document Cloud
 solution: Document Cloud
 exl-id: 541f7a4d-d893-4768-9c91-638548845378
-source-git-commit: 8028012db95639613dd71dcf5b99f697d962ffb9
+source-git-commit: bf9e6f65d32d95fd3a2e3690e25f33b3ca6ad5dd
 workflow-type: tm+mt
-source-wordcount: '521'
+source-wordcount: '519'
 ht-degree: 26%
 
 ---
@@ -39,7 +39,7 @@ Adobe Document Cloudレビューサービスを使用すると、Acrobatデス�
 
 ## レビュー担当者の経験
 
-レビュー担当者は、レビュー用 PDF へのリンクが記載された依頼メールを受信します。依頼メールに含まれているリンクをクリックするか、「**[!UICONTROL レビュー]**」ボタンをクリックすると、PDF が Web ブラウザー内で開きます。レビュー担当者は、注釈ツールを使用して PDF に注釈を追加できます。Acrobat Reader DC または Acrobat DC デスクトップアプリケーションを使用して、注釈を追加することもできます。
+レビュー担当者は、レビュー用 PDF へのリンクが記載された依頼メールを受信します。依頼メールに含まれているリンクをクリックするか、「**[!UICONTROL レビュー]**」ボタンをクリックすると、PDF が Web ブラウザー内で開きます。レビュー担当者は、注釈ツールを使用して PDF に注釈を追加できます。Acrobat Reader または Acrobat デスクトップアプリケーションを使用して、注釈を追加することもできます。
 
 ## 匿名またはパブリックリンクを電子メールで送信する
 
