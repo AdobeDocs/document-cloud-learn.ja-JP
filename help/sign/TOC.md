@@ -8,7 +8,7 @@ getting-started-url: https://helpx.adobe.com/sign/using/get-started-guide.html
 tutorials-title: Tutorials
 tutorials-url: https://helpx.adobe.com/sign/tutorials.html
 breadcrumb-title: Adobe SignTutorials
-source-git-commit: afd1dbcf2c4b1c3ceb5509f646ad744f719946bc
+source-git-commit: ff57490a32735815d354ba7b620ec226c9998d15
 workflow-type: tm+mt
 source-wordcount: '418'
 ht-degree: 6%
@@ -59,7 +59,7 @@ ht-degree: 6%
       + [レポートの作成](admin/create-a-report.md)
       + [Web フォームの設定](sign-advanced-users/webform.md)
       + [署名の一括収集](sign-advanced-users/megasign.md)
-      + [ワークフローの設定](admin/building-a-custom-workflow.md)
+      + [カスタムワークフローの構築](admin/building-a-custom-workflow.md)
    + 高度なタスク {#advanced-tasks-admins}
       + [グローバル設定](admin/learn-about-global-settings.md)
       + [アカウントアクセスの共有](admin/share-account-access.md)
@@ -126,5 +126,5 @@ ht-degree: 6%
    + [概要](deploy-overview.md)
 + モバイル {#mobile}
    + [概要](mobile/mobile-overview.md)
-   + モバイルチュートリアル {#mobile-tutorials}
+   + Mobile tutorials {#mobile-tutorials}
       + [Adobe Signの Liquid Mode](mobile/liquidmode.md)
