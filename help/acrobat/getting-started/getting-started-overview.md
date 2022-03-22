@@ -1,14 +1,14 @@
 ---
-title: 概要
+title: Acrobat入門の概要
 description: Adobe Acrobatの使い方については、以下の簡単な手順を踏んだチュートリアル（1～2 分）をご覧ください
 role: User
 product: adobe acrobat
 level: Beginner
 thumbnail: KT-6856.jpg
 exl-id: 24660a17-a04e-4937-be94-0a42c4b2c2ca
-source-git-commit: 8ae1adb0e860bb57a5f029369ce68024ca92d958
+source-git-commit: 42ea703db2923063c572a4ff0102eeea1c1f3d19
 workflow-type: tm+mt
-source-wordcount: '410'
+source-wordcount: '411'
 ht-degree: 6%
 
 ---

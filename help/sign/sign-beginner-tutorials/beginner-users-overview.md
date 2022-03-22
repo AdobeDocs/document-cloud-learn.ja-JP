@@ -1,14 +1,14 @@
 ---
-title: 概要
+title: Acrobat Sign 入門の概要
 description: 以下の簡単な手順を踏んだチュートリアルを使用して、文書を送信、署名、トラックする方法を習得してください
 role: User
 product: adobe sign
 level: Beginner
 thumbnail: KT-6847.jpg
 exl-id: e58ce43d-2e8e-4804-8f30-6591fa943607
-source-git-commit: 08fed7bdd64ee6d4aff253c34a6205bc155adf8e
+source-git-commit: 42ea703db2923063c572a4ff0102eeea1c1f3d19
 workflow-type: tm+mt
-source-wordcount: '338'
+source-wordcount: '340'
 ht-degree: 0%
 
 ---

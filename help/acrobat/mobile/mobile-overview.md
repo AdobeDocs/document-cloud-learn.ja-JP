@@ -1,5 +1,5 @@
 ---
-title: モバイルの概要
+title: Acrobat Mobileの概要
 description: モバイルデバイスでPDFを作成、入力、署名
 role: User
 product: adobe acrobat
@@ -8,14 +8,14 @@ topic-revisit: mobile
 thumbnail: KT-6863.jpg
 kt: 6863
 exl-id: d9fe154b-adf9-49da-ab15-6806a0f10edc
-source-git-commit: 33e3af56d2a97c43a2f11d585c73560460f0dd62
+source-git-commit: 42ea703db2923063c572a4ff0102eeea1c1f3d19
 workflow-type: tm+mt
-source-wordcount: '198'
+source-wordcount: '199'
 ht-degree: 0%
 
 ---
 
-# モバイルの概要
+# Mobileの概要
 
 ![Acrobat Mobile Image](../assets/Hero-Mobile.png)
 

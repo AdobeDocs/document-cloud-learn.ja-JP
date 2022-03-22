@@ -1,5 +1,5 @@
 ---
-title: 統合の概要
+title: Sign の統合の概要
 description: 既存のシステム、プロセス、アプリケーションにAdobe Signを追加する方法を説明します
 role: User
 product: adobe sign
@@ -7,9 +7,9 @@ level: Intermediate
 topic-revisit: Integrations
 thumbnail: KT-6850.jpg
 exl-id: 2b1b9fae-7b4c-4092-aec7-c2025ef07cf4
-source-git-commit: 3717f0805eec8d413fe55c1f0cc2bac24199abc0
+source-git-commit: 42ea703db2923063c572a4ff0102eeea1c1f3d19
 workflow-type: tm+mt
-source-wordcount: '545'
+source-wordcount: '546'
 ht-degree: 0%
 
 ---
