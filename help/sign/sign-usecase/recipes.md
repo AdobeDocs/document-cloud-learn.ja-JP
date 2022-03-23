@@ -9,9 +9,9 @@ team: DC Product Marketing Retention and Engagement
 thumbnail: 8200.jpg
 kt: 8200
 exl-id: 7f6edd52-c3fc-4cf0-af84-c956db3bd008
-source-git-commit: d8abe34e1228a32f5cf4fecfe7fcad67884d0bc5
+source-git-commit: ab0f7428b37d4069879c31bf063ebdb1bc39bd2c
 workflow-type: tm+mt
-source-wordcount: '232'
+source-wordcount: '243'
 ht-degree: 0%
 
 ---
@@ -110,12 +110,17 @@ ht-degree: 0%
     <div>
     <a href="usecasecompolicy.md"><strong>契約書</strong></a>
     </div>
-    <em>テレワーク契約やポリシーの更新などに関する署名を、すべての従業員から効率的に収集できます</em>
+    <em>契約書やポリシーの更新時に、すべての従業員から効率的に署名を収集できます</em>
     <br>
   </td>
   <td>
-    <img alt="スペーサー" src="../assets/Whitespacer.png" />
+    <a href="usecasecomtelework.md">
+      <img alt="テレワーク契約" src="../assets/UC_MegasignR.png" />
+    </a>
     <div>
+    <a href="usecasecomtelework.md"><strong>テレワーク契約</strong></a>
+    </div>
+    <em>テレワーク契約に基づいて、すべての従業員から効率的に署名を収集</em>
     <br>
   </td>
 </tr>

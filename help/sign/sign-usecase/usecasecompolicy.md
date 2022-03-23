@@ -1,25 +1,25 @@
 ---
-title: ポリシー契約
-description: ポリシー契約やアップデートなどに関して、すべての従業員から効率的に署名を収集できます
+title: 商業政策協定
+description: 契約書や更新情報などに関する署名を、すべての従業員から効率的に収集できます
 role: User
 product: adobe sign
 solution: Document Cloud
 level: Intermediate
 thumbnail: 33979.jpg
 exl-id: caba5740-6111-4cc4-a63f-5eec2d742578
-source-git-commit: 018cbcfd1d1605a8ff175a0cda98f0bfb4d528a8
+source-git-commit: ab0f7428b37d4069879c31bf063ebdb1bc39bd2c
 workflow-type: tm+mt
-source-wordcount: '66'
+source-wordcount: '68'
 ht-degree: 0%
 
 ---
 
-# ポリシー契約
+# 商業政策協定
 
-ポリシー契約やポリシーの更新などに関して、すべての従業員から効率的に署名を収集できます。 入力可能なオンライン Web フォームを作成する方法について説明します **および** 印刷も郵送も必要ありません。
+ポリシー契約やポリシーの更新などに関して、すべての従業員から効率的に署名を収集できます。 入力可能なオンライン Web フォームを作成する方法について説明します **および** 印刷も郵送もせずに署名された
 
 >[!VIDEO](https://video.tv.adobe.com/v/33979?hidetitle=true)
 
-クリックして、ポリシー同意書のステップごとのPDFレシピをダウンロードします。
+クリックして、ポリシー契約のステップごとのPDFレシピをダウンロードします。
 
-[! [PDFレシピをダウンロード ](../assets/acrobat_PDF_96.png)](../assets/adobe-sign_set_up_a_web_form_use_case.pdf)
+[! [ ダウンロードPDFのレシピ ](../assets/acrobat_PDF_96.png)](../assets/adobe-sign_set_up_a_web_form_use_case.pdf)
