@@ -3,11 +3,11 @@ title: デプロイの概要
 description: Adobe Signのデプロイに関するベストプラクティス記事と貴重なインサイト
 role: Admin
 product: adobe sign
-solution: Document Cloud
+solution: Acrobat
 level: Intermediate
 thumbnail: KT-6853.jpg
 exl-id: b91fd23d-3aa3-4623-96f7-a00b3768251f
-source-git-commit: 7a97e60cff77466541f7126b93ee3b8607455f9f
+source-git-commit: 47575efa552da55b3ebde308c182432ab29392db
 workflow-type: tm+mt
 source-wordcount: '150'
 ht-degree: 16%
@@ -18,7 +18,7 @@ ht-degree: 16%
 
 ![Sign デプロイイメージ](assets/Hero-Deploy.png)
 
-Best practice articles with valuable insight on deploying Adobe Sign within your organization.
+Adobe Signの組織内への導入に関する貴重なインサイトが記載されたベストプラクティスの記事です。
 
 <table style="table-layout:fixed">
 <tr>
@@ -39,7 +39,7 @@ Best practice articles with valuable insight on deploying Adobe Sign within your
     <div>
     <a href="https://helpx.adobe.com/sign/using/adobe-sign-training-best-practice.html" target="_blank"><strong>ベストプラクティス</strong></a>
     </div>
-    <em>Adobe Signのデプロイにおいて、カスタマーサクセスマネージャーがお客様と協力して獲得した貴重なインサイトと知識をご確認ください</em>
+    <em>Adobe Signのデプロイにおいて、カスタマーサクセスマネージャーがお客様と協力して獲得した貴重なインサイトや知識をご確認ください</em>
     <br>
   </td>  
   <td>
@@ -47,9 +47,9 @@ Best practice articles with valuable insight on deploying Adobe Sign within your
       <img alt="Adobeトラストセンター" src="assets/Deploy_Trust.png" />
     </a>
     <div>
-    <a href="https://www.adobe.com/trust/document-cloud-security.html" target="_blank"><strong>Adobe Trust Center</strong></a>
+    <a href="https://www.adobe.com/trust/document-cloud-security.html" target="_blank"><strong>Adobeトラストセンター</strong></a>
     </div>
-    <em>Adobe Signのセキュリティ、適法性、標準に関するアドビの継続的な取り組みについてご覧ください</em>
+    <em>Adobe Signのセキュリティ、法的効力、標準に関するアドビの継続的な取り組みについてご覧ください</em>
     <br>
   </td>
 </tr>
@@ -61,7 +61,7 @@ Best practice articles with valuable insight on deploying Adobe Sign within your
     <div>
     <a href="assets/SignStudyGuide.pdf"><strong>Adobe Sign Essentials Study Guide</strong></a>
     </div>
-    <em>Adobe Sign Essentials Assessment(AD3-D104) のAdobe Sign学習ガイド</em>
+    <em>Adobe Sign Essentials 評価 (AD3-D104) のためのAdobe Sign調査ガイド</em>
     <br>
   </td>
   <td>
@@ -70,7 +70,7 @@ Best practice articles with valuable insight on deploying Adobe Sign within your
     <br>
   </td>
   <td>
-    <img alt="Spacer" src="assets/Grayspacer.png" />
+    <img alt="スペーサー" src="assets/Grayspacer.png" />
     <div>
     <br>
   </td>

@@ -3,11 +3,11 @@ title: 契約書の管理とトラック
 description: Adobe Signで署名用に送信された契約書を管理およびトラックする方法について説明します。
 role: User
 product: adobe sign
-solution: Document Cloud
+solution: Acrobat Sign
 level: Beginner
 thumbnail: 17341.jpg
 exl-id: af5683ba-8376-4f0d-8985-b647f901d2c0
-source-git-commit: 08fed7bdd64ee6d4aff253c34a6205bc155adf8e
+source-git-commit: 47575efa552da55b3ebde308c182432ab29392db
 workflow-type: tm+mt
 source-wordcount: '70'
 ht-degree: 0%

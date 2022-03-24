@@ -3,11 +3,11 @@ title: 複数の受信者への送信
 description: 電子サイン用に文書を複数の相手に希望する順序で送信する方法を説明します
 role: User
 product: adobe sign
-solution: Document Cloud
+solution: Acrobat Sign
 level: Beginner
 thumbnail: 341296.jpg
 exl-id: da64949c-b8e0-4923-b3a4-43d2d6dbd4d5
-source-git-commit: d180ee4a986ea9c1bddd30387359bafdda56ffc7
+source-git-commit: 47575efa552da55b3ebde308c182432ab29392db
 workflow-type: tm+mt
 source-wordcount: '83'
 ht-degree: 4%

@@ -3,11 +3,11 @@ title: 文書の入力と署名
 description: フォームに入力し、文書に電子サインを追加する方法を説明します
 role: User
 product: adobe sign
-solution: Document Cloud
+solution: Acrobat Sign
 level: Beginner
 thumbnail: 33660.jpg
 exl-id: 4bb7caab-002c-4e8e-b0c6-fdde220037a4
-source-git-commit: d180ee4a986ea9c1bddd30387359bafdda56ffc7
+source-git-commit: 47575efa552da55b3ebde308c182432ab29392db
 workflow-type: tm+mt
 source-wordcount: '36'
 ht-degree: 0%
