@@ -8,15 +8,15 @@ level: Intermediate
 topic-revisit: Administration
 thumbnail: 17356.jpg
 exl-id: c714969c-79b5-4ba7-aae8-1803555a50ca
-source-git-commit: 018cbcfd1d1605a8ff175a0cda98f0bfb4d528a8
+source-git-commit: d180ee4a986ea9c1bddd30387359bafdda56ffc7
 workflow-type: tm+mt
-source-wordcount: '36'
-ht-degree: 11%
+source-wordcount: '32'
+ht-degree: 12%
 
 ---
 
 # ユーザーの追加
 
-このビデオチュートリアルでは、Adobe Signアカウントにユーザーを個別にまたは一括で追加する方法について説明します。
+Adobe Signアカウントにユーザーを個別にまたは一括で追加する方法について説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/17356?hidetitle=true)

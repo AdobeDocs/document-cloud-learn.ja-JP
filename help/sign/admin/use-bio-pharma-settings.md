@@ -1,21 +1,21 @@
 ---
 title: バイオ医薬業界標準対応の使用
-description: FDA 21 CFR Part 11 要件を満たすようにAdobe Signを設定できるバイオ医薬業界標準対応について説明します
+description: FDA 21 CFR Part 11 の要件を満たすようにAdobe Signを設定できるバイオ医薬業界標準対応について説明します
 role: Admin
 product: adobe sign
 level: Experienced
 thumbnail: 21748.jpg
 exl-id: 1253f81a-6132-4733-a113-1bbce86b4549
-source-git-commit: 30c606ec458931ac352cd99e7aec5b38074db262
+source-git-commit: d180ee4a986ea9c1bddd30387359bafdda56ffc7
 workflow-type: tm+mt
-source-wordcount: '68'
+source-wordcount: '64'
 ht-degree: 0%
 
 ---
 
 # バイオ医薬業界標準対応の使用
 
-このビデオチュートリアルでは、FDA 21 CFR Part 11 要件を満たすようにAdobe Signを設定できるバイオ医薬業界標準対応について説明します。
+FDA 21 CFR Part 11 の要件を満たすようにAdobe Signを設定できるバイオ医薬業界標準対応について説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/21748?hidetitle=true)
 
