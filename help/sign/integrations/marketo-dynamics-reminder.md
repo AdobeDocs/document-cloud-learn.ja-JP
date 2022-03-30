@@ -1,14 +1,14 @@
 ---
 title: Adobe Sign for Microsoft Dynamics 365 およびMarketoを使用したリマインダーの送信
-description: 一定期間が経過しても契約書が署名されていない場合に、電子メールでリマインダーを送信する方法について説明します。
+description: 一定期間が経過しても契約書が署名されていない場合に、電子メールでリマインダーを送信する方法を説明します。
 role: Admin
 product: adobe sign
-solution: Adobe Sign, Marketo, Document Cloud
+solution: Acrobat Sign, Marketo, Document Cloud
 level: Intermediate
 topic-revisit: Integrations
 thumbnail: KT-7250.jpg
 exl-id: 5a97fade-18a3-448a-8504-efb9e38e9187
-source-git-commit: bcddb0ee106239f2786debaed908b2a2ec5ce792
+source-git-commit: 089b6768cee4e3af8f1a349d5754d84aa3f4f69a
 workflow-type: tm+mt
 source-wordcount: '911'
 ht-degree: 3%
@@ -17,31 +17,31 @@ ht-degree: 3%
 
 # Adobe Sign for Microsoft Dynamics 365 およびMarketoを使用したリマインダーの送信
 
-一定期間が経過しても契約書が署名されていない場合に、電子メールでリマインダーを送信する方法について説明します。 この統合では、Adobe Sign、Microsoft Dynamics 用Adobe Sign、Marketo、Marketo Microsoft Dynamics Sync を使用します。
+一定期間が経過しても契約書が署名されていない場合に、電子メールでリマインダーを送信する方法を説明します。 この統合では、Adobe Sign、Microsoft Dynamics 用Adobe Sign、Marketo、Marketo Microsoft Dynamics 同期を使用します。
 
 ## 前提条件
 
 1. Marketo Microsoft Dynamics Sync をインストールします。
 
-   Microsoft Dynamics Sync に関する情報と最新のプラグインを利用できます [はい。](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/microsoft-dynamics/marketo-plugin-releases-for-microsoft-dynamics.html)
+   Microsoft Dynamics Sync の情報と最新のプラグインを利用できます [はい。](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/microsoft-dynamics/marketo-plugin-releases-for-microsoft-dynamics.html)
 
-1. インストール [Microsoft Dynamics 用Adobe Sign](https://appsource.microsoft.com/ja-jp/product/dynamics-365/adobesign.f3b856fc-a427-4d47-ad4b-d5d1baba6f86)を選択します。
+1. Install [Microsoft Dynamics 用Adobe Sign](https://appsource.microsoft.com/ja-jp/product/dynamics-365/adobesign.f3b856fc-a427-4d47-ad4b-d5d1baba6f86)を選択します。
 
-   Information about this plugin is available [here.](https://helpx.adobe.com/ca/sign/using/microsoft-dynamics-integration-installation-guide.html)
+   このプラグインに関する情報は利用可能です [はい。](https://helpx.adobe.com/ca/sign/using/microsoft-dynamics-integration-installation-guide.html)
 
 ## カスタムオブジェクトの検索
 
-Marketo Microsoft Dynamics Sync およびAdobe Sign for Dynamics の設定が完了すると、Marketo Admin Terminal に 2 つの新しいオプションが表示されます。
+Marketo Microsoft Dynamics 同期とAdobe Sign for Dynamics の設定が完了すると、Marketo Admin Terminal に 2 つの新しいオプションが表示されます。
 
 ![管理者](assets/adminTerminal.png)
 
 1. クリック **[!UICONTROL Dynamics エンティティの同期]**&#x200B;を選択します。
 
-   Sync must be disabled before syncing custom entities. Click **Sync Schema** if this is your first time. それ以外の場合は、「 **スキーマの更新**&#x200B;を選択します。
+   カスタムエンティティを同期する前に、同期を無効にする必要があります。 クリック **スキーマの同期** 初めての方は。 それ以外の場合は、「 **スキーマの更新**&#x200B;を選択します。
 
    ![更新](assets/refreshSchema.png)
 
-## Sync the custom object
+## カスタムオブジェクトの同期
 
 1. 右側で、 [!UICONTROL リード], [!UICONTROL 連絡先]および [!UICONTROL アカウント]を参照してください。
 
@@ -49,7 +49,7 @@ Marketo Microsoft Dynamics Sync およびAdobe Sign for Dynamics の設定が完
 
    * **同期を有効にする** 」を **[!UICONTROL 連絡先]** 次の場合にリマインダーを送信する場合： [!UICONTROL 連絡先] は Dynamics で契約書に署名していません。
 
-   * **同期を有効にする** 」を **[!UICONTROL アカウント]** を選択したときに [!UICONTROL アカウント] は Dynamics で契約書に署名していません。
+   * **同期を有効にする** 」を **[!UICONTROL アカウント]** 次の場合にリマインダーを送信する場合： [!UICONTROL アカウント] は Dynamics で契約書に署名していません。
 
    * **同期を有効にする** 」を入力します。 **[!UICONTROL 親]** ([!UICONTROL リード], [!UICONTROL 連絡先]、または [!UICONTROL アカウント])。
 
@@ -63,7 +63,7 @@ Marketo Microsoft Dynamics Sync およびAdobe Sign for Dynamics の設定が完
 
 1. カスタムオブジェクトの同期を有効にした後、同期を再度有効にします。
 
-   管理ターミナルに戻り、「 **Microsoft Dynamics**&#x200B;を選択し、「 **同期を有効にする**&#x200B;を選択します。
+   管理ターミナルに戻り、「 **Microsoft Dynamics**」を選択し、「 **同期を有効にする**&#x200B;を選択します。
 
    ![Microsoft Dynamics](assets/microsoftDynamics.png)
 
@@ -71,7 +71,7 @@ Marketo Microsoft Dynamics Sync およびAdobe Sign for Dynamics の設定が完
 
 ## プログラムとトークンの作成
 
-1. Marketoの「Marketing Activities」セクションで、「 **マーケティング活動** をクリックします。
+1. Marketoの「Marketing Activities」セクションで、 **マーケティング活動** をクリックします。
 
    選択 **新しいキャンペーンフォルダー**&#x200B;に名前を付けます。
 
@@ -83,7 +83,7 @@ Marketo Microsoft Dynamics Sync およびAdobe Sign for Dynamics の設定が完
 
    ![新規プログラム 1](assets/newProgram1.png)
 
-   ![新規プログラム 2](assets/newProgram2.png)
+   ![新しいプログラム 2](assets/newProgram2.png)
 
 1. クリック **マイトークン**&#x200B;ドラッグします **電子メールスクリプト** キャンバスに移動します。
 
@@ -93,11 +93,11 @@ Marketo Microsoft Dynamics Sync およびAdobe Sign for Dynamics の設定が完
 
    ![名前を付けて編集](assets/nameAndSave.png)
 
-1. 拡張 **[!UICONTROL カスタムオブジェクト]** 右側で、 **[!UICONTROL 契約書]** します。
+1. 展開 **[!UICONTROL カスタムオブジェクト]** 右側で、 **[!UICONTROL 契約書]** します。
 
    検索とドラッグ [!UICONTROL 名前]、契約状況、送信日、現在の署名者の URL がキャンバスに表示されます。
 
-1. これらのトークンを使用して Velocity スクリプトを記述し、1 週間署名されていない契約書の契約書 URL を表示します。 Here is an example that compares the current date to Sent On:
+1. これらのトークンを使用して Velocity スクリプトを記述し、1 週間署名されていない契約書の契約書 URL を表示します。 次に、現在の日付と送信日を比較する例を示します。
 
    ```
    #foreach($agreement in $adobe_agreementList)
@@ -125,7 +125,7 @@ Marketo Microsoft Dynamics Sync およびAdobe Sign for Dynamics の設定が完
 
 1. 「**[!UICONTROL 保存]**」をクリックします。
 
-## Create the reminder and add personalization
+## リマインダーの作成とパーソナライゼーションの追加
 
 パーソナライゼーションの例は次のとおりです。署名者の名前、契約書の名前、契約書へのリンクなど
 
@@ -133,15 +133,15 @@ Marketo Microsoft Dynamics Sync およびAdobe Sign for Dynamics の設定が完
 
    ![新しい電子メール](assets/createNewEmail.png)
 
-1. 新しいタブで、 **[!UICONTROL 名前]** および **[!UICONTROL 説明]** 」をクリックし、テンプレートピッカーからテンプレートを選択します。
+1. 新しいタブで、 **[!UICONTROL 名前]** および **[!UICONTROL 説明]** を入力し、テンプレートピッカーからテンプレートを選択します。
 
-   ![Template Picker](assets/templatePicker.png)
+   ![テンプレートピッカー](assets/templatePicker.png)
 
 1. 「**[!UICONTROL 作成]**」をクリックします。
 
 1. 設定 **[!UICONTROL 名前から]** および **[!UICONTROL 差出人住所]**&#x200B;を選択します。
 
-   ![Reminder Email](assets/reminderEmail.png)
+   ![リマインダーメール](assets/reminderEmail.png)
 
 1. メッセージ本文をクリックして、エディタをアクティブにします。
 
@@ -167,35 +167,35 @@ Marketo Microsoft Dynamics Sync およびAdobe Sign for Dynamics の設定が完
 
 1. を検索し、クリック&amp;ドラッグ **[!UICONTROL 契約あり]** をスマート・リストに追加します。
 
-   ![Has Agreement](assets/hasAgreementDynamics1.png)
+   ![契約あり](assets/hasAgreementDynamics1.png)
 
    トリガーに公開するフィールドは、 **[!UICONTROL 拘束を追加]**&#x200B;を選択します。
 
-1. 選択 **[!UICONTROL 契約状況]** を選択します。
+1. 選択 **[!UICONTROL 契約状況]** およびフィルタに使用する他のフィールドを選択します。
 
-   追加するフィールドごとに、フィルタに使用する値を定義します。 この場合、トリガーされるのは、 **[!UICONTROL 契約状況]** is *署名用に送信* および **[!UICONTROL 送信日]** is *過去 1 週間前に*&#x200B;を選択します。
+   追加するフィールドごとに、フィルタの基準となる値を定義します。 この場合、トリガーされるのは、 **[!UICONTROL 契約状況]** is *署名用に送信* および **[!UICONTROL 送信日]** is *過去 1 週間前に*&#x200B;を選択します。
 
    ![契約書のステータス](assets/hasAgreementDynaSentOn.png)
 
    >[!NOTE]
    >
-   > 次のように、一意の識別子を制約に追加します。 **名前**」を選択します。
+   > 次のように、一意の識別子を拘束に追加します。 **名前**」を選択します。
 
-1. Confirm the campaign audience and see who will qualify in the Schedule tab.
+1. 「スケジュール」タブでキャンペーンのオーディエンスを確認し、対象となるオーディエンスを確認します。
 
    ![修飾子](assets/qualifiers.png)
 
 ## スマート・キャンペーン・フローの設定
 
-キャンペーンフィルターが原因です **有効期限までの日数** を使用した場合、キャンペーンの定期的なスケジュールを使用できます。
+キャンペーンフィルター **有効期限までの日数** を使用した場合は、キャンペーンの定期的なスケジュールを使用できます。
 
-1. 次の **[!UICONTROL 流量]** タブを [!UICONTROL Smart Campaign]を選択します。
+1. ツールバーの「 **[!UICONTROL 流量]** タブを [!UICONTROL Smart Campaign]を選択します。
 
-   エレメントを検索して **電子メールを送信** カンバスにフローし、前のセクションで作成したリマインダーメールを選択します。
+   テキストを検索して **電子メールを送信** カンバスにフローし、前のセクションで作成したリマインダーメールを選択します。
 
    ![電子メールを送信](assets/sendEmail.png)
 
-1. 次の **[!UICONTROL スケジュール]** タブをクリックします。 キャンペーンフローが、 **スマートキャンペーン設定**&#x200B;を選択します。 次に、「 **定期的なスケジュール** 」タブをクリックします。
+1. ツールバーの「 **[!UICONTROL スケジュール]** タブをクリックします。 キャンペーンフローが、 **スマートキャンペーン設定**&#x200B;を選択します。 次に、「 **定期的なスケジュール** タブを選択します。
 
    ![「スケジュール」タブ](assets/scheduleTab.png)
 

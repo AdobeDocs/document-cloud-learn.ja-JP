@@ -1,14 +1,14 @@
 ---
 title: Adobe Sign for Microsoft Dynamics 365 およびMarketoを使用した通知の送信
-description: テキストメッセージ、電子メール、プッシュ通知を送信して、署名者に契約書が署名中であることを知らせる方法について説明します。
+description: テキストメッセージ、電子メール、プッシュ通知を送信して、署名者に契約書が署名中であることを知らせる方法を説明します。
 role: Admin
 product: adobe sign
-solution: Adobe Sign, Marketo, Document Cloud
+solution: Acrobat Sign, Marketo, Document Cloud
 level: Intermediate
 topic-revisit: Integrations
 thumbnail: KT-7249.jpg
 exl-id: 2e0de48c-70bf-4dc5-8251-88e7399f588a
-source-git-commit: bcddb0ee106239f2786debaed908b2a2ec5ce792
+source-git-commit: 089b6768cee4e3af8f1a349d5754d84aa3f4f69a
 workflow-type: tm+mt
 source-wordcount: '690'
 ht-degree: 1%
@@ -17,13 +17,13 @@ ht-degree: 1%
 
 # Adobe Sign for Microsoft Dynamics 365 およびMarketoを使用した通知の送信
 
-Adobe Sign、Microsoft Dynamic 用Adobe Sign、Marketo、Marketo Microsoft Dynamics Sync を使用して、テキストメッセージ、電子メール、プッシュ通知を送信し、署名者に契約書が署名中であることを知らせる方法を説明します。 Marketoから通知を送信するには、まずMarketo SMS 管理機能を購入するか、設定する必要があります。 このチュートリアルでは、 [Twilio SMS](https://launchpoint.marketo.com/twilio/twilio-sms-for-marketo/)他のMarketo SMS ソリューションも利用できます。
+Adobe Sign、Microsoft Dynamic 向けAdobe Sign、Marketo、Marketo Microsoft Dynamics Sync を使用して、テキストメッセージ、電子メール、プッシュ通知を送信し、署名者に契約書が処理中であることを知らせる方法を説明します。 Marketoから通知を送信するには、まずMarketo SMS 管理機能を購入するか、設定する必要があります。 このチュートリアルでは [Twilio SMS](https://launchpoint.marketo.com/twilio/twilio-sms-for-marketo/)その他のMarketo SMS ソリューションも利用できます。
 
 ## 前提条件
 
 1. Marketo Microsoft Dynamics Sync をインストールします。
 
-   Microsoft Dynamics Sync に関する情報と最新のプラグインを利用できます [はい。](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/microsoft-dynamics/marketo-plugin-releases-for-microsoft-dynamics.html)
+   Microsoft Dynamics Sync の情報と最新のプラグインを利用できます [はい。](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/microsoft-dynamics/marketo-plugin-releases-for-microsoft-dynamics.html)
 
 1. Microsoft Dynamics 用Adobe Signをインストールします。
 
@@ -31,13 +31,13 @@ Adobe Sign、Microsoft Dynamic 用Adobe Sign、Marketo、Marketo Microsoft Dynam
 
 ## カスタムオブジェクトの検索
 
-Marketo Microsoft Dynamics Sync およびAdobe Sign for Dynamics の設定が完了すると、Marketo Admin Terminal に 2 つの新しいオプションが表示されます。
+Marketo Microsoft Dynamics 同期とAdobe Sign for Dynamics の設定が完了すると、Marketo Admin Terminal に 2 つの新しいオプションが表示されます。
 
 ![管理者](assets/adminTerminal.png)
 
 * クリック **[!UICONTROL Dynamics エンティティの同期]**&#x200B;を選択します。
 
-   カスタムエンティティを同期する前に、同期を無効にする必要があります。 クリック **[!UICONTROL スキーマの同期]** 初めての方は それ以外の場合は、「 **[!UICONTROL スキーマの更新]**&#x200B;を選択します。
+   カスタムエンティティを同期する前に、同期を無効にする必要があります。 クリック **[!UICONTROL スキーマの同期]** 初めての方は。 それ以外の場合は、「 **[!UICONTROL スキーマの更新]**&#x200B;を選択します。
 
    ![更新](assets/refreshSchema.png)
 
@@ -47,17 +47,17 @@ Marketo Microsoft Dynamics Sync およびAdobe Sign for Dynamics の設定が完
 
    * **[!UICONTROL 同期を有効にする]** Dynamics の契約書にリードが追加されたときにトリガーする場合は、「リード」の下にあるオブジェクトに対して実行します。
 
-   * **[!UICONTROL 同期を有効にする]** を使用して、取引先担当者が Dynamics の契約書に追加されたときにトリガーされるようにすることができます。
+   * **[!UICONTROL 同期を有効にする]** Dynamics の契約書に取引先担当者が追加されたときにトリガーする場合は、「取引先担当者」の下にあるオブジェクトに対して実行します。
 
-   * **[!UICONTROL 同期を有効にする]** Dynamics の契約書にアカウントが追加されたときにトリガーする場合は、「アカウント」の下にあるオブジェクトに対して実行します。
+   * **[!UICONTROL 同期を有効にする]** を使用します。
 
    * **同期を有効にする** をクリックします。
 
    ![カスタムオブジェクト](assets/enableSyncDynamics.png)
 
-1. 新しいウィンドウで、「契約書」の下のプロパティを選択します。
+1. 新しいウィンドウの「契約」で、必要なプロパティを選択します。
 
-   下のボックスを有効にする **[!UICONTROL 制約]** および **[!UICONTROL トリガー]** マーケティング活動に公開します。
+   下のボックスを有効にします **[!UICONTROL 制約]** および **[!UICONTROL トリガー]** マーケティング活動に公開します。
 
    ![カスタム同期 1](assets/entitySync1.png)
 
@@ -65,7 +65,7 @@ Marketo Microsoft Dynamics Sync およびAdobe Sign for Dynamics の設定が完
 
 1. カスタムオブジェクトの同期を有効にした後、同期を再度有効にします。
 
-   再び [!UICONTROL 管理ターミナル]を選択し、「 **[!UICONTROL Microsoft Dynamics]**&#x200B;を選択し、「 **[!UICONTROL 同期を有効にする]**&#x200B;を選択します。
+   再び [!UICONTROL 管理ターミナル]を選択し、「 **[!UICONTROL Microsoft Dynamics]**」を選択し、「 **[!UICONTROL 同期を有効にする]**&#x200B;を選択します。
 
    ![Microsoft Dynamics](assets/microsoftDynamics.png)
 
@@ -73,7 +73,7 @@ Marketo Microsoft Dynamics Sync およびAdobe Sign for Dynamics の設定が完
 
 ## プログラムの作成
 
-1. 入力 [!UICONTROL マーケティング活動]を右クリックします **[!UICONTROL マーケティング活動]** 左側のバーで、「 **[!UICONTROL 新しいキャンペーンフォルダー]**&#x200B;という名前を付けます。
+1. 入力 [!UICONTROL マーケティング活動]を右クリックします **[!UICONTROL マーケティング活動]** 左側のバーで、「 **[!UICONTROL 新しいキャンペーンフォルダー]**&#x200B;に名前を付けます。
 
    ![新規フォルダー](assets/newFolder.png)
 
@@ -83,7 +83,7 @@ Marketo Microsoft Dynamics Sync およびAdobe Sign for Dynamics の設定が完
 
    ![新規プログラム 1](assets/newProgram1.png)
 
-   ![新規プログラム 2](assets/newProgram2.png)
+   ![新しいプログラム 2](assets/newProgram2.png)
 
 ## 設定 [!DNL Twilio] SMS
 
@@ -113,39 +113,39 @@ Marketoの設定 — [!DNL Twilio] SMS Webhook には 3 つ必要です [!DNL Tw
    https://[ACCOUNT_SID]:[AUTH_TOKEN]@API.TWILIO.COM/2010-04-01/ACCOUNTS/[ACCOUNT_SID]/Messages.json
    ```
 
-1. 選択 **[!UICONTROL POST]** をリクエストの種類として設定します。
+1. 選択 **[!UICONTROL POST]** をリクエストの種類に指定します。
 
-1. 次のように入力します。 **テンプレート** 必ず～を取り替える `MY_TWILIO_NUMBER` を [!DNL Twilio] 電話番号と `YOUR_MESSAGE` 選択したメッセージを添えて
+1. 以下を入力します **テンプレート** 必ず `MY_TWILIO_NUMBER` を [!DNL Twilio] 電話番号と `YOUR_MESSAGE` お好みのメッセージを添えて
 
    ```
    From=%2B1[MY_TWILIO_NUMBER]&To=%2B1{{lead.Mobile Phone Number:default=edit me}}&Body=[YOUR_MESSAGE]
    ```
 
-1. 設定 **[!UICONTROL 要求トークンエンコード]** を *フォーム/URL*&#x200B;を選択します。
+1. 設定 **[!UICONTROL 要求トークンエンコーディング]** を *フォーム/URL*&#x200B;を選択します。
 
 1. 応答の種類を *JSON* 次に、「 **[!UICONTROL 保存]**&#x200B;を選択します。
 
 ## スマートキャンペーントリガーの設定
 
-1. 「マーケティングアクティビティ」セクションで、作成したプログラムを右クリックし、「 **[!UICONTROL 新しいスマートキャンペーン]**&#x200B;を選択します。
+1. 「Marketing Activities」セクションで、作成したプログラムを右クリックし、「 **[!UICONTROL 新しいスマートキャンペーン]**&#x200B;を選択します。
 
    ![Smart Campaign 1](assets/smartCampaign1.png)
 
-1. 名前を付けて、「 **[!UICONTROL 作成]**&#x200B;を選択します。
+1. 名前を入力して、「 **[!UICONTROL 作成]**&#x200B;を選択します。
 
    ![Smart Campaign 2](assets/smartCampaign3.png)
 
    Microsoftフォルダーの下に、使用可能なトリガーがいくつか表示されます。
 
-1. クリック&amp;ドラッグ **[!UICONTROL 契約書に追加]** を **[!UICONTROL スマートリスト]**&#x200B;次に、トリガーに対して必要な制約を追加します。
+1. クリック&amp;ドラッグ **[!UICONTROL 契約書に追加]** を **[!UICONTROL スマート・リスト]**&#x200B;を選択し、トリガーに対して必要な制約を追加します。
 
    ![契約書に追加](assets/addedToAgreementDynamics.png)
 
 ## スマート・キャンペーン・フローの設定
 
-1. 次の **[!UICONTROL 流量]** タブを [!UICONTROL Smart Campaign]を選択します。
+1. ツールバーの「 **[!UICONTROL 流量]** タブを [!UICONTROL Smart Campaign]を選択します。
 
-   エレメントを検索して **Webhook の呼び出し** カンバスに流し込み、前のセクションで作成した webhook を選択します。
+   テキストを検索して **Webhook の呼び出し** カンバスにフローし、前のセクションで作成した webhook を選択します。
 
    ![Webhook の呼び出し](assets/callWebhook.png)
 
