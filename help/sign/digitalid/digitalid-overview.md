@@ -1,28 +1,28 @@
 ---
-title: Digital ID Overview
-description: Adobe Signで世界中のデジタル ID を使用する方法について説明します
+title: デジタル ID の概要
+description: Acrobat Sign で世界中のデジタル ID を使用する方法について説明します
 role: User
 product: adobe sign
 level: Beginner
 thumbnail: KT-8990.jpg
 kt: 8990
 exl-id: 753b7016-6331-40df-9003-5acee8be752a
-source-git-commit: cacee2906e240c1164741d47b0f9e588a9fa1694
+source-git-commit: e02b1250de94ec781e7984c6c146dbae993f5d31
 workflow-type: tm+mt
 source-wordcount: '230'
 ht-degree: 0%
 
 ---
 
-# Digital ID overview
+# デジタル ID の概要
 
 ![Sign デジタル ID 画像](../assets/Hero-DigitalID.png)
 
-Similar to a passport in electronic form, a digital identity (digital ID) allows you to securely prove that you are who you say you are. また、Adobe Signで電子サインする場合は、デジタル ID を使用することで、特定の文書に対して電子サインを承認したかどうかを高いレベルで保証できます。 The following tutorials show you how to use digital IDs from around the world with Adobe Sign.
+電子パスポートと同様に、デジタル ID を使用すると、本人確認を安全に行うことができます。 And, when e-signing in Acrobat Sign, using a digital ID provides a higher level of assurance that you authorized your e-signature on that specific document. 次のチュートリアルでは、Acrobat Sign で世界中のデジタル ID を使用する方法を示します。
 
 >[!NOTE]
 >
->クラウド署名でデジタル ID を使用する前に、Adobe Signでプロバイダーのソリューションが有効になっていることを組織の管理者に確認してください。
+>クラウド署名でデジタル ID を使用する前に、Acrobat Sign でプロバイダーのソリューションが有効になっていることを組織の管理者に確認してください。
 
 ## [!DNL Aadhaar]
 
@@ -35,7 +35,7 @@ Similar to a passport in electronic form, a digital identity (digital ID) allows
     <div>
     <a href="aadhaar-sign.md"><strong>使用した署名 [!DNL Aadhaar]</strong></a>
     </div>
-    <em>ここでは、 [!DNL Aadhaar] Adobe Signによるデジタル ID</em>
+    <em>ここでは、 [!DNL Aadhaar] Acrobat Sign によるデジタル ID</em>
     <br>
   </td>
   <td>
@@ -60,19 +60,19 @@ Similar to a passport in electronic form, a digital identity (digital ID) allows
       <img alt="デジタル ID の取得元 [!DNL Digidentity]" src="assets/Digidentityreg_1280.png" />
     </a>
     <div>
-    <a href="digidentity-reg.md"><strong>デジタル ID の取得元 [!DNL Digidentity]</strong></a>
+    <a href="digidentity-reg.md"><strong>Get a digital ID from [!DNL Digidentity]</strong></a>
     </div>
     <em>電子署名証明書を取得する方法 [!DNL Digidentity]</em>
     <br>
   </td>
   <td>
     <a href="digidentity-sign.md">
-      <img alt="使用した署名 [!DNL Digidentity]" src="assets/Digidentitysign_1280.png" />
+      <img alt="Signing using [!DNL Digidentity]" src="assets/Digidentitysign_1280.png" />
     </a>
     <div>
-    <a href="digidentity-sign.md"><strong>Signing using [!DNL Digidentity]</strong></a>
+    <a href="digidentity-sign.md"><strong>使用した署名 [!DNL Digidentity]</strong></a>
     </div>
-    <em>ここでは、 [!DNL Digidentity] Adobe Signによるデジタル ID</em>
+    <em>Learn how to use your [!DNL Digidentity] digital ID with Acrobat Sign</em>
     <br>
   </td>
   <td>
@@ -89,7 +89,7 @@ Similar to a passport in electronic form, a digital identity (digital ID) allows
 <tr>
   <td>
     <a href="intesi-advanced.md">
-      <img alt="Get a digital ID from Intesi Group (Advanced)" src="assets/IntesiAdvanced_1280.png" />
+      <img alt="Intesi Group からのデジタル ID の取得（上級者）" src="assets/IntesiAdvanced_1280.png" />
     </a>
     <div>
     <a href="intesi-advanced.md"><strong>デジタル ID の取得元 [!DNL Intesi Group] （詳細）</strong></a>
@@ -102,7 +102,7 @@ Similar to a passport in electronic form, a digital identity (digital ID) allows
       <img alt="Get a digital ID from [!DNL Intesi Group] (Qualified)" src="assets/IntesiQualified_1280.png" />
     </a>
     <div>
-    <a href="intesi-qualified.md"><strong>デジタル ID の取得元 [!DNL Intesi Group] （認定）</strong></a>
+    <a href="intesi-qualified.md"><strong>Get a digital ID from [!DNL Intesi Group] (Qualified)</strong></a>
     </div>
     <em>Learn how to obtain a Qualified digital signing certificate from [!DNL Intesi Group]</em>
     <br>
@@ -114,7 +114,7 @@ Similar to a passport in electronic form, a digital identity (digital ID) allows
     <div>
     <a href="intesi-sign.md"><strong>使用した署名 [!DNL Intesi Group]</strong></a>
     </div>
-    <em>ここでは、 [!DNL Intesi Group] Adobe Signによるデジタル ID</em>
+    <em>ここでは、 [!DNL Intesi Group] Acrobat Sign によるデジタル ID</em>
     <br>
   </td>
 </tr>

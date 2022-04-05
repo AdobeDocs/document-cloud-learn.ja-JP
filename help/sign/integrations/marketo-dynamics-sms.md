@@ -1,5 +1,5 @@
 ---
-title: Adobe Sign for Microsoft Dynamics 365 およびMarketoを使用した通知の送信
+title: Microsoft Dynamics 365 およびMarketoでAcrobat Sign を使用して通知を送信
 description: テキストメッセージ、電子メール、プッシュ通知を送信して、署名者に契約書が署名中であることを知らせる方法を説明します。
 role: Admin
 product: adobe sign
@@ -8,7 +8,7 @@ level: Intermediate
 topic-revisit: Integrations
 thumbnail: KT-7249.jpg
 exl-id: 2e0de48c-70bf-4dc5-8251-88e7399f588a
-source-git-commit: 089b6768cee4e3af8f1a349d5754d84aa3f4f69a
+source-git-commit: 60582eeaf8437ca1206f45b0b6daf96629c16b61
 workflow-type: tm+mt
 source-wordcount: '690'
 ht-degree: 1%

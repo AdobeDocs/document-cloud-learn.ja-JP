@@ -1,13 +1,13 @@
 ---
 title: デプロイの概要
-description: Adobe Signのデプロイに関するベストプラクティス記事と貴重なインサイト
+description: Acrobat Sign の導入に関するベストプラクティス記事と貴重なインサイト
 role: Admin
 product: adobe sign
 solution: Acrobat
 level: Intermediate
 thumbnail: KT-6853.jpg
 exl-id: b91fd23d-3aa3-4623-96f7-a00b3768251f
-source-git-commit: 47575efa552da55b3ebde308c182432ab29392db
+source-git-commit: e02b1250de94ec781e7984c6c146dbae993f5d31
 workflow-type: tm+mt
 source-wordcount: '150'
 ht-degree: 16%
@@ -18,7 +18,7 @@ ht-degree: 16%
 
 ![Sign デプロイイメージ](assets/Hero-Deploy.png)
 
-Adobe Signの組織内への導入に関する貴重なインサイトが記載されたベストプラクティスの記事です。
+Acrobat Sign を組織内にデプロイする際の貴重なインサイトを記載したベストプラクティスの記事。
 
 <table style="table-layout:fixed">
 <tr>
@@ -27,9 +27,9 @@ Adobe Signの組織内への導入に関する貴重なインサイトが記載�
       <img alt="Admin Console" src="assets/Deploy_Admin.png" />
     </a>
     <div>
-    <a href="https://helpx.adobe.com/enterprise/using/adobe-sign-for-enterprise.html" target="_blank"><strong>Admin ConsoleでのAdobe Signの管理</strong></a>
+    <a href="https://helpx.adobe.com/enterprise/using/adobe-sign-for-enterprise.html" target="_blank"><strong>Admin ConsoleでのAcrobat Sign の管理</strong></a>
     </div>
-    <em>AdobeのエンタープライズプラットフォームであるAdobe Admin ConsoleでAdobe Signのユーザーとライセンスを管理する方法について説明します</em>
+    <em>AdobeのエンタープライズプラットフォームであるAdobe Admin ConsoleでAcrobat Sign のユーザーとライセンスを管理する方法について説明します</em>
     <br>
   </td>
   <td>
@@ -39,7 +39,7 @@ Adobe Signの組織内への導入に関する貴重なインサイトが記載�
     <div>
     <a href="https://helpx.adobe.com/sign/using/adobe-sign-training-best-practice.html" target="_blank"><strong>ベストプラクティス</strong></a>
     </div>
-    <em>Adobe Signのデプロイにおいて、カスタマーサクセスマネージャーがお客様と協力して獲得した貴重なインサイトや知識をご確認ください</em>
+    <em>Acrobat Sign のデプロイにおいて、カスタマーサクセスマネージャーがお客様と協力して獲得した貴重なインサイトや知識をご確認ください</em>
     <br>
   </td>  
   <td>
@@ -49,19 +49,19 @@ Adobe Signの組織内への導入に関する貴重なインサイトが記載�
     <div>
     <a href="https://www.adobe.com/trust/document-cloud-security.html" target="_blank"><strong>Adobeトラストセンター</strong></a>
     </div>
-    <em>Adobe Signのセキュリティ、法的効力、標準に関するアドビの継続的な取り組みについてご覧ください</em>
+    <em>Acrobat Sign のセキュリティ、法的効力、標準に関する継続的な取り組みについてご覧ください</em>
     <br>
   </td>
 </tr>
 <tr>
   <td>
     <a href="assets/SignStudyGuide.pdf">
-      <img alt="Adobe Sign Essentials Study Guide" src="assets/SignStudyGuide.png" />
+      <img alt="Acrobat Sign Essentials 学習ガイド" src="assets/SignStudyGuide.png" />
     </a>
     <div>
-    <a href="assets/SignStudyGuide.pdf"><strong>Adobe Sign Essentials Study Guide</strong></a>
+    <a href="assets/SignStudyGuide.pdf"><strong>Acrobat Sign Essentials 学習ガイド</strong></a>
     </div>
-    <em>Adobe Sign Essentials 評価 (AD3-D104) のためのAdobe Sign調査ガイド</em>
+    <em>Acrobat Sign Essentials 評価 (AD3-D104) 用Acrobat Sign 学習ガイド</em>
     <br>
   </td>
   <td>

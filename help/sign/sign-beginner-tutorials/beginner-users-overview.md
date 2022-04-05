@@ -6,7 +6,7 @@ product: adobe sign
 level: Beginner
 thumbnail: KT-6847.jpg
 exl-id: e58ce43d-2e8e-4804-8f30-6591fa943607
-source-git-commit: 42ea703db2923063c572a4ff0102eeea1c1f3d19
+source-git-commit: e02b1250de94ec781e7984c6c146dbae993f5d31
 workflow-type: tm+mt
 source-wordcount: '340'
 ht-degree: 0%
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 ![「はじめに」に署名の画像](../assets/Hero-GettingStarted.png)
 
-以下の簡単な手順を踏んだチュートリアルで、文書を送信、署名、トラックする方法を習得しましょう。 Adobe Signのクイックツアーを参照した後、1 人または複数のユーザーへのドキュメントの送信に進みます。 このコンテンツは、電子サインのワークフローを容易に開始できるように設計されています。
+以下の簡単な手順を踏んだチュートリアルで、文書を送信、署名、トラックする方法を習得しましょう。 Acrobat Sign の概要を理解した後、1 人または複数のユーザーへの文書の送信に進みます。 このコンテンツは、電子サインのワークフローを容易に開始できるように設計されています。
 
 ## 送信
 
@@ -25,12 +25,12 @@ ht-degree: 0%
 <tr>
  <td>
     <a href="quick-tour.md">
-      <img alt="Adobe Signクイックツアー" src="../assets/Quick-Tour.png" />
+      <img alt="Acrobat Sign のクイックツアー" src="../assets/Quick-Tour.png" />
     </a>
     <div>
-    <a href="quick-tour.md"><strong>Adobe Signクイックツアー</strong></a>
+    <a href="quick-tour.md"><strong>Acrobat Sign のクイックツアー</strong></a>
     </div>
-    <em>Adobe Signインターフェイスのクイックツアーを参照して、使い始めてみましょう</em>
+    <em>Acrobat Sign インターフェイスのクイックツアーを参照して使い始めましょう</em>
     <br>
   </td>
   <td>
@@ -57,12 +57,12 @@ ht-degree: 0%
 <tr>
   <td>
     <a href="new-sender.md">
-      <img alt="新しい送信者のためのAdobe Sign入門" src="../assets/gettingstartednew.png" />
+      <img alt="新しい送信者用のAcrobat Sign 入門" src="../assets/gettingstartednew.png" />
     </a>
     <div>
-    <a href="new-sender.md"><strong>新しい送信者のためのAdobe Sign入門</strong></a>
+    <a href="new-sender.md"><strong>新しい送信者用のAcrobat Sign 入門</strong></a>
     </div>
-    <em>この包括的なチュートリアルは、Adobe Signで新しい送信者を作成する場合に最適です</em>
+    <em>この包括的なチュートリアルは、Acrobat Sign を使って新しい送信者を作成する場合に最適です</em>
     <br>
   </td>
   <td>
@@ -89,7 +89,7 @@ ht-degree: 0%
     <div>
     <a href="electronically-sign-a-document.md"><strong>文書への電子署名</strong></a>
     </div>
-    <em>Adobe Signで送信された文書に簡単に署名する方法について説明します</em>
+    <em>Acrobat Sign を使用して送信された文書に簡単に署名する方法について説明します</em>
     <br>
   </td>
   <td>
@@ -109,7 +109,7 @@ ht-degree: 0%
     <div>
     <a href="sign-in-person.md"><strong>署名を対面で取得</strong></a>
     </div>
-    <em>Adobe Signモバイルアプリを使用して、他の人から直接署名を取得</em>
+    <em>Acrobat Sign モバイルアプリを使用して、他の人から直接署名を取得</em>
     <br>
   </td>
 </tr>

@@ -7,7 +7,7 @@ solution: Acrobat Sign
 level: Experienced
 thumbnail: KT-6848.jpg
 exl-id: c4f0a953-e28b-4488-a27c-010b5adaf7ec
-source-git-commit: 47575efa552da55b3ebde308c182432ab29392db
+source-git-commit: e02b1250de94ec781e7984c6c146dbae993f5d31
 workflow-type: tm+mt
 source-wordcount: '242'
 ht-degree: 0%
@@ -18,7 +18,7 @@ ht-degree: 0%
 
 ![高度な画像への署名](../assets/Hero-Advanced.png)
 
-100 人以上の受信者に署名用の文書を一度に送信する方法、Web サイト用に署名可能な文書を設定する方法、署名トランザクションを管理する方法、文書テンプレートを作成および管理する方法について説明します。 これらのチュートリアルは、署名の送信と依頼の基本を既に理解しているお客様向けで、Adobe Signでさらに多くの機能を活用できます。
+100 人以上の受信者に署名用の文書を一度に送信する方法、Web サイト用に署名可能な文書を設定する方法、署名トランザクションを管理する方法、文書テンプレートを作成および管理する方法について説明します。 これらのチュートリアルは、署名の送信と依頼の基本を既に知っていて、Acrobat Sign がどのように役立つのかをご希望の方を対象にしています。
 
 ## 送信
 
@@ -78,12 +78,12 @@ ht-degree: 0%
   </td> 
   <td>
     <a href="adobe-sign-text-tagging.md">
-      <img alt="Adobe Sign Text Tagging" src="../assets/Text-Tagging.png" />
+      <img alt="Acrobat Sign テキストタグ" src="../assets/Text-Tagging.png" />
   </a>
     <div>
-    <a href="adobe-sign-text-tagging.md"><strong>Adobe Sign Text Tagging</strong></a>
+    <a href="adobe-sign-text-tagging.md"><strong>Acrobat Sign テキストタグ</strong></a>
     </div>
-    <em>Adobe Acrobatを使用したテキストタグによるAdobe Signフォームフィールドの作成</em>
+    <em>Adobe Acrobatを使用したテキストタグによるAcrobat Sign フォームフィールドの作成</em>
     <br>
   </td> 
 </table>

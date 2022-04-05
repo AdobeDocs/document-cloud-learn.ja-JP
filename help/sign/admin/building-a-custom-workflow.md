@@ -3,13 +3,12 @@ title: カスタムワークフローの構築
 description: 文書ワークフローを調整および自動化して電子サインをすばやく取得し、フォームデータを収集する方法について説明します
 role: User, Admin
 product: adobe sign
-solution: Acrobat Sign
 level: Experienced
 thumbnail: 33656.jpg
 exl-id: b892b278-cf83-461d-a548-57237b85b297
-source-git-commit: 47575efa552da55b3ebde308c182432ab29392db
+source-git-commit: e02b1250de94ec781e7984c6c146dbae993f5d31
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '120'
 ht-degree: 0%
 
 ---
@@ -27,4 +26,4 @@ ht-degree: 0%
 
 >[!TIP]
 >
->このビデオはコースの一部です [管理者向けAdobe Sign入門](https://experienceleague.adobe.com/?recommended=Sign-A-1-2020.2) それは無料で利用できますExperience League!
+>このビデオはコースの一部です [管理者向けAcrobat Sign ファーストステップガイド](https://experienceleague.adobe.com/?recommended=Sign-A-1-2020.2) それは無料で利用できますExperience League!

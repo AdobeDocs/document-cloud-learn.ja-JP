@@ -1,13 +1,13 @@
 ---
 title: Sign の統合の概要
-description: 既存のシステム、プロセス、アプリケーションにAdobe Signを追加する方法を説明します
+description: 既存のシステム、プロセス、アプリケーションにAcrobat Sign を追加する方法について説明します
 role: User
 product: adobe sign
 level: Intermediate
 topic-revisit: Integrations
 thumbnail: KT-6850.jpg
 exl-id: 2b1b9fae-7b4c-4092-aec7-c2025ef07cf4
-source-git-commit: 42ea703db2923063c572a4ff0102eeea1c1f3d19
+source-git-commit: e02b1250de94ec781e7984c6c146dbae993f5d31
 workflow-type: tm+mt
 source-wordcount: '546'
 ht-degree: 0%
@@ -18,7 +18,7 @@ ht-degree: 0%
 
 ![Sign 画像を統合](../assets/Hero-Integrate.png)
 
-Adobe Signは、組織で既に使用している他のアプリケーション (Microsoft、Salesforce、Workday、Marketoなど ) 内で使用できます。 統合ガイドとチュートリアルで、電子サインのワークフローを簡素化する方法をご確認ください。
+Acrobat Sign は、組織で既に使用しているMicrosoft、Salesforce、Workday、Marketoなどの他のアプリケーションの中で使用できます。 統合ガイドとチュートリアルで、電子サインのワークフローを簡素化する方法をご確認ください。
 
 >[!NOTE]
 > これらの機能にアクセスできない場合は、組織の管理者に連絡して、統合が有効になっていることを確認してください。
@@ -81,12 +81,12 @@ Adobe Signは、組織で既に使用している他のアプリケーション 
   </td>
   <td>
     <a href="documentautomation.md">
-      <img alt="Adobe Sign for Microsoft Power Platform による文書の自動化" src="../assets/SF-Button.png" />
+      <img alt="Microsoft Power Platform 向けAcrobat Sign による文書の自動化" src="../assets/SF-Button.png" />
     </a>
     <div>
-    <a href="documentautomation.md"><strong>Adobe Sign for Microsoft Power Platform による文書の自動化</strong></a>
+    <a href="documentautomation.md"><strong>Microsoft Power Platform 向けAcrobat Sign による文書の自動化</strong></a>
     </div>
-    <em>Microsoft Power Apps 用のAdobe SignおよびAdobe PDF Tools コネクタをアクティブにして使用する方法について説明します</em>
+    <em>Microsoft Power Apps 用Acrobat Sign およびAdobe PDF Tools コネクタをライセンス認証して使用する方法について説明します</em>
     <br>
   </td>
 </tr>
@@ -98,10 +98,10 @@ Adobe Signは、組織で既に使用している他のアプリケーション 
 <tr>
   <td>
     <a href="create-an-agreement-template.md">
-      <img alt="Salesforce 用Adobe Signでの文書テンプレートの作成" src="../assets/SF-Template.png" />
+      <img alt="Salesforce 用Acrobat Sign での文書テンプレートの作成" src="../assets/SF-Template.png" />
     </a>
     <div>
-    <a href="create-an-agreement-template.md"><strong>Salesforce 用Adobe Signでの文書テンプレートの作成</strong></a>
+    <a href="create-an-agreement-template.md"><strong>Salesforce 用Acrobat Sign での文書テンプレートの作成</strong></a>
     </div>
     <em>再利用可能な文書テンプレートを作成してすばやく一貫性を保つ</em>
     <br>
@@ -157,12 +157,12 @@ Adobe Signは、組織で既に使用している他のアプリケーション 
 <tr>
   <td>
     <a href="workday.md">
-      <img alt="WorkdayでのAdobe Signの設定" src="../assets/WD-Configure.png" />
+      <img alt="WorkdayでのAcrobat Sign の設定" src="../assets/WD-Configure.png" />
     </a>
     <div>
-    <a href="workday.md"><strong>WorkdayでのAdobe Signの設定</strong></a>
+    <a href="workday.md"><strong>WorkdayでのAcrobat Sign の設定</strong></a>
     </div>
-    <em>Adobe SignがWorkday内で直接動作するように設定し、すべての人事関連書類をシームレスに管理する方法について説明します</em>
+    <em>Acrobat Sign がWorkday内で直接動作するように設定し、すべての人事関連書類をシームレスに管理する方法について説明します</em>
     <br>
   </td>
   <td>
@@ -184,30 +184,30 @@ Adobe Signは、組織で既に使用している他のアプリケーション 
 <tr>
   <td>
     <a href="marketo-salesforce-sms.md">
-      <img alt="Salesforce 用Adobe SignおよびMarketoを使用した通知の送信" src="../assets/Integrate-Salesforce-SMS.jpg" />
+      <img alt="Salesforce およびMarketo用Acrobat Sign を使用した通知の送信" src="../assets/Integrate-Salesforce-SMS.jpg" />
     </a>
     <div>
-    <a href="marketo-salesforce-sms.md"><strong>Salesforce 用Adobe SignおよびMarketoを使用した通知の送信</strong></a>
+    <a href="marketo-salesforce-sms.md"><strong>Salesforce およびMarketo用Acrobat Sign を使用した通知の送信</strong></a>
     </div>
     <em>テキストメッセージ、電子メール、プッシュ通知を送信して、署名者に契約書が署名中であることを知らせる方法を説明します。</em>
     <br>
   </td>
   <td>
     <a href="marketo-salesforce-reminder-video.md">
-      <img alt="Adobe Sign for Salesforce とMarketoのビデオチュートリアルを使用したリマインダーの送信" src="../assets/Integrate-Salesforce-Reminder-Video.png" />
+      <img alt="Salesforce およびMarketo用Acrobat Sign ビデオチュートリアルを使用したリマインダーの送信" src="../assets/Integrate-Salesforce-Reminder-Video.png" />
     </a>
     <div>
-    <a href="marketo-salesforce-reminder.md"><strong>Adobe Sign for Salesforce とMarketoのビデオチュートリアルを使用したリマインダーの送信</strong></a>
+    <a href="marketo-salesforce-reminder.md"><strong>Salesforce およびMarketo用Acrobat Sign ビデオチュートリアルを使用したリマインダーの送信</strong></a>
     </div>
     <em>一定期間が経過しても契約書が署名されていない場合に、Marketoから電子メールでリマインダーを送信する方法を説明します。</em>
     <br>
   </td>
   <td>
     <a href="marketo-salesforce-reminder.md">
-      <img alt="Adobe Sign for Salesforce およびMarketo設定ガイドを使用したリマインダーの送信" src="../assets/Integrate-Salesforce-Reminder.jpg" />
+      <img alt="Salesforce およびMarketo用Acrobat Sign 設定ガイドを使用したリマインダーの送信" src="../assets/Integrate-Salesforce-Reminder.jpg" />
     </a>
     <div>
-    <a href="marketo-salesforce-reminder.md"><strong>Adobe Sign for Salesforce およびMarketo設定ガイドを使用したリマインダーの送信</strong></a>
+    <a href="marketo-salesforce-reminder.md"><strong>Salesforce およびMarketo用Acrobat Sign 設定ガイドを使用したリマインダーの送信</strong></a>
     </div>
     <em>一定期間が経過しても契約書が署名されていない場合に、Marketoから電子メールのリマインダーを送信する方法を参照してください。</em>
     <br>
@@ -216,20 +216,20 @@ Adobe Signは、組織で既に使用している他のアプリケーション 
 <tr>
   <td>
     <a href="marketo-dynamics-reminder.md">
-      <img alt="Adobe Sign for Microsoft Dynamics およびMarketoを使用したリマインダーの送信" src="../assets/Integrate-Dynamics-Reminder.jpg" />
+      <img alt="Microsoft Dynamics およびMarketoのAcrobat Sign を使用したリマインダーの送信" src="../assets/Integrate-Dynamics-Reminder.jpg" />
     </a>
     <div>
-    <a href="marketo-dynamics-reminder.md"><strong>Adobe Sign for Microsoft Dynamics およびMarketoを使用したリマインダーの送信</strong></a>
+    <a href="marketo-dynamics-reminder.md"><strong>Microsoft Dynamics およびMarketoのAcrobat Sign を使用したリマインダーの送信</strong></a>
     </div>
     <em>一定期間が経過しても契約書が署名されていない場合に、電子メールでリマインダーを送信する方法を説明します。</em>
     <br>
   </td>
   <td>
     <a href="marketo-dynamics-sms.md">
-      <img alt="Adobe Sign for Microsoft Dynamics およびMarketoを使用した通知の送信" src="../assets/Integrate-Dynamics-SMS.jpg" />
+      <img alt="Microsoft Dynamics およびMarketoでAcrobat Sign を使用して通知を送信" src="../assets/Integrate-Dynamics-SMS.jpg" />
     </a>
     <div>
-    <a href="marketo-dynamics-sms.md"><strong>Adobe Sign for Microsoft Dynamics およびMarketoを使用した通知の送信</strong></a>
+    <a href="marketo-dynamics-sms.md"><strong>Microsoft Dynamics およびMarketoでAcrobat Sign を使用して通知を送信</strong></a>
     </div>
     <em>テキストメッセージ、電子メール、プッシュ通知を送信して、署名者に契約書が署名中であることを知らせる方法を説明します。</em>
     <br>

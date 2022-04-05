@@ -1,5 +1,5 @@
 ---
-title: Adobe Sign for Microsoft Dynamics 365 およびMarketoを使用したリマインダーの送信
+title: Microsoft Dynamics 365 およびMarketo用Acrobat Sign を使用したリマインダーの送信
 description: 一定期間が経過しても契約書が署名されていない場合に、電子メールでリマインダーを送信する方法を説明します。
 role: Admin
 product: adobe sign
@@ -8,16 +8,16 @@ level: Intermediate
 topic-revisit: Integrations
 thumbnail: KT-7250.jpg
 exl-id: 5a97fade-18a3-448a-8504-efb9e38e9187
-source-git-commit: 089b6768cee4e3af8f1a349d5754d84aa3f4f69a
+source-git-commit: e02b1250de94ec781e7984c6c146dbae993f5d31
 workflow-type: tm+mt
 source-wordcount: '911'
 ht-degree: 3%
 
 ---
 
-# Adobe Sign for Microsoft Dynamics 365 およびMarketoを使用したリマインダーの送信
+# Microsoft Dynamics 365 およびMarketo用Acrobat Sign を使用したリマインダーの送信
 
-一定期間が経過しても契約書が署名されていない場合に、電子メールでリマインダーを送信する方法を説明します。 この統合では、Adobe Sign、Microsoft Dynamics 用Adobe Sign、Marketo、Marketo Microsoft Dynamics 同期を使用します。
+一定期間が経過しても契約書が署名されていない場合に、電子メールでリマインダーを送信する方法を説明します。 この統合では、Acrobat Sign、Microsoft Dynamics 用Acrobat Sign、Marketo、Marketo Microsoft Dynamics 同期を使用します。
 
 ## 前提条件
 
@@ -25,13 +25,13 @@ ht-degree: 3%
 
    Microsoft Dynamics Sync の情報と最新のプラグインを利用できます [はい。](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/microsoft-dynamics/marketo-plugin-releases-for-microsoft-dynamics.html)
 
-1. Install [Microsoft Dynamics 用Adobe Sign](https://appsource.microsoft.com/ja-jp/product/dynamics-365/adobesign.f3b856fc-a427-4d47-ad4b-d5d1baba6f86)を選択します。
+1. Install [Microsoft Dynamics 用Acrobat Sign](https://appsource.microsoft.com/ja-jp/product/dynamics-365/adobesign.f3b856fc-a427-4d47-ad4b-d5d1baba6f86)を選択します。
 
    このプラグインに関する情報は利用可能です [はい。](https://helpx.adobe.com/ca/sign/using/microsoft-dynamics-integration-installation-guide.html)
 
 ## カスタムオブジェクトの検索
 
-Marketo Microsoft Dynamics 同期とAdobe Sign for Dynamics の設定が完了すると、Marketo Admin Terminal に 2 つの新しいオプションが表示されます。
+Marketo Microsoft Dynamics 同期とAcrobat Sign for Dynamics の設定が完了すると、Marketo管理ターミナルに 2 つの新しいオプションが表示されます。
 
 ![管理者](assets/adminTerminal.png)
 
@@ -205,4 +205,4 @@ Marketo Microsoft Dynamics 同期とAdobe Sign for Dynamics の設定が完了�
 
 >[!TIP]
 >
->このチュートリアルはコースの一部です [Adobe Sign for Microsoft Dynamics とMarketoで販売サイクルを加速](https://experienceleague.adobe.com/?recommended=Sign-U-1-2021.1) それは無料で利用できますExperience League!
+>このチュートリアルはコースの一部です [Microsoft Dynamics とMarketoでAcrobat Sign を使用して販売サイクルを加速](https://experienceleague.adobe.com/?recommended=Sign-U-1-2021.1) それは無料で利用できますExperience League!

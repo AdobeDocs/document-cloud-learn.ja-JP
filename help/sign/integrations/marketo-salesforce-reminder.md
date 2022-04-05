@@ -1,5 +1,5 @@
 ---
-title: Salesforce 用Adobe SignおよびMarketo設定ガイドを使用したリマインダーの送信
+title: Salesforce 用Acrobat Sign およびMarketo設定ガイドを使用したリマインダーの送信
 description: 一定期間が経過しても契約書が署名されていない場合に、Marketoから電子メールでリマインダーを送信する方法を説明します。
 role: Admin
 product: adobe sign
@@ -8,16 +8,16 @@ level: Intermediate
 topic-revisit: Integrations
 thumbnail: KT-7248.jpg
 exl-id: 33aca2e0-2f27-4100-a16f-85ba652c17a3
-source-git-commit: 089b6768cee4e3af8f1a349d5754d84aa3f4f69a
+source-git-commit: e02b1250de94ec781e7984c6c146dbae993f5d31
 workflow-type: tm+mt
 source-wordcount: '953'
 ht-degree: 1%
 
 ---
 
-# Salesforce 用Adobe SignおよびMarketo設定ガイドを使用したリマインダーの送信
+# Salesforce 用Acrobat Sign およびMarketo設定ガイドを使用したリマインダーの送信
 
-一定期間が経過しても契約書が署名されていない場合に、Marketoから電子メールでリマインダーを送信する方法について説明します。 この統合では、Adobe Sign、Salesforce 用Adobe Sign、Marketo、Marketoと Salesforce の同期を使用します。
+一定期間が経過しても契約書が署名されていない場合に、Marketoから電子メールでリマインダーを送信する方法について説明します。 この統合では、Acrobat Sign、Salesforce 用Acrobat Sign、Marketo、Marketoと Salesforce の同期を使用します。
 
 ## 前提条件
 
@@ -25,13 +25,13 @@ ht-degree: 1%
 
    情報と Salesforce Sync 用の最新プラグインが利用可能です [はい。](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/salesforce-sync/understanding-the-salesforce-sync.html)
 
-1. Salesforce 用Adobe Signをインストールします。
+1. Salesforce 用Acrobat Sign をインストールします。
 
    このプラグインに関する情報は利用可能です [はい。](https://helpx.adobe.com/ca/sign/using/salesforce-integration-installation-guide.html)
 
 ## カスタムオブジェクトの検索
 
-Marketo Salesforce 同期と Salesforce 用Adobe Signの設定が完了すると、Marketo管理ターミナルにいくつかの新しいオプションが表示されます。
+Marketo Salesforce 同期と Salesforce 用Acrobat Sign の設定が完了すると、Marketo管理ターミナルにいくつかの新しいオプションが表示されます。
 
 ![管理者](assets/adminTab.png)
 
@@ -201,4 +201,4 @@ Marketo Salesforce 同期と Salesforce 用Adobe Signの設定が完了すると
 
 >[!TIP]
 >
->このチュートリアルはコースの一部です [Salesforce 向けAdobe SignとMarketoで販売サイクルを加速](https://experienceleague.adobe.com/?recommended=Sign-U-1-2021.1) それは無料で利用できますExperience League!
+>このチュートリアルはコースの一部です [Salesforce およびMarketo用Acrobat Sign で販売サイクルを加速](https://experienceleague.adobe.com/?recommended=Sign-U-1-2021.1) それは無料で利用できますExperience League!

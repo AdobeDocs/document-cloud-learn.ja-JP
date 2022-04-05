@@ -1,23 +1,23 @@
 ---
 title: チュートリアル
-description: 初心者にも管理者にもAdobe Signを短時間で習得していただけるように設計されたチュートリアル、Web セミナー、ユースケースのコレクションです
+description: Acrobat Sign の初心者と管理者の両方に最新の情報をすばやく提供するために設計されたチュートリアル、Web セミナー、およびユースケースのコレクションです
 role: User, Admin
 product: adobe sign
 level: Beginner, Intermediate, Experienced
 thumbnail: KT-6846.jpg
 exl-id: 72762750-5764-4541-aedd-94230b56936b
-source-git-commit: ec2ddf579a10d659ac8f92f2c8d7dcade74c56b9
+source-git-commit: e02b1250de94ec781e7984c6c146dbae993f5d31
 workflow-type: tm+mt
 source-wordcount: '198'
-ht-degree: 6%
+ht-degree: 4%
 
 ---
 
-# Adobe Sign チュートリアル
+# Acrobat Sign チュートリアル
 
-![Adobe Sign Hero Image](assets/Hero_Sign.jpg)
+![Acrobat Sign Hero Image](assets/Hero_Sign.jpg)
 
-Adobe Document CloudソリューションであるAdobe Signは、統合、API、高度な認証、追加の管理機能などを備えており、組織のニーズに合わせて拡張できます。 初心者から管理者まで、Adobe Signの様々な機能を短時間で習得できるように設計されています。
+Adobe Document CloudソリューションのAcrobat Sign は、統合、API、高度な認証、追加の管理機能などを使用して、組織のニーズに合わせて拡張できます。 Acrobat Sign の初心者と管理者の両方に最新の情報をすばやく提供するように設計された、幅広い学習体験が用意されています。
 
 ## 学習パス
 
@@ -30,7 +30,7 @@ Adobe Document CloudソリューションであるAdobe Signは、統合、API�
     <div>
     <a href="sign-beginner-tutorials/beginner-users-overview.md"><strong>はじめに</strong></a>
     </div>
-    <em>文書を送信、署名、トラックする方法について最新情報を得る</em>
+    <em>文書を送信、署名、トラックする方法を最新情報に</em>
     <br>
   </td>
   <td>
@@ -40,7 +40,7 @@ Adobe Document CloudソリューションであるAdobe Signは、統合、API�
     <div>
     <a href="sign-advanced-users/advanced-users-overview.md"><strong>高度なタスク</strong></a>
     </div>
-    <em>特定のタスクと自動化で基本を超える</em>
+    <em>特定のタスクや自動化を基本から脱却</em>
     <br>
   </td>  
   <td>
@@ -62,7 +62,7 @@ Adobe Document CloudソリューションであるAdobe Signは、統合、API�
     <div>
     <a href="digitalid/digitalid-overview.md"><strong>デジタル ID</strong></a>
     </div>
-    <em>Adobe Signで世界中のデジタル ID を使用する方法</em>
+    <em>Acrobat Sign で世界中のデジタル ID を使用する方法について説明します</em>
     <br>
   </td>
   <td>
@@ -72,7 +72,7 @@ Adobe Document CloudソリューションであるAdobe Signは、統合、API�
     <div>
     <a href="integrations/integrations-overview.md"><strong>統合</strong></a>
     </div>
-    <em>組織で既に使用している他のアプリケーション内にAdobe Signを直接追加する</em>
+    <em>組織で既に使用している他のアプリケーション内にAcrobat Sign を直接追加する</em>
     <br>
   </td>
   <td>
@@ -82,7 +82,7 @@ Adobe Document CloudソリューションであるAdobe Signは、統合、API�
     <div>
     <a href="sign-usecase/expand-inspire-overview.md"><strong>業種および部門</strong></a>
     </div>
-    <em>実際の業界や部門の使用事例やレシピを見て、電子サインで何ができるかを学びましょう</em>
+    <em>実際の業界や部門の活用例やレシピを見て、電子サインで何が可能なのかを学びましょう</em>
     <br>
   </td>
 </tr>
@@ -94,7 +94,7 @@ Adobe Document CloudソリューションであるAdobe Signは、統合、API�
     <div>
     <a href="develop/develop-overview.md"><strong>開発</strong></a>
     </div>
-    <em>Adobe Sign I/O の開発リソースを入手する</em>
+    <em>Acrobat Sign I/O の開発リソースを入手する</em>
     <br>
   </td>
    <td>
@@ -104,7 +104,7 @@ Adobe Document CloudソリューションであるAdobe Signは、統合、API�
     <div>
     <a href="deploy-overview.md"><strong>デプロイ</strong></a>
     </div>
-    <em>組織内にAdobe Signをデプロイするためのインサイトとベストプラクティス</em>
+    <em>組織内にAcrobat Sign をデプロイするためのインサイトとベストプラクティス</em>
     <br>
   </td>
   <td>

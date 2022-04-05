@@ -1,5 +1,5 @@
 ---
-user-guide-title: Adobe SignTutorials
+user-guide-title: Acrobat SignTutorials
 solution: Acrobat Sign
 solution-title: Learning Hub
 solution-hub-url: https://helpx.adobe.com/support/sign.html
@@ -7,8 +7,8 @@ getting-started-title: Getting Started
 getting-started-url: https://helpx.adobe.com/sign/using/get-started-guide.html
 tutorials-title: Tutorials
 tutorials-url: https://helpx.adobe.com/sign/tutorials.html
-breadcrumb-title: Adobe SignTutorials
-source-git-commit: 47575efa552da55b3ebde308c182432ab29392db
+breadcrumb-title: Acrobat SignTutorials
+source-git-commit: e02b1250de94ec781e7984c6c146dbae993f5d31
 workflow-type: tm+mt
 source-wordcount: '420'
 ht-degree: 6%
@@ -16,16 +16,16 @@ ht-degree: 6%
 ---
 
 
-# Adobe SignTutorials {#sign-learning-hub}
+# Acrobat SignTutorials {#sign-learning-hub}
 
 + [概要](overview.md)
 + はじめに {#getting-started}
    + [概要](sign-beginner-tutorials/beginner-users-overview.md)
    + 送信 {#getting-started-sending}
-      + [Adobe Signクイックツアー](sign-beginner-tutorials/quick-tour.md)
+      + [Acrobat Sign のクイックツアー](sign-beginner-tutorials/quick-tour.md)
       + [1 人の受信者への送信](sign-beginner-tutorials/send-to-single-recipient.md)
       + [複数の受信者への送信](sign-beginner-tutorials/send-to-multiple-recipients.md)
-      + [新しい送信者のためのAdobe Sign入門](sign-beginner-tutorials/new-sender.md)
+      + [新しい送信者用のAcrobat Sign 入門](sign-beginner-tutorials/new-sender.md)
    + Signing {#getting-started-signing}
       + [文書への電子署名](sign-beginner-tutorials/electronically-sign-a-document.md)
       + [文書への入力と署名](sign-beginner-tutorials/fill-and-sign.md)
@@ -44,7 +44,7 @@ ht-degree: 6%
       + [承認者の追加](sign-advanced-users/add-an-approver.md)
       + [署名の一括収集](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/megasign.html)
       + [Web フォームの設定](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/webform.html)
-      + [Adobe Sign Text Tagging](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/advanced-tasks-admins/adobe-sign-text-tagging.html)
+      + [Acrobat Sign テキストタグ](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/advanced-tasks-admins/adobe-sign-text-tagging.html)
    + 管理 {#advanced-tasks-managing}
       + [文書テンプレートの管理](sign-advanced-users/edit-a-template.md)
 + 管理 {#admin-set-up}
@@ -65,7 +65,7 @@ ht-degree: 6%
       + [アカウントアクセスの共有](admin/share-account-access.md)
       + [高度なアカウント共有](admin/advanced-account-sharing.md)
       + [バイオ医薬業界標準対応の設定を使用](admin/use-bio-pharma-settings.md)
-      + [Adobe Sign Text Tagging](sign-advanced-users/adobe-sign-text-tagging.md)
+      + [Acrobat Sign テキストタグ](sign-advanced-users/adobe-sign-text-tagging.md)
 + デジタル ID {#digital-id}
    + [概要](digitalid/digitalid-overview.md)
    + Aadhaar {#aadhaar}
@@ -85,20 +85,20 @@ ht-degree: 6%
       + [SharePoint Onlineでの署名用に送信](integrations/send-for-signature-with-sharepoint-online.md)
       + [SharePoint Onlineでのトラッキング](integrations/track-an-agreement-with-sharepoint-online.md)
       + [署名用の文書の送信 [!DNL Microsoft Teams]](integrations/adobe-sign-teams-mortgage.md)
-      + [Adobe Sign for Microsoft Power Platform による文書の自動化](integrations/documentautomation.md)
+      + [Microsoft Power Platform 向けAcrobat Sign による文書の自動化](integrations/documentautomation.md)
    + Salesforce {#salesforce}
       + [文書テンプレートの作成](integrations/create-an-agreement-template.md)
       + [データマッピングの設定](integrations/set-up-data-mapping.md)
       + [結合マッピングの設定](integrations/set-up-merging-map.md)
       + [カスタムボタンの作成](integrations/create-a-custom-button.md)
    + Workday {#workday}
-      + [WorkdayでのAdobe Signの設定](integrations/workday.md)
+      + [WorkdayでのAcrobat Sign の設定](integrations/workday.md)
    + Marketo {#marketo}
-      + [Salesforce 用Adobe SignおよびMarketoを使用した通知の送信](integrations/marketo-salesforce-sms.md)
-      + [Adobe Sign for Salesforce とMarketoのビデオチュートリアルを使用したリマインダーの送信](integrations/marketo-salesforce-reminder-video.md)
-      + [Adobe Sign for Salesforce およびMarketo設定ガイドを使用したリマインダーの送信](integrations/marketo-salesforce-reminder.md)
-      + [Adobe Sign for Microsoft Dynamics およびMarketoを使用した通知の送信](integrations/marketo-dynamics-sms.md)
-      + [Adobe Sign for Microsoft Dynamics 365 およびMarketoを使用したリマインダーの送信](integrations/marketo-dynamics-reminder.md)
+      + [Salesforce およびMarketo用Acrobat Sign を使用した通知の送信](integrations/marketo-salesforce-sms.md)
+      + [Salesforce およびMarketo用Acrobat Sign ビデオチュートリアルを使用したリマインダーの送信](integrations/marketo-salesforce-reminder-video.md)
+      + [Salesforce およびMarketo用Acrobat Sign 設定ガイドを使用したリマインダーの送信](integrations/marketo-salesforce-reminder.md)
+      + [Microsoft Dynamics およびMarketoでAcrobat Sign を使用して通知を送信](integrations/marketo-dynamics-sms.md)
+      + [Microsoft Dynamics 365 およびMarketo用Acrobat Sign を使用したリマインダーの送信](integrations/marketo-dynamics-reminder.md)
 + 業種および部門 {#expand}
    + [概要](sign-usecase/expand-inspire-overview.md)
    + スキルビルダー {#innovation}
@@ -128,4 +128,4 @@ ht-degree: 6%
 + モバイル {#mobile}
    + [概要](mobile/mobile-overview.md)
    + Mobile tutorials {#mobile-tutorials}
-      + [Adobe Signの Liquid Mode](mobile/liquidmode.md)
+      + [Acrobat Sign の Liquid Mode](mobile/liquidmode.md)
