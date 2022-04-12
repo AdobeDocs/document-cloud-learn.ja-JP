@@ -1,25 +1,25 @@
 ---
-title: 工順の設定
-description: 複数の署名者のルーティング順序を設定する方法について説明します
+title: 署名順序の設定
+description: 複数の署名者の署名順序を設定する方法について説明します。
 role: User
 product: adobe sign
 solution: Acrobat Sign
 level: Intermediate
-thumbnail: 17347.jpg
+thumbnail: KT-9942.jpg
 exl-id: bf7771ef-1abe-423c-8b0f-ebdee555b53a
-source-git-commit: 47575efa552da55b3ebde308c182432ab29392db
+source-git-commit: 3c18280106f1fb950c013db2c0ef47640328c408
 workflow-type: tm+mt
-source-wordcount: '51'
+source-wordcount: '69'
 ht-degree: 0%
 
 ---
 
-# 工順の設定
+# 署名順序の設定
 
-複数の署名者のルーティング順序を設定する方法について説明します。 文書を順番に送信、並行して送信、またはその 2 つを組み合わせて送信できます。
+複数の署名者の署名順序を設定する方法について説明します。 文書を順番に送信したり、並行して送信したり、特定のグループに送信したりできます。
 
 >[!NOTE]
 >
->ハイブリッドルーティングは、エンタープライズレベルのプランでのみ使用できます。
+>ハイブリッドルーティングは、エンタープライズレベルのプランでのみ使用できます。 このチュートリアルで説明する特定の設定を有効にするには、Acrobat Sign管理者に連絡する必要があります。
 
->[!VIDEO](https://video.tv.adobe.com/v/17347?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/342249?hidetitle=true)

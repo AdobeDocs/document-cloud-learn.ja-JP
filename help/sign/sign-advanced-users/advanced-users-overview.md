@@ -7,7 +7,7 @@ solution: Acrobat Sign
 level: Experienced
 thumbnail: KT-6848.jpg
 exl-id: c4f0a953-e28b-4488-a27c-010b5adaf7ec
-source-git-commit: e02b1250de94ec781e7984c6c146dbae993f5d31
+source-git-commit: 3c18280106f1fb950c013db2c0ef47640328c408
 workflow-type: tm+mt
 source-wordcount: '242'
 ht-degree: 0%
@@ -18,7 +18,7 @@ ht-degree: 0%
 
 ![高度な画像への署名](../assets/Hero-Advanced.png)
 
-100 人以上の受信者に署名用の文書を一度に送信する方法、Web サイト用に署名可能な文書を設定する方法、署名トランザクションを管理する方法、文書テンプレートを作成および管理する方法について説明します。 これらのチュートリアルは、署名の送信と依頼の基本を既に知っていて、Acrobat Sign がどのように役立つのかをご希望の方を対象にしています。
+100 人以上の受信者に署名用の文書を一度に送信する方法、Web サイト用に署名可能な文書を設定する方法、署名トランザクションを管理する方法、文書テンプレートを作成および管理する方法について説明します。 これらのチュートリアルは、署名の送信と依頼の基本を既に理解しているお客様向けで、Acrobat Signでさらに多くの機能を活用できます。
 
 ## 送信
 
@@ -26,12 +26,12 @@ ht-degree: 0%
 <tr>
   <td>
     <a href="setting-up-routing.md">
-      <img alt="工順の設定" src="../assets/Routing.png">
+      <img alt="署名順序の設定" src="../assets/Routing.png">
     </a>
     <div>
-    <a href="setting-up-routing.md"><strong>工順の設定</strong></a>
+    <a href="setting-up-routing.md"><strong>署名順序の設定</strong></a>
     </div>
-    <em>複数の署名者のルーティング順序の設定</em>
+    <em>複数の署名者の署名順序の設定</em>
     <br>
   </td>
   <td>
@@ -78,12 +78,12 @@ ht-degree: 0%
   </td> 
   <td>
     <a href="adobe-sign-text-tagging.md">
-      <img alt="Acrobat Sign テキストタグ" src="../assets/Text-Tagging.png" />
+      <img alt="Acrobat Sign Text Tagging" src="../assets/Text-Tagging.png" />
   </a>
     <div>
-    <a href="adobe-sign-text-tagging.md"><strong>Acrobat Sign テキストタグ</strong></a>
+    <a href="adobe-sign-text-tagging.md"><strong>Acrobat Sign Text Tagging</strong></a>
     </div>
-    <em>Adobe Acrobatを使用したテキストタグによるAcrobat Sign フォームフィールドの作成</em>
+    <em>Adobe Acrobatを使用したテキストタグによるAcrobat Signフォームフィールドの作成</em>
     <br>
   </td> 
 </table>
