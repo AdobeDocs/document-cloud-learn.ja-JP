@@ -7,16 +7,21 @@ solution: Acrobat Sign
 level: Beginner
 thumbnail: KT-5316.jpg
 exl-id: a6d353a5-823a-4637-8462-f3b8536f078c
-source-git-commit: fccb3631326f0a7d6196f20c40b96270a6de23a4
+source-git-commit: 600c63c455acf3f4d0884b62a883b7ed94670fe9
 workflow-type: tm+mt
-source-wordcount: '104'
+source-wordcount: '147'
 ht-degree: 0%
 
 ---
 
 # 送信後のドキュメントの変更
 
-間違った文書が間違って送信された場合など、署名用に既に送信された文書を変更する方法について説明します。
+間違った文書が間違って送信された場合など、署名用に既に送信された文書を変更する方法について説明します。 契約書の変更は、次の条件を満たす文書でのみ使用できます。
+
+* 文書に署名、承認、委任が行われていない
+* 文書に電子署名または手書き署名が含まれていない
+* ドキュメントはカスタムワークフローから開始されていません
+
 
 >[!NOTE]
 >
