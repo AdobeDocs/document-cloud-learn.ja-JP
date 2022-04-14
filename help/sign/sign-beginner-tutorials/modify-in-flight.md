@@ -7,7 +7,7 @@ solution: Acrobat Sign
 level: Beginner
 thumbnail: KT-5316.jpg
 exl-id: a6d353a5-823a-4637-8462-f3b8536f078c
-source-git-commit: 65e98d475095e71f95bc6e986e3dd56666c63e58
+source-git-commit: fccb3631326f0a7d6196f20c40b96270a6de23a4
 workflow-type: tm+mt
 source-wordcount: '104'
 ht-degree: 0%
@@ -20,7 +20,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->送信後の文書の変更は、エンタープライズレベルのプランでのみ使用できます。 Acrobat Sign管理者がこの機能を使用するには、アカウント設定の「送信設定」セクションで「契約書の変更」設定を有効にする必要があります。
+>送信後の文書の変更は、エンタープライズレベルのプランでのみ使用できます。 Acrobat Sign管理者が、 **契約書の変更** 設定 **送信設定** セクション **アカウント設定** を選択します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/342299?hidetitle=true)
 
