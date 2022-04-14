@@ -8,9 +8,9 @@ getting-started-url: https://helpx.adobe.com/sign/using/get-started-guide.html
 tutorials-title: Tutorials
 tutorials-url: https://helpx.adobe.com/sign/tutorials.html
 breadcrumb-title: Acrobat SignTutorials
-source-git-commit: 3c18280106f1fb950c013db2c0ef47640328c408
+source-git-commit: 65e98d475095e71f95bc6e986e3dd56666c63e58
 workflow-type: tm+mt
-source-wordcount: '420'
+source-wordcount: '418'
 ht-degree: 6%
 
 ---
@@ -26,6 +26,7 @@ ht-degree: 6%
       + [1 人の受信者への送信](sign-beginner-tutorials/send-to-single-recipient.md)
       + [複数の受信者への送信](sign-beginner-tutorials/send-to-multiple-recipients.md)
       + [新しい送信者のためのAcrobat Sign入門](sign-beginner-tutorials/new-sender.md)
+      + [送信後のドキュメントの変更](sign-beginner-tutorials/modify-in-flight.md)
    + Signing {#getting-started-signing}
       + [文書への電子署名](sign-beginner-tutorials/electronically-sign-a-document.md)
       + [文書への入力と署名](sign-beginner-tutorials/fill-and-sign.md)
@@ -35,7 +36,6 @@ ht-degree: 6%
    + 管理 {#getting-started-managing}
       + [契約書の管理とトラック](sign-beginner-tutorials/manage-and-track.md)
       + [文書テンプレートの作成](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/create-a-template.html)
-      + [署名用に既に送信されている文書の変更](sign-beginner-tutorials/modify-in-flight.md)
 + 高度なタスク {#advanced-tasks}
    + [概要](sign-advanced-users/advanced-users-overview.md)
    + 送信 {#advanced-tasks-sending}
