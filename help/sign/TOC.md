@@ -8,10 +8,10 @@ getting-started-url: https://helpx.adobe.com/sign/using/get-started-guide.html
 tutorials-title: Tutorials
 tutorials-url: https://helpx.adobe.com/sign/tutorials.html
 breadcrumb-title: Acrobat SignTutorials
-source-git-commit: 7dd142efea19e63d306d603171929283485a8e69
+source-git-commit: 778fd7f57a7a6271dfaf118bb003d3b930fdb814
 workflow-type: tm+mt
-source-wordcount: '421'
-ht-degree: 6%
+source-wordcount: '418'
+ht-degree: 7%
 
 ---
 
@@ -22,7 +22,7 @@ ht-degree: 6%
 + はじめに {#getting-started}
    + [概要](sign-beginner-tutorials/beginner-users-overview.md)
    + 送信 {#getting-started-sending}
-      + [Acrobat Signクイックツアー](sign-beginner-tutorials/quick-tour.md)
+      + [ワークスペースの基本](sign-beginner-tutorials/quick-tour.md)
       + [1 人の受信者への送信](sign-beginner-tutorials/send-to-single-recipient.md)
       + [複数の受信者への送信](sign-beginner-tutorials/send-to-multiple-recipients.md)
       + [新しい送信者のためのAcrobat Sign入門](sign-beginner-tutorials/new-sender.md)
