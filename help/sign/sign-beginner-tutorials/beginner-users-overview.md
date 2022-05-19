@@ -6,7 +6,7 @@ product: adobe sign
 level: Beginner
 thumbnail: KT-6847.jpg
 exl-id: e58ce43d-2e8e-4804-8f30-6591fa943607
-source-git-commit: 778fd7f57a7a6271dfaf118bb003d3b930fdb814
+source-git-commit: e6a9e565178f8fdc7bc17785fd49804437c2dd5e
 workflow-type: tm+mt
 source-wordcount: '345'
 ht-degree: 1%
@@ -72,8 +72,8 @@ ht-degree: 1%
     <div>
     <a href="modify-in-flight.md"><strong>送信後のドキュメントの変更</strong></a>
     </div>
-    <br>
     <em>既に進行中のドキュメントの変更</em>
+    <br>
   </td>
  <td>
     <a href="replace-signer.md">
@@ -82,8 +82,8 @@ ht-degree: 1%
     <div>
     <a href="replace-signer.md"><strong>署名者の置き換え</strong></a>
     </div>
-    <br>
     <em>既に処理中の文書の署名者を変更する方法について説明します。</em>
+     <br>
   </td>
 </tr>
 </table>
