@@ -26,4 +26,4 @@ ht-degree: 0%
 
 >[!TIP]
 >
->このビデオは、 [ユーザー向けの高度なタスク](https://experienceleague.adobe.com/?recommended=Sign-U-1-2020.3) および [管理者向けAcrobat Sign ファーストステップガイド](https://experienceleague.adobe.com/?recommended=Sign-A-1-2020.2) コースは無料でExperience League!
+>このビデオは、 [ユーザー向けの高度なタスク](https://experienceleague.adobe.com/?recommended=Sign-U-1-2020.3) および [管理者向けAcrobat Sign入門](https://experienceleague.adobe.com/?recommended=Sign-A-1-2020.2) コースは無料でExperience League!

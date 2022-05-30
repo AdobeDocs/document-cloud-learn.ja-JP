@@ -73,7 +73,7 @@ ht-degree: 0%
     <div>
     <a href="usecasegovpaycheck.md"><strong>給与保護</strong></a>
     </div>
-    <em>Acrobat Sign を使用して、支払い保護プログラムのフォームをオンラインのインタラクティブフォームに変換する方法をご覧ください</em>
+    <em>Acrobat Signを使用して、支払い保護プログラムのフォームをオンラインのインタラクティブフォームに変換する方法について説明します</em>
     <br>
   </td>
   <td>

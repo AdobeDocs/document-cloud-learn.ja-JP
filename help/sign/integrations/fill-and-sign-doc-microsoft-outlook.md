@@ -22,4 +22,4 @@ Microsoft Outlook 内でフォームに直接入力および署名すること�
 
 >[!TIP]
 >
->このビデオはコースの一部です [Microsoftアプリケーション内でのAcrobat Sign の使用](https://experienceleague.adobe.com/?recommended=Sign-U-1-2020.2) それは無料で利用できますExperience League!
+>このビデオはコースの一部です [Microsoftアプリケーション内でのAcrobat Signの使用](https://experienceleague.adobe.com/?recommended=Sign-U-1-2020.2) それは無料で利用できますExperience League!

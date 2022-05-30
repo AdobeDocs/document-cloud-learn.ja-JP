@@ -1,6 +1,6 @@
 ---
 title: スキャンした文書と複雑なリスト
-description: このオンデマンドセッションでは、スキャンした文書や複雑なリストなど、多くのユーザーが遭遇するより複雑な問題について説明します
+description: このオンデマンドセッションでは、スキャンした文書や複雑なリストなど、ユーザーが頻繁に遭遇するより複雑な問題について説明します
 role: User
 product: adobe acrobat
 level: Experienced

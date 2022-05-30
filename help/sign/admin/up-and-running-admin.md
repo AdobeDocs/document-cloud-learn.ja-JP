@@ -1,6 +1,6 @@
 ---
-title: Acrobat Sign 管理者向けのインストールと導入
-description: 管理者がAcrobat Sign を迅速に立ち上げて使用するための 7 つの主要な領域の概要
+title: Acrobat Sign管理者向けインストールと導入
+description: 管理者がAcrobat Signを短時間で使い始めるための 7 つの主要領域の概要
 role: Admin
 product: adobe sign
 level: Intermediate
@@ -13,12 +13,12 @@ ht-degree: 0%
 
 ---
 
-# Acrobat Sign 管理者向けのインストールと導入
+# Acrobat Sign管理者向けインストールと導入
 
-Acrobat Sign を迅速に立ち上げ、運用を開始するために、管理者が重視すべき 7 つの重要なポイントについて説明します。
+Acrobat Signを迅速に立ち上げ、運用を開始するために、管理者が重視すべき 7 つの重要なポイントについて説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/33657?hidetitle=true)
 
 >[!TIP]
 >
->このビデオはコースの一部です [管理者向けAcrobat Sign ファーストステップガイド](https://experienceleague.adobe.com/?recommended=Sign-A-1-2020.2) それは無料で利用できますExperience League!
+>このビデオはコースの一部です [管理者向けAcrobat Sign入門](https://experienceleague.adobe.com/?recommended=Sign-A-1-2020.2) それは無料で利用できますExperience League!

@@ -1,5 +1,5 @@
 ---
-title: Acrobat Mobileの概要
+title: Acrobat Mobile の概要
 description: モバイルデバイスでPDFを作成、入力、署名
 role: User
 product: adobe acrobat
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 ---
 
-# Mobileの概要
+# モバイルの概要
 
 ![Acrobat Mobile Image](../assets/Hero-Mobile.png)
 

@@ -1,6 +1,6 @@
 ---
-title: Microsoft Power Platform 向けAcrobat Sign による文書の自動化
-description: Microsoft Power Apps 用Acrobat Sign およびAdobe PDF Tools コネクタをライセンス認証して使用する方法について説明します。 ビジネスの承認および署名プロセスを迅速かつ安全に、コードを記述することなく自動化するワークフローを構築できます
+title: Microsoft Power Platform 向けAcrobat Signによる文書の自動化
+description: Microsoft Power Apps 用のAcrobat SignおよびAdobe PDF Tools コネクタをアクティブにして使用する方法について説明します。 ビジネスの承認および署名プロセスを迅速かつ安全に、コードを記述することなく自動化するワークフローを構築できます
 role: User, Developer
 level: Intermediate
 topic: Integrations
@@ -14,26 +14,26 @@ ht-degree: 0%
 
 ---
 
-# Microsoft Power Platform 向けAcrobat Sign による文書の自動化
+# Acrobat Sign for Microsoft Power Platform による文書の自動化
 
-Microsoft Power Apps 用Acrobat Sign およびAdobe PDF Tools コネクタをライセンス認証して使用する方法について説明します。 ビジネスの承認および署名プロセスを、コードを記述することなく迅速かつ安全に自動化するワークフローを構築できます。 この実践チュートリアルは、以下のリンク先から 4 つのパートで構成されています。
+Microsoft Power Apps 用のAcrobat SignおよびAdobe PDF Tools コネクタをアクティブにして使用する方法について説明します。 ビジネスの承認および署名プロセスを、コードを記述することなく迅速かつ安全に自動化するワークフローを構築できます。 この実践チュートリアルは、以下のリンク先から 4 つのパートで構成されています。
 
 <table style="table-layout:fixed">
 <tr>
   <td>
     <a href="documentautomation.md#part1">
-        <img alt="パート 1:Acrobat Sign を使用して署名済み契約書をSharePointに保存" src="assets/documentautomation/AutomationPart1_thumb.jpg" />
+        <img alt="パート 1:署名済み契約書をAcrobat SignとSharePointに保存" src="assets/documentautomation/AutomationPart1_thumb.jpg" />
     </a>
     <div>
-    <a href="documentautomation.md#part1"><strong>パート 1:Acrobat Sign を使用して署名済み契約書をSharePointに保存</strong></a>
+    <a href="documentautomation.md#part1"><strong>パート 1:署名済み契約書をAcrobat SignとSharePointに保存</strong></a>
     </div>
   </td>
   <td>
     <a href="documentautomation.md#part2">
-        <img alt="パート 2:Acrobat Sign による電子サインの自動承認プロセス" src="assets/documentautomation/AutomationPart2_thumb.jpg" />
+        <img alt="パート 2:Acrobat Signによる電子サインの自動承認プロセス" src="assets/documentautomation/AutomationPart2_thumb.jpg" />
     </a>
     <div>
-    <a href="documentautomation.md#part2"><strong>パート 2:Acrobat Sign による電子サインの自動承認プロセス</strong></a>
+    <a href="documentautomation.md#part2"><strong>パート 2:Acrobat Signによる電子サインの自動承認プロセス</strong></a>
     </div>
   </td>
   <td>
@@ -58,13 +58,13 @@ Microsoft Power Apps 用Acrobat Sign およびAdobe PDF Tools コネクタをラ
 ## 前提条件
 
 * Microsoft 365 と Power Automate の使い勝手
-* Acrobat Sign ナレッジ
-* SharePointおよび Power Automate へのアクセス権を持つMicrosoft 365 アカウント (Acrobat Sign の Basic、Adobe PDF Tools の Premium)
-* Acrobat Sign エンタープライズ版またはAcrobat Sign デベロッパーアカウント
+* Acrobat Sign知識
+* SharePointおよび Power Automate へのアクセス権を持つMicrosoft 365 アカウント (Basic for Acrobat Sign、Premium for Adobe PDF Tools)
+* Acrobat Signエンタープライズ版またはAcrobat Signデベロッパーアカウント
 
 **演習 1 および 2**
 
-* API にアクセスできるAcrobat Sign アカウント。 開発者アカウントまたはエンタープライズアカウント。
+* API にアクセスできるAcrobat Signアカウント。 開発者アカウントまたはエンタープライズアカウント。
 * 編集権限を持つ Power Automate がアクセスできるSharePointサイト。 管理者によるフルアクセスをお勧めします。
 * 署名の承認依頼と署名のサンプル文書。
 
@@ -72,7 +72,7 @@ Microsoft Power Apps 用Acrobat Sign およびAdobe PDF Tools コネクタをラ
 
 資料のダウンロード [ここ](https://github.com/benvanderberg/adobe-sign-pdftools-powerautomate-tutorial)
 
-## パート 1:Acrobat Sign を使用して署名済み契約書をSharePointに保存 {#part1}
+## パート 1:署名済み契約書をAcrobat SignとSharePointに保存 {#part1}
 
 パート 1 では、Power Automate フローテンプレートを使用して、すべての署名済み契約書をSharePointサイトに保存する自動化ワークフローを設定します。
 
@@ -81,18 +81,18 @@ Microsoft Power Apps 用Acrobat Sign およびAdobe PDF Tools コネクタをラ
 
    ![Power Automate への移動のスクリーンショット](assets/documentautomation/automation_1.png)
 
-1. 選択 **Acrobat Sign の完了した契約書をSharePointライブラリに保存**&#x200B;を選択します。
+1. 選択 **Acrobat Signの完了した契約書をSharePointライブラリに保存**&#x200B;を選択します。
 
-   ![「Acrobat Sign の完了した契約書をSharePointライブラリに保存」アクションのスクリーンショット](assets/documentautomation/automation_2.png)
+   ![「Acrobat Signの完了した契約書をSharePointライブラリに保存」アクションのスクリーンショット](assets/documentautomation/automation_2.png)
 
-1. 画面を確認し、必要な接続を構成します。 Acrobat Sign 接続を有効にします。
+1. 画面を確認し、必要な接続を構成します。 Acrobat Sign接続を有効にします。
 1. 青い `+` 記号を使用します。
 
-   ![Acrobat Sign とSharePoint Flow 接続のスクリーンショット](assets/documentautomation/automation_3.png)
+   ![Acrobat SignとSharePoint Flow 接続のスクリーンショット](assets/documentautomation/automation_3.png)
 
-1. Acrobat Sign アカウントの電子メールを入力し、新しいウィンドウでパスワードフィールドをクリックします。
+1. Acrobat Signアカウントの電子メールアドレスを入力し、新しいウィンドウのパスワードフィールドをクリックします。
 
-   ![Acrobatのログイン画面のスクリーンショット](assets/documentautomation/automation_4.png)
+   ![Acrobat Signのログイン画面のスクリーンショット](assets/documentautomation/automation_4.png)
 
    アカウントを確認するAdobeが表示されるまでしばらくお待ちください。
 
@@ -125,7 +125,7 @@ Microsoft Power Apps 用Acrobat Sign およびAdobe PDF Tools コネクタをラ
 
 次のパートでは、このフローをテストします。
 
-## パート 2:Acrobat Sign による電子サインの自動承認プロセス {#part2}
+## パート 2:Acrobat Signによる電子サインの自動承認プロセス {#part2}
 
 パート 2 では、最初のパートをより堅牢なフローで構築し、両方のフローをテストして動作を確認します。
 
@@ -183,7 +183,7 @@ Microsoft Power Apps 用Acrobat Sign およびAdobe PDF Tools コネクタをラ
 
    ![検索メニューのスクリーンショット](assets/documentautomation/automation_16.png)
 
-1. Acrobat Sign の検索ボックスに「upload」と入力し、「 **文書をアップロードして文書 ID を取得**&#x200B;を選択します。
+1. Acrobat Signの検索ボックスに「upload」と入力し、「 **文書をアップロードして文書 ID を取得**&#x200B;を選択します。
 1. 動的変数の検索 **名前** 」をクリックし、「 **ファイル名**&#x200B;を選択します。
 1. クリック **式** 変数アシスタントの **ファイルコンテンツ**&#x200B;を選択します。
 
@@ -195,7 +195,7 @@ Microsoft Power Apps 用Acrobat Sign およびAdobe PDF Tools コネクタをラ
 
    ![動的コンテンツ画面の外観のスクリーンショット](assets/documentautomation/automation_18.png)
 
-1. Acrobat Sign の検索領域で「作成」を検索して、別のAcrobat Sign アクションを追加します。
+1. Acrobat Signの検索領域で「作成」を検索して、別のAcrobat Signアクションを追加します。
 1. 選択 **アップロードされた文書から契約書を作成して署名用に送信**&#x200B;を選択します。
 
    ![「作成」を検索したスクリーンショット](assets/documentautomation/automation_19.png)

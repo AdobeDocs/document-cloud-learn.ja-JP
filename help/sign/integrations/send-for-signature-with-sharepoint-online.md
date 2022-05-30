@@ -22,4 +22,4 @@ Sharepoint Online 内から署名用の文書を直接送信して、文書ワ�
 
 >[!TIP]
 >
->このビデオはコースの一部です [Microsoftアプリケーション内でのAcrobat Sign の使用](https://experienceleague.adobe.com/?recommended=Sign-U-1-2020.2) それは無料で利用できますExperience League!
+>このビデオはコースの一部です [Microsoftアプリケーション内でのAcrobat Signの使用](https://experienceleague.adobe.com/?recommended=Sign-U-1-2020.2) それは無料で利用できますExperience League!

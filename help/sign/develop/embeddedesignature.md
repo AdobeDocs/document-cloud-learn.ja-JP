@@ -1,6 +1,6 @@
 ---
 title: 埋め込みの電子サインと文書エクスペリエンスを作成
-description: Acrobat Sign の API を使用して、web プラットフォームやコンテンツ管理システム、文書管理システムに電子サインや文書エクスペリエンスを組み込む方法を説明します
+description: Acrobat Sign API を使用して、電子サインと文書エクスペリエンスを web プラットフォームやコンテンツ管理システム、文書管理システムに組み込む方法を説明します
 role: User, Developer
 level: Intermediate
 topic: Integrations
@@ -16,7 +16,7 @@ ht-degree: 3%
 
 # 組み込みの電子サインと文書エクスペリエンスを作成
 
-Acrobat Sign の API を使用して、web プラットフォームやコンテンツ管理システム、ドキュメント管理システムに電子サインやドキュメントのエクスペリエンスを組み込む方法を説明します。 この実践チュートリアルは、以下のリンク先から 4 つのパートで構成されています。
+Acrobat Sign API を使用して、電子サインや文書エクスペリエンスを web プラットフォームやコンテンツ管理システム、文書管理システムに組み込む方法を説明します。 この実践チュートリアルは、以下のリンク先から 4 つのパートで構成されています。
 
 <table style="table-layout:fixed">
 <tr>
@@ -72,10 +72,10 @@ Acrobat Sign の API を使用して、web プラットフォームやコンテ�
 
 パート 2 では、Web フォームを使用する際の「低/コードなし」オプションについて説明します。 最初にコードを書くのを避けることができるかどうかを確認することは、常に良い考えです。
 
-1. 開発者アカウントでAcrobat Sign にアクセスします。
+1. 開発者アカウントでAcrobat Signにアクセスします。
 1. クリック **Web フォームの公開** をクリックします。
 
-   ![Acrobat Sign ホームページのスクリーンショット](assets/embeddedesignature/embed_1.png)
+   ![スクリーンショットAcrobat Signホームページ](assets/embeddedesignature/embed_1.png)
 
 1. 契約書を作成します。
 
@@ -90,7 +90,7 @@ Acrobat Sign の API を使用して、web プラットフォームやコンテ�
 
 パート 3 では、契約書を動的に作成します。
 
-まず、アクセス権を設定する必要があります。 Acrobat Sign では、API 経由で接続する方法が 2 つあります。 OAuth トークンと統合キー。 アプリケーションで OAuth を使用する特別な理由がない場合は、まず統合キーを調べます。
+まず、アクセス権を設定する必要があります。 Acrobat Signでは、API 経由で接続する方法が 2 つあります。 OAuth トークンと統合キー。 アプリケーションで OAuth を使用する特別な理由がない場合は、まず統合キーを調べます。
 
 1. 選択 **統合キー** 」を **API 情報** メニューを **アカウント** 」タブをクリックします。
 
@@ -100,7 +100,7 @@ API にアクセスして操作できるようになったので、API で何が
 
 1. 次の場所にある [Acrobat Sign REST API バージョン 6 メソッド](http://adobesign.com/public/docs/restapi/v6)を選択します。
 
-   ![Acrobat Sign REST API バージョン 6 メソッドをナビゲートするスクリーンショット](assets/embeddedesignature/embed_5.png)
+   ![Acrobat Sign REST API バージョン 6 メソッドを操作するスクリーンショット](assets/embeddedesignature/embed_5.png)
 
 1. トークンを「ベアラー」値として使用します。
 

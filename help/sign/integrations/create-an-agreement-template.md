@@ -1,5 +1,5 @@
 ---
-title: Salesforce 用Acrobat Sign での文書テンプレートの作成
+title: Salesforce 用Acrobat Signでの文書テンプレートの作成
 description: 再利用可能な文書テンプレートを作成して、すばやく一貫性を保つ方法を説明します。
 role: User, Admin
 product: adobe sign
@@ -15,8 +15,8 @@ ht-degree: 0%
 
 ---
 
-# Salesforce 用Acrobat Sign での文書テンプレートの作成
+# Salesforce 用Acrobat Signでの文書テンプレートの作成
 
-Salesforce でAcrobat Sign 用の文書テンプレートを作成する方法について説明します。 文書テンプレートを使用すると、Sign トランザクションの速度と一貫性を維持し、文書の改訂と変更を管理できます。
+Salesforce でAcrobat Signの文書テンプレートを作成する方法について説明します。 文書テンプレートを使用すると、Sign トランザクションの速度と一貫性を維持し、文書の改訂と変更を管理できます。
 
 >[!VIDEO](https://video.tv.adobe.com/v/17349?hidetitle=true)

@@ -1,5 +1,5 @@
 ---
-title: Salesforce 用Acrobat Sign およびMarketo設定ガイドを使用したリマインダーの送信
+title: Salesforce 用Acrobat SignおよびMarketo設定ガイドを使用したリマインダーの送信
 description: 一定期間が経過しても契約書が署名されていない場合に、Marketoから電子メールでリマインダーを送信する方法を説明します。
 role: Admin
 product: adobe sign
@@ -15,7 +15,7 @@ ht-degree: 1%
 
 ---
 
-# Salesforce 用Acrobat Sign およびMarketo設定ガイドを使用したリマインダーの送信
+# Salesforce 用Acrobat SignおよびMarketo設定ガイドを使用したリマインダーの送信
 
 一定期間が経過しても契約書が署名されていない場合に、Marketoから電子メールでリマインダーを送信する方法について説明します。 この統合では、Acrobat Sign、Salesforce 用Acrobat Sign、Marketo、Marketoと Salesforce の同期を使用します。
 
@@ -25,13 +25,13 @@ ht-degree: 1%
 
    情報と Salesforce Sync 用の最新プラグインが利用可能です [はい。](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/salesforce-sync/understanding-the-salesforce-sync.html)
 
-1. Salesforce 用Acrobat Sign をインストールします。
+1. Salesforce 用Acrobat Signをインストールします。
 
    このプラグインに関する情報は利用可能です [はい。](https://helpx.adobe.com/ca/sign/using/salesforce-integration-installation-guide.html)
 
 ## カスタムオブジェクトの検索
 
-Marketo Salesforce 同期と Salesforce 用Acrobat Sign の設定が完了すると、Marketo管理ターミナルにいくつかの新しいオプションが表示されます。
+Marketo Salesforce 同期と Salesforce 用Acrobat Signの設定が完了すると、Marketo管理ターミナルにいくつかの新しいオプションが表示されます。
 
 ![管理者](assets/adminTab.png)
 
@@ -201,4 +201,4 @@ Marketo Salesforce 同期と Salesforce 用Acrobat Sign の設定が完了する
 
 >[!TIP]
 >
->このチュートリアルはコースの一部です [Salesforce およびMarketo用Acrobat Sign で販売サイクルを加速](https://experienceleague.adobe.com/?recommended=Sign-U-1-2021.1) それは無料で利用できますExperience League!
+>このチュートリアルはコースの一部です [Salesforce 向けAcrobat SignとMarketoで販売サイクルを加速](https://experienceleague.adobe.com/?recommended=Sign-U-1-2021.1) それは無料で利用できますExperience League!

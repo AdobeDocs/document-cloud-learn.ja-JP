@@ -1,6 +1,6 @@
 ---
 title: 複数のPDFファイルを一括検索
-description: PDFファイルで検索を開始し、「詳細検索」を開いて、フォルダー全体のPDFを検索
+description: PDFファイルで検索を開始し、「詳細検索」を開いてフォルダーファイル全体をPDFします
 role: User
 product: adobe acrobat
 level: Beginner
@@ -16,6 +16,6 @@ ht-degree: 0%
 
 # 複数のPDFファイルの一括検索
 
-この 60 秒のビデオチュートリアルでは、PDFファイルで検索を開始し、詳細検索を開いてPDFファイルのフォルダー全体を検索する方法を説明します。
+この 60 秒のビデオチュートリアルでは、PDFファイル内で検索を開始し、詳細検索を開いてPDFファイルのフォルダー全体を検索する方法について説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/336363?hidetitle=true)

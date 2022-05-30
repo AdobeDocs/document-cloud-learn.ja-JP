@@ -1,6 +1,6 @@
 ---
-title: Workday用Acrobat Sign の設定
-description: Learn how to configure Acrobat Sign to work directly within Workday to seamlessly manage all your HR paperwork
+title: Acrobat Sign for Workdayの設定
+description: Acrobat SignがWorkday内で直接動作するように設定し、すべての人事関連書類をシームレスに管理する方法について説明します
 product: adobe sign
 level: Intermediate
 topic-revisit: Integrations
@@ -13,8 +13,8 @@ ht-degree: 0%
 
 ---
 
-# Workday用Acrobat Sign の設定
+# Acrobat Sign for Workdayの設定
 
-Acrobat Sign for Workdayを使用すれば、署名ワークフローを効率化し、チームの生産性をさらに高めることができます。 このビデオチュートリアルでは、Acrobat Sign がWorkday内で直接動作し、すべての人事関連書類をシームレスに管理する方法を説明します。
+Acrobat Sign for Workdayを使用すれば、署名ワークフローを効率化し、チームの生産性をさらに高めることができます。 このビデオチュートリアルでは、Workday内で直接Acrobat Signを使用して、すべての人事関連書類をシームレスに管理する方法を説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/39372?hidetitle=true)

@@ -16,10 +16,10 @@ ht-degree: 0%
 
 # 文書テンプレートの作成
 
-再利用可能な文書テンプレートを作成し、後で使用するためにAcrobat Sign ライブラリに追加する方法について説明します。 文書テンプレートを使用すると、Sign トランザクションの速度と一貫性を維持し、文書の改訂と変更を管理できます。
+再利用可能な文書テンプレートを作成して、Acrobat Signライブラリに追加し、後で使用する方法を説明します。 文書テンプレートを使用すると、Sign トランザクションの速度と一貫性を維持し、文書の改訂と変更を管理できます。
 
 >[!VIDEO](https://video.tv.adobe.com/v/38037?hidetitle=true)
 
 >[!TIP]
 >
->このビデオはコースの一部です [Acrobat Sign ファーストステップガイド](https://experienceleague.adobe.com/?recommended=Sign-U-1-2020.1) それは無料で利用できますExperience League!
+>このビデオはコースの一部です [Acrobat Sign入門](https://experienceleague.adobe.com/?recommended=Sign-U-1-2020.1) それは無料で利用できますExperience League!

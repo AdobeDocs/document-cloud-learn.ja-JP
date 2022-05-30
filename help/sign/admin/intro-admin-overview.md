@@ -18,7 +18,7 @@ ht-degree: 1%
 
 ![Sign 管理者イメージ](../assets/Hero-Admin.png)
 
-アカウントへのユーザーの追加、グループの設定、アクセスの共有、ワークフロー、外部アーカイブ、共有イベントおよび警告の設定について説明します。 これらのチュートリアルは、インストールフェーズを過ぎて、Acrobat Sign の管理を開始する準備ができている管理者を対象としています。 高度なタスクでは、管理者が設定した部分を超えて、グローバル設定の定義、アカウントのアクセスと共有、テキストのタグ付けに移動するトピックについて説明します。
+アカウントへのユーザーの追加、グループの設定、アクセスの共有、ワークフロー、外部アーカイブ、共有イベントおよび警告の設定について説明します。 これらのチュートリアルは、インストール段階を過ぎてAcrobat Signの管理を開始する準備ができた管理者を対象としています。 高度なタスクでは、管理者が設定した部分を超えて、グローバル設定の定義、アカウントのアクセスと共有、テキストのタグ付けに移動するトピックについて説明します。
 
 ## はじめに
 
@@ -31,7 +31,7 @@ ht-degree: 1%
     <div>
     <a href="up-and-running-admin.md"><strong>管理者向けのインストールと導入</strong></a>
     </div>
-    <em>管理者がAcrobat Sign をすばやく使用するための 7 つの主要な領域の概要</em>
+    <em>管理者がAcrobat Signを短時間で使い始めるための 7 つの主要領域の概要</em>
     <br>
   </td>
   <td>
@@ -51,7 +51,7 @@ ht-degree: 1%
     <div>
     <a href="add-users-to-your-account.md"><strong>ユーザーの追加</strong></a>
     </div>
-    <em>Acrobat Sign アカウントへのユーザーの個別または一括追加</em>
+    <em>Acrobat Signアカウントへのユーザーの個別または一括追加</em>
     <br>
   </td>
 </tr>
@@ -95,7 +95,7 @@ ht-degree: 1%
     <div>
     <a href="create-a-report.md"><strong>レポートの作成</strong></a>
     </div>
-    <em>組織でのAcrobat Sign の使用を可視化するためのレポートを作成およびスケジュール設定できます</em>
+    <em>組織でのAcrobat Signの使用を明確に把握するためのレポートを作成してスケジュール設定できます</em>
     <br>
   </td>
   <td>
@@ -191,12 +191,12 @@ ht-degree: 1%
   </td> 
   <td>
      <a href="../sign-advanced-users/adobe-sign-text-tagging.md">
-      <img alt="Acrobat Sign テキストタグ" src="../assets/Text-Tagging.png" />
+      <img alt="Acrobat Sign Text Tagging" src="../assets/Text-Tagging.png" />
     </a>
     <div>
-    <a href="../sign-advanced-users/adobe-sign-text-tagging.md"><strong>Acrobat Sign テキストタグ</strong></a>
+    <a href="../sign-advanced-users/adobe-sign-text-tagging.md"><strong>Acrobat Sign Text Tagging</strong></a>
     <div>
-    <em>Adobe Acrobatを使用したテキストタグによるAcrobat Sign フォームフィールドの作成</em>
+    <em>Adobe Acrobatを使用したテキストタグによるAcrobat Signフォームフィールドの作成</em>
     <br>
   </td>
   <td>

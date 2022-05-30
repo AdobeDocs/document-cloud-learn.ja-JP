@@ -16,7 +16,7 @@ ht-degree: 0%
 
 # 業種と部門の概要
 
-![Acrobat Sign 業界イメージ](../assets/Hero-Industry.png)
+![Acrobat Sign Industry Image](../assets/Hero-Industry.png)
 
 実際の業界や部門の使用事例、レシピ、ウェビナーを参考に、組織の電子サインエクスペリエンスを変革する方法をご確認ください。
 
@@ -49,7 +49,7 @@ ht-degree: 0%
     <div>
     <a href="use-case-showcase.md"><strong>事例紹介ショーケース</strong></a>
     </div>
-    <em>新しいAcrobat Sign のユースケースとトレンドについて、ライブまたは録画されたセッションをご覧ください</em>
+    <em>新しいAcrobat Signの活用方法やトレンドをライブまたは録画されたセッションでご覧いただけます</em>
     <br>
   </td>
 </tr>

@@ -1,5 +1,5 @@
 ---
-title: Acrobat Sign の Liquid Mode
+title: Acrobat Signの Liquid Mode
 description: Liquid Mode がモバイル署名エクスペリエンスをどのように向上させるかご覧ください
 role: User
 product: adobe sign
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 ---
 
-# Acrobat Sign の Liquid Mode
+# Acrobat Signの Liquid Mode
 
 Liquid Mode がモバイル署名エクスペリエンスをどのように改善するかご覧ください。 ピンチやズームが減り、入力可能なフィールドに簡単に焦点を合わせることができます。
 
