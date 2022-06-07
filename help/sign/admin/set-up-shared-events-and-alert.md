@@ -1,20 +1,20 @@
 ---
-title: 共有イベントおよびアラートの設定
-description: Acrobat Sign の共有イベントと警告設定について説明します
+title: イベントと警告の通知を設定する
+description: イベントと警告の通知を構成する方法について説明します
 role: User, Admin
 product: adobe sign
 level: Intermediate
 thumbnail: 17359.jpg
 exl-id: 7f8271cc-fe90-4929-964c-d78681fd0dcb
-source-git-commit: e02b1250de94ec781e7984c6c146dbae993f5d31
+source-git-commit: 8301e965961140248467733e83d9f5c1dad87a6f
 workflow-type: tm+mt
-source-wordcount: '57'
+source-wordcount: '56'
 ht-degree: 0%
 
 ---
 
-# 共有イベントおよびアラートの設定
+# イベントと警告の通知を設定する
 
-Acrobat Sign で構成できる共有イベントとアラート設定について説明します。 アラートは特定の時間枠で発生しなかったアクションであり、イベントは発生したアクションです。
+Acrobat Signで構成できる共有イベントとアラートの設定について説明します。 アラートは特定の時間枠で発生しなかったアクションであり、イベントは発生したアクションです。
 
->[!VIDEO](https://video.tv.adobe.com/v/17359?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/343589?hidetitle=true)

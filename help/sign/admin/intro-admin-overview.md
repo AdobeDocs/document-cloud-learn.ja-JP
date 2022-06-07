@@ -7,9 +7,9 @@ level: Intermediate
 topic-revisit: Administration
 thumbnail: KT-6849.jpg
 exl-id: 1b6ea9f0-6bbb-4ea5-aa22-bfa42f7cca18
-source-git-commit: e02b1250de94ec781e7984c6c146dbae993f5d31
+source-git-commit: 8301e965961140248467733e83d9f5c1dad87a6f
 workflow-type: tm+mt
-source-wordcount: '395'
+source-wordcount: '396'
 ht-degree: 1%
 
 ---
@@ -36,12 +36,12 @@ ht-degree: 1%
   </td>
   <td>
     <a href="set-up-shared-events-and-alert.md">
-      <img alt="共有イベントと警告の設定" src="../assets/SharedEvents.png" />
+      <img alt="共有イベントと警告の設定" src="../assets/Notifications_1280.png" />
     </a>
     <div>
-    <a href="set-up-shared-events-and-alert.md"><strong>共有イベントと警告の設定</strong></a>
+    <a href="set-up-shared-events-and-alert.md"><strong>イベントと警告の通知を設定する</strong></a>
     </div>
-    <em>組織のイベントと警告の設定を構成します</em>
+    <em>アカウントのイベントと警告の通知を設定する</em>
     <br>
   </td>
   <td>
