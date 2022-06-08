@@ -1,5 +1,5 @@
 ---
-title: 他のユーザーへの委任
+title: 委任者の役割の使用
 description: 委任者の役割を使用して文書を仲介者に送信し、仲介者は文書を署名用に回覧できます
 role: User
 product: adobe sign
@@ -7,18 +7,22 @@ solution: Acrobat Sign
 level: Intermediate
 thumbnail: 17366.jpg
 exl-id: b9d7c6f4-a7fc-4cb8-a80d-91cc4c5b5298
-source-git-commit: 47575efa552da55b3ebde308c182432ab29392db
+source-git-commit: faabeda8f9addffe422f21e6d3c757d1d84f8251
 workflow-type: tm+mt
-source-wordcount: '71'
-ht-degree: 0%
+source-wordcount: '110'
+ht-degree: 7%
 
 ---
 
-# 他のユーザーへの委任
+# 委任者の役割の使用
 
 委任者の役割を使用して文書を仲介者に送信し、仲介者は文書を署名用に回覧できます。
 
->[!VIDEO](https://video.tv.adobe.com/v/17366?hidetitle=true)
+>[!NOTE]
+>
+>委任者の役割は、エンタープライズレベルのプランでのみ使用できます。 Acrobat Sign管理者が、 **送信者が受信者を委任者としてマークすることを許可** 設定 **送信設定** セクション **アカウント設定** を選択します。
+
+>[!VIDEO](https://video.tv.adobe.com/v/343621?hidetitle=true)
 
 >[!TIP]
 >

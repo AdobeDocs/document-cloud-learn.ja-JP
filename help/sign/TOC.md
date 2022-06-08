@@ -8,10 +8,10 @@ getting-started-url: https://helpx.adobe.com/sign/using/get-started-guide.html
 tutorials-title: Tutorials
 tutorials-url: https://helpx.adobe.com/sign/tutorials.html
 breadcrumb-title: Acrobat SignTutorials
-source-git-commit: 8301e965961140248467733e83d9f5c1dad87a6f
+source-git-commit: faabeda8f9addffe422f21e6d3c757d1d84f8251
 workflow-type: tm+mt
 source-wordcount: '418'
-ht-degree: 7%
+ht-degree: 8%
 
 ---
 
@@ -41,7 +41,7 @@ ht-degree: 7%
    + [概要](sign-advanced-users/advanced-users-overview.md)
    + 送信 {#advanced-tasks-sending}
       + [署名順序の設定](sign-advanced-users/setting-up-routing.md)
-      + [他のユーザーへの委任](sign-advanced-users/delegate-signature.md)
+      + [委任者の役割の使用](sign-advanced-users/delegate-signature.md)
       + [承認者の追加](sign-advanced-users/add-an-approver.md)
       + [署名の一括収集](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/megasign.html)
       + [Web フォームの設定](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/webform.html)
