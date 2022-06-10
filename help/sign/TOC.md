@@ -8,9 +8,9 @@ getting-started-url: https://helpx.adobe.com/sign/using/get-started-guide.html
 tutorials-title: Tutorials
 tutorials-url: https://helpx.adobe.com/sign/tutorials.html
 breadcrumb-title: Acrobat SignTutorials
-source-git-commit: faabeda8f9addffe422f21e6d3c757d1d84f8251
+source-git-commit: b77f225d18b53df750734f53f4e1b77b58edfb36
 workflow-type: tm+mt
-source-wordcount: '418'
+source-wordcount: '420'
 ht-degree: 8%
 
 ---
@@ -43,7 +43,7 @@ ht-degree: 8%
       + [署名順序の設定](sign-advanced-users/setting-up-routing.md)
       + [委任者の役割の使用](sign-advanced-users/delegate-signature.md)
       + [承認者の追加](sign-advanced-users/add-an-approver.md)
-      + [署名の一括収集](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/megasign.html)
+      + [署名を一括で送信して収集](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/megasign.html)
       + [Web フォームの設定](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/webform.html)
       + [Acrobat Sign Text Tagging](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/advanced-tasks-admins/adobe-sign-text-tagging.html)
    + 管理 {#advanced-tasks-managing}
@@ -59,7 +59,7 @@ ht-degree: 8%
       + [テンプレートの作成](sign-advanced-users/create-a-template.md)
       + [レポートの作成](admin/create-a-report.md)
       + [Web フォームの設定](sign-advanced-users/webform.md)
-      + [署名の一括収集](sign-advanced-users/megasign.md)
+      + [署名を一括で送信して収集](sign-advanced-users/megasign.md)
       + [カスタムワークフローの構築](admin/building-a-custom-workflow.md)
    + 高度なタスク {#advanced-tasks-admins}
       + [グローバル設定](admin/learn-about-global-settings.md)
