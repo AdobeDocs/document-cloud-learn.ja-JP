@@ -8,9 +8,9 @@ getting-started-url: https://helpx.adobe.com/sign/using/get-started-guide.html
 tutorials-title: Tutorials
 tutorials-url: https://helpx.adobe.com/sign/tutorials.html
 breadcrumb-title: Acrobat SignTutorials
-source-git-commit: 561ad5b567ac7ea5de32e96ecc8e9b2038389910
+source-git-commit: 52a85fcef686e09bd143eb7c470aa578291de940
 workflow-type: tm+mt
-source-wordcount: '421'
+source-wordcount: '426'
 ht-degree: 8%
 
 ---
@@ -32,6 +32,7 @@ ht-degree: 8%
       + [文書への電子署名](sign-beginner-tutorials/electronically-sign-a-document.md)
       + [文書への入力と署名](sign-beginner-tutorials/fill-and-sign.md)
       + [署名を対面で取得](sign-beginner-tutorials/sign-in-person.md)
+      + [署名を他のユーザーに委任](sign-beginner-tutorials/delegate-signing.md)
       + [電子署名とは？](sign-beginner-tutorials/sign-with-a-digital-signature.md)
       + [スタンプによる署名](sign-beginner-tutorials/sign-with-a-stamp.md)
    + 管理 {#getting-started-managing}
