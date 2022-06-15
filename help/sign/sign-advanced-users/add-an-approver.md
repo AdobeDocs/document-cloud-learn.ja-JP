@@ -1,5 +1,5 @@
 ---
-title: 承認者の追加
+title: 承認者の役割の使用
 description: 承認者ロールを契約承認プロセスに追加する方法を説明します
 role: User
 product: adobe sign
@@ -7,18 +7,18 @@ solution: Acrobat Sign
 level: Intermediate
 thumbnail: 17367.jpg
 exl-id: e3d46b27-c30b-47eb-8d84-3d99813f3096
-source-git-commit: 47575efa552da55b3ebde308c182432ab29392db
+source-git-commit: 561ad5b567ac7ea5de32e96ecc8e9b2038389910
 workflow-type: tm+mt
-source-wordcount: '69'
-ht-degree: 0%
+source-wordcount: '93'
+ht-degree: 22%
 
 ---
 
-# 承認者の追加
+# 承認者の役割の使用
 
-承認プロセスを通じて文書を送信する方法について説明します。 この例では、HR、従業員および採用マネージャを介して雇用契約を送信する方法を示します。
+承認プロセスを通じて文書を送信する方法について説明します。 この例では、HR、潜在的な従業員および採用マネージャを介して雇用契約を送信する方法を参照してください。 承認者の役割は、文書を署名者に送信する前に文書を「承認」する人が必要な場合に適しています。
 
->[!VIDEO](https://video.tv.adobe.com/v/17367?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/343854?hidetitle=true)
 
 >[!TIP]
 >
