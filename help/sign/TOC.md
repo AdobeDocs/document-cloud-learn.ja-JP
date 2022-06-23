@@ -8,7 +8,7 @@ getting-started-url: https://helpx.adobe.com/sign/using/get-started-guide.html
 tutorials-title: Tutorials
 tutorials-url: https://helpx.adobe.com/sign/tutorials.html
 breadcrumb-title: Acrobat SignTutorials
-source-git-commit: 52a85fcef686e09bd143eb7c470aa578291de940
+source-git-commit: 9338767601e88413f6a63fa4537a4f4f8dcbe3f3
 workflow-type: tm+mt
 source-wordcount: '426'
 ht-degree: 8%
@@ -52,7 +52,7 @@ ht-degree: 8%
 + 管理 {#admin-set-up}
    + [概要](admin/intro-admin-overview.md)
    + はじめに {#getting-started-admin}
-      + [管理者向けのインストールと導入](admin/up-and-running-admin.md)
+      + [管理者向けの起動と実行](admin/up-and-running-admin.md)
       + [イベントと警告の通知を設定する](admin/set-up-shared-events-and-alert.md)
       + [ユーザーの追加](admin/add-users-to-your-account.md)
       + [グループの作成と管理](admin/create-and-manage-groups.md)
