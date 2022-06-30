@@ -1,23 +1,23 @@
 ---
-title: チュートリアル
-description: Acrobat Sign の初心者と管理者の両方に最新の情報をすばやく提供するために設計されたチュートリアル、Web セミナー、およびユースケースのコレクションです
+title: Acrobat SignTutorials
+description: 初心者から管理者まですばやくAcrobat Signの最新情報を得られるように設計されたチュートリアル、Web セミナー、ユースケースのコレクションです
 role: User, Admin
 product: adobe sign
 level: Beginner, Intermediate, Experienced
 thumbnail: KT-6846.jpg
 exl-id: 72762750-5764-4541-aedd-94230b56936b
-source-git-commit: e02b1250de94ec781e7984c6c146dbae993f5d31
+source-git-commit: 174ce22fd784210b6241a6a42831497a007377f9
 workflow-type: tm+mt
-source-wordcount: '198'
+source-wordcount: '200'
 ht-degree: 4%
 
 ---
 
-# Acrobat Sign チュートリアル
+# Acrobat Sign tutorials
 
 ![Acrobat Sign Hero Image](assets/Hero_Sign.jpg)
 
-Adobe Document CloudソリューションのAcrobat Sign は、統合、API、高度な認証、追加の管理機能などを使用して、組織のニーズに合わせて拡張できます。 Acrobat Sign の初心者と管理者の両方に最新の情報をすばやく提供するように設計された、幅広い学習体験が用意されています。
+Adobe Document CloudソリューションであるAcrobat Signは、統合、API、高度な認証、追加の管理機能などを通じて、組織のニーズに合わせて拡張できます。 Acrobat Signには、初心者から管理者まですばやく使いこなせる様々な学習体験が用意されています。
 
 ## 学習パス
 
@@ -62,7 +62,7 @@ Adobe Document CloudソリューションのAcrobat Sign は、統合、API、�
     <div>
     <a href="digitalid/digitalid-overview.md"><strong>デジタル ID</strong></a>
     </div>
-    <em>Acrobat Sign で世界中のデジタル ID を使用する方法について説明します</em>
+    <em>Acrobat Signで世界中のデジタル ID を使用する方法について説明します</em>
     <br>
   </td>
   <td>
@@ -72,7 +72,7 @@ Adobe Document CloudソリューションのAcrobat Sign は、統合、API、�
     <div>
     <a href="integrations/integrations-overview.md"><strong>統合</strong></a>
     </div>
-    <em>組織で既に使用している他のアプリケーション内にAcrobat Sign を直接追加する</em>
+    <em>組織で既に使用している他のアプリケーション内にAcrobat Signを直接追加する</em>
     <br>
   </td>
   <td>
@@ -94,7 +94,7 @@ Adobe Document CloudソリューションのAcrobat Sign は、統合、API、�
     <div>
     <a href="develop/develop-overview.md"><strong>開発</strong></a>
     </div>
-    <em>Acrobat Sign I/O の開発リソースを入手する</em>
+    <em>Acrobat Sign I/O に関する開発リソースを入手する</em>
     <br>
   </td>
    <td>
@@ -104,7 +104,7 @@ Adobe Document CloudソリューションのAcrobat Sign は、統合、API、�
     <div>
     <a href="deploy-overview.md"><strong>デプロイ</strong></a>
     </div>
-    <em>組織内にAcrobat Sign をデプロイするためのインサイトとベストプラクティス</em>
+    <em>組織内にAcrobat Signをデプロイするためのインサイトとベストプラクティス</em>
     <br>
   </td>
   <td>

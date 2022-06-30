@@ -1,5 +1,5 @@
 ---
-title: Sign の高度なタスクの概要
+title: 高度なタスクの概要
 description: 100 人以上の受信者に署名用の文書を一度に送信する方法、Web サイト用に署名可能な文書を設定する方法、署名トランザクションを管理する方法、文書テンプレートを作成および管理する方法について説明します。
 role: User
 product: adobe sign
@@ -7,9 +7,9 @@ solution: Acrobat Sign
 level: Experienced
 thumbnail: KT-6848.jpg
 exl-id: c4f0a953-e28b-4488-a27c-010b5adaf7ec
-source-git-commit: ac39f9930a2ee655afe2643b78cf00277460ac8c
+source-git-commit: 174ce22fd784210b6241a6a42831497a007377f9
 workflow-type: tm+mt
-source-wordcount: '244'
+source-wordcount: '243'
 ht-degree: 2%
 
 ---
