@@ -7,7 +7,7 @@ topic: Integrations
 thumbnail: KT-7489.jpg
 kt: 7489
 exl-id: db300cb9-6513-4a64-af60-eadedcd4858e
-source-git-commit: 60c676687a59e9b8f999b0e71fa9e03e94f043d4
+source-git-commit: f68fc211dc315a7d7ef508787c80fbe9882fcdc3
 workflow-type: tm+mt
 source-wordcount: '876'
 ht-degree: 3%
@@ -33,6 +33,8 @@ Acrobat Sign API を使用して、電子サインや文書エクスペリエン
    * Windows — Chocolatey
    * すべて — https://www.python.org/downloads/
 
++++
+
 ## パート 2:低/コードなし — Web フォームのパワー
 
 パート 2 では、Web フォームの使用に関する低コード/コードなしオプションについて説明します。 最初にコードを書くのを避けることができるかどうかを確認することは、常に良い考えです。
@@ -54,6 +56,8 @@ Acrobat Sign API を使用して、電子サインや文書エクスペリエン
 1. 動的にクエリパラメーターを追加してみます。
 
    ![クエリパラメーターの追加のスクリーンショット](assets/embeddedesignature/embed_3.png)
+
++++
 
 ## パート 3:フォームと結合データを使用した契約書の送信
 
@@ -110,6 +114,8 @@ Transient ドキュメントが Sign エコシステムの壮大なスキーム�
 
 ![署名を動的に追加するコードのスクリーンショット](assets/embeddedesignature/embed_11.png)
 
++++
+
 ## パート 4:署名エクスペリエンスやリダイレクトなどの埋め込み
 
 多くのシナリオでは、トリガーした参加者がすぐに契約書に署名できるようにする必要があります。 これは、顧客向けのアプリケーションやキオスクで便利です。
@@ -135,6 +141,8 @@ Transient ドキュメントが Sign エコシステムの壮大なスキーム�
 ![再試行ループを確立することがベストプラクティスであるというスクリーンショット](assets/embeddedesignature/embed_15.png)
 
 すべての要素を組み合わせれば、解決は非常に容易になります。 契約書を作成してから、署名者がクリックして署名の儀式を開始するための署名 URL を生成します。
+
++++
 
 ## その他のトピック
 
