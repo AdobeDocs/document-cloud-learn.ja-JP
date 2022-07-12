@@ -7,57 +7,22 @@ topic: Integrations
 thumbnail: KT-7489.jpg
 kt: 7489
 exl-id: db300cb9-6513-4a64-af60-eadedcd4858e
-source-git-commit: e02b1250de94ec781e7984c6c146dbae993f5d31
+source-git-commit: 60c676687a59e9b8f999b0e71fa9e03e94f043d4
 workflow-type: tm+mt
-source-wordcount: '928'
+source-wordcount: '876'
 ht-degree: 3%
 
 ---
 
 # 組み込みの電子サインと文書エクスペリエンスを作成
 
-Acrobat Sign API を使用して、電子サインや文書エクスペリエンスを web プラットフォームやコンテンツ管理システム、文書管理システムに組み込む方法を説明します。 この実践チュートリアルは、以下のリンク先から 4 つのパートで構成されています。
+Acrobat Sign API を使用して、電子サインや文書エクスペリエンスを web プラットフォームやコンテンツ管理システム、文書管理システムに組み込む方法を説明します。 この実践チュートリアルには 4 つのパートがあります。
 
-<table style="table-layout:fixed">
-<tr>
-  <td>
-    <a href="embeddedesignature.md#part1">
-        <img alt="必要なもの" src="assets/embeddedesignature/EmbedPart1_thumb.png" />
-    </a>
-    <div>
-    <a href="embeddedesignature.md#part1"><strong>パート 1:必要なもの</strong></a>
-    </div>
-  </td>
-  <td>
-    <a href="embeddedesignature.md#part2">
-        <img alt="パート 2:低/コードなし — Web フォームのパワー" src="assets/embeddedesignature/EmbedPart2_thumb.png" />
-    </a>
-    <div>
-    <a href="embeddedesignature.md#part2"><strong>パート 2:低/コードなし — Web フォームのパワー</strong></a>
-    </div>
-  </td>
-  <td>
-   <a href="embeddedesignature.md#part3">
-      <img alt="パート 3:フォームを使用した契約書の送信、データの結合" src="assets/embeddedesignature/EmbedPart3_thumb.png" />
-   </a>
-    <div>
-    <a href="embeddedesignature.md#part3"><strong>パート 3:フォームと結合データを使用した契約書の送信</strong></a>
-    </div>
-  </td>
-  <td>
-   <a href="embeddedesignature.md#part4">
-      <img alt="パート 4:署名エクスペリエンスやリダイレクトなどの埋め込み" src="assets/embeddedesignature/EmbedPart4_thumb.png" />
-   </a>
-    <div>
-    <a href="embeddedesignature.md#part4"><strong>パート 4:署名エクスペリエンスやリダイレクトなどの埋め込み</strong></a>
-    </div>
-  </td>
-</tr>
-</table>
+## パート 1:必要なもの
 
-## パート 1:必要なもの {#part1}
+パート 1 では、パート 2 ～ 4 に必要なすべての作業の開始方法を学習します。 まず、API 資格情報を取得します。
 
-パート 1 では、パート 2～4 に必要なすべての作業の開始方法について学習します。 まず、API 資格情報を取得します。
++++API 資格情報を取得する方法の詳細を表示
 
 * [Acrobat Sign デベロッパーアカウント](https://acrobat.adobe.com/jp/ja/sign/developer-form.html)
 * [スターターコード](https://github.com/benvanderberg/adobe-sign-api-tutorial)
@@ -68,12 +33,15 @@ Acrobat Sign API を使用して、電子サインや文書エクスペリエン
    * Windows — Chocolatey
    * すべて — https://www.python.org/downloads/
 
-## パート 2:低/コードなし — Web フォームのパワー {#part2}
+## パート 2:低/コードなし — Web フォームのパワー
 
-パート 2 では、Web フォームを使用する際の「低/コードなし」オプションについて説明します。 最初にコードを書くのを避けることができるかどうかを確認することは、常に良い考えです。
+パート 2 では、Web フォームの使用に関する低コード/コードなしオプションについて説明します。 最初にコードを書くのを避けることができるかどうかを確認することは、常に良い考えです。
+
++++ Web フォームの作成方法の詳細を表示
 
 1. 開発者アカウントでAcrobat Signにアクセスします。
-1. クリック **Web フォームの公開** をクリックします。
+
+1. 選択 **Web フォームの公開** をクリックします。
 
    ![スクリーンショットAcrobat Signホームページ](assets/embeddedesignature/embed_1.png)
 
@@ -82,15 +50,18 @@ Acrobat Sign API を使用して、電子サインや文書エクスペリエン
    ![Web フォームの作成方法のスクリーンショット](assets/embeddedesignature/embed_2.png)
 
 1. 契約書をフラットな埋め込みページにHTMLします。
+
 1. 動的にクエリパラメーターを追加してみます。
 
    ![クエリパラメーターの追加のスクリーンショット](assets/embeddedesignature/embed_3.png)
 
-## パート 3:フォームと結合データを使用した契約書の送信 {#part3}
+## パート 3:フォームと結合データを使用した契約書の送信
 
 パート 3 では、契約書を動的に作成します。
 
-まず、アクセス権を設定する必要があります。 Acrobat Signでは、API 経由で接続する方法が 2 つあります。 OAuth トークンと統合キー。 アプリケーションで OAuth を使用する特別な理由がない場合は、まず統合キーを調べます。
++++契約書の動的な作成方法の詳細を表示
+
+まず、アクセス権を設定する必要があります。 Acrobat Signでは、API 経由で接続する方法が 2 つあります。 OAuth トークンと統合キー。 アプリケーションで OAuth を使用する特別な理由がない限り、まず統合キーを調べる必要があります。
 
 1. 選択 **統合キー** 」を **API 情報** メニューを **アカウント** 」タブをクリックします。
 
@@ -139,9 +110,11 @@ Transient ドキュメントが Sign エコシステムの壮大なスキーム�
 
 ![署名を動的に追加するコードのスクリーンショット](assets/embeddedesignature/embed_11.png)
 
-## パート 4:署名エクスペリエンスやリダイレクトなどの埋め込み {#part4}
+## パート 4:署名エクスペリエンスやリダイレクトなどの埋め込み
 
 多くのシナリオでは、トリガーした参加者がすぐに契約書に署名できるようにする必要があります。 これは、顧客向けのアプリケーションやキオスクで便利です。
+
++++署名エクスペリエンスを埋め込む方法について詳しく見る
 
 最初の送信メールがトリガーされないようにするには、API 呼び出しを変更して動作を管理する方法が簡単です。
 
@@ -163,7 +136,7 @@ Transient ドキュメントが Sign エコシステムの壮大なスキーム�
 
 すべての要素を組み合わせれば、解決は非常に容易になります。 契約書を作成してから、署名者がクリックして署名の儀式を開始するための署名 URL を生成します。
 
-### その他のトピック
+## その他のトピック
 
 * [JS イベント](https://www.adobe.io/apis/documentcloud/sign/docs.html#!adobedocs/adobe-sign/master/events.md)
 * Webhook イベント
@@ -179,14 +152,3 @@ Transient ドキュメントが Sign エコシステムの壮大なスキーム�
       ![Power Automate への移動のスクリーンショット](assets/embeddedesignature/embed_16.png)
 
    * または、1 つ追加します [機内で](https://sign-acs.na1.echosign.com/public/docs/restapi/v6#!/agreements/createReminderOnParticipant)
-
-## 追加のリソース
-
-http://bit.ly/Summit21-T126
-
-内容：
-* Acrobat Sign デベロッパーアカウント
-* Acrobat Sign API ドキュメント
-* サンプルコード
-* Visual Studio Code
-* Python
