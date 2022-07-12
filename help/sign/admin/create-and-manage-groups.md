@@ -7,7 +7,7 @@ solution: Acrobat Sign
 level: Intermediate
 thumbnail: 17355.jpg
 exl-id: c5e40e00-d11d-4853-b7a8-4137649ff481
-source-git-commit: 724e161f816cdb42f884516fb7df3be23518c184
+source-git-commit: 51f90a2604999c57803c49488f809d6b5cae3aaa
 workflow-type: tm+mt
 source-wordcount: '68'
 ht-degree: 36%
@@ -20,6 +20,6 @@ ht-degree: 36%
 
 >[!NOTE]
 >
->グループは、ビジネスレベルおよびエンタープライズレベルのプランでのみ利用できます。
+>グループは、ビジネスおよびエンタープライズレベルのプランでのみ利用できます。
 
 >[!VIDEO](https://video.tv.adobe.com/v/344682?hidetitle=true)
