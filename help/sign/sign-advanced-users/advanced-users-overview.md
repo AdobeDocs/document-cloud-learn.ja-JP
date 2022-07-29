@@ -7,10 +7,10 @@ solution: Acrobat Sign
 level: Experienced
 thumbnail: KT-6848.jpg
 exl-id: c4f0a953-e28b-4488-a27c-010b5adaf7ec
-source-git-commit: 174ce22fd784210b6241a6a42831497a007377f9
+source-git-commit: 66aef67afbc92be3f2faa3d36a28e6f15431c4ce
 workflow-type: tm+mt
-source-wordcount: '243'
-ht-degree: 2%
+source-wordcount: '265'
+ht-degree: 4%
 
 ---
 
@@ -57,6 +57,16 @@ ht-degree: 2%
 </tr>
 <tr>
   <td>
+    <a href="set-up-online-payments.md">
+      <img alt="オンライン決済の設定" src="../assets/Payments.png" />
+    </a>
+    <div>
+    <a href="set-up-online-payments.md"><strong>オンライン決済の設定</strong></a>
+    </div>
+    <em>ドキュメントでのオンライン支払いを設定および承認する方法について説明します</em>
+    <br>
+  </td>
+  <td>
     <a href="megasign.md">
       <img alt="署名を一括で送信して収集" src="../assets/Megasign.png" />
     </a>
@@ -75,8 +85,10 @@ ht-degree: 2%
     </div>
     <em>Web サイトで直接電子的に署名できる文書を作成します</em>
     <br>
-  </td> 
-  <td>
+  </td>
+</tr>
+<tr>
+   <td>
     <a href="adobe-sign-text-tagging.md">
       <img alt="Acrobat Sign Text Tagging" src="../assets/Text-Tagging.png" />
   </a>
@@ -85,7 +97,18 @@ ht-degree: 2%
     </div>
     <em>Adobe Acrobatを使用したテキストタグによるAcrobat Signフォームフィールドの作成</em>
     <br>
-  </td> 
+  </td>
+  <td>
+    <img alt="スペーサー" src="../assets/Whitespacer.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="スペーサー" src="../assets/Whitespacer.png" />
+    <div>
+    <br>
+  </td>
+</tr>
 </table>
 
 ## 管理
