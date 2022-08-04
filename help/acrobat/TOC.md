@@ -2,10 +2,10 @@
 user-guide-title: AcrobatTutorials
 solution: Acrobat
 breadcrumb-title: AcrobatTutorials
-source-git-commit: 47575efa552da55b3ebde308c182432ab29392db
+source-git-commit: cc64dfeb47dae1b061cc75fffbfc402d549391e3
 workflow-type: tm+mt
-source-wordcount: '398'
-ht-degree: 9%
+source-wordcount: '401'
+ht-degree: 8%
 
 ---
 
@@ -16,6 +16,7 @@ ht-degree: 9%
 + はじめに {#getting-started}
    + [概要](getting-started/getting-started-overview.md)
    + [ワークスペースの基本](getting-started/get-to-know-the-acrobat-dc-interface.md)
+   + [新しいワークスペースエクスペリエンス](getting-started/new-workspace.md)
    + [Acrobat Web でどこでも作業](getting-started/acrobatweb.md)
    + [モバイルで仕事をこなす](getting-started/productivity.md)
    + [使用する [!DNL Microsoft 365]](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/integrations/integrate-overview.html#microsoft)

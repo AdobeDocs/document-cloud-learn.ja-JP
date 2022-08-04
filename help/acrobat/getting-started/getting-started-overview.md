@@ -6,9 +6,9 @@ product: adobe acrobat
 level: Beginner
 thumbnail: KT-6856.jpg
 exl-id: 24660a17-a04e-4937-be94-0a42c4b2c2ca
-source-git-commit: 42ea703db2923063c572a4ff0102eeea1c1f3d19
+source-git-commit: cc64dfeb47dae1b061cc75fffbfc402d549391e3
 workflow-type: tm+mt
-source-wordcount: '411'
+source-wordcount: '431'
 ht-degree: 6%
 
 ---
@@ -25,12 +25,22 @@ Adobe Acrobatの使い方をステップバイステップ形式のチュート�
 <tr>
   <td>
     <a href="get-to-know-the-acrobat-dc-interface.md">
-      <img alt="ワークスペースの基本" src="../assets/Workspace_1280.png" />
+      <img alt="ワークスペースの基本" src="../assets/NewWorkspace.png" />
     </a>
     <div>
     <a href="get-to-know-the-acrobat-dc-interface.md"><strong>ワークスペースの基本</strong></a>
     </div>
     <em>Acrobatのワークスペースを使用して、デスクトップ、Web、モバイルのファイルやツールに簡単にアクセスする方法をご覧ください</em>
+    <br>
+  </td>
+  <td>
+    <a href="new-workspace.md">
+      <img alt="新しいワークスペースエクスペリエンス" src="../assets/Acrobatweb_1280.png" />
+    </a>
+    <div>
+    <a href="new-workspace.md"><strong>新しいワークスペースエクスペリエンス</strong></a>
+    </div>
+    <em>Acrobatでアクティベートできる新しいワークスペースエクスペリエンスについて説明します</em>
     <br>
   </td>
   <td>
@@ -43,7 +53,9 @@ Adobe Acrobatの使い方をステップバイステップ形式のチュート�
     <em>ブラウザーのAcrobat Web ツールを使用して、どこからでもビジネス文書のリクエストに対応する方法について説明します</em>
     <br>
   </td>
-  <td>
+</tr>
+<tr>
+   <td>
     <a href="productivity.md">
       <img alt="モバイルで仕事をこなす" src="../assets/Productivity_1280.png" />
     </a>
@@ -53,9 +65,7 @@ Adobe Acrobatの使い方をステップバイステップ形式のチュート�
     <em>Acrobat Readerモバイル版アプリを使用すれば、タブレットやスマートフォンから直接作業できます</em>
     <br>
   </td>
-</tr>
-<tr>
-   <td>
+  <td>
     <a href="../integrate/integrate-overview.md#microsoft">
       <img alt="Microsoft 365 の使用" src="../assets/WorkMicrosoft365_1280.png" />
     </a>
@@ -75,6 +85,8 @@ Adobe Acrobatの使い方をステップバイステップ形式のチュート�
     <em>コメントの収集、共同作業、文書の進捗状況のトラックなど、プロジェクトを進めるための機能がすべてリアルタイムでどこからでも利用できます</em>
     <br>
   </td>
+</tr>
+<tr>
   <td>
     <a href="combine-to-pdf.md">
       <img alt="Combine FilesからPDF" src="../assets/Combine.jpg" />
@@ -85,9 +97,7 @@ Adobe Acrobatの使い方をステップバイステップ形式のチュート�
     <em>様々な種類のファイルを 1 つのPDF</em>
     <br>
   </td>
-</tr>
-<tr>
-  <td>
+ <td>
     <a href="create-pdf.md">
       <img alt="PDF ファイルの作成" src="../assets/Create.jpg" />
     </a>
@@ -107,6 +117,8 @@ Adobe Acrobatの使い方をステップバイステップ形式のチュート�
     <em>注釈をPDFファイルに追加して他のユーザーと共有</em>
     <br>
   </td>
+</tr>
+<tr>
   <td>
     <a href="edit-pdf.md">
       <img alt="PDF を編集" src="../assets/Edit.jpg" />
@@ -117,8 +129,6 @@ Adobe Acrobatの使い方をステップバイステップ形式のチュート�
     <em>編集ファイル内のテキストとPDFの編集</em>
     <br>
   </td>
-</tr>
-<tr>
   <td>
     <a href="export-pdf.md">
       <img alt="編集可能な形式へのPDFの書き出し" src="../assets/Export.jpg" />
@@ -139,7 +149,9 @@ Adobe Acrobatの使い方をステップバイステップ形式のチュート�
     <em>他のアプリケーションで作成した文書を入力可能なPDFフォームに</em>
     <br>
   </td>
-  <td>
+</tr>
+<tr>
+ <td>
     <a href="scan-and-ocr.md">
       <img alt="スキャンと OCR" src="../assets/Scan.jpg" />
     </a>
@@ -149,9 +161,7 @@ Adobe Acrobatの使い方をステップバイステップ形式のチュート�
     <em>共有、投稿、アーカイブの品質を損なうことなく、大きなファイルを削減し、PDFを最適化できます</em>
     <br>
   </td>
-</tr>
-<tr>
- <td>
+  <td>
     <a href="organize.md">
       <img alt="ページを整理" src="../assets/Organize.jpg" />
     </a>
@@ -171,6 +181,8 @@ Adobe Acrobatの使い方をステップバイステップ形式のチュート�
     <em>他のユーザーがファイルを開いたり編集したりできないように、PDFにパスワードを追加します</em>
     <br>
   </td>
+</tr>
+<tr>
   <td>
     <a href="fill-and-sign.md">
       <img alt="署名フォームへの入力とPDF" src="../assets/FillSign_1280.png" />
@@ -181,8 +193,6 @@ Adobe Acrobatの使い方をステップバイステップ形式のチュート�
     <em>署名フォームにすばやく入力、PDF</em>
     <br>
   </td>
-</tr>
-<tr>
   <td>
     <a href="signatures.md">
       <img alt="署名を取得" src="../assets/Signatures_1280.png" />
@@ -203,7 +213,9 @@ Adobe Acrobatの使い方をステップバイステップ形式のチュート�
     <em>どのファイルが署名待ちでどのファイルが署名済みかを常に把握</em>
     <br>
   </td>
-   <td>
+</tr>
+<tr>
+  <td>
     <a href="where-do-pdfs-come-from.md">
       <img alt="PDFの出所" src="../assets/WherePDFs.jpg" />
     </a>
@@ -211,6 +223,18 @@ Adobe Acrobatの使い方をステップバイステップ形式のチュート�
     <a href="where-do-pdfs-come-from.md"><strong>PDFの出所</strong></a>
     </div>
     <em>PDFの起源と用途</em>
+    <br>
+  </td>
+  </td>
+  <td>
+   <img alt="スペーサー" src="../assets/Whitespacer.png" />
+    <div>
+    <br>
+  </td>
+  </td>
+  <td>
+   <img alt="スペーサー" src="../assets/Whitespacer.png" />
+    <div>
     <br>
   </td>
 </tr>
