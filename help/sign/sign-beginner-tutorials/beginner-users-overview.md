@@ -6,9 +6,9 @@ product: adobe sign
 level: Beginner
 thumbnail: KT-6847.jpg
 exl-id: e58ce43d-2e8e-4804-8f30-6591fa943607
-source-git-commit: 174ce22fd784210b6241a6a42831497a007377f9
+source-git-commit: 2594c9b50be3801021f89d60f0fc42389a63c86e
 workflow-type: tm+mt
-source-wordcount: '363'
+source-wordcount: '404'
 ht-degree: 1%
 
 ---
@@ -34,6 +34,16 @@ ht-degree: 1%
     <br>
   </td>
   <td>
+    <a href="new-sender.md">
+      <img alt="新しい送信者のためのAcrobat Sign入門" src="../assets/gettingstartednew.png" />
+    </a>
+    <div>
+    <a href="new-sender.md"><strong>新しい送信者のためのAcrobat Sign入門</strong></a>
+    </div>
+    <em>この包括的なチュートリアルは、Acrobat Signで新しい送信者を作成する場合に最適です</em>
+    <br>
+  </td>
+  <td>
     <a href="send-to-single-recipient.md">
       <img alt="1 人の受信者への送信" src="../assets/Send-to-single-recipient.png" />
     </a>
@@ -56,13 +66,13 @@ ht-degree: 1%
 </tr>
 <tr>
   <td>
-    <a href="new-sender.md">
-      <img alt="新しい送信者のためのAcrobat Sign入門" src="../assets/gettingstartednew.png" />
+    <a href="adding-fields.md">
+      <img alt="文書へのフィールドの追加" src="../assets/AddingFields.png" />
     </a>
     <div>
-    <a href="new-sender.md"><strong>新しい送信者のためのAcrobat Sign入門</strong></a>
+    <a href="adding-fields.md"><strong>文書へのフィールドの追加</strong></a>
     </div>
-    <em>この包括的なチュートリアルは、Acrobat Signで新しい送信者を作成する場合に最適です</em>
+    <em>様々な種類のフィールドを文書に追加する方法について説明します</em>
     <br>
   </td>
  <td>
@@ -84,6 +94,11 @@ ht-degree: 1%
     </div>
     <em>既に処理中の文書の署名者を変更する方法について説明します。</em>
      <br>
+  </td>
+  <td>
+    <img alt="スペーサー" src="../assets/Grayspacer.png" />
+    <div>
+    <br>
   </td>
 </tr>
 </table>
@@ -122,8 +137,6 @@ ht-degree: 1%
     <em>Acrobat Signモバイルアプリを使用して、他の人から直接署名を取得</em>
     <br>
   </td>
-</tr>
-<tr>
   <td>
     <a href="delegate-signing.md">
       <img alt="署名を他のユーザーに委任" src="../assets/Delegatesigning.png" />
@@ -134,6 +147,8 @@ ht-degree: 1%
     <em>文書の署名を他のユーザーに委任する方法</em>
     <br>
   </td>
+</tr>
+<tr>
   <td>
     <a href="sign-with-a-digital-signature.md">
       <img alt="電子署名とは" src="../assets/Whatisdigsig_1280.jpg" />
@@ -154,6 +169,21 @@ ht-degree: 1%
     <em>スタンプを使用して、文書を承認済みまたは完了済みとしてマーク</em>
      <br>
   </td> 
+  <td>
+    <a href="sign-with-a-stamp.md">
+      <img alt="スタンプを使用した署名" src="../assets/Stamp.png" />
+    </a>
+    <div>
+    <a href="sign-with-a-stamp.md"><strong>スタンプを使用した署名</strong></a>
+    </div>
+    <em>スタンプを使用して、文書を承認済みまたは完了済みとしてマーク</em>
+     <br>
+  </td>
+  <td>
+    <img alt="スペーサー" src="../assets/Grayspacer.png" />
+    <div>
+    <br>
+  </td>
 </tr>  
 </table>
 
@@ -179,6 +209,11 @@ ht-degree: 1%
     <a href="../sign-advanced-users/create-a-template.md"><strong>文書テンプレートの作成</strong></a>
     </div>
     <em>再利用可能な文書テンプレートを作成して、組織がすばやく一貫性を維持できるようにします</em>
+    <br>
+  </td>
+  <td>
+    <img alt="スペーサー" src="../assets/Whitespacer.png" />
+    <div>
     <br>
   </td>
   <td>
