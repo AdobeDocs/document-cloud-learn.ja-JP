@@ -7,9 +7,9 @@ solution: Acrobat Sign
 level: Experienced
 thumbnail: KT-6848.jpg
 exl-id: c4f0a953-e28b-4488-a27c-010b5adaf7ec
-source-git-commit: c1f3544017f268b7f0c9050ed440b3dc97fd20dd
+source-git-commit: 2b02c5d18f16bf04ea4895308e6116a3d8cad938
 workflow-type: tm+mt
-source-wordcount: '284'
+source-wordcount: '285'
 ht-degree: 4%
 
 ---
@@ -94,6 +94,11 @@ ht-degree: 4%
     <a href="adobe-sign-text-tagging.md"><strong>Acrobat Sign Text Tagging</strong></a>
     </div>
     <em>Adobe Acrobatを使用したテキストタグによるAcrobat Signフォームフィールドの作成</em>
+    <br>
+  </td>
+  <td>
+    <img alt="スペーサー" src="../assets/Grayspacer.png" />
+    <div>
     <br>
   </td>
 </tr>

@@ -7,10 +7,10 @@ level: Intermediate
 topic-revisit: Administration
 thumbnail: KT-6849.jpg
 exl-id: 1b6ea9f0-6bbb-4ea5-aa22-bfa42f7cca18
-source-git-commit: ac39f9930a2ee655afe2643b78cf00277460ac8c
+source-git-commit: e44f36c10c666fc4734df0521dc7c25ae60ce960
 workflow-type: tm+mt
-source-wordcount: '396'
-ht-degree: 1%
+source-wordcount: '416'
+ht-degree: 0%
 
 ---
 
@@ -18,7 +18,7 @@ ht-degree: 1%
 
 ![Sign 管理者イメージ](../assets/Hero-Admin.png)
 
-アカウントへのユーザーの追加、グループの設定、アクセスの共有、ワークフロー、外部アーカイブ、共有イベントおよび警告の設定について説明します。 これらのチュートリアルは、インストール段階を過ぎてAcrobat Signの管理を開始する準備ができた管理者を対象としています。 高度なタスクでは、管理者が設定した部分を超えて、グローバル設定の定義、アカウントのアクセスと共有、テキストのタグ付けに移動するトピックについて説明します。
+アカウントへのユーザーの追加、グループの設定、アクセスの共有、ワークフロー、外部アーカイブ、共有イベントおよび警告の設定について説明します。 これらのチュートリアルは、インストール段階を過ぎてAcrobat Signの管理を開始する準備ができた管理者を対象としています。 高度なタスクでは、管理者設定を超えて、グローバル設定の定義、アカウントのアクセスと共有、テキストのタグ付けに進むトピックについて説明します。
 
 ## はじめに
 
@@ -54,8 +54,6 @@ ht-degree: 1%
     <em>Acrobat Signアカウントへのユーザーの個別または一括追加</em>
     <br>
   </td>
-</tr>
-<tr>
   <td>
     <a href="create-and-manage-groups.md">
       <img alt="グループの作成と管理" src="../assets/Creating-Groups.png" />
@@ -66,7 +64,9 @@ ht-degree: 1%
     <em>グループの作成、グループへのユーザーの追加、グループ設定の編集</em>
     <br>
   </td>
-  <td>
+</tr>
+<tr>
+ <td>
     <a href="set-up-your-external-archive.md">
       <img alt="外部アーカイブの設定" src="../assets/ExternalArchive.png" />
     </a>
@@ -86,8 +86,6 @@ ht-degree: 1%
     <em>再利用可能な文書テンプレートを作成してすばやく一貫性を保つ</em>
     <br>
   </td>
-</tr>
-<tr>
   <td>
     <a href="create-a-report.md">
       <img alt="レポートの作成" src="../assets/Report.png" />
@@ -95,7 +93,7 @@ ht-degree: 1%
     <div>
     <a href="create-a-report.md"><strong>レポートの作成</strong></a>
     </div>
-    <em>組織でのAcrobat Signの使用を明確に把握するためのレポートを作成してスケジュール設定できます</em>
+    <em>組織でのAcrobat Signの使用を把握するためのレポートを作成およびスケジュール設定できます</em>
     <br>
   </td>
   <td>
@@ -108,6 +106,18 @@ ht-degree: 1%
     <em>Web サイトで直接電子的に署名できる文書を作成します</em>
     <br>
   </td>
+</tr>
+<tr>
+  <td>
+    <a href="../sign-advanced-users/modify-webform.md">
+      <img alt="既存の Web フォームの変更" src="../assets/Modifywebform.png" />
+    </a>
+    <div>
+    <a href="../sign-advanced-users/modify-webform.md"><strong>既存の Web フォームの変更</strong></a>
+    </div>
+    <em>既存の Web フォームを無効にして編集し、再度有効にする方法について説明します</em>
+    <br>
+  </td>
   <td>
     <a href="../sign-advanced-users/megasign.md">
       <img alt="署名を一括で送信して収集" src="../assets/Megasign.png" />
@@ -118,8 +128,6 @@ ht-degree: 1%
     <em>あらゆる文書に一度に数百件の署名を収集</em>
     <br>
   </td>
-</tr>
-<tr>
   <td>
     <a href="building-a-custom-workflow.md">
       <img alt="ワークフローの設定" src="../assets/BuildingWorkflow.png" />
@@ -128,11 +136,6 @@ ht-degree: 1%
     <a href="building-a-custom-workflow.md"><strong>ワークフローの設定</strong></a>
     </div>
     <em>文書ワークフローを自動化して電子サインとデータをすばやく収集</em>
-    <br>
-  </td>
-  <td>
-    <img alt="スペーサー" src="../assets/Grayspacer.png" />
-    <div>
     <br>
   </td>
   <td>
@@ -177,8 +180,6 @@ ht-degree: 1%
     <em>アカウント共有を設定して、管理者とユーザーが送信、変更、表示の権限を委任できるようにします</em>
     <br>
   </td>
-</tr>
-<tr>
   <td>
     <a href="use-bio-pharma-settings.md">
       <img alt="バイオ医薬業界標準対応の使用" src="../assets/Bio_1280.png" />
@@ -189,7 +190,9 @@ ht-degree: 1%
     <em>FDA 21 CFR Part 11 の要件を満たせるようにバイオ医薬業界標準対応を設定します</em>
     <br>
   </td> 
-  <td>
+</tr>
+<tr>
+   <td>
      <a href="../sign-advanced-users/adobe-sign-text-tagging.md">
       <img alt="Acrobat Sign Text Tagging" src="../assets/Text-Tagging.png" />
     </a>
@@ -197,6 +200,16 @@ ht-degree: 1%
     <a href="../sign-advanced-users/adobe-sign-text-tagging.md"><strong>Acrobat Sign Text Tagging</strong></a>
     <div>
     <em>Adobe Acrobatを使用したテキストタグによるAcrobat Signフォームフィールドの作成</em>
+    <br>
+  </td>
+  <td>
+    <img alt="スペーサー" src="../assets/Grayspacer.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="スペーサー" src="../assets/Grayspacer.png" />
+    <div>
     <br>
   </td>
   <td>
