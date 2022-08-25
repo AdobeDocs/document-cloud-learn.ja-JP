@@ -6,9 +6,9 @@ product: adobe sign
 level: Beginner
 thumbnail: KT-6847.jpg
 exl-id: e58ce43d-2e8e-4804-8f30-6591fa943607
-source-git-commit: 2594c9b50be3801021f89d60f0fc42389a63c86e
+source-git-commit: 85bbf4b7eca9e08d30fa941869a50bea1b248eb1
 workflow-type: tm+mt
-source-wordcount: '404'
+source-wordcount: '422'
 ht-degree: 1%
 
 ---
@@ -66,6 +66,16 @@ ht-degree: 1%
 </tr>
 <tr>
   <td>
+    <a href="sending-options.md">
+      <img alt="送信オプションの設定" src="../assets/Sendingoptions.png" />
+    </a>
+    <div>
+    <a href="sending-options.md"><strong>送信オプションの設定</strong></a>
+    </div>
+    <em>署名用に文書を送信する際の様々なオプションを設定する方法について説明します。</em>
+    <br>
+  </td>
+  <td>
     <a href="adding-fields.md">
       <img alt="文書へのフィールドの追加" src="../assets/AddingFields.png" />
     </a>
@@ -75,7 +85,7 @@ ht-degree: 1%
     <em>様々な種類のフィールドを文書に追加する方法について説明します</em>
     <br>
   </td>
- <td>
+  <td>
     <a href="modify-in-flight.md">
       <img alt="送信後のドキュメントの変更" src="../assets/Modifying-sending.png" />
     </a>
@@ -85,7 +95,7 @@ ht-degree: 1%
     <em>既に進行中のドキュメントの変更</em>
     <br>
   </td>
- <td>
+  <td>
     <a href="replace-signer.md">
       <img alt="署名者の置き換え" src="../assets/replace-signer.png" />
     </a>
@@ -94,11 +104,6 @@ ht-degree: 1%
     </div>
     <em>既に処理中の文書の署名者を変更する方法について説明します。</em>
      <br>
-  </td>
-  <td>
-    <img alt="スペーサー" src="../assets/Grayspacer.png" />
-    <div>
-    <br>
   </td>
 </tr>
 </table>
