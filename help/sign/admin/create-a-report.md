@@ -1,27 +1,26 @@
 ---
-title: レポートの作成
-description: Acrobat Signでレポートを実行、保存、スケジュール設定する方法について説明します
+title: レポート・チャートの作成
+description: 独自のカスタムレポートとデータエクスポートを作成、保存、管理する方法について説明します
 role: User, Admin
-product: adobe sign
 level: Intermediate
 thumbnail: 17357.jpg
 exl-id: 337320ae-6e0c-45f9-8e1f-751a293375ad
-source-git-commit: 7dd142efea19e63d306d603171929283485a8e69
+source-git-commit: e9efa4f72801b5dcccc6c956eb760fe2a9f88595
 workflow-type: tm+mt
-source-wordcount: '63'
-ht-degree: 0%
+source-wordcount: '97'
+ht-degree: 17%
 
 ---
 
-# レポートの作成
+# レポートグラフの作成
 
-Acrobat Signでレポートを実行、保存、スケジュール設定する方法について説明します。
+新しいレポートエクスペリエンスを使用して、パーソナライズされたビューで独自のカスタムレポートとデータエクスポートを構築、保存、管理する方法について説明します。 レポートチャートが使用できるかどうかは、ユーザーの Acrobat Sign システムの権限レベルによって異なります。
 
 >[!NOTE]
 >
 >レポートは、ビジネスレベルおよびエンタープライズレベルのプランでのみ利用できます。
 
->[!VIDEO](https://video.tv.adobe.com/v/17357?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/33812?hidetitle=true)
 
 >[!TIP]
 >

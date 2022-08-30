@@ -8,9 +8,9 @@ getting-started-url: https://helpx.adobe.com/sign/using/get-started-guide.html
 tutorials-title: Tutorials
 tutorials-url: https://helpx.adobe.com/sign/tutorials.html
 breadcrumb-title: Acrobat SignTutorials
-source-git-commit: 75a2b43b76f9fe9fc99de2c84e4e0de06b63138a
+source-git-commit: e9efa4f72801b5dcccc6c956eb760fe2a9f88595
 workflow-type: tm+mt
-source-wordcount: '453'
+source-wordcount: '457'
 ht-degree: 8%
 
 ---
@@ -53,6 +53,7 @@ ht-degree: 8%
    + 管理 {#advanced-tasks-managing}
       + [文書テンプレートの管理](sign-advanced-users/edit-a-template.md)
       + [既存の Web フォームの変更](sign-advanced-users/modify-webform.md)
+      + [レポートの作成](sign-advanced-users/creating-a-report.md)
 + 管理 {#admin-set-up}
    + [概要](admin/intro-admin-overview.md)
    + はじめに {#getting-started-admin}
@@ -62,7 +63,7 @@ ht-degree: 8%
       + [グループの作成と管理](admin/create-and-manage-groups.md)
       + [外部アーカイブの設定](admin/set-up-your-external-archive.md)
       + [テンプレートの作成](sign-advanced-users/create-a-template.md)
-      + [レポートの作成](admin/create-a-report.md)
+      + [レポートグラフの作成](admin/create-a-report.md)
       + [Web フォームの作成](sign-advanced-users/webform.md)
       + [既存の Web フォームの変更](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/advanced-tasks/advanced-tasks-managing/modify-webform.html)
       + [署名を一括で送信して収集](sign-advanced-users/megasign.md)
