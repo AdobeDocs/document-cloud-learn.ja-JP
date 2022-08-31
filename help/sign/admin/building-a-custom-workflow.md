@@ -6,9 +6,9 @@ product: adobe sign
 level: Experienced
 thumbnail: 33656.jpg
 exl-id: b892b278-cf83-461d-a548-57237b85b297
-source-git-commit: e02b1250de94ec781e7984c6c146dbae993f5d31
+source-git-commit: 3e12b86951b7d5ba5cde467f385de3a7798c8ba5
 workflow-type: tm+mt
-source-wordcount: '120'
+source-wordcount: '149'
 ht-degree: 0%
 
 ---
@@ -22,8 +22,12 @@ ht-degree: 0%
 * [政府契約および購買依頼Forms](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/gov/usecasegovcontracts.html?lang=en) ユースケース
 * [商用契約と購買依頼のForms](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/com/usecasecomcontracts.html?lang=en) ユースケース
 
+>[!NOTE]
+>
+>グループ管理者は、自分が管理するすべてのグループ（プライマリグループだけでなく）にワークフローを割り当てることができます。 グループ管理者は、管理するグループに割り当てられているワークフローを編集することもできます。
+
 >[!VIDEO](https://video.tv.adobe.com/v/33656?hidetitle=true)
 
 >[!TIP]
 >
->このビデオはコースの一部です [管理者向けAcrobat Sign ファーストステップガイド](https://experienceleague.adobe.com/?recommended=Sign-A-1-2020.2) それは無料で利用できますExperience League!
+>このビデオはコースの一部です [管理者向けAcrobat Sign入門](https://experienceleague.adobe.com/?recommended=Sign-A-1-2020.2) それは無料で利用できますExperience League!
