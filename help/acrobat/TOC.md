@@ -2,9 +2,9 @@
 user-guide-title: AcrobatTutorials
 solution: Acrobat
 breadcrumb-title: AcrobatTutorials
-source-git-commit: cc64dfeb47dae1b061cc75fffbfc402d549391e3
+source-git-commit: 6c54ff6963cfa41b1c486aeb8c94861448abb627
 workflow-type: tm+mt
-source-wordcount: '401'
+source-wordcount: '403'
 ht-degree: 8%
 
 ---
@@ -20,20 +20,21 @@ ht-degree: 8%
    + [Acrobat Web でどこでも作業](getting-started/acrobatweb.md)
    + [モバイルで仕事をこなす](getting-started/productivity.md)
    + [使用する [!DNL Microsoft 365]](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/integrations/integrate-overview.html#microsoft)
-   + [リアルタイムの共同作業](getting-started/collaborate.md)
-   + [Combine FilesからPDF](getting-started/combine-to-pdf.md)
+   + [PDFの出所](getting-started/where-do-pdfs-come-from.md)
    + [PDF の作成](getting-started/create-pdf.md)
-   + [PDF](getting-started/comment-on-pdf-files.md)
-   + [PDF を編集](getting-started/edit-pdf.md)
-   + [編集可能な形式へのPDFの書き出し](getting-started/export-pdf.md)
-   + [入力可能なフォームの作成](getting-started/create-fillable-forms.md)
-   + [スキャンと OCR](getting-started/scan-and-ocr.md)
+   + [Combine FilesからPDF](getting-started/combine-to-pdf.md)
    + [ページを整理](getting-started/organize.md)
-   + [PDFファイルへのパスワードのProtect](getting-started/password-protect.md)
+   + [PDF を編集](getting-started/edit-pdf.md)
+   + [レイアウトの自動調整](getting-started/auto-adjust-layout.md)
+   + [編集可能な形式へのPDFの書き出し](getting-started/export-pdf.md)
+   + [リアルタイムの共同作業](getting-started/collaborate.md)
+   + [PDF](getting-started/comment-on-pdf-files.md)
+   + [入力可能なフォームの作成](getting-started/create-fillable-forms.md)
    + [Fill &amp; SignPDF forms](getting-started/fill-and-sign.md)
+   + [スキャンと OCR](getting-started/scan-and-ocr.md)
+   + [PDFファイルへのパスワードのProtect](getting-started/password-protect.md)
    + [署名を取得](getting-started/signatures.md)
    + [ドキュメントのトラック](getting-started/track.md)
-   + [PDFの出所](getting-started/where-do-pdfs-come-from.md)
 + 高度なタスク {#advanced-tasks}
    + [概要](advanced-tasks/advanced-tasks-overview.md)
    + [ブックマークとハイパーリンクの追加](advanced-tasks/bookmarks.md)
