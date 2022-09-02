@@ -7,9 +7,9 @@ level: Beginner
 thumbnail: KT-8493.jpg
 KT: 8493
 exl-id: 43750150-6e0d-4326-946d-61e1bae86f2a
-source-git-commit: 744006c7d8229df39a202355b7b79bf9f6a38b3d
+source-git-commit: 4dfd14c89c11c07b9a2fc0c62e869b11a1ac00bc
 workflow-type: tm+mt
-source-wordcount: '529'
+source-wordcount: '527'
 ht-degree: 0%
 
 ---
@@ -54,8 +54,6 @@ ht-degree: 0%
     <em>Word のファイルとフォームをPDFに変換し、フォームフィールドを自動的に作成</em>
     <br>
   </td>
-</tr>
-<tr>
   <td>
     <a href="accessible.md">
       <img alt="AcrobatでアクセシブルなPDF" src="../assets/60sec_Accessible_1280.jpg" />
@@ -66,6 +64,8 @@ ht-degree: 0%
     <em>アクセス可能なPDFの確認</em>
     <br>
   </td>
+</tr>
+<tr>
   <td>
     <a href="exportwordphone.md">
       <img alt="Export PDFから Word へ" src="../assets/60sec_Exportphone_1280.jpg" />
@@ -86,8 +86,6 @@ ht-degree: 0%
     <em>スキャンしたPDFを変換して、PDF</em>
     <br>
   </td>
-</tr>
-<tr>
   <td>
     <a href="combine-to-one-pdf.md">
       <img alt="ファイルを 1 つのPDFに" src="../assets/60sec_Combine_1280.jpg" />
@@ -108,6 +106,8 @@ ht-degree: 0%
     <em>PDFをダウンロードしなくても、テキストや画像を簡単に編集できます</em>
     <br>
   </td>
+</tr>
+<tr>
   <td>
     <a href="search.md">
       <img alt="複数のPDFファイルの一括検索" src="../assets/60sec_Search_1280.jpg" />
@@ -118,8 +118,6 @@ ht-degree: 0%
     <em>PDFファイルで検索を開始し、「詳細検索」を開いてフォルダーファイル全体をPDFします</em>
     <br>
   </td>
-</tr>
-<tr>
   <td>
     <a href="photo.md">
       <img alt="写真のPDFを瞬時に作成" src="../assets/60sec_Photo_1280.jpg" />
@@ -149,7 +147,7 @@ ht-degree: 0%
     </div>
     <em>Adobe Scanを使用して印刷フォームに署名する方法について説明します。</em>
     <br>
-  </td>  
+  </td>
 </tr>
 <tr>
   <td>
@@ -181,9 +179,7 @@ ht-degree: 0%
     </div>
     <em>Illustratorを使用して、PDFのグラフィックに高度な編集を加える方法について説明します</em>
     <br>
-  </td> 
-</tr>
-<tr>
+  </td>
   <td>
     <a href="organize.md">
       <img alt="ページを瞬時に整理" src="../assets/60sec_Organize_1280.jpg" />
@@ -194,15 +190,5 @@ ht-degree: 0%
     <em>ページを整理ツールを使用して、PDFを俯瞰する方法を説明します</em>
     <br>
   </td>
-  <td>
-   <img alt="スペーサー" src="../assets/Grayspacer.png" />
-    <div>
-    <br>
-  </td>
-  <td>
-   <img alt="スペーサー" src="../assets/Grayspacer.png" />
-    <div>
-    <br>
-  </td>  
 </tr>
 </table>

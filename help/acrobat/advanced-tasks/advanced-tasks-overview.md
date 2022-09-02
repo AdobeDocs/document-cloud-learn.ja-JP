@@ -6,9 +6,9 @@ product: adobe acrobat
 level: Experienced
 thumbnail: KT-6857.jpg
 exl-id: 2e2dc54d-23e1-4bd8-81de-62131aa5c966
-source-git-commit: 42ea703db2923063c572a4ff0102eeea1c1f3d19
+source-git-commit: 4dfd14c89c11c07b9a2fc0c62e869b11a1ac00bc
 workflow-type: tm+mt
-source-wordcount: '341'
+source-wordcount: '343'
 ht-degree: 3%
 
 ---
@@ -19,7 +19,7 @@ ht-degree: 3%
 
 Acrobatの高度なツールで、さらに高度な編集が可能です。 日常的な作業の繰り返し、機密情報の削除、大きなファイルの削減と最適化、フォームデータの迅速な収集、ユニバーサルアクセス可能なPDFファイルの作成などを行うアクションの作成方法を説明します。
 
-## Acrobat tutorials
+## 高度なタスクチュートリアル
 
 <table style="table-layout:fixed">
 <tr>
@@ -53,9 +53,7 @@ Acrobatの高度なツールで、さらに高度な編集が可能です。 日
     <em>カスタムコマンドとツールを使用して、文書ワークフローの生産性を向上</em>
     <br>
   </td>
-</tr>
-<tr>
-   <td>
+  <td>
     <a href="advancedforms.md">
       <img alt="高度なフォームフィールド" src="../assets/Advancedforms_1280.png" />
     </a>
@@ -65,6 +63,8 @@ Acrobatの高度なツールで、さらに高度な編集が可能です。 日
     <em>プロフェッショナルなPDF forms</em>
     <br>
   </td>
+</tr>
+<tr>
  <td>
     <a href="optimizeseo.md">
       <img alt="SEO(Search Engine Optimization) のOptimize PDF" src="../assets/seo_1280.png" />
@@ -85,8 +85,6 @@ Acrobatの高度なツールで、さらに高度な編集が可能です。 日
     <em>様々なタイプのフォームフィールドの追加、フォームフィールドプロパティの設定、セキュリティの追加をおこなって、高品質でプロフェッショナルなフォームを作成できます</em>
     <br>
   </td>
-</tr>
-<tr>
   <td>
     <a href="enhance.md">
       <img alt="PDF" src="../assets/Enhance_1280.png" />
@@ -107,6 +105,8 @@ Acrobatの高度なツールで、さらに高度な編集が可能です。 日
     <em>2 つのファイル間の差異をすばやく正確にPDFする</em>
     <br>
   </td>
+</tr>
+<tr>
   <td>
     <a href="action.md">
       <img alt="アクションウィザード" src="../assets/Action.jpg" />
@@ -117,9 +117,7 @@ Acrobatの高度なツールで、さらに高度な編集が可能です。 日
     <em>アクションを使用して一連のコマンドを 1 つまたは複数のファイルに自動的に適用することで、時間とキーストロークを節約できます</em>
     <br>
   </td>
-</tr>
-<tr>
- <td>
+  <td>
     <a href="redact.md">
       <img alt="墨消しと削除" src="../assets/Redact.jpg" />
     </a>
@@ -172,7 +170,12 @@ Acrobatの高度なツールで、さらに高度な編集が可能です。 日
     <br>
   </td>
   <td>
-   <img alt="スペーサー" src="../assets/Whitespacer.png" />
+   <img alt="スペーサー" src="../assets/Grayspacer.png" />
+    <div>
+    <br>
+  </td> 
+  <td>
+   <img alt="スペーサー" src="../assets/Grayspacer.png" />
     <div>
     <br>
   </td>  
