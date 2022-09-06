@@ -2,9 +2,9 @@
 user-guide-title: AcrobatTutorials
 solution: Acrobat
 breadcrumb-title: AcrobatTutorials
-source-git-commit: 6c54ff6963cfa41b1c486aeb8c94861448abb627
+source-git-commit: 7d25edcbbd49ebc182f74c24fecb2288386204ab
 workflow-type: tm+mt
-source-wordcount: '403'
+source-wordcount: '406'
 ht-degree: 8%
 
 ---
@@ -24,6 +24,7 @@ ht-degree: 8%
    + [PDF の作成](getting-started/create-pdf.md)
    + [Combine FilesからPDF](getting-started/combine-to-pdf.md)
    + [ページを整理](getting-started/organize.md)
+   + [カスタムページの追加](getting-started/add-custom-page.md)
    + [PDF を編集](getting-started/edit-pdf.md)
    + [レイアウトの自動調整](getting-started/auto-adjust-layout.md)
    + [編集可能な形式へのPDFの書き出し](getting-started/export-pdf.md)
