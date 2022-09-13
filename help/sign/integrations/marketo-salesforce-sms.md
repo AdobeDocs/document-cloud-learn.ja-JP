@@ -1,5 +1,5 @@
 ---
-title: Salesforce およびMarketo用Acrobat Sign を使用した通知の送信
+title: Salesforce 用Acrobat SignおよびMarketoを使用した通知の送信
 description: テキストメッセージ、電子メール、プッシュ通知を送信して、署名者に契約書が署名中であることを知らせる方法を説明します。
 role: Admin
 product: adobe sign
@@ -8,16 +8,16 @@ level: Intermediate
 topic-revisit: Integrations
 thumbnail: KT-7248.jpg
 exl-id: ac3334ec-b65f-4ce4-b323-884948f5e0a6
-source-git-commit: e02b1250de94ec781e7984c6c146dbae993f5d31
+source-git-commit: 4827c827ee06c94c38290d5f0e716e8a8328bd48
 workflow-type: tm+mt
-source-wordcount: '690'
+source-wordcount: '688'
 ht-degree: 1%
 
 ---
 
-# Salesforce およびMarketo用Acrobat Sign を使用した通知の送信
+# Acrobat Sign for [!DNL Salesforce] および [!DNL Marketo]
 
-Acrobat Sign、Salesforce 用Acrobat Sign、Marketo、Marketo Salesforce Sync を使用して、契約書が署名中であることを署名者に知らせるためのテキストメッセージ、電子メール、プッシュ通知を送信する方法について説明します。 Marketoから通知を送信するには、まずMarketo SMS 管理機能を購入するか、設定する必要があります。 このチュートリアルでは [Twilio SMS](https://launchpoint.marketo.com/twilio/twilio-sms-for-marketo/)その他のMarketo SMS ソリューションも利用できます。
+Acrobat Sign、Salesforce 用Acrobat Sign、Marketo、Marketo Salesforce の同期を使用して、契約書が署名者に送信されていることを知らせるテキストメッセージ、電子メール、プッシュ通知の送信方法について説明します。 Marketoから通知を送信するには、まずMarketo SMS 管理機能を購入するか、設定する必要があります。 このチュートリアルでは [Twilio SMS](https://launchpoint.marketo.com/twilio/twilio-sms-for-marketo/)その他のMarketo SMS ソリューションも利用できます。
 
 ## 前提条件
 
@@ -25,13 +25,13 @@ Acrobat Sign、Salesforce 用Acrobat Sign、Marketo、Marketo Salesforce Sync �
 
    情報と Salesforce Sync 用の最新プラグインが利用可能です [はい。](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/salesforce-sync/understanding-the-salesforce-sync.html)
 
-1. Salesforce 用Acrobat Sign をインストールします。
+1. Salesforce 用Acrobat Signをインストールします。
 
    このプラグインに関する情報は利用可能です [はい。](https://helpx.adobe.com/ca/sign/using/salesforce-integration-installation-guide.html)
 
 ## カスタムオブジェクトの検索
 
-Marketo Salesforce 同期と Salesforce 用Acrobat Sign の設定が完了すると、Marketo管理ターミナルにいくつかの新しいオプションが表示されます。
+Marketo Salesforce 同期と Salesforce 用Acrobat Signの設定が完了すると、Marketo管理ターミナルにいくつかの新しいオプションが表示されます。
 
 ![管理者](assets/adminTab.png)
 
@@ -151,4 +151,4 @@ Marketo - Twilio SMS webhook の設定には、アカウントから 3 つの Tw
 
 >[!TIP]
 >
->このチュートリアルはコースの一部です [Salesforce およびMarketo用Acrobat Sign で販売サイクルを加速](https://experienceleague.adobe.com/?recommended=Sign-U-1-2021.1) それは無料で利用できますExperience League!
+>このチュートリアルはコースの一部です [Salesforce 向けAcrobat SignとMarketoで販売サイクルを加速](https://experienceleague.adobe.com/?recommended=Sign-U-1-2021.1) それは無料で利用できますExperience League!

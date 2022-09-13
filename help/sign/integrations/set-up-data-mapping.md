@@ -1,21 +1,21 @@
 ---
 title: データマッピングの設定
-description: Salesforce でAcrobat Sign のデータマッピングを設定する方法について説明します。
+description: Acrobat Signのデータマッピングを [!DNL Salesforce]
 role: Admin
 product: adobe sign
 level: Intermediate
 topic-revisit: Integrations
 thumbnail: 17351.jpg
 exl-id: 52b858aa-9ec9-44dd-b48e-5ae009f75846
-source-git-commit: e02b1250de94ec781e7984c6c146dbae993f5d31
+source-git-commit: 4827c827ee06c94c38290d5f0e716e8a8328bd48
 workflow-type: tm+mt
-source-wordcount: '51'
+source-wordcount: '47'
 ht-degree: 0%
 
 ---
 
-# Salesforce でのデータマッピングの設定
+# でのデータマッピングの設定 [!DNL Salesforce]
 
-Salesforce でAcrobat Sign のデータマッピングを設定する方法について説明します。 データマッピングを使用すると、契約書の署名後にデータを Salesforce に戻すことができます。
+Acrobat Signのデータマッピングを [!DNL Salesforce]を選択します。 データマッピングを使用すると、データを取得できます _戻る_ を [!DNL Salesforce] 契約書の署名後。
 
->[!VIDEO](https://video.tv.adobe.com/v/17351?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3409073?hidetitle=true)
