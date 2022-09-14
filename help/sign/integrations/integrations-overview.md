@@ -7,9 +7,9 @@ level: Intermediate
 topic-revisit: Integrations
 thumbnail: KT-6850.jpg
 exl-id: 2b1b9fae-7b4c-4092-aec7-c2025ef07cf4
-source-git-commit: 59ff31d39cbc890a68fba1ca62efb278f154c155
+source-git-commit: 16514daae1250663dcee1e441873ac07ee9a3906
 workflow-type: tm+mt
-source-wordcount: '544'
+source-wordcount: '548'
 ht-degree: 0%
 
 ---
@@ -80,13 +80,35 @@ Acrobat Signは、組織で既に使用している他のアプリケーショ�
     <br>
   </td>
   <td>
-    <a href="documentautomation.md">
-      <img alt="Acrobat Sign for Microsoft Power Platform による文書の自動化" src="../assets/SF-Button.png" />
+    <a href="auto-archive-sharepoint-power-automate.md">
+      <img alt="ファイルの自動アーカイブ [!DNL SharePoint] を [!DNL Power Automate]" src="../assets/Autoarchive.png" />
     </a>
     <div>
-    <a href="documentautomation.md"><strong>Acrobat Sign for Microsoft Power Platform による文書の自動化</strong></a>
+    <a href="auto-archive-sharepoint-power-automate.md"><strong>ファイルの自動アーカイブ [!DNL SharePoint] を [!DNL Power Automate]</strong></a>
     </div>
-    <em>Microsoft Power Apps 用のAcrobat SignおよびAdobe PDF Tools コネクタをアクティブにして使用する方法について説明します</em>
+    <em>署名済み文書を [!DNL SharePoint] ライブラリ [!DNL Power Automate]</em>
+    <br>
+  </td>
+</tr>
+<tr>
+  <td>
+    <a href="documentautomation.md">
+      <img alt="文書の自動処理 [!DNL Acrobat Sign for Microsoft Power Platform]" src="../assets/SF-Button.png" />
+    </a>
+    <div>
+    <a href="documentautomation.md"><strong>文書の自動処理 [!DNL Acrobat Sign for Microsoft Power Platform]</strong></a>
+    </div>
+    <em>ライセンス認証を行い、 [!DNL Acrobat Sign] および [!DNL Adobe PDF Tools] コネクタ [!DNL Microsoft Power] apps</em>
+    <br>
+  </td>
+  <td>
+    <img alt="スペーサー" src="../assets/Whitespacer.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="スペーサー" src="../assets/Whitespacer.png" />
+    <div>
     <br>
   </td>
 </tr>

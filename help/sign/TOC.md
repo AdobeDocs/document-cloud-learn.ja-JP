@@ -8,9 +8,9 @@ getting-started-url: https://helpx.adobe.com/sign/using/get-started-guide.html
 tutorials-title: Tutorials
 tutorials-url: https://helpx.adobe.com/sign/tutorials.html
 breadcrumb-title: Acrobat SignTutorials
-source-git-commit: e9efa4f72801b5dcccc6c956eb760fe2a9f88595
+source-git-commit: 16514daae1250663dcee1e441873ac07ee9a3906
 workflow-type: tm+mt
-source-wordcount: '457'
+source-wordcount: '462'
 ht-degree: 8%
 
 ---
@@ -93,6 +93,7 @@ ht-degree: 8%
       + [SharePoint Onlineでの署名用に送信](integrations/send-for-signature-with-sharepoint-online.md)
       + [SharePoint Onlineでのトラッキング](integrations/track-an-agreement-with-sharepoint-online.md)
       + [署名用に送信 [!DNL Microsoft Teams]](integrations/adobe-sign-teams-mortgage.md)
+      + [ファイルの自動アーカイブ [!DNL SharePoint] を [!DNL Power Automate]](integrations/auto-archive-sharepoint-power-automate.md)
       + [Acrobat Sign for Microsoft Power Platform による文書の自動化](integrations/documentautomation.md)
    + Salesforce {#salesforce}
       + [文書テンプレートの作成](integrations/create-an-agreement-template.md)
