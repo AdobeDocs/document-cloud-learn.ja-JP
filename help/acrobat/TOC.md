@@ -2,10 +2,10 @@
 user-guide-title: AcrobatTutorials
 solution: Acrobat
 breadcrumb-title: AcrobatTutorials
-source-git-commit: 7d25edcbbd49ebc182f74c24fecb2288386204ab
+source-git-commit: 3b2b8993fefea4a719cb0a642245d9339684eebf
 workflow-type: tm+mt
-source-wordcount: '406'
-ht-degree: 8%
+source-wordcount: '410'
+ht-degree: 9%
 
 ---
 
@@ -114,3 +114,4 @@ ht-degree: 8%
 + モバイル {#mobile}
    + [概要](mobile/mobile-overview.md)
    + [モバイルで仕事をこなす](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/getting-started/productivity.html)
+   + [スキャンしてPDF](mobile/scan-mobile-app.md)

@@ -8,9 +8,9 @@ topic-revisit: mobile
 thumbnail: KT-6863.jpg
 kt: 6863
 exl-id: d9fe154b-adf9-49da-ab15-6806a0f10edc
-source-git-commit: 42ea703db2923063c572a4ff0102eeea1c1f3d19
+source-git-commit: 790253a6c1bf5a7e1dbb2e526b8d8b3d3825396e
 workflow-type: tm+mt
-source-wordcount: '199'
+source-wordcount: '231'
 ht-degree: 0%
 
 ---
@@ -33,6 +33,33 @@ ht-degree: 0%
      <a href="../getting-started/productivity.md"><strong>モバイルで仕事をこなす</strong></a>
     </div>
     <em>Acrobat Readerモバイル版アプリを使用すれば、タブレットやスマートフォンから直接作業できます</em>
+    <br>
+  </td>
+  <td>
+   <img alt="スペーサー" src="../assets/Whitespacer.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+   <img alt="スペーサー" src="../assets/Whitespacer.png" />
+    <div>
+    <br>
+  </td>
+</tr>
+</table>
+
+## Adobe Scan mobile app tutorials
+
+<table style="table-layout:fixed">
+<tr>
+  <td>
+    <a href="scan-mobile-app.md">
+      <img alt="スキャンしてPDF" src="../assets/Scanmobile.png" />
+    </a>
+    <div>
+     <a href="scan-mobile-app.md"><strong>スキャンしてPDF</strong></a>
+    </div>
+    <em>無料のAdobe Scanモバイルアプリを使用して、紙の文書をPDFに変換する方法について説明します</em>
     <br>
   </td>
   <td>
