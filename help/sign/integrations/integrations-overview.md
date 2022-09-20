@@ -7,9 +7,9 @@ level: Intermediate
 topic-revisit: Integrations
 thumbnail: KT-6850.jpg
 exl-id: 2b1b9fae-7b4c-4092-aec7-c2025ef07cf4
-source-git-commit: 34c3e250fa72561722faec2d3abca312f32e7538
+source-git-commit: 647c1030b36c0126979396fe87cb0e6c4b76490b
 workflow-type: tm+mt
-source-wordcount: '557'
+source-wordcount: '565'
 ht-degree: 0%
 
 ---
@@ -120,12 +120,12 @@ Acrobat Signは、組織で既に使用している他のアプリケーショ�
 <tr>
   <td>
     <a href="create-an-agreement-template.md">
-      <img alt="Salesforce 用Acrobat Signでの文書テンプレートの作成" src="../assets/SF-Template.png" />
+      <img alt="再利用可能な文書テンプレートを作成する方法をご確認ください。 [!DNL Salesforce]" src="../assets/SF-Template.png" />
     </a>
     <div>
-    <a href="create-an-agreement-template.md"><strong>Salesforce 用Acrobat Signでの文書テンプレートの作成</strong></a>
+    <a href="create-an-agreement-template.md"><strong>再利用可能な文書テンプレートを作成する方法をご確認ください。 [!DNL Salesforce]</strong></a>
     </div>
-    <em>再利用可能な文書テンプレートを作成してすばやく一貫性を保つ</em>
+    <em>再利用可能な文書テンプレートを作成する方法をご確認ください。 [!DNL Salesforce]</em>
     <br>
   </td>
   <td>

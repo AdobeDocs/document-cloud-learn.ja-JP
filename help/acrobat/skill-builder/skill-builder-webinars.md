@@ -5,9 +5,9 @@ product: adobe acrobat
 level: Intermediate
 thumb: KT-8199.jpg
 exl-id: 56ef2120-1765-4ed4-bf80-b048cbabe805
-source-git-commit: 887752f71e1ef9573346377ea8853a8a4bbb1301
+source-git-commit: 647c1030b36c0126979396fe87cb0e6c4b76490b
 workflow-type: tm+mt
-source-wordcount: '512'
+source-wordcount: '819'
 ht-degree: 0%
 
 ---
@@ -19,6 +19,18 @@ ht-degree: 0%
 Adobe Acrobat Skill Builder のセッションは 30 分間で終了します。このセッションでは、PDFのワークフローをレベルアップできます。 月ごとに新しいトピックがハイライトされます。
 
 ## 月間セッション
+
+* **[MicrosoftPDFでの作業](https://adobe-acrobat-skill-builder.joinus.adobeevents.com/attendease/networking/experience/f7e3961b-e322-4253-bfa4-ff1957a08d99/c1111644-e958-41bf-ad6e-dffafafa7fa0){target=&quot;_blank&quot;}**
+日付：2022 年 12 月 15 日AcrobatはMicrosoft 365 アプリに完全に統合されました。画面を切り替える必要がなく、作業の流れの中でより多くの作業をおこなうことができます。 このスキルビルダーセッションでは、Teams、Outlook、SharePoint、Word、PowerPoint、Excel など、日常的に使用するMicrosoftアプリケーションにPDF業務を追加する方法について説明します。
+
+* **[PDFコラボレーション：共有、レビュー、共同作業](https://adobe-acrobat-skill-builder.joinus.adobeevents.com/attendease/networking/experience/d1eb8544-6268-4855-8500-2370b1e68045/0dd92858-0587-49f4-be60-8d48c140ef39){target=&quot;_blank&quot;}**
+日付：2022 年 11 月 17 日このスキルビルダーは、デジタル文書の共同作業に特化したツールです。 チームで文書を簡単にレビューする方法を学習し、利用可能な注釈ツールのツアーを取得しましょう。 また、Microsoft Teamsで他のユーザーとPDFを確認し、AcrobatモバイルアプリとAcrobat Web を使用してどこからでもフィードバックを提供する方法についても説明します。
+
+* **[PDFコンテンツの再利用：編集と書き出し](https://adobe-acrobat-skill-builder.joinus.adobeevents.com/attendease/networking/experience/68a9bbf2-91ca-40f0-baa1-812dd0730e0b/48c2399c-7392-4d7d-ba51-f623dead313a){target=&quot;_blank&quot;}**
+日付：2022 年 10 月 27 日既存のPDFテキストや画像の編集、ハイパーリンクやブックマークの追加、Microsoft Word、PowerPoint、Excel ファイルなどへの変換が可能です。
+
+* **[今日から始めるAcrobat](https://adobe-acrobat-skill-builder.joinus.adobeevents.com/attendease/networking/experience/360c9159-3f6f-47ae-8320-d0ad391883e1/e54db15b-af50-40ff-a274-6e927a22c6e7){target=&quot;_blank&quot;}**
+日付：2022 年 9 月 22 日Adobe AcrobatとPDF Acrobatのインターフェイスの概要と次の方法について説明します。*PDFは、Word、Excel、PowerPoint などの画像ファイルや文書から作成できます。 *複数のファイル (PDF、Word、画像など ) を 1 つの編集可能なPDFに * Acrobat Web およびモバイル版なら、いつでもどこでも作業ができます。
 
 * **[PDFセキュリティ](https://adobe-acrobat-skill-builder.joinus.adobeevents.com/attendease/networking/experience/ad3778d2-f2c3-4966-98ed-8b1bb90e4b2b/180ad785-1b5b-4c80-80ab-1df345f082ff){target=&quot;_blank&quot;}**
 日付：2022 年 8 月 25 日情報コンテンツの保護に関する必要なPDFを入手 このセッションでは、PDFの表示、編集、印刷を防ぐためのパスワードの追加方法を紹介します。目に見えないメタデータから機密情報を完全に削除する方法も紹介します。

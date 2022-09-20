@@ -8,7 +8,7 @@ getting-started-url: https://helpx.adobe.com/sign/using/get-started-guide.html
 tutorials-title: Tutorials
 tutorials-url: https://helpx.adobe.com/sign/tutorials.html
 breadcrumb-title: Acrobat SignTutorials
-source-git-commit: 16514daae1250663dcee1e441873ac07ee9a3906
+source-git-commit: 647c1030b36c0126979396fe87cb0e6c4b76490b
 workflow-type: tm+mt
 source-wordcount: '462'
 ht-degree: 8%
@@ -96,7 +96,7 @@ ht-degree: 8%
       + [ファイルの自動アーカイブ [!DNL SharePoint] を [!DNL Power Automate]](integrations/auto-archive-sharepoint-power-automate.md)
       + [Acrobat Sign for Microsoft Power Platform による文書の自動化](integrations/documentautomation.md)
    + Salesforce {#salesforce}
-      + [文書テンプレートの作成](integrations/create-an-agreement-template.md)
+      + [Salesforce 用ドキュメントビルダー](integrations/create-an-agreement-template.md)
       + [データマッピングの設定](integrations/set-up-data-mapping.md)
       + [結合マッピングの設定](integrations/set-up-merging-map.md)
       + [カスタムボタンの作成](integrations/create-a-custom-button.md)
