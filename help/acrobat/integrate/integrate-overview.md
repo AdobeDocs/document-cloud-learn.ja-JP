@@ -7,9 +7,9 @@ level: Beginner
 topic-revisit: Integrations
 thumbnail: KT-6859.jpg
 exl-id: 76cb40b4-bbb4-4f50-b01d-4c5a74bf9f20
-source-git-commit: 42ea703db2923063c572a4ff0102eeea1c1f3d19
+source-git-commit: 34c3e250fa72561722faec2d3abca312f32e7538
 workflow-type: tm+mt
-source-wordcount: '281'
+source-wordcount: '299'
 ht-degree: 1%
 
 ---
@@ -120,10 +120,35 @@ Acrobatと [!DNL Box], [!DNL Dropbox], [!DNL Google Drive], [!DNL OneDrive]お�
 </tr>
 </table>
 
+## Dropbox
+
+次の場所に保存されたファイルに簡単にアクセスして操作する方法を説明します。 [!DNL Dropbox]を選択します。
+
+<table style="table-layout:fixed">
+<tr>
+  <td>
+    <a href="acrobat-dropbox.md">
+      <img alt="ファイルの操作 [!DNL Dropbox]" src="../assets/Dropbox.png" />
+    </a>
+    <div>
+    <a href="acrobat-dropbox.md"><strong>ファイルの操作 [!DNL Dropbox]</strong></a>
+    </div>
+    <em>文書を開いて、変更内容を PDF に保存する方法を説明します。 [!DNL Dropbox] Acrobat内のファイル</em>
+    <br>
+  </td>
+  <td>
+   <img alt="スペーサー" src="../assets/Whitespacer.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+   <img alt="スペーサー" src="../assets/Whitespacer.png" />
+    <div>
+    <br>
+  </td>
+</tr>
+</table>
+
 ## Box
 
 Acrobatと [ボックス](https://www.adobe.com/documentcloud/integrations/box.html){target=&quot;_blank&quot;} 組織内の全員がビジネスを円滑に進められるようにします。
-
-## Dropbox
-
-次の場所に保存されているPDFに [Dropbox](https://www.adobe.com/documentcloud/integrations/dropbox.html){target=&quot;_blank&quot;}。

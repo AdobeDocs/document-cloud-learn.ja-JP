@@ -2,9 +2,9 @@
 user-guide-title: AcrobatTutorials
 solution: Acrobat
 breadcrumb-title: AcrobatTutorials
-source-git-commit: 3b2b8993fefea4a719cb0a642245d9339684eebf
+source-git-commit: c8d43af1f50591c26325fa4e1fd50115eae6e3be
 workflow-type: tm+mt
-source-wordcount: '410'
+source-wordcount: '408'
 ht-degree: 9%
 
 ---
@@ -85,10 +85,11 @@ ht-degree: 9%
    + [PDFの作成元 [!DNL Microsoft Word]](integrate/createfromword.md)
    + [PDFの作成 [!DNL Office] web 用](integrate/createofficeweb.md)
    + [PDFコラボレーション [!DNL Microsoft Teams]](integrate/acrobatandteams.md)
-   + [SharePointファイルの操作](integrate/acrobatandsp.md)
-   + [Outlook で電子メールメッセージと添付ファイルをPDFに変換する](integrate/outlook.md)
-   + [Microsoft Edge での参照時にPDFコンテンツを作成する](integrate/edge.md)
-   + [Google Drive 向けAdobe Acrobat](integrate/acrobatandgoogle.md)
+   + [クリエイティブアプリ [!DNL SharePoint] ファイル](integrate/acrobatandsp.md)
+   + [電子メールメッセージと添付ファイルを [!DNL Outlook]](integrate/outlook.md)
+   + [参照中にPDFコンテンツを作成する [!DNL Microsoft Edge]](integrate/edge.md)
+   + [Adobe Acrobat [!DNL Google Drive]](integrate/acrobatandgoogle.md)
+   + [ファイルの操作 [!DNL Dropbox]](integrate/acrobat-dropbox.md)
 + 業種および部門 {#by-industry}
    + [概要](industry/industry-overview.md)
    + 官公庁 {#gov}
