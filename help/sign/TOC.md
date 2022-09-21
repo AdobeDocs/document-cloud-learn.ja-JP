@@ -8,9 +8,9 @@ getting-started-url: https://helpx.adobe.com/sign/using/get-started-guide.html
 tutorials-title: Tutorials
 tutorials-url: https://helpx.adobe.com/sign/tutorials.html
 breadcrumb-title: Acrobat SignTutorials
-source-git-commit: 647c1030b36c0126979396fe87cb0e6c4b76490b
+source-git-commit: 4c797e03a02a71bafe1fb3d38c35af88909d4e03
 workflow-type: tm+mt
-source-wordcount: '462'
+source-wordcount: '466'
 ht-degree: 8%
 
 ---
@@ -50,6 +50,7 @@ ht-degree: 8%
       + [Web フォームの作成](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/webform.html)
       + [オンライン決済の設定](sign-advanced-users/set-up-online-payments.md)
       + [Acrobat Sign Text Tagging](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/advanced-tasks-admins/adobe-sign-text-tagging.html)
+      + [でのテキストタグの使用 [!DNL Microsoft Word]](sign-advanced-users/text-tagging-word.md)
    + 管理 {#advanced-tasks-managing}
       + [文書テンプレートの管理](sign-advanced-users/edit-a-template.md)
       + [既存の Web フォームの変更](sign-advanced-users/modify-webform.md)
