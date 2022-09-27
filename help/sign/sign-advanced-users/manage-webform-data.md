@@ -6,9 +6,9 @@ product: adobe sign
 solution: Acrobat Sign
 level: Intermediate
 thumbnail: KT-10981.jpg
-source-git-commit: 8c18bb9a33550568de7e5eb6b7d3a13aa7336fa4
+source-git-commit: 23ca497130a78091219ba3a611a37658f10ea629
 workflow-type: tm+mt
-source-wordcount: '82'
+source-wordcount: '97'
 ht-degree: 0%
 
 ---
@@ -19,6 +19,6 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Acrobat Sign管理者が **参加者の追加を許可** 」を **Web フォーム** セクション **グローバル設定** 」をクリックして、追加の参加者ワークフローを使用します。
+>Web フォームアクセスと署名者オプションを設定するオプションがあるのは、ビジネスレベルとエンタープライズレベルのプランのみです。 Web フォームのアクセスと署名者のオプションは、アカウント/アカウント設定/グローバル設定/Web フォームの下の、アカウントまたはグループレベルで有効化または無効化できます。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3409607?hidetitle=true)
