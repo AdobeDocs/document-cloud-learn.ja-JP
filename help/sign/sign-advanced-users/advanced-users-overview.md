@@ -7,9 +7,9 @@ solution: Acrobat Sign
 level: Experienced
 thumbnail: KT-6848.jpg
 exl-id: c4f0a953-e28b-4488-a27c-010b5adaf7ec
-source-git-commit: 4c797e03a02a71bafe1fb3d38c35af88909d4e03
+source-git-commit: 8c18bb9a33550568de7e5eb6b7d3a13aa7336fa4
 workflow-type: tm+mt
-source-wordcount: '327'
+source-wordcount: '346'
 ht-degree: 3%
 
 ---
@@ -113,6 +113,16 @@ ht-degree: 3%
 
 <table style="table-layout:fixed">
 <tr>
+<td>
+    <a href="creating-a-report.md">
+      <img alt="レポートの作成" src="../assets/Report.png" />
+    </a>
+    <div>
+    <a href="creating-a-report.md"><strong>レポートの作成</strong></a>
+    </div>
+    <em>独自のレポートを作成して、文書の署名プロセスを可視化する方法について説明します。</em>
+    <br>
+  </td>
   <td>
     <a href="edit-a-template.md">
       <img alt="文書テンプレートの管理" src="../assets/ManageTemplate.png" />
@@ -134,19 +144,14 @@ ht-degree: 3%
     <br>
   </td>  
   <td>
-    <a href="creating-a-report.md">
-      <img alt="レポートの作成" src="../assets/Report.png" />
+    <a href="manage-webform-data.md">
+      <img alt="Web フォームデータの管理" src="../assets/Managewebform.png" />
     </a>
     <div>
-    <a href="creating-a-report.md"><strong>レポートの作成</strong></a>
+    <a href="manage-webform-data.md"><strong>Web フォームデータの管理</strong></a>
     </div>
-    <em>独自のレポートを作成して、文書の署名プロセスを可視化する方法について説明します。</em>
+    <em>Web フォームからデータをトラック、管理、および書き出す方法について説明します</em>
     <br>
   </td>  
-  <td>
-    <img alt="スペーサー" src="../assets/Whitespacer.png" />
-    <div>
-    <br>
-  </td>
 </tr>
 </table>

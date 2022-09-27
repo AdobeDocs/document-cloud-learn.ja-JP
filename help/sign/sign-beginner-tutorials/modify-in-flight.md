@@ -7,9 +7,9 @@ solution: Acrobat Sign
 level: Beginner
 thumbnail: KT-5316.jpg
 exl-id: a6d353a5-823a-4637-8462-f3b8536f078c
-source-git-commit: 600c63c455acf3f4d0884b62a883b7ed94670fe9
+source-git-commit: 8c18bb9a33550568de7e5eb6b7d3a13aa7336fa4
 workflow-type: tm+mt
-source-wordcount: '147'
+source-wordcount: '144'
 ht-degree: 0%
 
 ---
@@ -25,7 +25,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->送信後の文書の変更は、エンタープライズレベルのプランでのみ使用できます。 Acrobat Sign管理者が、 **契約書の変更** 設定 **送信設定** セクション **アカウント設定** を選択します。
+>送信後の文書の変更は、エンタープライズレベルのプランでのみ使用できます。 Acrobat Sign管理者が **契約書の変更** 」を **送信設定** セクション **アカウント設定** を選択します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/342299?hidetitle=true)
 
