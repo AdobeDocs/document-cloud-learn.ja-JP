@@ -7,9 +7,9 @@ level: Intermediate
 topic-revisit: Administration
 thumbnail: KT-6849.jpg
 exl-id: 1b6ea9f0-6bbb-4ea5-aa22-bfa42f7cca18
-source-git-commit: ccca5df76b9cfb5864d850f1e84f2f8a54bcdb3a
+source-git-commit: a956bf6a54d392be58e609d872584906febaf0a7
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '449'
 ht-degree: 0%
 
 ---
@@ -24,6 +24,16 @@ ht-degree: 0%
 
 <table style="table-layout:fixed">
 <tr>
+  <td>
+    <a href="get-started-admin.md">
+      <img alt="新しい管理者の基本" src="../assets/Gettingstartedadmin_1280.png" />
+    </a>
+    <div>
+    <a href="get-started-admin.md"><strong>新しい管理者の基本</strong></a>
+    </div>
+    <em>この包括的なビデオガイドでは、Acrobat Signを導入するために必要なすべてのツールについて説明します</em>
+    <br>
+  </td>
   <td>
     <a href="up-and-running-admin.md">
       <img alt="管理者向けのインストールと導入" src="../assets/Up-Running.png" />
@@ -54,7 +64,9 @@ ht-degree: 0%
     <em>Acrobat Signアカウントへのユーザーの個別または一括追加</em>
     <br>
   </td>
-  <td>
+</tr>
+<tr>
+ <td>
     <a href="create-and-manage-groups.md">
       <img alt="グループの作成と管理" src="../assets/Creating-Groups.png" />
     </a>
@@ -64,9 +76,7 @@ ht-degree: 0%
     <em>グループの作成、グループへのユーザーの追加、グループ設定の編集</em>
     <br>
   </td>
-</tr>
-<tr>
- <td>
+  <td>
     <a href="set-up-your-external-archive.md">
       <img alt="外部アーカイブの設定" src="../assets/ExternalArchive.png" />
     </a>
@@ -96,6 +106,8 @@ ht-degree: 0%
     <em>独自のカスタムレポートとデータエクスポートを作成、保存、管理する方法について説明します</em>
     <br>
   </td>
+</tr>
+<tr>
   <td>
     <a href="../sign-advanced-users/webform.md">
       <img alt="Web フォームの作成" src="../assets/Webform.png" />
@@ -106,8 +118,6 @@ ht-degree: 0%
     <em>Web サイトで直接電子的に署名できる文書を作成します</em>
     <br>
   </td>
-</tr>
-<tr>
   <td>
     <a href="../sign-advanced-users/modify-webform.md">
       <img alt="既存の Web フォームの変更" src="../assets/Modifywebform.png" />
@@ -128,7 +138,7 @@ ht-degree: 0%
     <em>あらゆる文書に一度に数百件の署名を収集</em>
     <br>
   </td>
-  <td>
+   <td>
     <a href="building-a-custom-workflow.md">
       <img alt="ワークフローの設定" src="../assets/BuildingWorkflow.png" />
     </a>
@@ -136,11 +146,6 @@ ht-degree: 0%
     <a href="building-a-custom-workflow.md"><strong>ワークフローの設定</strong></a>
     </div>
     <em>文書ワークフローを自動化して電子サインとデータをすばやく収集</em>
-    <br>
-  </td>
-  <td>
-    <img alt="スペーサー" src="../assets/Whitespacer.png" />
-    <div>
     <br>
   </td>
 </tr>
