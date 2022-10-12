@@ -5,16 +5,16 @@ role: Admin
 product: adobe sign
 level: Beginner
 thumbnail: KT-11289.jpg
-source-git-commit: 51c192a8c8cbadb87b9c5ef24a415abc7f6cb574
+source-git-commit: 89a9053921912a0b904aed172c5527a846a300f7
 workflow-type: tm+mt
-source-wordcount: '179'
+source-wordcount: '177'
 ht-degree: 0%
 
 ---
 
 # 新しい管理者の基本
 
-この包括的なビデオガイドは、特に新しいAcrobat Sign管理者向けに設計されています。 Acrobat Signを組織で使用するために必要なすべてのツールについて説明します。 この詳細ガイドでは、次のトピックについて説明します。
+この包括的なビデオガイドは、特に新しいAcrobat Sign管理者向けに設計されています。 Acrobat Signを導入するために必要なすべてのツールについて説明します。 この詳細ガイドでは、次のトピックについて説明します。
 
 <table style="table-layout:auto">
 <tr>
