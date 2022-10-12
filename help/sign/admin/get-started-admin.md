@@ -5,9 +5,9 @@ role: Admin
 product: adobe sign
 level: Beginner
 thumbnail: KT-11289.jpg
-source-git-commit: 0e2bde4dcecc7315fd233c7a5056c1e14456fd98
+source-git-commit: 51c192a8c8cbadb87b9c5ef24a415abc7f6cb574
 workflow-type: tm+mt
-source-wordcount: '106'
+source-wordcount: '179'
 ht-degree: 0%
 
 ---
@@ -20,43 +20,139 @@ ht-degree: 0%
 <tr>
   <td>
     <a href="https://video.tv.adobe.com/v/343565/?autoplay=true&t=60">
-      <img alt="Admin Console" src="../assets/Stepforward_18.png" />
+      <img alt="画像を早送り" src="../assets/Stepforward_18.png" />
     </a>
   </td>
   <td>
      <a href="https://video.tv.adobe.com/v/343565/?autoplay=true&t=60"><strong>Admin Console</strong></a>
          <br>
-        <em>1:00</em>
+        <em>1 時から</em>
     </td>
     <td>
     <a href="https://video.tv.adobe.com/v/343565/?autoplay=true&t=105">
-      <img alt="ユーザーに対するAcrobat Signの使用権限の付与" src="../assets/Stepforward_18.png" />
+      <img alt="画像を早送り" src="../assets/Stepforward_18.png" />
     </a>
   </td>
   <td>
      <a href="https://video.tv.adobe.com/v/343565/?autoplay=true&t=105"><strong>ユーザーに対するAcrobat Signの使用権限の付与</strong></a>
         <br>
-        <em>1:45</em>
+        <em>1 時 45 分開始</em>
     </td>
     <td>
     <a href="https://video.tv.adobe.com/v/343565/?autoplay=true&t=191">
-      <img alt="Acrobat Sign web ポータルの概要" src="../assets/Stepforward_18.png" />
+      <img alt="画像を早送り" src="../assets/Stepforward_18.png" />
     </a>
   </td>
   <td>
      <a href="https://video.tv.adobe.com/v/343565/?autoplay=true&t=191"><strong>Acrobat Sign web ポータルの概要</strong></a>
         <br>
-        <em>3:11</em>
+        <em>3 時 11 分開始</em>
     </td>
     <td>
     <a href="https://video.tv.adobe.com/v/343565/?autoplay=true&t=358">
-      <img alt="グローバル設定と構成" src="../assets/Stepforward_18.png" />
+      <img alt="画像を早送り" src="../assets/Stepforward_18.png" />
     </a>
   </td>
   <td>
      <a href="https://video.tv.adobe.com/v/343565/?autoplay=true&t=358"><strong>グローバル設定と構成</strong></a>
         <br>
-        <em>5:58</em>
+        <em>5 時 58 分開始</em>
+    </td>
+  </tr>
+  <tr>
+    <td>
+    <a href="https://video.tv.adobe.com/v/343565/?autoplay=true&t=460">
+      <img alt="画像を早送り" src="../assets/Stepforward_18.png" />
+    </a>
+  </td>
+  <td>
+     <a href="https://video.tv.adobe.com/v/343565/?autoplay=true&t=460"><strong>アカウントのブランディングと設定</strong></a>
+         <br>
+        <em>7 時 40 分開始</em>
+    </td>
+    <td>
+    <a href="https://video.tv.adobe.com/v/343565/?autoplay=true&t=502">
+      <img alt="画像を早送り" src="../assets/Stepforward_18.png" />
+    </a>
+  </td>
+  <td>
+     <a href="https://video.tv.adobe.com/v/343565/?autoplay=true&t=502"><strong>署名の環境設定</strong></a>
+        <br>
+        <em>8 時 22 分開始</em>
+    </td>
+    <td>
+    <a href="https://video.tv.adobe.com/v/343565/?autoplay=true&t=543">
+      <img alt="画像を早送り" src="../assets/Stepforward_18.png" />
+    </a>
+  </td>
+  <td>
+     <a href="https://video.tv.adobe.com/v/343565/?autoplay=true&t=543"><strong>セキュリティ設定</strong></a>
+        <br>
+        <em>9 時 03 分開始</em>
+    </td>
+    <td>
+    <a href="https://video.tv.adobe.com/v/343565/?autoplay=true&t=595">
+      <img alt="画像を早送り" src="../assets/Stepforward_18.png" />
+    </a>
+  </td>
+  <td>
+     <a href="https://video.tv.adobe.com/v/343565/?autoplay=true&t=595"><strong>送信設定</strong></a>
+        <br>
+        <em>9 時 55 分開始</em>
+    </td>
+  </tr>
+  <tr>
+    <td>
+    <a href="https://video.tv.adobe.com/v/343565/?autoplay=true&t=720">
+      <img alt="画像を早送り" src="../assets/Stepforward_18.png" />
+    </a>
+  </td>
+  <td>
+     <a href="https://video.tv.adobe.com/v/343565/?autoplay=true&t=720"><strong>メッセージテンプレート</strong></a>
+         <br>
+        <em>12:00 から</em>
+    </td>
+    <td>
+    <a href="https://video.tv.adobe.com/v/343565/?autoplay=true&t=755">
+      <img alt="画像を早送り" src="../assets/Stepforward_18.png" />
+    </a>
+  </td>
+  <td>
+     <a href="https://video.tv.adobe.com/v/343565/?autoplay=true&t=755"><strong>電子メール設定</strong></a>
+        <br>
+        <em>12 時 35 分開始</em>
+    </td>
+    <td>
+    <a href="https://video.tv.adobe.com/v/343565/?autoplay=true&t=783">
+      <img alt="画像を早送り" src="../assets/Stepforward_18.png" />
+    </a>
+  </td>
+  <td>
+     <a href="https://video.tv.adobe.com/v/343565/?autoplay=true&t=783"><strong>ユーザーとグループの管理</strong></a>
+        <br>
+        <em>13:03 から</em>
+    </td>
+    <td>
+    <a href="https://video.tv.adobe.com/v/343565/?autoplay=true&t=917">
+      <img alt="画像を早送り" src="../assets/Stepforward_18.png" />
+    </a>
+  </td>
+  <td>
+     <a href="https://video.tv.adobe.com/v/343565/?autoplay=true&t=917"><strong>ワークフローの作成と有効化</strong></a>
+        <br>
+        <em>15 時 17 分開始</em>
+  </td>
+</tr>
+<tr>
+  <td>
+     <a href="https://video.tv.adobe.com/v/343565/?autoplay=true&t=1145">
+      <img alt="画像を早送り" src="../assets/Stepforward_18.png" />
+    </a>
+    </td>
+    <td>
+     <a href="https://video.tv.adobe.com/v/343565/?autoplay=true&t=1145"><strong>サポートおよび追加リソースへのアクセス</strong></a>
+        <br>
+        <em>19:05 から</em>
     </td>
   </tr>
   </table>
