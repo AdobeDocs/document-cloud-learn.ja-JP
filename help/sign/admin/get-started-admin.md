@@ -5,10 +5,10 @@ role: Admin
 product: adobe sign
 level: Beginner
 thumbnail: KT-11289.jpg
-source-git-commit: 88d2f32126009fc9b06cb3232467e5347bc96972
+source-git-commit: b5f9e469d0e26fa4a9ef97b2d273f76ed590bad6
 workflow-type: tm+mt
-source-wordcount: '77'
-ht-degree: 1%
+source-wordcount: '110'
+ht-degree: 3%
 
 ---
 
@@ -20,14 +20,46 @@ ht-degree: 1%
 <tr>
   <td>
     <a href="https://video.tv.adobe.com/v/343565/?autoplay=true&t=60">
-      <img alt="Admin Console" src="../assets/StepForward.png" />
+      <img alt="Admin Console" src="../assets/Stepforward_18.png" />
     </a>
   </td>
-  <tr>
-    <td>
+  <td>
      <a href="https://video.tv.adobe.com/v/343565/?autoplay=true&t=60"><strong>Admin Console</strong></a>
         </div>
         <em>1:00</em>
+        <br>
+    </td>
+    <td>
+    <a href="https://video.tv.adobe.com/v/343565/?autoplay=true&t=105">
+      <img alt="ユーザーに対するAcrobat Signの使用権限の付与" src="../assets/Stepforward_18.png" />
+    </a>
+  </td>
+  <td>
+     <a href="https://video.tv.adobe.com/v/343565/?autoplay=true&t=105"><strong>ユーザーに対するAcrobat Signの使用権限の付与</strong></a>
+        </div>
+        <em>1:45</em>
+        <br>
+    </td>
+    <td>
+    <a href="https://video.tv.adobe.com/v/343565/?autoplay=true&t=191">
+      <img alt="Acrobat Sign web ポータルの概要" src="../assets/Stepforward_18.png" />
+    </a>
+  </td>
+  <td>
+     <a href="https://video.tv.adobe.com/v/343565/?autoplay=true&t=191"><strong>Acrobat Sign web ポータルの概要</strong></a>
+        </div>
+        <em>3:11</em>
+        <br>
+    </td>
+    <td>
+    <a href="https://video.tv.adobe.com/v/343565/?autoplay=true&t=358">
+      <img alt="グローバル設定と構成" src="../assets/Stepforward_18.png" />
+    </a>
+  </td>
+  <td>
+     <a href="https://video.tv.adobe.com/v/343565/?autoplay=true&t=358"><strong>グローバル設定と構成</strong></a>
+        </div>
+        <em>5:58</em>
         <br>
     </td>
   </tr>
