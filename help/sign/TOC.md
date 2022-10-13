@@ -8,9 +8,9 @@ getting-started-url: https://helpx.adobe.com/sign/using/get-started-guide.html
 tutorials-title: Tutorials
 tutorials-url: https://helpx.adobe.com/sign/tutorials.html
 breadcrumb-title: Acrobat SignTutorials
-source-git-commit: a956bf6a54d392be58e609d872584906febaf0a7
+source-git-commit: 5a3fb2653be5123db740962ffce0d45f6ab71538
 workflow-type: tm+mt
-source-wordcount: '475'
+source-wordcount: '482'
 ht-degree: 8%
 
 ---
@@ -84,6 +84,8 @@ ht-degree: 8%
    + Digidentity {#digidentity}
       + [Digidentity からデジタル ID を取得](digitalid/digidentity-reg.md)
       + [Digidentity を使用した署名](digitalid/digidentity-sign.md)
+   + D-Trust {#dtrust}
+      + [[!DNL D-Trust] を使用した登録と署名](digitalid/d-trust.md)
    + Intesi Group {#intesi}
       + [Intesi Group からのデジタル ID の取得（上級者）](digitalid/intesi-advanced.md)
       + [Intesi Group からデジタル ID を取得（認定）](digitalid/intesi-qualified.md)

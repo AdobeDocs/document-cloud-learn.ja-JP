@@ -1,15 +1,15 @@
 ---
 title: デジタル ID の概要
-description: Acrobat Sign で世界中のデジタル ID を使用する方法について説明します
+description: Acrobat Signで世界中のデジタル ID を使用する方法について説明します
 role: User
 product: adobe sign
 level: Beginner
 thumbnail: KT-8990.jpg
 kt: 8990
 exl-id: 753b7016-6331-40df-9003-5acee8be752a
-source-git-commit: e02b1250de94ec781e7984c6c146dbae993f5d31
+source-git-commit: 5a3fb2653be5123db740962ffce0d45f6ab71538
 workflow-type: tm+mt
-source-wordcount: '230'
+source-wordcount: '259'
 ht-degree: 0%
 
 ---
@@ -18,11 +18,11 @@ ht-degree: 0%
 
 ![Sign デジタル ID 画像](../assets/Hero-DigitalID.png)
 
-電子パスポートと同様に、デジタル ID を使用すると、本人確認を安全に行うことができます。 And, when e-signing in Acrobat Sign, using a digital ID provides a higher level of assurance that you authorized your e-signature on that specific document. 次のチュートリアルでは、Acrobat Sign で世界中のデジタル ID を使用する方法を示します。
+電子パスポートと同様に、デジタル ID を使用すると、本人確認を安全に行うことができます。 また、Acrobat Signで電子サインする場合は、デジタル ID を使用することで、特定の文書に対して電子サインを承認したかどうかを高いレベルで保証できます。 次のチュートリアルでは、Acrobat Signで世界中のデジタル ID を使用する方法を示します。
 
 >[!NOTE]
 >
->クラウド署名でデジタル ID を使用する前に、Acrobat Sign でプロバイダーのソリューションが有効になっていることを組織の管理者に確認してください。
+>クラウド署名でデジタル ID を使用する前に、Acrobat Signでプロバイダーのソリューションが有効になっていることを組織の管理者に確認してください。
 
 ## [!DNL Aadhaar]
 
@@ -35,7 +35,7 @@ ht-degree: 0%
     <div>
     <a href="aadhaar-sign.md"><strong>使用した署名 [!DNL Aadhaar]</strong></a>
     </div>
-    <em>ここでは、 [!DNL Aadhaar] Acrobat Sign によるデジタル ID</em>
+    <em>ここでは、 [!DNL Aadhaar] Acrobat Signによるデジタル ID</em>
     <br>
   </td>
   <td>
@@ -60,19 +60,19 @@ ht-degree: 0%
       <img alt="デジタル ID の取得元 [!DNL Digidentity]" src="assets/Digidentityreg_1280.png" />
     </a>
     <div>
-    <a href="digidentity-reg.md"><strong>Get a digital ID from [!DNL Digidentity]</strong></a>
+    <a href="digidentity-reg.md"><strong>デジタル ID の取得元 [!DNL Digidentity]</strong></a>
     </div>
     <em>電子署名証明書を取得する方法 [!DNL Digidentity]</em>
     <br>
   </td>
   <td>
     <a href="digidentity-sign.md">
-      <img alt="Signing using [!DNL Digidentity]" src="assets/Digidentitysign_1280.png" />
+      <img alt="使用した署名 [!DNL Digidentity]" src="assets/Digidentitysign_1280.png" />
     </a>
     <div>
     <a href="digidentity-sign.md"><strong>使用した署名 [!DNL Digidentity]</strong></a>
     </div>
-    <em>Learn how to use your [!DNL Digidentity] digital ID with Acrobat Sign</em>
+    <em>ここでは、 [!DNL Digidentity] Acrobat Signによるデジタル ID</em>
     <br>
   </td>
   <td>
@@ -82,6 +82,23 @@ ht-degree: 0%
   </td>
 </tr>
 </table>
+
+## [!DNL D-Trust]
+
+<table style="table-layout:fixed">
+<tr>
+  <td>
+    <a href="d-trust.md">
+      <img alt="D-Trust を使用した登録と署名" src="assets/Dtrust.png" />
+    </a>
+    <div>
+    <a href="d-trust.md"><strong>D-Trust を使用した登録と署名</strong></a>
+    </div>
+    <em>ID を登録する方法 [!DNL D-Trust]を選択し、 [!DNL D-Trust] Acrobat Signでの文書の電子署名</em>
+    <br>
+  </td>
+  </tr>
+  </table>
 
 ## [!DNL Intesi Group]
 
@@ -99,12 +116,12 @@ ht-degree: 0%
   </td>
   <td>
     <a href="intesi-qualified.md">
-      <img alt="Get a digital ID from [!DNL Intesi Group] (Qualified)" src="assets/IntesiQualified_1280.png" />
+      <img alt="デジタル ID の取得元 [!DNL Intesi Group] （認定）" src="assets/IntesiQualified_1280.png" />
     </a>
     <div>
-    <a href="intesi-qualified.md"><strong>Get a digital ID from [!DNL Intesi Group] (Qualified)</strong></a>
+    <a href="intesi-qualified.md"><strong>デジタル ID の取得元 [!DNL Intesi Group] （認定）</strong></a>
     </div>
-    <em>Learn how to obtain a Qualified digital signing certificate from [!DNL Intesi Group]</em>
+    <em>適格な電子署名証明書を [!DNL Intesi Group]</em>
     <br>
   </td>
   <td>
@@ -114,7 +131,7 @@ ht-degree: 0%
     <div>
     <a href="intesi-sign.md"><strong>使用した署名 [!DNL Intesi Group]</strong></a>
     </div>
-    <em>ここでは、 [!DNL Intesi Group] Acrobat Sign によるデジタル ID</em>
+    <em>ここでは、 [!DNL Intesi Group] Acrobat Signによるデジタル ID</em>
     <br>
   </td>
 </tr>
