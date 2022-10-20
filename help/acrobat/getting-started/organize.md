@@ -6,7 +6,7 @@ product: adobe acrobat
 level: Beginner
 thumbnail: KT-6832.jpg
 exl-id: 1b39380c-ebdc-48b3-8237-1512cbc7b146
-source-git-commit: 04073918c285df9c95ebfd17e727dca6b87846a9
+source-git-commit: 38a5b00897fc76f08dfa470e4d39012d7ff88c4e
 workflow-type: tm+mt
 source-wordcount: '66'
 ht-degree: 6%
@@ -20,5 +20,7 @@ ht-degree: 6%
 >[!TIP]
 >
 >ブランドを追加する方法 [新しいカスタムページ](add-custom-page.md) ページの整理に使用できます。
+
+<br> 
 
 >[!VIDEO](https://video.tv.adobe.com/v/3409022?hidetitle=true)

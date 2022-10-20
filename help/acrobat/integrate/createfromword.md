@@ -7,7 +7,7 @@ level: Beginner
 topic-revisit: Integrations
 thumbnail: 331736.jpg
 exl-id: 95540954-d0c7-4cae-a919-00e3927d2f83
-source-git-commit: 04073918c285df9c95ebfd17e727dca6b87846a9
+source-git-commit: 38a5b00897fc76f08dfa470e4d39012d7ff88c4e
 workflow-type: tm+mt
 source-wordcount: '99'
 ht-degree: 0%
@@ -21,6 +21,8 @@ ht-degree: 0%
 >[!TIP]
 >
 >DITA マップの [!DNL Microsoft Office] web アプリ 詳細を見る [PDFの作成 [!DNL Office] web 用](../integrate/createofficeweb.md)を選択します。
+
+<br> 
 
 >[!VIDEO](https://video.tv.adobe.com/v/331736?hidetitle=true)
 
