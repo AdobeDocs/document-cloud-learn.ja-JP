@@ -7,9 +7,9 @@ level: Intermediate
 topic-revisit: Integrations
 thumbnail: KT-6850.jpg
 exl-id: 2b1b9fae-7b4c-4092-aec7-c2025ef07cf4
-source-git-commit: d91e070ffeccdd6658cd8065bbc2d52cdf0fffb5
+source-git-commit: b53d445b32bf4b46c2af2aa65a10441d93bccda6
 workflow-type: tm+mt
-source-wordcount: '547'
+source-wordcount: '588'
 ht-degree: 0%
 
 ---
@@ -22,6 +22,13 @@ Acrobat Signは、組織で既に使用している他のアプリケーショ�
 
 >[!NOTE]
 > これらの機能にアクセスできない場合は、組織の管理者に連絡して、統合が有効になっていることを確認してください。
+
+## 新機能
+
+* [Power Automate を使用したSharePointでのファイルの自動アーカイブ](auto-archive-sharepoint-power-automate.md)
+Power Automate を使用して、署名済み文書をSharePointライブラリに自動的にアーカイブする方法について説明します
+* [Salesforce 用ドキュメントビルダー](create-an-agreement-template.md)
+Salesforce 用の文書ビルダーを使用して、再利用可能な文書テンプレートを作成する方法を説明します。
 
 ## Microsoft統合チュートリアル
 

@@ -6,9 +6,9 @@ product: adobe sign
 level: Beginner
 thumbnail: KT-6847.jpg
 exl-id: e58ce43d-2e8e-4804-8f30-6591fa943607
-source-git-commit: 2a81d3fe9dcdbe239d6f7957b2641473137a585e
+source-git-commit: b53d445b32bf4b46c2af2aa65a10441d93bccda6
 workflow-type: tm+mt
-source-wordcount: '406'
+source-wordcount: '440'
 ht-degree: 1%
 
 ---
@@ -18,6 +18,13 @@ ht-degree: 1%
 ![「はじめに」に署名の画像](../assets/Hero-GettingStarted.png)
 
 以下の簡単な手順を踏んだチュートリアルで、文書を送信、署名、トラックする方法を習得しましょう。 Acrobat Signのクイックツアーを参照した後、1 人または複数のユーザーへのドキュメントの送信に進みます。 このコンテンツは、電子サインのワークフローを容易に開始できるように設計されています。
+
+## 新機能
+
+* [スタンプによる署名](sign-with-a-stamp.md)
+スタンプを使用して、文書が承認または完了したことをマークする方法を説明します
+* [署名者の置き換え](replace-signer.md)
+既に処理中の文書の署名者を変更する方法について説明します。
 
 ## 送信
 

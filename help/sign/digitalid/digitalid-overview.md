@@ -7,9 +7,9 @@ level: Beginner
 thumbnail: KT-8990.jpg
 kt: 8990
 exl-id: 753b7016-6331-40df-9003-5acee8be752a
-source-git-commit: b5f60a8d6607b5ecdbd5a0da6e4877a9bae1c2cf
+source-git-commit: b53d445b32bf4b46c2af2aa65a10441d93bccda6
 workflow-type: tm+mt
-source-wordcount: '261'
+source-wordcount: '287'
 ht-degree: 0%
 
 ---
@@ -23,6 +23,11 @@ ht-degree: 0%
 >[!NOTE]
 >
 >クラウド署名でデジタル ID を使用する前に、Acrobat Signでプロバイダーのソリューションが有効になっていることを組織の管理者に確認してください。
+
+## 新機能
+
+* [D-Trust を使用した登録と署名](d-trust.md)
+ID を登録する方法 [!DNL D-Trust]を選択し、 [!DNL D-Trust] Acrobat Signでの文書の電子署名
 
 ## [!DNL Aadhaar]
 

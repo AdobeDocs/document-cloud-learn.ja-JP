@@ -7,10 +7,10 @@ level: Intermediate
 topic-revisit: Administration
 thumbnail: KT-6849.jpg
 exl-id: 1b6ea9f0-6bbb-4ea5-aa22-bfa42f7cca18
-source-git-commit: a58a3fd44e87b1e07aca9471fe713b51c1e05365
+source-git-commit: b53d445b32bf4b46c2af2aa65a10441d93bccda6
 workflow-type: tm+mt
-source-wordcount: '448'
-ht-degree: 0%
+source-wordcount: '490'
+ht-degree: 1%
 
 ---
 
@@ -19,6 +19,13 @@ ht-degree: 0%
 ![Sign 管理者イメージ](../assets/Hero-Admin.png)
 
 アカウントへのユーザーの追加、グループの設定、アクセスの共有、ワークフロー、外部アーカイブ、共有イベントおよび警告の設定について説明します。 これらのチュートリアルは、インストール段階を過ぎてAcrobat Signの管理を開始する準備ができた管理者を対象としています。 高度なタスクでは、管理者設定を超えて、グローバル設定の定義、アカウントのアクセスと共有、テキストのタグ付けに進むトピックについて説明します。
+
+## 新機能
+
+* [新しい管理者の基本](get-started-admin.md)
+この包括的なビデオガイドでは、Acrobat Signを導入するために必要なすべてのツールについて説明します
+* [ワークフローの設定](building-a-custom-workflow.md)
+文書ワークフローを自動化して電子サインとデータをすばやく収集
 
 ## はじめに
 

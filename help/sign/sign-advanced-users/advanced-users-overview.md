@@ -7,9 +7,9 @@ solution: Acrobat Sign
 level: Experienced
 thumbnail: KT-6848.jpg
 exl-id: c4f0a953-e28b-4488-a27c-010b5adaf7ec
-source-git-commit: b552039d79b6c7835e8139da891fd5b1397aff84
+source-git-commit: 854e70d1dd1d6535e1f8a8b53cfc6907862f5569
 workflow-type: tm+mt
-source-wordcount: '346'
+source-wordcount: '382'
 ht-degree: 3%
 
 ---
@@ -19,6 +19,13 @@ ht-degree: 3%
 ![高度な画像への署名](../assets/Hero-Advanced.png)
 
 100 人以上の受信者に署名用の文書を一度に送信する方法、Web サイト用に署名可能な文書を設定する方法、署名トランザクションを管理する方法、文書テンプレートを作成および管理する方法について説明します。 これらのチュートリアルは、署名の送信と依頼の基本を既に理解しているお客様向けで、Acrobat Signでさらに多くの機能を活用できます。
+
+## 新機能
+
+* [オンライン支払いの設定](set-up-online-payments.md)
+ドキュメントでのオンライン支払いを設定して承認する方法について説明します
+* [レポートの作成](creating-a-report.md)
+独自のレポートを作成して、文書の署名プロセスを可視化する方法について説明します。
 
 ## 送信
 
