@@ -7,9 +7,9 @@ level: Beginner
 topic-revisit: Integrations
 thumbnail: 331277.jpg
 exl-id: 76eb392d-7357-47c8-b24b-58977e229e8f
-source-git-commit: 886d374b81979e8927bc823cbcb4d312222797c5
+source-git-commit: 04073918c285df9c95ebfd17e727dca6b87846a9
 workflow-type: tm+mt
-source-wordcount: '168'
+source-wordcount: '174'
 ht-degree: 0%
 
 ---
@@ -23,6 +23,10 @@ Adobe Acrobat for Teams を使用すると、ユーザーは離れることな�
 * 進捗状況を常に通知 — 他のユーザーが文書に対してアクションを実行したときに、チームで通知を受け取ります
 * レビュー担当者に常に通知 — 他のユーザーが注釈に返信すると、レビュー担当者に通知されます。
 * 安全なコラボレーション：信頼できるメンバーと安全に共同作業を行い、ドキュメントのバージョンを [!DNL Microsoft SharePoint] または [!DNL OneDrive]
+
+>[!TIP]
+>
+>その他のMicrosoft [統合](../integrate/integrate-overview.md#microsoft)を選択します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/331277?hidetitle=true)
 

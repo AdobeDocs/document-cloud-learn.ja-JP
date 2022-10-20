@@ -6,15 +6,19 @@ product: adobe acrobat
 level: Beginner
 thumbnail: KT-6832.jpg
 exl-id: 1b39380c-ebdc-48b3-8237-1512cbc7b146
-source-git-commit: 546be0ae0539aa774e51bd7251b46e3f864401c3
+source-git-commit: 04073918c285df9c95ebfd17e727dca6b87846a9
 workflow-type: tm+mt
-source-wordcount: '53'
-ht-degree: 7%
+source-wordcount: '66'
+ht-degree: 6%
 
 ---
 
 # ページを整理
 
 ページの並べ替えを数秒で自由におこなう方法を説明します。 ページの挿入、置換、分割、並べ替え、回転のほか、連続していないページを抽出して、プロ品質のPDFに。 このビデオチュートリアルでは、 [新しいワークスペースエクスペリエンス](new-workspace.md)を選択します。
+
+>[!TIP]
+>
+>ブランドを追加する方法 [新しいカスタムページ](add-custom-page.md) ページの整理に使用できます。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3409022?hidetitle=true)

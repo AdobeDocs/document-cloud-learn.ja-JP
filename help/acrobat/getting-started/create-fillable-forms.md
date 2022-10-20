@@ -6,9 +6,9 @@ product: adobe acrobat
 level: Beginner
 thumbnail: KT-6831.jpg
 exl-id: 4a1671c5-427b-4ddb-b66a-ecde6a1a4943
-source-git-commit: 40be81a04921205a63ecb99e723d4b62b7b6ba3f
+source-git-commit: 04073918c285df9c95ebfd17e727dca6b87846a9
 workflow-type: tm+mt
-source-wordcount: '142'
+source-wordcount: '151'
 ht-degree: 0%
 
 ---
@@ -36,3 +36,7 @@ InDesign、Microsoft Word、Excel またはその他のアプリケーション�
 1. 選択 **[!UICONTROL 編集]** 」をクリックして作業を続行するか、「 **[!UICONTROL ファイル]** **>** **[!UICONTROL 別名で保存]** 」をクリックしてPDFフォームを保存します。
 
    ![フォームステップ 4](../assets/Form_4.png)
+
+>[!TIP]
+>
+>さらに詳しく [高度なテクニック](../advanced-tasks/advancedforms.md)を選択します。
