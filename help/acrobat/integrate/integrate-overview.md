@@ -7,9 +7,9 @@ level: Beginner
 topic-revisit: Integrations
 thumbnail: KT-6859.jpg
 exl-id: 76cb40b4-bbb4-4f50-b01d-4c5a74bf9f20
-source-git-commit: c000c6cb0651f2ab73876a19047e6a9d2c6fb04c
+source-git-commit: b3e77a9a056caf743f1affa2f1e93d9ce9cda04a
 workflow-type: tm+mt
-source-wordcount: '302'
+source-wordcount: '303'
 ht-degree: 1%
 
 ---
@@ -56,8 +56,6 @@ Acrobatと [!DNL Box], [!DNL Dropbox], [!DNL Google Drive], [!DNL OneDrive]お�
     <em>文書ワークフローの効率化 [!DNL SharePoint] とAcrobat</em>
     <br>
   </td>
-</tr>
-<tr>
   <td>
     <a href="acrobatandteams.md">
       <img alt="PDFコラボレーション [!DNL Microsoft Teams]" src="../assets/MicrosoftTeams.png" />
@@ -68,6 +66,8 @@ Acrobatと [!DNL Box], [!DNL Dropbox], [!DNL Google Drive], [!DNL OneDrive]お�
     <em>他のユーザーとの共同作業や共同作業が可能になります。アプリケーション内でPDFの表示、注釈の追加、確認ができます [!DNL Microsoft Teams]</em>
     <br>
   </td>
+</tr>
+<tr>
   <td>
     <a href="outlook.md">
       <img alt="Outlook で電子メールメッセージと添付ファイルをPDFに変換する" src="../assets/Outlook.jpg" />
@@ -86,6 +86,11 @@ Acrobatと [!DNL Box], [!DNL Dropbox], [!DNL Google Drive], [!DNL OneDrive]お�
     <a href="edge.md"><strong>参照中にPDFコンテンツを作成する [!DNL Microsoft Edge]</strong></a>
     </div>
     <em>Adobe Acrobat拡張機能を使用して、Web ページをその場でPDFにアーカイブする方法を学習します。 [!DNL Microsoft Edge]</em>
+    <br>
+  </td>
+  <td>
+   <img alt="スペーサー" src="../assets/Grayspacer.png" />
+    <div>
     <br>
   </td>
   <td>
