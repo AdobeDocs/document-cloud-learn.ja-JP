@@ -6,9 +6,9 @@ product: adobe acrobat
 level: Beginner, Intermediate
 thumbnail: KT-6858.jpg
 exl-id: 59269c6c-f471-4bc5-9ad4-ad7b7fdcdb76
-source-git-commit: bf9e6f65d32d95fd3a2e3690e25f33b3ca6ad5dd
+source-git-commit: c000c6cb0651f2ab73876a19047e6a9d2c6fb04c
 workflow-type: tm+mt
-source-wordcount: '264'
+source-wordcount: '265'
 ht-degree: 0%
 
 ---
@@ -41,6 +41,11 @@ ht-degree: 0%
     <a href="https://doccloud.adobeconnect.com/skillbuilder-sigforms/" target="_blank"><strong>署名の準備</strong></a>
     </div>
     <em>電子PDFフィールドを使用した署名の作成</em>
+    <br>
+  </td>
+  <td>
+    <img alt="スペーサー" src="../assets/Whitespacer.png" />
+    <div>
     <br>
   </td>
   <td>
@@ -85,8 +90,6 @@ ht-degree: 0%
     <em>PDFへのテキスト、画像、リンク、透かしの追加</em>
     <br>
   </td>
-</tr>
-<tr>
   <td>
     <a href="https://doccloud.adobeconnect.com/sign/" target="_blank">
       <img alt="作品への署名" src="../assets/sb_signed.png" />
@@ -97,6 +100,8 @@ ht-degree: 0%
     <em>Microsoft Outlook で文書に直接署名</em>
     <br>
   </td>
+</tr>
+<tr>
   <td>
     <a href="https://doccloud.adobeconnect.com/convertpdfs/" target="_blank">
       <img alt="変換PDF" src="../assets/sb_convert.png" />
@@ -117,9 +122,7 @@ ht-degree: 0%
     <em>あらゆるデバイスでフォームに電子的に入力、署名、送信</em>
     <br>
   </td>
-</tr>
-<tr>
-  <td>
+   <td>
     <a href="https://doccloud.adobeconnect.com/optimizepdfs/" target="_blank">
       <img alt="最適化されたPDF" src="../assets/sb_optimize.png" />
     </a>
@@ -127,16 +130,6 @@ ht-degree: 0%
     <a href="https://doccloud.adobeconnect.com/optimizepdfs/" target="_blank"><strong>最適化されたPDF</strong></a>
     </div>
     <em>配布PDFの準備</em>
-    <br>
-  </td>
-  <td>
-   <img alt="スペーサー" src="../assets/Whitespacer.png" />
-    <div>
-    <br>
-  </td>
-  <td>
-   <img alt="スペーサー" src="../assets/Whitespacer.png" />
-    <div>
     <br>
   </td>
 </tr>
@@ -164,6 +157,16 @@ ht-degree: 0%
     <a href="https://doccloud.adobeconnect.com/securepdfs/" target="_blank"><strong>安全なPDF</strong></a>
     </div>
     <em>PDF内の機密情報の墨消しと保護</em>
+    <br>
+  </td>
+  <td>
+   <img alt="スペーサー" src="../assets/Whitespacer.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+   <img alt="スペーサー" src="../assets/Whitespacer.png" />
+    <div>
     <br>
   </td>
   <td>

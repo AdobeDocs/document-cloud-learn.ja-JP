@@ -7,9 +7,9 @@ level: Beginner
 topic-revisit: Integrations
 thumbnail: KT-6859.jpg
 exl-id: 76cb40b4-bbb4-4f50-b01d-4c5a74bf9f20
-source-git-commit: 34c3e250fa72561722faec2d3abca312f32e7538
+source-git-commit: c000c6cb0651f2ab73876a19047e6a9d2c6fb04c
 workflow-type: tm+mt
-source-wordcount: '299'
+source-wordcount: '302'
 ht-degree: 1%
 
 ---
@@ -45,7 +45,7 @@ Acrobatと [!DNL Box], [!DNL Dropbox], [!DNL Google Drive], [!DNL OneDrive]お�
     </div>
     <em>ブラウザー内でPDFファイルを作成し、 [!DNL Microsoft Office] web アプリケーションの場合</em>
     <br>
-  </td>  
+  </td> 
   <td>
     <a href="acrobatandsp.md">
       <img alt="クリエイティブアプリ [!DNL SharePoint] ファイル" src="../assets/SharePoint.png" />
@@ -55,7 +55,7 @@ Acrobatと [!DNL Box], [!DNL Dropbox], [!DNL Google Drive], [!DNL OneDrive]お�
     </div>
     <em>文書ワークフローの効率化 [!DNL SharePoint] とAcrobat</em>
     <br>
-  </td>  
+  </td>
 </tr>
 <tr>
   <td>
@@ -88,6 +88,11 @@ Acrobatと [!DNL Box], [!DNL Dropbox], [!DNL Google Drive], [!DNL OneDrive]お�
     <em>Adobe Acrobat拡張機能を使用して、Web ページをその場でPDFにアーカイブする方法を学習します。 [!DNL Microsoft Edge]</em>
     <br>
   </td>
+  <td>
+   <img alt="スペーサー" src="../assets/Grayspacer.png" />
+    <div>
+    <br>
+  </td>
 </tr>
 </table>
 
@@ -117,6 +122,11 @@ Acrobatと [!DNL Box], [!DNL Dropbox], [!DNL Google Drive], [!DNL OneDrive]お�
     <div>
     <br>
   </td>
+  <td>
+   <img alt="スペーサー" src="../assets/Whitespacer.png" />
+    <div>
+    <br>
+  </td>
 </tr>
 </table>
 
@@ -134,6 +144,11 @@ Acrobatと [!DNL Box], [!DNL Dropbox], [!DNL Google Drive], [!DNL OneDrive]お�
     <a href="acrobat-dropbox.md"><strong>ファイルの操作 [!DNL Dropbox]</strong></a>
     </div>
     <em>文書を開いて、変更内容を PDF に保存する方法を説明します。 [!DNL Dropbox] Acrobat内のファイル</em>
+    <br>
+  </td>
+  <td>
+   <img alt="スペーサー" src="../assets/Whitespacer.png" />
+    <div>
     <br>
   </td>
   <td>

@@ -7,9 +7,9 @@ solution: Acrobat
 level: Intermediate
 thumbnail: KT-6853.jpg
 exl-id: b91fd23d-3aa3-4623-96f7-a00b3768251f
-source-git-commit: 4ecbad448752f43a2deab48bf87de8076b0df9c2
+source-git-commit: ed2ef0baf3039d023ae4272bee955fa864cdc8f5
 workflow-type: tm+mt
-source-wordcount: '115'
+source-wordcount: '116'
 ht-degree: 10%
 
 ---
@@ -50,6 +50,11 @@ Acrobat Signの組織内への導入に関する貴重なインサイトが記�
     <a href="assets/SignStudyGuide.pdf"><strong>Acrobat Sign Essentials Study Guide</strong></a>
     </div>
     <em>Acrobat Sign Essentials 評価 (AD3-D104) のためのAcrobat Sign調査ガイド</em>
+    <br>
+  </td>
+  <td>
+    <img alt="スペーサー" src="assets/Whitespacer.png" />
+    <div>
     <br>
   </td>
 </tr>

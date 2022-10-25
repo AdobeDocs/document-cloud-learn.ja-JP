@@ -7,9 +7,9 @@ level: Intermediate
 topic-revisit: Integrations
 thumbnail: KT-6850.jpg
 exl-id: 2b1b9fae-7b4c-4092-aec7-c2025ef07cf4
-source-git-commit: b53d445b32bf4b46c2af2aa65a10441d93bccda6
+source-git-commit: c000c6cb0651f2ab73876a19047e6a9d2c6fb04c
 workflow-type: tm+mt
-source-wordcount: '588'
+source-wordcount: '587'
 ht-degree: 0%
 
 ---
@@ -64,9 +64,7 @@ Salesforce 用の文書ビルダーを使用して、再利用可能な文書テ
     <em>Sharepoint Online 内から直接署名用に文書を送信する</em>
     <br>
   </td>
-</tr>
-<tr>
-  <td>
+   <td>
     <a href="track-an-agreement-with-sharepoint-online.md">
       <img alt="SharePoint Onlineでのトラッキング" src="../assets/MS-TrackSP.png" />
     </a>
@@ -76,6 +74,8 @@ Salesforce 用の文書ビルダーを使用して、再利用可能な文書テ
     <em>Microsoft Sharepoint 内で契約書の進捗状況を直接追跡</em>
     <br>
   </td>
+</tr>
+<tr>
   <td>
     <a href="adobe-sign-teams-mortgage.md">
       <img alt="署名用の文書の送信 [!DNL Microsoft Teams]" src="../assets/teamsmortgage.png" />
@@ -96,8 +96,6 @@ Salesforce 用の文書ビルダーを使用して、再利用可能な文書テ
     <em>署名済み文書を [!DNL SharePoint] ライブラリ [!DNL Power Automate]</em>
     <br>
   </td>
-</tr>
-<tr>
   <td>
     <a href="documentautomation.md">
       <img alt="文書の自動処理 [!DNL Acrobat Sign for Microsoft Power Platform]" src="../assets/SF-Button.png" />
@@ -106,16 +104,6 @@ Salesforce 用の文書ビルダーを使用して、再利用可能な文書テ
     <a href="documentautomation.md"><strong>文書の自動処理 [!DNL Acrobat Sign for Microsoft Power Platform]</strong></a>
     </div>
     <em>ライセンス認証を行い、 [!DNL Acrobat Sign] および [!DNL Adobe PDF Tools] コネクタ [!DNL Microsoft Power] apps</em>
-    <br>
-  </td>
-  <td>
-    <img alt="スペーサー" src="../assets/Whitespacer.png" />
-    <div>
-    <br>
-  </td>
-  <td>
-    <img alt="スペーサー" src="../assets/Whitespacer.png" />
-    <div>
     <br>
   </td>
 </tr>
@@ -155,8 +143,6 @@ Salesforce 用の文書ビルダーを使用して、再利用可能な文書テ
     <em>Salesforce のデータをAcrobat Sign文書に直接結合する方法を説明します。</em>
     <br>
   </td>
-</tr>
-<tr>
   <td>
     <a href="create-a-custom-button.md">
       <img alt="カスタムボタンの作成" src="../assets/SF-Button.png" />
@@ -165,16 +151,6 @@ Salesforce 用の文書ビルダーを使用して、再利用可能な文書テ
     <a href="create-a-custom-button.md"><strong>カスタムボタンの作成</strong></a>
     </div>
     <em>送信プロセスを開始し、Salesforce 内の契約書を自動入力するカスタムボタンを作成します。</em>
-    <br>
-  </td>
-  <td>
-    <img alt="スペーサー" src="../assets/Grayspacer.png" />
-    <div>
-    <br>
-  </td>
-  <td>
-    <img alt="スペーサー" src="../assets/Grayspacer.png" />
-    <div>
     <br>
   </td>
 </tr>
@@ -192,6 +168,11 @@ Salesforce 用の文書ビルダーを使用して、再利用可能な文書テ
     <a href="workday.md"><strong>WorkdayでのAcrobat Signの設定</strong></a>
     </div>
     <em>Acrobat SignがWorkday内で直接動作するように設定し、すべての人事関連書類をシームレスに管理する方法について説明します</em>
+    <br>
+  </td>
+  <td>
+    <img alt="スペーサー" src="../assets/Whitespacer.png" />
+    <div>
     <br>
   </td>
   <td>
@@ -241,9 +222,7 @@ Salesforce 用の文書ビルダーを使用して、再利用可能な文書テ
     <em>一定期間が経過しても契約書が署名されていない場合に、Marketoから電子メールのリマインダーを送信する方法を参照してください。</em>
     <br>
   </td>
-</tr>
-<tr>
-  <td>
+   <td>
     <a href="marketo-dynamics-reminder.md">
       <img alt="Acrobat Sign for Microsoft Dynamics およびMarketoを使用したリマインダーの送信" src="../assets/Integrate-Dynamics-Reminder.jpg" />
     </a>
@@ -253,6 +232,8 @@ Salesforce 用の文書ビルダーを使用して、再利用可能な文書テ
     <em>一定期間が経過しても契約書が署名されていない場合に、電子メールでリマインダーを送信する方法を説明します。</em>
     <br>
   </td>
+</tr>
+<tr>
   <td>
     <a href="marketo-dynamics-sms.md">
       <img alt="Acrobat Sign for Microsoft Dynamics およびMarketoを使用した通知の送信" src="../assets/Integrate-Dynamics-SMS.jpg" />
@@ -261,6 +242,16 @@ Salesforce 用の文書ビルダーを使用して、再利用可能な文書テ
     <a href="marketo-dynamics-sms.md"><strong>Acrobat Sign for Microsoft Dynamics およびMarketoを使用した通知の送信</strong></a>
     </div>
     <em>テキストメッセージ、電子メール、プッシュ通知を送信して、署名者に契約書が署名中であることを知らせる方法を説明します。</em>
+    <br>
+  </td>
+  <td>
+    <img alt="スペーサー" src="../assets/Grayspacer.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="スペーサー" src="../assets/Grayspacer.png" />
+    <div>
     <br>
   </td>
   <td>

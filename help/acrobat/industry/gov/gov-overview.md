@@ -7,9 +7,9 @@ level: Beginner
 thumbnail: KT-9910.jpg
 kt: 9910
 exl-id: 8a8e760f-0983-46b5-86ed-8c8d977b6478
-source-git-commit: 8ae1adb0e860bb57a5f029369ce68024ca92d958
+source-git-commit: c000c6cb0651f2ab73876a19047e6a9d2c6fb04c
 workflow-type: tm+mt
-source-wordcount: '311'
+source-wordcount: '315'
 ht-degree: 0%
 
 ---
@@ -51,9 +51,7 @@ ht-degree: 0%
     </div>
     <em>シンプルかつ簡単なワークフローを作成して、文書で共同作業できます</em>
     <br>
-  </td>  
-</tr>
-<tr>
+  </td>
   <td>
     <a href="protect-digital-documents.md">
       <img alt="ヒント：3Protect digital documents" src="../../assets/Tip3.png" />
@@ -64,6 +62,7 @@ ht-degree: 0%
     <em>コピー、編集、印刷を防ぐために、PDFにパスワードを追加します。</em>
     <br>
   </td>
+</tr>
   <td>
     <a href="work-with-forms-and-signatures.md">
       <img alt="ヒント 4:フォームと署名の使用" src="../../assets/Tip4.png" />
@@ -82,6 +81,16 @@ ht-degree: 0%
     <a href="scan-and-edit-on-mobile.md"><strong>ヒント 5:モバイルでスキャンと編集</strong></a>
     </div>
     <em>Adobe ScanとAcrobat Readerのモバイルアプリを使用して、どこからでも作業をおこなう方法について説明します</em>
+    <br>
+  </td>
+  <td>
+   <img alt="スペーサー" src="../../assets/Grayspacer.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+   <img alt="スペーサー" src="../../assets/Grayspacer.png" />
+    <div>
     <br>
   </td>
 </tr>
@@ -120,10 +129,8 @@ ht-degree: 0%
     </div>
     <em>で作成されるPDFファイルの作成のベストプラクティス [!DNL Microsoft Word]</em>
     <br>
-  </td>  
-</tr>
-<tr>
-  <td>
+  </td>
+   <td>
     <a href="finishing-in-acrobat.md">
       <img alt="アクセス可能なPDFの作成：Acrobatでの仕上げ" src="../../assets/Accessibilityacrobat.png" />
     </a>
@@ -133,6 +140,8 @@ ht-degree: 0%
     <em>Acrobat Proのツールを使用して、PDFファイルにアクセスできるようにする方法を説明します</em>
     <br>
   </td>
+</tr>
+<tr>
   <td>
     <a href="making-pdf-ballots-accessible.md">
       <img alt="PDF投票の利便性の向上" src="../../assets/Accessibleballots.png" />
@@ -143,6 +152,16 @@ ht-degree: 0%
     <em>このウェビナーでは、スクリーンリーダーなどの支援テクノロジーのユーザーが投票を読んで完成させるために必要な、PDFのアクセシビリティに関する主要な分野について説明します</em>
     <br>
   </td>  
+  <td>
+   <img alt="スペーサー" src="../../assets/Grayspacer.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+   <img alt="スペーサー" src="../../assets/Grayspacer.png" />
+    <div>
+    <br>
+  </td>
   <td>
    <img alt="スペーサー" src="../../assets/Grayspacer.png" />
     <div>

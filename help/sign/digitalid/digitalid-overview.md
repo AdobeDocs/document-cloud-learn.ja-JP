@@ -7,9 +7,9 @@ level: Beginner
 thumbnail: KT-8990.jpg
 kt: 8990
 exl-id: 753b7016-6331-40df-9003-5acee8be752a
-source-git-commit: b53d445b32bf4b46c2af2aa65a10441d93bccda6
+source-git-commit: c000c6cb0651f2ab73876a19047e6a9d2c6fb04c
 workflow-type: tm+mt
-source-wordcount: '287'
+source-wordcount: '291'
 ht-degree: 0%
 
 ---
@@ -41,6 +41,11 @@ ID を登録する方法 [!DNL D-Trust]を選択し、 [!DNL D-Trust] Acrobat Si
     <a href="aadhaar-sign.md"><strong>使用した署名 [!DNL Aadhaar]</strong></a>
     </div>
     <em>ここでは、 [!DNL Aadhaar] Acrobat Signによるデジタル ID</em>
+    <br>
+  </td>
+  <td>
+    <img alt="スペーサー" src="../assets/Whitespacer.png" />
+    <div>
     <br>
   </td>
   <td>
@@ -85,6 +90,11 @@ ID を登録する方法 [!DNL D-Trust]を選択し、 [!DNL D-Trust] Acrobat Si
     <div>
     <br>
   </td>
+  <td>
+    <img alt="スペーサー" src="../assets/Whitespacer.png" />
+    <div>
+    <br>
+  </td>
 </tr>
 </table>
 
@@ -100,6 +110,11 @@ ID を登録する方法 [!DNL D-Trust]を選択し、 [!DNL D-Trust] Acrobat Si
     <a href="d-trust.md"><strong>D-Trust を使用した登録と署名</strong></a>
     </div>
     <em>ID を登録する方法 [!DNL D-Trust]を選択し、 [!DNL D-Trust] Acrobat Signでの文書の電子署名</em>
+    <br>
+  </td>
+  <td>
+    <img alt="スペーサー" src="../assets/Whitespacer.png" />
+    <div>
     <br>
   </td>
   <td>
@@ -147,6 +162,11 @@ ID を登録する方法 [!DNL D-Trust]を選択し、 [!DNL D-Trust] Acrobat Si
     <a href="intesi-sign.md"><strong>使用した署名 [!DNL Intesi Group]</strong></a>
     </div>
     <em>ここでは、 [!DNL Intesi Group] Acrobat Signによるデジタル ID</em>
+    <br>
+  </td>
+  <td>
+    <img alt="スペーサー" src="../assets/Whitespacer.png" />
+    <div>
     <br>
   </td>
 </tr>

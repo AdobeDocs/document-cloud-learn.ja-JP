@@ -9,9 +9,9 @@ team: DC Product Marketing Retention and Engagement
 thumbnail: 8200.jpg
 kt: 8200
 exl-id: 7f6edd52-c3fc-4cf0-af84-c956db3bd008
-source-git-commit: dd27b6a410af8397fe0d7315fd284bae8a586ab9
+source-git-commit: c000c6cb0651f2ab73876a19047e6a9d2c6fb04c
 workflow-type: tm+mt
-source-wordcount: '246'
+source-wordcount: '249'
 ht-degree: 0%
 
 ---
@@ -56,8 +56,6 @@ ht-degree: 0%
     <em>紙ベースの処理をコンプライアンスに準拠したデジタルワークフローにすばやく置き換え、監査レポートを作成</em>
     <br>
   </td>
-</tr>
-<tr>
   <td>
     <a href="usecasegovreemployment.md">
       <img alt="再雇用支援" src="../assets/UC_WebformsR.png" />
@@ -68,6 +66,8 @@ ht-degree: 0%
     <em>市民が必要なサポートを受けられるよう、数日で稼働する完全デジタルの申請書に対応する必要はありません</em>
     <br>
   </td>
+</tr>
+<tr>
   <td>
     <a href="usecasegovpaycheck.md">
       <img alt="給与保護" src="../assets/UC_PaycheckProtectionR.png" />
@@ -86,6 +86,16 @@ ht-degree: 0%
     <a href="usecasegovremote.md"><strong>リモート令状要求</strong></a>
     </div>
     <em>電子サインと web 会議を併用することで、裁判官による令状の要求と確保にかかる時間を短縮できます</em>
+    <br>
+  </td>
+  <td>
+    <img alt="スペーサー" src="../assets/Grayspacer.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="スペーサー" src="../assets/Grayspacer.png" />
+    <div>
     <br>
   </td>
 </tr>
@@ -123,6 +133,11 @@ ht-degree: 0%
     <a href="usecasecomtelework.md"><strong>テレワーク契約</strong></a>
     </div>
     <em>テレワーク契約に基づいて、すべての従業員から効率的に署名を収集</em>
+    <br>
+  </td>
+  <td>
+    <img alt="スペーサー" src="../assets/Whitespacer.png" />
+    <div>
     <br>
   </td>
 </tr>
