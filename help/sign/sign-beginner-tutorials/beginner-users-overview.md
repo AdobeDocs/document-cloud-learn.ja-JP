@@ -6,10 +6,10 @@ product: adobe sign
 level: Beginner
 thumbnail: KT-6847.jpg
 exl-id: e58ce43d-2e8e-4804-8f30-6591fa943607
-source-git-commit: b53d445b32bf4b46c2af2aa65a10441d93bccda6
+source-git-commit: ffdc34a1f9e2f0ceef795b6af7072b36a583a80d
 workflow-type: tm+mt
-source-wordcount: '440'
-ht-degree: 1%
+source-wordcount: '471'
+ht-degree: 5%
 
 ---
 
@@ -21,10 +21,10 @@ ht-degree: 1%
 
 ## 新機能
 
+* [期限とリマインダーの設定](set-deadlines-reminders.md)
+文書への署名を迅速におこなうために、定期的な電子メールリマインダーと期限を送信する方法について説明します
 * [スタンプによる署名](sign-with-a-stamp.md)
 スタンプを使用して、文書が承認または完了したことをマークする方法を説明します
-* [署名者の置き換え](replace-signer.md)
-既に処理中の文書の署名者を変更する方法について説明します。
 
 ## 送信
 
@@ -112,6 +112,33 @@ ht-degree: 1%
     <em>既に処理中の文書の署名者を変更する方法について説明します。</em>
      <br>
   </td>
+</tr>
+<tr>
+  <td>
+      <a href="set-deadlines-reminders.md">
+        <img alt="期限とリマインダーの設定" src="../assets/Reminders.png" />
+      </a>
+      <div>
+      <a href="set-deadlines-reminders.md"><strong>期限とリマインダーの設定</strong></a>
+      </div>
+      <em>文書への署名を迅速におこなうために、定期的な電子メールリマインダーと期限を送信する方法について説明します</em>
+      <br>
+    </td> 
+  <td>
+      <img alt="スペーサー" src="../assets/Whitespacer.png" />
+      <div>
+      <br>
+    </td>
+    <td>
+      <img alt="スペーサー" src="../assets/Whitespacer.png" />
+      <div>
+      <br>
+    </td>
+    <td>
+      <img alt="スペーサー" src="../assets/Whitespacer.png" />
+      <div>
+      <br>
+    </td>
 </tr>
 </table>
 
