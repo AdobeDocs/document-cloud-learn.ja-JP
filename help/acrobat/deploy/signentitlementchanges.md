@@ -6,10 +6,10 @@ product: adobe acrobat
 level: Intermediate
 thumbnail: KT-7269.jpg
 exl-id: 1a8d3f7d-96a4-4811-b4e9-9c55287b92ea
-source-git-commit: 018cbcfd1d1605a8ff175a0cda98f0bfb4d528a8
+source-git-commit: 35827630dec298fa09e43159efa2abb9362f59c2
 workflow-type: tm+mt
-source-wordcount: '740'
-ht-degree: 4%
+source-wordcount: '747'
+ht-degree: 5%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 4%
 
 [!DNL Adobe Sign Individual] (Adobe Sign Pro とも呼ばれます ) は、2020 年 8 月から 2020 年 11 月 20 日まで、ETLA（エンタープライズタームライセンス契約）の提供に含まれるすべてのAcrobat DCエンタイトルメントからプロビジョニング解除されます。 [!DNL Adobe Sign Individual] にはエンタープライズレベルの機能がないため、Adobe Sign Enterprise エンタープライズ版に置き換えてください。 これには、スタンドアロンアプリケーションとしてライセンスされたAcrobat DCと、エンタープライズ版コンプリートプランの一部としてライセンスされたAcrobat DCがCreative Cloudされます。
 
-アクセス [!DNL Adobe Sign Individual] Acrobatでは、 **Adobe Sign** ツールまたは **Fill &amp; Sign** ツールを使用します。
+アクセス [!DNL Adobe Sign Individual] Acrobatでは、 **Adobe Sign** ツールまたは **Fill &amp; Sign** ツール ([署名を依頼](https://www.adobe.com/jp/acrobat/online/request-signature.html){target=&quot;_blank&quot;})。
 
 ![[!DNL Adobe Sign Individual] Acrobat DCでのアクセス](../assets/Deploy_SignEntitle1.png)
 

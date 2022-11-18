@@ -7,16 +7,16 @@ level: Beginner
 thumbnail: KT-8257.jpg
 kt: 8257
 exl-id: 58c432b1-2067-4a67-b386-ab7d35453543
-source-git-commit: 04073918c285df9c95ebfd17e727dca6b87846a9
+source-git-commit: 35827630dec298fa09e43159efa2abb9362f59c2
 workflow-type: tm+mt
-source-wordcount: '60'
-ht-degree: 0%
+source-wordcount: '67'
+ht-degree: 7%
 
 ---
 
 # 署名を取得
 
-法的拘束力のある電子サインをどこからでも収集し、ビジネスを加速させましょう。
+法的拘束力のある [電子サイン](https://www.adobe.com/jp/acrobat/online/request-signature.html){target=&quot;_blank&quot;} を他のユーザーと共有
 
 >[!IMPORTANT]
 >

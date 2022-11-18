@@ -6,10 +6,10 @@ product: adobe acrobat
 level: Experienced
 thumbnail: KT-9347.jpg
 exl-id: 2f24d745-762a-4631-8495-08b9e9d77af0
-source-git-commit: 8ae1adb0e860bb57a5f029369ce68024ca92d958
+source-git-commit: ff700ec6a3bf71642cc27540064ba1f48874e279
 workflow-type: tm+mt
-source-wordcount: '756'
-ht-degree: 0%
+source-wordcount: '771'
+ht-degree: 1%
 
 ---
 
@@ -86,7 +86,7 @@ PDFファイルには、Web ページと同じようにタイトルとメタ説�
 
 ## 4. Web 用の準備
 
-Web 表示用にデバイスを準備し、PDFのファイルサイズを縮小して、デバイスの操作エクスペリエンスを最適化します。
+Web 表示用にPDFを準備し、 [ファイルサイズのPDFの縮小](https://www.adobe.com/acrobat/online/compress-pdf.html){target=&quot;_blank&quot;}。
 
 +++web 用にPDFを準備する方法
 
@@ -122,7 +122,7 @@ Web 用にPDFを準備するには、 **[!UICONTROL ファイル/その他の形
 
 ## 6.セキュリティでPDF
 
-最後の手順は、権限のない変更を防ぐためにPDFを保護することです。
+最後のステップは [PDF](https://www.adobe.com/acrobat/online/password-protect-pdf.html){target=&quot;_blank&quot;} を使用して、許可されていない変更を防ぎます。
 
 +++PDFのセキュリティ保護方法の詳細を表示
 

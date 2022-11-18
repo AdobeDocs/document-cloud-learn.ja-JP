@@ -7,16 +7,16 @@ level: Beginner
 thumbnail: KT-8576.jpg
 KT: 8576
 exl-id: 8d927cd6-f944-45b7-81c9-4f70e1ed5276
-source-git-commit: 886d374b81979e8927bc823cbcb4d312222797c5
+source-git-commit: 35827630dec298fa09e43159efa2abb9362f59c2
 workflow-type: tm+mt
-source-wordcount: '98'
-ht-degree: 0%
+source-wordcount: '105'
+ht-degree: 4%
 
 ---
 
 # スマートフォンで PPT ファイルをPDFに変換
 
-この 60 秒のビデオチュートリアルでは、電子メールの PowerPoint 添付ファイルをスマートフォンのPDFに変換する方法を説明します。 ファイルが戻ったら、表示し、「共有」をタップしてチームに送信します。すべて、スマートフォンに PowerPoint をインストールせずに実行できます。
+この 60 秒のビデオチュートリアルでは、電子メールを変換する方法を説明します [PowerPoint の接続PDF](https://www.adobe.com/jp/acrobat/online/ppt-to-pdf.html){target=&quot;_blank&quot;} が表示されます。 ファイルが戻ったら、表示し、「共有」をタップしてチームに送信します。すべて、スマートフォンに PowerPoint をインストールせずに実行できます。
 
 >[!VIDEO](https://video.tv.adobe.com/v/336366?hidetitle=true)
 

@@ -5,10 +5,10 @@ product: adobe acrobat
 level: Intermediate
 thumb: KT-8199.jpg
 exl-id: 56ef2120-1765-4ed4-bf80-b048cbabe805
-source-git-commit: 647c1030b36c0126979396fe87cb0e6c4b76490b
+source-git-commit: ff700ec6a3bf71642cc27540064ba1f48874e279
 workflow-type: tm+mt
-source-wordcount: '819'
-ht-degree: 0%
+source-wordcount: '847'
+ht-degree: 2%
 
 ---
 
@@ -27,13 +27,13 @@ Adobe Acrobat Skill Builder のセッションは 30 分間で終了します。
 日付：2022 年 11 月 17 日このスキルビルダーは、デジタル文書の共同作業に特化したツールです。 チームで文書を簡単にレビューする方法を学習し、利用可能な注釈ツールのツアーを取得しましょう。 また、Microsoft Teamsで他のユーザーとPDFを確認し、AcrobatモバイルアプリとAcrobat Web を使用してどこからでもフィードバックを提供する方法についても説明します。
 
 * **[PDFコンテンツの再利用：編集と書き出し](https://adobe-acrobat-skill-builder.joinus.adobeevents.com/attendease/networking/experience/68a9bbf2-91ca-40f0-baa1-812dd0730e0b/48c2399c-7392-4d7d-ba51-f623dead313a){target=&quot;_blank&quot;}**
-日付：2022 年 10 月 27 日既存のPDFテキストや画像の編集、ハイパーリンクやブックマークの追加、Microsoft Word、PowerPoint、Excel ファイルなどへの変換が可能です。
+日付：2022 年 10 月 27 日 [既存のPDF](https://www.adobe.com/acrobat/online/pdf-editor.html){target=&quot;_blank&quot;}:テキストや画像の編集、ハイパーリンクやブックマークの追加、Microsoft Word、PowerPoint、Excel ファイルなどへの変換が可能です。
 
 * **[今日から始めるAcrobat](https://adobe-acrobat-skill-builder.joinus.adobeevents.com/attendease/networking/experience/360c9159-3f6f-47ae-8320-d0ad391883e1/e54db15b-af50-40ff-a274-6e927a22c6e7){target=&quot;_blank&quot;}**
-日付：2022 年 9 月 22 日Adobe AcrobatとPDF Acrobatのインターフェイスの概要と次の方法について説明します。*PDFは、Word、Excel、PowerPoint などの画像ファイルや文書から作成できます。 *複数のファイル (PDF、Word、画像など ) を 1 つの編集可能なPDFに * Acrobat Web およびモバイル版なら、いつでもどこでも作業ができます。
+日付：2022 年 9 月 22 日Adobe AcrobatとPDF Acrobatのインターフェイスの概要と次の方法について説明します。* [画像ファイルからPDFを作成する](https://www.adobe.com/jp/acrobat/online/convert-pdf.html){target=&quot;_blank&quot;} および文書（Word、Excel、PowerPoint など） * [複数ファイルの結合](https://www.adobe.com/jp/acrobat/online/merge-pdf.html){target=&quot;_blank&quot;} —PDF、Word、画像などを 1 つの編集可能なPDFに * Acrobat Web およびモバイル版なら、いつでもどこでも作業ができます。
 
 * **[PDFセキュリティ](https://adobe-acrobat-skill-builder.joinus.adobeevents.com/attendease/networking/experience/ad3778d2-f2c3-4966-98ed-8b1bb90e4b2b/180ad785-1b5b-4c80-80ab-1df345f082ff){target=&quot;_blank&quot;}**
-日付：2022 年 8 月 25 日情報コンテンツの保護に関する必要なPDFを入手 このセッションでは、PDFの表示、編集、印刷を防ぐためのパスワードの追加方法を紹介します。目に見えないメタデータから機密情報を完全に削除する方法も紹介します。
+日付：2022 年 8 月 25 日必要な情報をすべて入手する [保護，PDF](https://www.adobe.com/acrobat/online/password-protect-pdf.html){target=&quot;_blank&quot;} コンテンツ このセッションでは、PDFの表示、編集、印刷を防ぐためのパスワードの追加方法を紹介します。目に見えないメタデータから機密情報を完全に削除する方法も紹介します。
 
 * **[シンプルな自動化とAction Wizard](https://adobe-acrobat-skill-builder.joinus.adobeevents.com/attendease/networking/experience/45ef14f7-e5e4-4fe0-ba26-905adac092a2/24bf421e-f489-47dc-a5a4-d8d70858348c){target=&quot;_blank&quot;}**
 日付：2022 年 7 月 28 日単純な手動タスクの繰り返しを停止！ このセッションでは、AcrobatでAction Wizardを使用してPDFファイルをバッチ処理し、シリアル番号を使用した繰り返し作業を自動的に実行する方法について説明します。

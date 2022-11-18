@@ -6,10 +6,10 @@ product: adobe acrobat
 level: Beginner
 thumbnail: KT-6856.jpg
 exl-id: 24660a17-a04e-4937-be94-0a42c4b2c2ca
-source-git-commit: 546be0ae0539aa774e51bd7251b46e3f864401c3
+source-git-commit: ff700ec6a3bf71642cc27540064ba1f48874e279
 workflow-type: tm+mt
-source-wordcount: '484'
-ht-degree: 7%
+source-wordcount: '493'
+ht-degree: 8%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 7%
 
 ![Acrobat入門の画像](../assets/Hero-GettingStarted.png)
 
-Adobe Acrobatの使い方をステップバイステップ形式のチュートリアルで説明します。 ドキュメントの作成からPDFファイルの保護に至るまで、ワークフローのPDFに役立ちます。
+Adobe Acrobatの使い方をステップバイステップ形式のチュートリアルで説明します。 ドキュメントの作成から保護または [編集、PDFファイル](https://www.adobe.com/acrobat/online/pdf-editor.html){target=&quot;_blank&quot;}。このコンテンツは、簡単にワークフローをPDFできます。
 
 ## はじめに/チュートリアル
 
