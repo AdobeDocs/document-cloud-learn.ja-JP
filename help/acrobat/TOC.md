@@ -2,9 +2,9 @@
 user-guide-title: AcrobatTutorials
 solution: Acrobat
 breadcrumb-title: AcrobatTutorials
-source-git-commit: c8d43af1f50591c26325fa4e1fd50115eae6e3be
+source-git-commit: 8319477c0daffdd28fd6a6607b22b028b6b95cd7
 workflow-type: tm+mt
-source-wordcount: '408'
+source-wordcount: '413'
 ht-degree: 9%
 
 ---
@@ -88,6 +88,7 @@ ht-degree: 9%
    + [クリエイティブアプリ [!DNL SharePoint] ファイル](integrate/acrobatandsp.md)
    + [電子メールメッセージと添付ファイルを [!DNL Outlook]](integrate/outlook.md)
    + [参照中にPDFコンテンツを作成する [!DNL Microsoft Edge]](integrate/edge.md)
+   + [ProtectPDF [!DNL Microsoft Purview Information] 感度ラベル](integrate/microsoftsensitivitylabels.md)
    + [Adobe Acrobat [!DNL Google Drive]](integrate/acrobatandgoogle.md)
    + [ファイルの操作 [!DNL Dropbox]](integrate/acrobat-dropbox.md)
 + 業種および部門 {#by-industry}

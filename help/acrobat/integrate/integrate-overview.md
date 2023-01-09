@@ -7,9 +7,9 @@ level: Beginner
 topic-revisit: Integrations
 thumbnail: KT-6859.jpg
 exl-id: 76cb40b4-bbb4-4f50-b01d-4c5a74bf9f20
-source-git-commit: b3e77a9a056caf743f1affa2f1e93d9ce9cda04a
+source-git-commit: 8319477c0daffdd28fd6a6607b22b028b6b95cd7
 workflow-type: tm+mt
-source-wordcount: '303'
+source-wordcount: '329'
 ht-degree: 1%
 
 ---
@@ -89,8 +89,13 @@ Acrobatと [!DNL Box], [!DNL Dropbox], [!DNL Google Drive], [!DNL OneDrive]お�
     <br>
   </td>
   <td>
-   <img alt="スペーサー" src="../assets/Grayspacer.png" />
+    <a href="microsoftsensitivitylabels.md">
+      <img alt="参照中にPDFコンテンツを作成する [!DNL Microsoft Edge]" src="../assets/Purview_1280.png" />
+    </a>
     <div>
+    <a href="microsoftsensitivitylabels.md"><strong>ProtectPDF [!DNL Microsoft Purview Information] 感度ラベル</strong></a>
+    </div>
+    <em>追加、編集、カスタマイズ、削除を行うことで、PDFを保護する方法について説明します。 [!DNL Microsoft Purview] Acrobatで感度ラベルを直接表示</em>
     <br>
   </td>
   <td>
