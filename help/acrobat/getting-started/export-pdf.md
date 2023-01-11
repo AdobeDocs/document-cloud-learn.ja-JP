@@ -6,16 +6,16 @@ product: adobe acrobat
 level: Beginner
 thumbnail: 35494.jpg
 exl-id: 83896285-7339-4d95-8a51-b91de4d4731a
-source-git-commit: 886d374b81979e8927bc823cbcb4d312222797c5
+source-git-commit: 1a2c91b1379fbaa1f8efa5e159bc64a13be29f96
 workflow-type: tm+mt
-source-wordcount: '111'
-ht-degree: 0%
+source-wordcount: '126'
+ht-degree: 11%
 
 ---
 
 # Microsoft Office 形式へのPDFの書き出し
 
-Microsoft Word、PowerPoint、Excel などの編集可能な形式にPDFファイルを書き出す方法について説明します。 別のファイル形式に書き出すと、ドキュメントを大幅に修正および更新できます。
+次のような編集可能な形式にPDFファイルを書き出す方法を学習します [Microsoft Word](https://www.adobe.com/jp/acrobat/online/pdf-to-word.html), [PowerPoint](https://www.adobe.com/jp/acrobat/online/pdf-to-ppt.html)および [Excel](https://www.adobe.com/jp/acrobat/online/pdf-to-excel.html)を選択します。 別のファイル形式に書き出すと、ドキュメントを大幅に修正および更新できます。
 
 >[!TIP]
 >

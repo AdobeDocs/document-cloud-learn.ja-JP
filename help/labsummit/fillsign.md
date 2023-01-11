@@ -3,10 +3,10 @@ title: デスクトップでもモバイルでも、任意のフォームに入�
 description: デスクトップ、ブラウザー、モバイル版アプリから、フォームにすばやく入力、署名、送信できます
 solution: Acrobat Sign
 exl-id: 5d109c5a-2954-473a-b880-9c09a61929a5
-source-git-commit: 47575efa552da55b3ebde308c182432ab29392db
+source-git-commit: 1a2c91b1379fbaa1f8efa5e159bc64a13be29f96
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '397'
+ht-degree: 1%
 
 ---
 
@@ -16,7 +16,7 @@ ht-degree: 0%
 
 この練習では、モバイルデバイスを使用して、フォームの読み込み、入力、署名、送信を行います。
 
-以下に、 [デモファイル](assets/03_FillSignScan.zip) この練習のために。
+以下に、 [デモファイル](assets/03_FillSignScan.zip) を選択します。
 
 **手順 1:** ダウンロード [!DNL Adobe Fill & Sign] アプリケーションを [!DNL Apple App] または [!DNL Google Play]を選択します。
 
@@ -30,7 +30,7 @@ ht-degree: 0%
 
 **手順 4:** 白いボタンを使用して写真を撮影し、をタップします。 **[!UICONTROL 写真を使用]**&#x200B;を選択します。 タップ **[!UICONTROL 完了]** をクリックします。
 
-**手順 5:** アプリケーションの下部で、 **[!UICONTROL 切り抜き]** ツールをクリックし、ガイドを使用して画像を切り抜きます。 タップ **[!UICONTROL 完了]** 完了したら、
+**手順 5:** アプリケーションの下部で、 **[!UICONTROL 切り抜き]** ツールを選択し、ガイドを使用して [画像の切り抜き](https://www.adobe.com/acrobat/online/crop-pdf.html)を選択します。 タップ **[!UICONTROL 完了]** 完了したら、
 
 ![ローカルドキュメントイメージ](assets/localdoc.jpg)
 
