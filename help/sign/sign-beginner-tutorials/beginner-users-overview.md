@@ -6,9 +6,9 @@ product: adobe sign
 level: Beginner
 thumbnail: KT-6847.jpg
 exl-id: e58ce43d-2e8e-4804-8f30-6591fa943607
-source-git-commit: fce850ea8ef83e3f384c3b8a8629d9e5b96a7dcb
+source-git-commit: a044ba6053cc1b7966381b051b40641b23931fc0
 workflow-type: tm+mt
-source-wordcount: '465'
+source-wordcount: '469'
 ht-degree: 5%
 
 ---
@@ -21,10 +21,10 @@ ht-degree: 5%
 
 ## 新機能
 
+* [Acrobat Sign入門](new-sender.md)
+Acrobat Signの使用は初めてですか？ このチュートリアルは手始めに最適です。
 * [期限とリマインダーの設定](set-deadlines-reminders.md)
 文書への署名を迅速におこなうために、定期的な電子メールリマインダーと期限を送信する方法について説明します
-* [スタンプによる署名](sign-with-a-stamp.md)
-スタンプを使用して、文書が承認または完了したことをマークする方法を説明します
 
 ## 送信
 
