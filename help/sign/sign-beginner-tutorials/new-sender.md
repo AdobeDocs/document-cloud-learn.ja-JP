@@ -8,7 +8,7 @@ level: Beginner
 thumbnail: KT-8989.jpg
 kt: 8989
 exl-id: d4309ad3-003a-4415-9845-8919006c7567
-source-git-commit: e9bb38448e07d1db43fe02a344fabe7a3abe3c64
+source-git-commit: f44c72201a0baf86f74e66e28f313bda38fc5a0a
 workflow-type: tm+mt
 source-wordcount: '136'
 ht-degree: 0%
@@ -38,32 +38,32 @@ Acrobat Signの使用は初めてですか？ Acrobat Signをすぐに使い始�
         <em>0:00 から</em>
     </td>
      <td>
-    <a href="https://video.tv.adobe.com/v/337151/?autoplay=true&t=54">
+    <a href="https://video.tv.adobe.com/v/337151/?autoplay=true&t=55">
       <img alt="画像を早送り" src="../assets/Stepforward_18.png" />
     </a>
   </td>
   <td>
-     <a href="https://video.tv.adobe.com/v/337151/?autoplay=true&t=54"><strong>ホームページ</strong></a>
+     <a href="https://video.tv.adobe.com/v/337151/?autoplay=true&t=55"><strong>ホームページ</strong></a>
          <br>
-        <em>0:54 から</em>
+        <em>0:55 から</em>
     </td>
     <td>
-    <a href="https://video.tv.adobe.com/v/337151/?autoplay=true&t=152">
+    <a href="https://video.tv.adobe.com/v/337151/?autoplay=true&t=153">
       <img alt="画像を早送り" src="../assets/Stepforward_18.png" />
     </a>
   </td>
   <td>
-     <a href="https://video.tv.adobe.com/v/337151/?autoplay=true&t=152"><strong>プロファイルの設定</strong></a>
+     <a href="https://video.tv.adobe.com/v/337151/?autoplay=true&t=153"><strong>プロファイルの設定</strong></a>
         <br>
         <em>2 時半から</em>
     </td>
     <td>
-    <a href="https://video.tv.adobe.com/v/337151/?autoplay=true&t=271">
+    <a href="https://video.tv.adobe.com/v/337151/?autoplay=true&t=272">
       <img alt="画像を早送り" src="../assets/Stepforward_18.png" />
     </a>
   </td>
   <td>
-     <a href="https://video.tv.adobe.com/v/337151/?autoplay=true&t=271"><strong>送信設定</strong></a>
+     <a href="https://video.tv.adobe.com/v/337151/?autoplay=true&t=272"><strong>送信設定</strong></a>
         <br>
         <em>4 時半から</em>
     </td>
@@ -80,24 +80,24 @@ Acrobat Signの使用は初めてですか？ Acrobat Signをすぐに使い始�
         <em>8 時 22 分開始</em>
     </td>
     <td>
-    <a href="https://video.tv.adobe.com/v/337151/?autoplay=true&t=718">
+    <a href="https://video.tv.adobe.com/v/337151/?autoplay=true&t=719">
       <img alt="画像を早送り" src="../assets/Stepforward_18.png" />
     </a>
   </td>
   <td>
-     <a href="https://video.tv.adobe.com/v/337151/?autoplay=true&t=718"><strong>署名エクスペリエンス</strong></a>
+     <a href="https://video.tv.adobe.com/v/337151/?autoplay=true&t=719"><strong>署名エクスペリエンス</strong></a>
         <br>
-        <em>11 時 58 分開始</em>
+        <em>11 時 59 分開始</em>
     </td>
     <td>
-    <a href="https://video.tv.adobe.com/v/337151/?autoplay=true&t=773">
+    <a href="https://video.tv.adobe.com/v/337151/?autoplay=true&t=774">
       <img alt="画像を早送り" src="../assets/Stepforward_18.png" />
     </a>
   </td>
   <td>
-     <a href="https://video.tv.adobe.com/v/337151/?autoplay=true&t=773"><strong>ドキュメントの管理とトラック</strong></a>
+     <a href="https://video.tv.adobe.com/v/337151/?autoplay=true&t=774"><strong>ドキュメントの管理とトラック</strong></a>
         <br>
-        <em>12 時 53 分開始</em>
+        <em>12 時 54 分開始</em>
     </td>
     <td>
     <a href="https://video.tv.adobe.com/v/337151/?autoplay=true&t=898">
