@@ -7,7 +7,7 @@ level: Intermediate
 thumbnail: KT-8197.jpg
 kt: 8197
 exl-id: 8b7f85b8-f499-4402-8c0b-8170e7159ba0
-source-git-commit: 0741b4ca7e98b1f2205e94f6511607f13471eede
+source-git-commit: fe8ce2c16d06f13d07bff5e625ac773447793536
 workflow-type: tm+mt
 source-wordcount: '1076'
 ht-degree: 0%
@@ -31,12 +31,12 @@ Acrobat Sign Skill Builders は、1 日の作業を増やすことなく電子�
 **[オーサリング環境に関する高度なトレーニング](https://adobe-sign-skill-builder.joinus.adobeevents.com/attendease/networking/experience/30c06b3c-60f7-4293-9cd2-2544104d9140/85ffced9-7613-4382-b3a3-43ba227af5ba){target="_blank"}**
 日付：2023 年 4 月 20 日Acrobat Sign Authoring Environment のオプションについて詳しく説明します。 トピックは次のとおりです。
 
-    * Acrobat、テキストタグ、Acrobat Sign Authoring Environment を使用したAcrobat Sign文書テンプレートの準備の概要。
-    *オーサリング環境を詳しく見て、フィールドの複製とコピー、特殊フィールドの追加、フィールドの割り当て、条件フィールドと計算フィールドの設定について説明します。
-    *署名用にテンプレートを送信する方法（文書テンプレートとフォームフィールドテンプレートの比較）
+* Acrobat、テキストのタグ付け、Acrobat Signオーサリング環境を使用したAcrobat Sign文書テンプレートの準備の概要。
+* オーサリング環境を詳しく見て、フィールドの複製とコピー、特殊フィールドの追加、フィールドの割り当て、条件フィールドと計算フィールドの設定について説明します。
+* 文書テンプレートとフォームフィールドテンプレートの比較による、署名用のテンプレートの送信方法
 
 **[入力可能で署名可能な Web フォームの投稿](https://adobe-sign-skill-builder.joinus.adobeevents.com/attendease/networking/experience/265580bf-245a-4751-9b51-c6877192d13a/9ae41cae-a53e-4b71-a748-2df0ee2e14c8){target="_blank"}**
-日付：2023 年 3 月 16 日誰もが、トランザクションを開始したり、署名者の電子メールアドレスを知る必要なしに、入力および署名できる Web フォームを作成する方法について説明します。 個々の署名トランザクションに使用できる文書テンプレートを準備する方法や、幅広い共有のために一意の URL に投稿する方法についても説明します。
+日付：2023 年 3 月 16 日誰もが、トランザクションを開始したり、署名者の電子メールアドレスを知る必要なく、入力および署名できる Web フォームを作成する方法を説明します。 個々の署名トランザクションに使用できる文書テンプレートを準備する方法や、幅広い共有のために一意の URL に投稿する方法についても説明します。
 
 **[多くの署名をワンクリックで収集](https://adobe-sign-skill-builder.joinus.adobeevents.com/attendease/networking/experience/552e5165-8762-4c73-9d41-8215d48a62cc/9d88acde-96fa-4d83-89e3-1296b94f4d90){target="_blank"}**
 日付：2023 年 2 月 16 日Acrobat Signの一括送信機能によって時間を節約する方法を説明します。 企業全体のポリシーアップデート、NDA、その他の文書の一意のコピーに複数の個人による署名が必要な場合、一括送信を使用すると、ファイルを 1 回だけ準備し、複数の署名者に 1 回のクリックで送信して、簡単に応答を追跡できます。
@@ -44,9 +44,9 @@ Acrobat Sign Skill Builders は、1 日の作業を増やすことなく電子�
 **[契約書の電子サインの準備](https://adobe-sign-skill-builder.joinus.adobeevents.com/attendease/networking/experience/c08f6e7e-2ced-48b8-8245-548302fe2df3/15f504a9-3420-4372-83c8-168115f15cbb){target="_blank"}**
 日付：2023 年 1 月 19 日電子サイン用の文書を簡単に設定する 3 つの方法をご紹介します。 PDF、Microsoft 365 ファイル、単純な画像ファイルなど、このセッションでは文書に署名するために必要なツールを提供します。 ここでは、次の 3 つの方法について説明します。
 
-    * Adobe Acrobat Signのシンプルなドラッグ&amp;ドロップオーサリング環境
-    * Adobe AcrobatでPDFフォームを設定
-    *テキストタグを使用して文書のオーサリングを高速化
+* Adobe Acrobat Signのシンプルなドラッグ&amp;ドロップオーサリング環境
+* Adobe AcrobatでのPDFフォームの設定
+* テキストタグを使用した文書オーサリングの高速化
 
 **[Microsoftアプリでの電子サイン](https://adobe-sign-skill-builder.joinus.adobeevents.com/attendease/networking/experience/efedc73e-796d-4caf-a35b-110cb0d2f415/0ede0086-d92f-4163-94a2-125abeae2c9b){target="_blank"}**
 日付：2022 年 12 月 8 日既存のワークフローにAdobe Acrobat Signを追加することで、Word、Outlook、Sharepoint などのMicrosoftアプリケーションの使用方法を拡張できます。 このセッションでは、一般的なMicrosoftアプリケーションで文書プロセスを合理化し、署名を取得したりステータスを確認するためだけにコンテキストを切り替える必要がないようにする方法について説明します。

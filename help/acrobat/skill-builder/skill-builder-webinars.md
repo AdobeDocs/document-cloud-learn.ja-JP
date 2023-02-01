@@ -5,7 +5,7 @@ product: adobe acrobat
 level: Intermediate
 thumb: KT-8199.jpg
 exl-id: 56ef2120-1765-4ed4-bf80-b048cbabe805
-source-git-commit: 0741b4ca7e98b1f2205e94f6511607f13471eede
+source-git-commit: fe8ce2c16d06f13d07bff5e625ac773447793536
 workflow-type: tm+mt
 source-wordcount: '1107'
 ht-degree: 1%
@@ -23,38 +23,38 @@ Adobe Acrobat Skill Builder のセッションは 30 分間で終了します。
 **[PDF forms101:入力可能なForms](https://adobe-acrobat-skill-builder.joinus.adobeevents.com/attendease/networking/experience/795f4bc7-db42-4022-a624-8a53c51174c6/9d685d0f-4a5b-4236-a1ef-081d1403fb41){target="_blank"}**
 日付：2023 年 6 月 29 日古いフォームや紙の文書を、入力可能なデジタルのPDFに簡単に変換。 Acrobatには、デジタル文書の変革を推進するためのさまざまな方法とツールが用意されています。 このセッションでは、次のトピックスについて解説します。
 
-    *さまざまなファイル (PDF、スキャンした画像、Word) からフォームテンプレートを作成
-    *利用可能なフィールドタイプ（テキスト、チェックボックス、ラジオボタン、ドロップダウン、カレンダー）について
-    *フィールドプロパティと生産性ツール（外観、書式設定、計算、検証）の使用
+* さまざまなファイル (PDF、スキャンした画像、Word) からのフォームテンプレートの作成
+* 使用可能なフィールドタイプ（テキスト、チェックボックス、ラジオボタン、ドロップダウン、カレンダー）について
+* フィールドプロパティと生産性ツール（外観、書式設定、計算、検証）の使用
 
 **[PDFにインタラクティブ機能を追加](https://adobe-acrobat-skill-builder.joinus.adobeevents.com/attendease/networking/experience/4ff4d607-8c9f-47dd-ac4f-3b351a0a0fe3/2eb92255-d963-4ff7-b278-2a95a11db755){target="_blank"}**
 日付：2023 年 5 月 25 日視聴者がPDFを簡単に、魅力的に操作できるようにします。 このセッションでは、以下の方法でインタラクティブ機能を簡単にPDFに追加する
 
-    *ハイパーリンクとしおりを追加して、文書のナビゲーションを簡単に
-    *PDFにビデオ、サウンド、3D などを含める
-    *異なる種類のコンテンツを 1 つのドキュメントに整理
+* ハイパーリンクとしおりを追加して文書のナビゲーションを簡単に
+* PDFにビデオ、サウンド、3D などを含める
+* 1 つのドキュメント内での様々な種類のコンテンツの整理
 
 **[PDFコンテンツの再利用：編集と書き出し](https://adobe-acrobat-skill-builder.joinus.adobeevents.com/attendease/networking/experience/aac3b9af-7d54-4ea5-a6fa-61bc7acea87f/8d7341ee-ff0f-492a-b3fd-935bd11d4ed0){target="_blank"}**
 日付：2023 年 4 月 27 日ホイールを再作成する理由は、単に編集およびエクスポートPDFを？ このセッションでは、Acrobatの編集および書き出しツールを使用して、既存のPDFを変更する方法について説明します。 以下の方法について学習します。
 
-    *テキストと画像の編集
-    *ハイパーリンクとしおりを追加して、文書のナビゲーションを簡単に
-    * Microsoft Word、PowerPoint、Excel などの使い慣れた形式に書き出し
-    *ドキュメント全体を書き出すか、特定のテキスト、画像、または表を選択
+* テキストと画像の編集
+* ハイパーリンクとブックマークを追加して、文書のナビゲーションを簡単に
+* Microsoft Word、PowerPoint、Excel などの使い慣れた形式への書き出し
+* ドキュメント全体を書き出すか、特定のテキスト、画像、または表を選択する
 
 **[PDFコラボレーション：共有、レビュー、共同作業](https://adobe-acrobat-skill-builder.joinus.adobeevents.com/attendease/networking/experience/0ef4709b-0a04-418e-a185-7efdd676c2dd/6a95bece-6f24-46f5-a17f-b408464281be){target="_blank"}**
 日付：2023 年 3 月 23 日Adobe AcrobatとPDF Acrobatのインターフェイスと主な機能を紹介し、生産性の向上に役立つ基礎を学びます。 以下の方法をご紹介します。
 
-    *画像ファイルや Word、Excel、PowerPoint などの文書からPDFを作成
-    *複数のファイル (PDF、Word、画像など ) を 1 つの編集可能なPDF
-    * Acrobat Web とAcrobat Mobile があれば、いつでもどこでも作業ができます
+* Word、Excel、PowerPoint などの画像ファイルや文書からPDFを作成
+* 複数のファイル (PDF、Word、画像など ) を 1 つの編集可能なPDF
+* Acrobat Web とAcrobat Mobile があれば、いつでもどこでも作業ができます
 
 **[今日から始めるAcrobat](https://adobe-acrobat-skill-builder.joinus.adobeevents.com/attendease/networking/experience/5d8acc24-47a1-4db8-b419-8587bfb12708/fe8ec392-f29a-4e25-b7a3-61f48eea45ab){target="_blank"}**
 日付：2023 年 2 月 23 日Adobe AcrobatとPDF Acrobatのインターフェイスと主な機能を紹介し、生産性の向上に役立つ基礎を学びます。 以下の方法をご紹介します。
 
-    *画像ファイルや Word、Excel、PowerPoint などの文書からPDFを作成
-    *複数のファイル (PDF、Word、画像など ) を 1 つの編集可能なPDF
-    * Acrobat Web とAcrobat Mobile があれば、いつでもどこでも作業ができます
+* Word、Excel、PowerPoint などの画像ファイルや文書からPDFを作成
+* 複数のファイル (PDF、Word、画像など ) を 1 つの編集可能なPDF
+* Acrobat Web とAcrobat Mobile があれば、いつでもどこでも作業ができます
 
 **[どこにいても生産性を維持](https://adobe-acrobat-skill-builder.joinus.adobeevents.com/attendease/networking/experience/9ab6c7a2-5ca2-4670-9a33-2ac11a1cb542/0b591876-aeae-45af-b41a-07a8326043f2){target="_blank"}**
 日付：2023 年 1 月 26 日このセッションでは、お気に入りのAcrobatツールに Web ブラウザーやモバイルデバイスからアクセスする方法について説明します。 Acrobat Web ギャラリーを使用すると、どこにいても作業することができます。また、Acrobatモバイルアプリを使用すると、外出先のコンテキストでも生産性を向上させることができます。
