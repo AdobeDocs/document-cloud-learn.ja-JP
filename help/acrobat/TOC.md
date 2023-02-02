@@ -2,10 +2,10 @@
 user-guide-title: AcrobatTutorials
 solution: Acrobat
 breadcrumb-title: AcrobatTutorials
-source-git-commit: 8319477c0daffdd28fd6a6607b22b028b6b95cd7
+source-git-commit: 9d40cb78ea7dae3eb372d704737815082fdcc32f
 workflow-type: tm+mt
-source-wordcount: '413'
-ht-degree: 9%
+source-wordcount: '412'
+ht-degree: 8%
 
 ---
 
@@ -78,7 +78,6 @@ ht-degree: 9%
    + [PDF](60-second/editgraphic.md)
    + [ページを瞬時に整理](60-second/organize.md)
 + スキルビルダー {#skill-builders}
-   + [概要](skill-builder/skill-builder-overview.md)
    + [Web セミナー](skill-builder/skill-builder-webinars.md)
 + 統合 {#integrations}
    + [概要](integrate/integrate-overview.md)
