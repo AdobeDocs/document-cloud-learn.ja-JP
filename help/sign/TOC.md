@@ -11,17 +11,17 @@ breadcrumb-title: Acrobat SignTutorials
 source-git-commit: 32a3410b392e0bbe792fdf2c43752e3970b20c46
 workflow-type: tm+mt
 source-wordcount: '488'
-ht-degree: 0%
+ht-degree: 10%
 
 ---
 
 
 # Acrobat SignTutorials {#sign-learning-hub}
 
-+ [予備スキャン](overview.md)
++ [概要](overview.md)
 + はじめに {#getting-started}
    + [概要](sign-beginner-tutorials/beginner-users-overview.md)
-   + 送信中 {#getting-started-sending}
+   + 送信 {#getting-started-sending}
       + [ワークスペースの基本](sign-beginner-tutorials/quick-tour.md)
       + [Acrobat Sign入門](sign-beginner-tutorials/new-sender.md)
       + [1 人の受信者への送信](sign-beginner-tutorials/send-to-single-recipient.md)
@@ -31,7 +31,7 @@ ht-degree: 0%
       + [送信後のドキュメントの変更](sign-beginner-tutorials/modify-in-flight.md)
       + [署名者の置き換え](sign-beginner-tutorials/replace-signer.md)
       + [期限とリマインダーの設定](sign-beginner-tutorials/set-deadlines-reminders.md)
-   + 署名中 {#getting-started-signing}
+   + 署名 {#getting-started-signing}
       + [文書への電子署名](sign-beginner-tutorials/electronically-sign-a-document.md)
       + [文書への入力と署名](sign-beginner-tutorials/fill-and-sign.md)
       + [署名を対面で取得](sign-beginner-tutorials/sign-in-person.md)
