@@ -1,0 +1,29 @@
+---
+title: 公証のために文書を送信
+description: 公証のために文書を送信する方法
+role: User
+product: adobe sign
+level: Intermediate
+topic-revisit: Integrations
+source-git-commit: 88482ea5eadc93ff3bfcf995f0725e94c3a660cc
+workflow-type: tm+mt
+source-wordcount: '111'
+ht-degree: 0%
+
+---
+
+# 公証のために文書を送信
+
+Adobe Acrobat Signは Notarize, Inc.と提携して、オンライン公証サービスを提供しています。 この 3 部構成のチュートリアルでは、公証のために文書を送信する方法、署名者のエクスペリエンスを表示する方法、および結果を受け取る方法について説明します。
+
+>[!NOTE]
+>
+>Acrobat Signと [!DNL Notarize] Inc.のオンライン公証サービスは、ビジネスレベルおよびエンタープライズレベルのサービスプランを持つ米国でのみ利用できます。
+
+>[!VIDEO](https://video.tv.adobe.com/v/341029?hidetitle=true)
+
+>[!TIP]
+>
+>Acrobat Signアカウントの公証が有効になっている場合、送信者は **公証が必要** 受信者レコードの右側にある省略記号を選択します。 公証オプションは、署名者役割を持つ受信者に対してのみ使用できます。
+
+

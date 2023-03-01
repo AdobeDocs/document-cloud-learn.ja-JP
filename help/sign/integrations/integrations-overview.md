@@ -7,9 +7,9 @@ level: Intermediate
 topic-revisit: Integrations
 thumbnail: KT-6850.jpg
 exl-id: 2b1b9fae-7b4c-4092-aec7-c2025ef07cf4
-source-git-commit: c000c6cb0651f2ab73876a19047e6a9d2c6fb04c
+source-git-commit: 88482ea5eadc93ff3bfcf995f0725e94c3a660cc
 workflow-type: tm+mt
-source-wordcount: '587'
+source-wordcount: '615'
 ht-degree: 0%
 
 ---
@@ -25,10 +25,10 @@ Acrobat Signは、組織で既に使用している他のアプリケーショ�
 
 ## 新機能
 
+* [公証のために文書を送信](send-document-notarize.md)
+この 3 部構成のチュートリアルでは、公証のために文書を送信する方法、署名者のエクスペリエンスを表示する方法、および結果を受け取る方法について説明します
 * [Power Automate を使用したSharePointでのファイルの自動アーカイブ](auto-archive-sharepoint-power-automate.md)
 Power Automate を使用して、署名済み文書をSharePointライブラリに自動的にアーカイブする方法について説明します
-* [Salesforce 用ドキュメントビルダー](create-an-agreement-template.md)
-Salesforce 用の文書ビルダーを使用して、再利用可能な文書テンプレートを作成する方法を説明します。
 
 ## Microsoft統合チュートリアル
 
@@ -104,6 +104,38 @@ Salesforce 用の文書ビルダーを使用して、再利用可能な文書テ
     <a href="documentautomation.md"><strong>文書の自動処理 [!DNL Acrobat Sign for Microsoft Power Platform]</strong></a>
     </div>
     <em>ライセンス認証を行い、 [!DNL Acrobat Sign] および [!DNL Adobe PDF Tools] コネクタ [!DNL Microsoft Power] apps</em>
+    <br>
+  </td>
+</tr>
+</table>
+
+## [!DNL Notarize] 統合チュートリアル
+
+<table style="table-layout:fixed">
+<tr>
+  <td>
+    <a href="send-document-notarize.md">
+      <img alt="公証のために文書を送信" src="../assets/Notarize.png" />
+    </a>
+    <div>
+    <a href="send-document-notarize.md"><strong>公証のために文書を送信</strong></a>
+    </div>
+    <em>公証のために文書を送信する方法</em>
+    <br>
+  </td>
+  <td>
+    <img alt="スペーサー" src="../assets/Whitespacer.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="スペーサー" src="../assets/Whitespacer.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="スペーサー" src="../assets/Whitespacer.png" />
+    <div>
     <br>
   </td>
 </tr>
