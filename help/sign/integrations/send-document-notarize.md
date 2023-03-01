@@ -5,7 +5,8 @@ role: User
 product: adobe sign
 level: Intermediate
 topic-revisit: Integrations
-source-git-commit: 88482ea5eadc93ff3bfcf995f0725e94c3a660cc
+exl-id: 5a4c3a69-d126-46c2-984e-623516e0eed3
+source-git-commit: b6108850e14e73eb2ad49cfede4f2f477c87f684
 workflow-type: tm+mt
 source-wordcount: '111'
 ht-degree: 0%
@@ -25,5 +26,3 @@ Adobe Acrobat Signは Notarize, Inc.と提携して、オンライン公証サ�
 >[!TIP]
 >
 >Acrobat Signアカウントの公証が有効になっている場合、送信者は **公証が必要** 受信者レコードの右側にある省略記号を選択します。 公証オプションは、署名者役割を持つ受信者に対してのみ使用できます。
-
-
