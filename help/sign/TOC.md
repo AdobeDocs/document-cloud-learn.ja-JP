@@ -8,20 +8,20 @@ getting-started-url: https://helpx.adobe.com/sign/using/get-started-guide.html
 tutorials-title: Tutorials
 tutorials-url: https://helpx.adobe.com/sign/tutorials.html
 breadcrumb-title: Acrobat SignTutorials
-source-git-commit: fce850ea8ef83e3f384c3b8a8629d9e5b96a7dcb
+source-git-commit: 32a3410b392e0bbe792fdf2c43752e3970b20c46
 workflow-type: tm+mt
-source-wordcount: '483'
-ht-degree: 9%
+source-wordcount: '488'
+ht-degree: 0%
 
 ---
 
 
 # Acrobat SignTutorials {#sign-learning-hub}
 
-+ [概要](overview.md)
++ [予備スキャン](overview.md)
 + はじめに {#getting-started}
    + [概要](sign-beginner-tutorials/beginner-users-overview.md)
-   + 送信 {#getting-started-sending}
+   + 送信中 {#getting-started-sending}
       + [ワークスペースの基本](sign-beginner-tutorials/quick-tour.md)
       + [Acrobat Sign入門](sign-beginner-tutorials/new-sender.md)
       + [1 人の受信者への送信](sign-beginner-tutorials/send-to-single-recipient.md)
@@ -31,7 +31,7 @@ ht-degree: 9%
       + [送信後のドキュメントの変更](sign-beginner-tutorials/modify-in-flight.md)
       + [署名者の置き換え](sign-beginner-tutorials/replace-signer.md)
       + [期限とリマインダーの設定](sign-beginner-tutorials/set-deadlines-reminders.md)
-   + Signing {#getting-started-signing}
+   + 署名中 {#getting-started-signing}
       + [文書への電子署名](sign-beginner-tutorials/electronically-sign-a-document.md)
       + [文書への入力と署名](sign-beginner-tutorials/fill-and-sign.md)
       + [署名を対面で取得](sign-beginner-tutorials/sign-in-person.md)
@@ -101,6 +101,8 @@ ht-degree: 9%
       + [署名用に送信 [!DNL Microsoft Teams]](integrations/adobe-sign-teams-mortgage.md)
       + [ファイルの自動アーカイブ [!DNL SharePoint] を [!DNL Power Automate]](integrations/auto-archive-sharepoint-power-automate.md)
       + [Acrobat Sign for Microsoft Power Platform による文書の自動化](integrations/documentautomation.md)
+   + Notarize {#notarize}
+      + [公証のために文書を送信](integrations/send-document-notarize.md)
    + Salesforce {#salesforce}
       + [Salesforce 用ドキュメントビルダー](integrations/create-an-agreement-template.md)
       + [データマッピングの設定](integrations/set-up-data-mapping.md)
@@ -117,17 +119,17 @@ ht-degree: 9%
 + 業種および部門 {#expand}
    + [概要](sign-usecase/expand-inspire-overview.md)
    + スキルビルダー {#innovation}
-      + [Web セミナー](sign-usecase/innovation-series.md)
+      + [ウェビナー](sign-usecase/innovation-series.md)
    + ユースケースレシピ {#recipes}
       + [概要](sign-usecase/recipes.md)
-      + 官公庁 {#gov}
+      + 中央省庁 {#gov}
          + [業務助成金](sign-usecase/usecasegovgrants.md)
          + [テレワーク契約](sign-usecase/usecasegovtelework.md)
          + [契約書および請求書フォーム](sign-usecase/usecasegovcontracts.md)
          + [再雇用支援](sign-usecase/usecasegovreemployment.md)
          + [給与保護](sign-usecase/usecasegovpaycheck.md)
          + [リモート令状要求](sign-usecase/usecasegovremote.md)
-      + Commercial {#com}
+      + 商業用 {#com}
          + [契約書および請求書フォーム](sign-usecase/usecasecomcontracts.md)
          + [契約書](sign-usecase/usecasecompolicy.md)
          + [テレワーク契約](sign-usecase/usecasecomtelework.md)
