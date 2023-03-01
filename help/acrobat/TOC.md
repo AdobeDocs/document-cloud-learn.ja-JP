@@ -5,14 +5,14 @@ breadcrumb-title: AcrobatTutorials
 source-git-commit: 9d40cb78ea7dae3eb372d704737815082fdcc32f
 workflow-type: tm+mt
 source-wordcount: '412'
-ht-degree: 8%
+ht-degree: 0%
 
 ---
 
 
 # Acrobat tutorials {#acrobat-learning}
 
-+ [概要](overview.md)
++ [予備スキャン](overview.md)
 + はじめに {#getting-started}
    + [概要](getting-started/getting-started-overview.md)
    + [ワークスペースの基本](getting-started/get-to-know-the-acrobat-dc-interface.md)
@@ -21,9 +21,9 @@ ht-degree: 8%
    + [モバイルで仕事をこなす](getting-started/productivity.md)
    + [使用する [!DNL Microsoft 365]](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/integrations/integrate-overview.html#microsoft)
    + [PDFの出所](getting-started/where-do-pdfs-come-from.md)
-   + [PDF の作成](getting-started/create-pdf.md)
+   + [PDF](getting-started/create-pdf.md)
    + [Combine FilesからPDF](getting-started/combine-to-pdf.md)
-   + [ページを整理](getting-started/organize.md)
+   + [ページの編成](getting-started/organize.md)
    + [カスタムページの追加](getting-started/add-custom-page.md)
    + [PDF を編集](getting-started/edit-pdf.md)
    + [レイアウトの自動調整](getting-started/auto-adjust-layout.md)
@@ -46,7 +46,7 @@ ht-degree: 8%
    + [フォームフィールドの操作](advanced-tasks/workforms.md)
    + [PDF](advanced-tasks/enhance.md)
    + [2 つのPDFの違いを検出](advanced-tasks/compare.md)
-   + [アクションウィザード](advanced-tasks/action.md)
+   + [Action Wizard](advanced-tasks/action.md)
    + [墨消しと削除](advanced-tasks/redact.md)
    + [ファイルサイズの縮小と最適化](advanced-tasks/reduce.md)
    + [フォームデータの操作](advanced-tasks/formdata.md)
@@ -78,7 +78,7 @@ ht-degree: 8%
    + [PDF](60-second/editgraphic.md)
    + [ページを瞬時に整理](60-second/organize.md)
 + スキルビルダー {#skill-builders}
-   + [Web セミナー](skill-builder/skill-builder-webinars.md)
+   + [ウェビナー](skill-builder/skill-builder-webinars.md)
 + 統合 {#integrations}
    + [概要](integrate/integrate-overview.md)
    + [PDFの作成元 [!DNL Microsoft Word]](integrate/createfromword.md)
@@ -92,7 +92,7 @@ ht-degree: 8%
    + [ファイルの操作 [!DNL Dropbox]](integrate/acrobat-dropbox.md)
 + 業種および部門 {#by-industry}
    + [概要](industry/industry-overview.md)
-   + 官公庁 {#gov}
+   + 中央省庁 {#gov}
       + [概要](industry/gov/gov-overview.md)
       + Acrobatで場所を問わずに作業するための 5 つのヒント {#tips}
          + [Acrobatで場所を問わずに作業するための 5 つのヒント](industry/gov/5-tips-for-working-anywhere-with-acrobat-dc-for-government.md)
