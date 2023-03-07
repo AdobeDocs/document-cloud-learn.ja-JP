@@ -1,6 +1,6 @@
 ---
-title: 使用した署名 [!DNL Digidentity]
-description: ここでは、 [!DNL Digidentity] Acrobat Sign によるデジタル ID
+title: 登録と署名に [!DNL Digidentity] デジタル ID
+description: 登録して [!DNL Digidentity] Acrobat Signによるデジタル ID
 role: User
 product: adobe sign
 solution: Acrobat Sign
@@ -8,15 +8,17 @@ level: Beginner
 thumbnail: KT-8670.jpg
 kt: 8670
 exl-id: 4c1641bc-3298-45f0-95ed-7071e6158e5e
-source-git-commit: e02b1250de94ec781e7984c6c146dbae993f5d31
+source-git-commit: ed9ff5078db36fd41021b656f58356edeefa5cea
 workflow-type: tm+mt
-source-wordcount: '36'
+source-wordcount: '121'
 ht-degree: 0%
 
 ---
 
-# 使用した署名 [!DNL Digidentity]
+# 登録と署名に [!DNL Digidentity] デジタル ID
 
-ここでは、 [!DNL Digidentity] デジタル ID を使用して、ID を認証し、文書に対するリモート電子署名（クラウド署名）を承認します。
+Digidentity は、EU 適格信頼サービスプロバイダー (QTSP) です。 Digidentity の識別とオンボーディングプロセスは Digidentity モバイルアプリに依存し、埋め込み NFC チップと NFC 対応モバイルデバイスを備えた ID 文書を使用する必要があります。 Digidentity プロセスは完全にセルフサービスで、24/7/365 で利用可能です。 ほとんどの場合、登録を完了するのに 5～10 分ほどかかります。
+
+このビデオチュートリアルでは、登録依頼メールの受信から、デジタル ID を使用したAdobe Acrobat Signでの認証およびクラウド署名の適用までのユーザージャーニーを詳しく説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/336991?hidetitle=true)

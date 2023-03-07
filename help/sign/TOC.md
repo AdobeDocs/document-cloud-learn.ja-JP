@@ -8,9 +8,9 @@ getting-started-url: https://helpx.adobe.com/sign/using/get-started-guide.html
 tutorials-title: Tutorials
 tutorials-url: https://helpx.adobe.com/sign/tutorials.html
 breadcrumb-title: Acrobat SignTutorials
-source-git-commit: 32a3410b392e0bbe792fdf2c43752e3970b20c46
+source-git-commit: ed9ff5078db36fd41021b656f58356edeefa5cea
 workflow-type: tm+mt
-source-wordcount: '488'
+source-wordcount: '486'
 ht-degree: 10%
 
 ---
@@ -83,8 +83,7 @@ ht-degree: 10%
    + Aadhaar {#aadhaar}
       + [Aadhaar を使用した署名](digitalid/aadhaar-sign.md)
    + Digidentity {#digidentity}
-      + [Digidentity からデジタル ID を取得](digitalid/digidentity-reg.md)
-      + [Digidentity を使用した署名](digitalid/digidentity-sign.md)
+      + [登録と署名に [!DNL Digidentity] デジタル ID](digitalid/digidentity-sign.md)
    + D-Trust {#dtrust}
       + [[!DNL D-Trust] を使用した登録と署名](digitalid/d-trust.md)
    + Intesi Group {#intesi}
