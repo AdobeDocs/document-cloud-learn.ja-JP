@@ -7,9 +7,9 @@ level: Beginner
 thumbnail: KT-8990.jpg
 kt: 8990
 exl-id: 753b7016-6331-40df-9003-5acee8be752a
-source-git-commit: 9ff23e33bed24593b2675e6aba177ebe41f39b1b
+source-git-commit: 50527e5500d940494bc0792eac8eba87e1082982
 workflow-type: tm+mt
-source-wordcount: '282'
+source-wordcount: '299'
 ht-degree: 0%
 
 ---
@@ -26,6 +26,8 @@ ht-degree: 0%
 
 ## 新機能
 
+* [Digidentity を使用した登録と署名](digidentity-sign.md)
+登録して [!DNL Digidentity] Acrobat Signによるデジタル ID
 * [D-Trust を使用した登録と署名](d-trust.md)
 ID を登録する方法 [!DNL D-Trust]を選択し、 [!DNL D-Trust] Acrobat Signでの文書の電子署名
 
