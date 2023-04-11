@@ -7,10 +7,10 @@ level: Intermediate
 topic-revisit: Integrations
 thumbnail: 328113.jpg
 exl-id: a59eab61-fe61-45c6-8137-f074e1f2b3ed
-source-git-commit: e02b1250de94ec781e7984c6c146dbae993f5d31
+source-git-commit: 4ebf9594025f98f0505c58f1ab43fb864ed51206
 workflow-type: tm+mt
-source-wordcount: '268'
-ht-degree: 4%
+source-wordcount: '264'
+ht-degree: 5%
 
 ---
 
@@ -18,15 +18,15 @@ ht-degree: 4%
 
 Gigasign を使用すると、署名が必要な文書を送信、収集、追跡して、数千人に同時に送信できます。 従業員やお客様との大量のコミュニケーションに対応するように設計されており、一括送信ごとに最大 2,500 人の受信者をサポートします。 GigaSign は、Acrobat Sign API を使用して MegaSign と同じ機能を提供し、複数の署名者、受信者グループ、受信者の役割、契約書名、カーボンコピーなどをサポートします。
 
->[!VIDEO](https://video.tv.adobe.com/v/328113?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/328113?quality=12&learn=on&hidetitle=true)
 
 ## GigaSign アプリをダウンロードしてインストールします。
 
 [GigaSign Zip ファイルのダウンロード](https://documentcloud.adobe.com/link/track?uri=urn:aaid:scds:US:8975dbca-98d5-4e66-9164-d21163c91c7f)
 
-[Java 1.8 ダウンロードリンク（必要な場合のみ）](https://www.oracle.com/java/technologies/javase/javase8-archive-downloads.html) {target=&quot;_blank&quot;}
+[Java 1.8 ダウンロードリンク（必要な場合のみ）](https://www.oracle.com/java/technologies/javase/javase8-archive-downloads.html) {target="_blank"}
 
-[ホワイトリストへの IP アドレス（必要な場合のみ）](https://helpx.adobe.com/jp/sign/system-requirements.html#IPs){target=&quot;_blank&quot;}
+[ホワイトリストへの IP アドレス（必要な場合のみ）](https://helpx.adobe.com/jp/sign/system-requirements.html#IPs){target="_blank"}
 
 ## 基本的な設定手順
 
@@ -50,4 +50,4 @@ Gigasign を使用すると、署名が必要な文書を送信、収集、追�
 
 1. 2 行目に、キーの作成に使用したアカウントの電子メールアドレスを入力します。
 
-1. クリック **[!UICONTROL 送信]**&#x200B;を選択します。
+1. 「**[!UICONTROL 送信]**」をクリックします。

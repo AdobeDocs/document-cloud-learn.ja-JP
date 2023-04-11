@@ -6,7 +6,7 @@ product: adobe sign
 level: Intermediate
 topic-revisit: Integrations
 exl-id: 5a4c3a69-d126-46c2-984e-623516e0eed3
-source-git-commit: b6108850e14e73eb2ad49cfede4f2f477c87f684
+source-git-commit: 4ebf9594025f98f0505c58f1ab43fb864ed51206
 workflow-type: tm+mt
 source-wordcount: '111'
 ht-degree: 0%
@@ -21,7 +21,7 @@ Adobe Acrobat Signは Notarize, Inc.と提携して、オンライン公証サ�
 >
 >Acrobat Signと [!DNL Notarize] Inc.のオンライン公証サービスは、ビジネスレベルおよびエンタープライズレベルのサービスプランを持つ米国でのみ利用できます。
 
->[!VIDEO](https://video.tv.adobe.com/v/341029?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/341029?quality=12&learn=on&hidetitle=true)
 
 >[!TIP]
 >

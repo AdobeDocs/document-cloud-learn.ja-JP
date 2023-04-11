@@ -6,7 +6,8 @@ product: adobe acrobat
 level: Intermediate
 thumbnail: KT-9345.jpg
 kt: 9345
-source-git-commit: b728e0bee2743cd24059a5958bc657bb6a4a64cb
+exl-id: b7dde660-846c-4875-b5a7-741ff087ccc9
+source-git-commit: 4ebf9594025f98f0505c58f1ab43fb864ed51206
 workflow-type: tm+mt
 source-wordcount: '725'
 ht-degree: 0%
@@ -36,7 +37,7 @@ Prepare Formツールを使用して、既存のテンプレートにフォー�
 
 <br> 
 
->[!VIDEO](https://video.tv.adobe.com/v/340084?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/340084?quality=12&learn=on&hidetitle=true)
 
 <br> 
 
@@ -46,7 +47,7 @@ Prepare Formツールを使用して、既存のテンプレートにフォー�
 
 1. ダウンロードして開く *Questionnaire.pdf*&#x200B;を選択します。
 1. 選択 **Prepare Form** 」をクリックします。
-1. 「**開始**」を選択します。
+1. 選択 **開始**&#x200B;を選択します。
 1. 選択 **テキストと画像の編集** をクリックして、入力ミスを修正します。
 1. 選択 **選択** をクリックして、編集モードを終了します。
 1. 最上位のフォームフィールドを選択して削除します。

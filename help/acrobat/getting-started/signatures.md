@@ -7,22 +7,22 @@ level: Beginner
 thumbnail: KT-8257.jpg
 kt: 8257
 exl-id: 58c432b1-2067-4a67-b386-ab7d35453543
-source-git-commit: 35827630dec298fa09e43159efa2abb9362f59c2
+source-git-commit: 4ebf9594025f98f0505c58f1ab43fb864ed51206
 workflow-type: tm+mt
-source-wordcount: '67'
+source-wordcount: '65'
 ht-degree: 7%
 
 ---
 
 # 署名を取得
 
-法的拘束力のある [電子サイン](https://www.adobe.com/jp/acrobat/online/request-signature.html){target=&quot;_blank&quot;} を他のユーザーと共有
+法的拘束力のある [電子サイン](https://www.adobe.com/jp/acrobat/online/request-signature.html){target="_blank"} どこからでも
 
 >[!IMPORTANT]
 >
 >Acrobat Enterprise サブスクリプションに加えて、Acrobat Sign Enterprise の使用権限が必要です。
 
->[!VIDEO](https://video.tv.adobe.com/v/338359?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/338359?quality=12&learn=on&hidetitle=true)
 
 >[!TIP]
 >

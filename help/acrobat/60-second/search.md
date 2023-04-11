@@ -7,7 +7,7 @@ level: Beginner
 thumbnail: KT-8574.jpg
 KT: 8574
 exl-id: d3e2d7d6-5c14-461b-9f68-8f16c8ceda50
-source-git-commit: 2de5b609b3f23bb5796786b6bc413a831c2b78c3
+source-git-commit: 4ebf9594025f98f0505c58f1ab43fb864ed51206
 workflow-type: tm+mt
 source-wordcount: '58'
 ht-degree: 0%
@@ -18,4 +18,4 @@ ht-degree: 0%
 
 この 60 秒のビデオチュートリアルでは、PDFファイル内で検索を開始し、詳細検索を開いてPDFファイルのフォルダー全体を検索する方法について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/336363?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/336363?quality=12&learn=on&hidetitle=true)

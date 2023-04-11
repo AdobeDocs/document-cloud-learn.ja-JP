@@ -7,9 +7,9 @@ solution: Acrobat Sign
 level: Beginner
 thumbnail: KT-10604.jpg
 exl-id: 1a736446-ae0d-45c0-b253-666bcef1559c
-source-git-commit: 34dbc50220dffebf2f6cc67683b9bfc1bec752f0
+source-git-commit: 4ebf9594025f98f0505c58f1ab43fb864ed51206
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '41'
 ht-degree: 0%
 
 ---
@@ -18,4 +18,4 @@ ht-degree: 0%
 
 Acrobat Sign内で文書に自動的にフィールドを配置する方法や、ドラッグ&amp;ドロップオーサリング環境を使用する方法について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/346620?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/346620?quality=12&learn=on&hidetitle=true)

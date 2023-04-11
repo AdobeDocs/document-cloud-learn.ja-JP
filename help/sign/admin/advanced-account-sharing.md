@@ -7,7 +7,7 @@ level: Intermediate
 topic-revisit: Administration
 thumbnail: 40186.jpg
 exl-id: a10c42e9-8aec-4784-a374-23c69a3f8111
-source-git-commit: 41d3a43952dd2bae2747c9a74416f3f24e938f17
+source-git-commit: 4ebf9594025f98f0505c58f1ab43fb864ed51206
 workflow-type: tm+mt
 source-wordcount: '186'
 ht-degree: 1%
@@ -22,7 +22,7 @@ ht-degree: 1%
 >
 >高度なアカウント共有は、エンタープライズレベルのプランでのみ利用できます。 テクニカルサポートでは、高度な共有を有効にできますが、有効にすると、共有オブジェクトの関係が変更され、元に戻せなくなります。 そのため、Adobeアカウントチームに連絡して、機能をテストするための体験版アカウントを設定してもらい、やりたいことがすべて可能であることを確認することをお勧めします。
 
->[!VIDEO](https://video.tv.adobe.com/v/40186?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/40186?quality=12&learn=on&hidetitle=true)
 
 >[!TIP]
 >

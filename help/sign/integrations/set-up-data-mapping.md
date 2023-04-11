@@ -7,7 +7,7 @@ level: Intermediate
 topic-revisit: Integrations
 thumbnail: 17351.jpg
 exl-id: 52b858aa-9ec9-44dd-b48e-5ae009f75846
-source-git-commit: 4827c827ee06c94c38290d5f0e716e8a8328bd48
+source-git-commit: 4ebf9594025f98f0505c58f1ab43fb864ed51206
 workflow-type: tm+mt
 source-wordcount: '47'
 ht-degree: 0%
@@ -18,4 +18,4 @@ ht-degree: 0%
 
 Acrobat Signのデータマッピングを [!DNL Salesforce]を選択します。 データマッピングを使用すると、データを取得できます _戻る_ を [!DNL Salesforce] 契約書の署名後。
 
->[!VIDEO](https://video.tv.adobe.com/v/3409073?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3409073?quality=12&learn=on&hidetitle=true)

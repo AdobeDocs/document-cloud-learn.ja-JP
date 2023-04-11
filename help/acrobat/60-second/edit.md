@@ -7,18 +7,18 @@ level: Beginner
 thumbnail: KT-8573.jpg
 KT: 8573
 exl-id: 4d87faf3-758e-49d5-a1d4-7418ace14709
-source-git-commit: ff700ec6a3bf71642cc27540064ba1f48874e279
+source-git-commit: 4ebf9594025f98f0505c58f1ab43fb864ed51206
 workflow-type: tm+mt
-source-wordcount: '77'
+source-wordcount: '75'
 ht-degree: 6%
 
 ---
 
 # Acrobat Web でのPDFの編集
 
-この 60 秒のビデオチュートリアルでは、 [簡単なPDF編集](https://www.adobe.com/acrobat/online/pdf-editor.html){target=&quot;_blank&quot;} をテキストや画像に追加できます。PDFをダウンロードする必要もありません。
+この 60 秒のビデオチュートリアルでは、 [簡単なPDF編集](https://www.adobe.com/jp/acrobat/online/pdf-editor.html){target="_blank"} テキストや画像に変換できます。PDFを
 
->[!VIDEO](https://video.tv.adobe.com/v/336362?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/336362?quality=12&learn=on&hidetitle=true)
 
 >[!TIP]
 >

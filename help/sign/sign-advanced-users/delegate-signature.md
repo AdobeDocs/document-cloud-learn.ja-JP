@@ -7,7 +7,7 @@ solution: Acrobat Sign
 level: Intermediate
 thumbnail: 17366.jpg
 exl-id: b9d7c6f4-a7fc-4cb8-a80d-91cc4c5b5298
-source-git-commit: 66aef67afbc92be3f2faa3d36a28e6f15431c4ce
+source-git-commit: 4ebf9594025f98f0505c58f1ab43fb864ed51206
 workflow-type: tm+mt
 source-wordcount: '110'
 ht-degree: 3%
@@ -22,7 +22,7 @@ ht-degree: 3%
 >
 >委任者の役割は、エンタープライズレベルのプランでのみ使用できます。 Acrobat Sign管理者が、 **送信者が受信者を委任者としてマークすることを許可** 設定 **送信設定** セクション **アカウント設定** を選択します。
 
->[!VIDEO](https://video.tv.adobe.com/v/343621?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/343621?quality=12&learn=on&hidetitle=true)
 
 >[!TIP]
 >

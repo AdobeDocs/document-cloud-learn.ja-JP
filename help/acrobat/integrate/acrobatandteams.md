@@ -7,7 +7,7 @@ level: Beginner
 topic-revisit: Integrations
 thumbnail: 331277.jpg
 exl-id: 76eb392d-7357-47c8-b24b-58977e229e8f
-source-git-commit: 38a5b00897fc76f08dfa470e4d39012d7ff88c4e
+source-git-commit: 4ebf9594025f98f0505c58f1ab43fb864ed51206
 workflow-type: tm+mt
 source-wordcount: '174'
 ht-degree: 0%
@@ -30,7 +30,7 @@ Adobe Acrobat for Teams を使用すると、ユーザーは離れることな�
 
 <br> 
 
->[!VIDEO](https://video.tv.adobe.com/v/331277?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/331277?quality=12&learn=on&hidetitle=true)
 
 >[!TIP]
 >

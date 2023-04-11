@@ -7,15 +7,15 @@ level: Beginner
 thumbnail: KT-8571.jpg
 KT: 8571
 exl-id: b467cfe3-c031-4df9-acd5-646949644774
-source-git-commit: ff700ec6a3bf71642cc27540064ba1f48874e279
+source-git-commit: 4ebf9594025f98f0505c58f1ab43fb864ed51206
 workflow-type: tm+mt
-source-wordcount: '55'
+source-wordcount: '53'
 ht-degree: 9%
 
 ---
 
 # ファイルを 1 つのPDFに
 
-この 60 秒のビデオチュートリアルでは、 [複数の異なるタイプのファイルを 1 つのPDFに](https://www.adobe.com/jp/acrobat/online/merge-pdf.html){target=&quot;_blank&quot;}。
+この 60 秒のビデオチュートリアルでは、 [複数の異なるタイプのファイルを 1 つのPDFに](https://www.adobe.com/jp/acrobat/online/merge-pdf.html){target="_blank"}を選択します。
 
->[!VIDEO](https://video.tv.adobe.com/v/336361?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/336361?quality=12&learn=on&hidetitle=true)

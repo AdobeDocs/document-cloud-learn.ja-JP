@@ -8,7 +8,7 @@ level: Intermediate
 topic-revisit: Integrations
 thumbnail: 17352.jpg
 exl-id: 08407097-b916-4532-a613-43eb1475fe2c
-source-git-commit: 174ce22fd784210b6241a6a42831497a007377f9
+source-git-commit: 4ebf9594025f98f0505c58f1ab43fb864ed51206
 workflow-type: tm+mt
 source-wordcount: '79'
 ht-degree: 16%
@@ -19,4 +19,4 @@ ht-degree: 16%
 
 Salesforce.com で標準オブジェクトのカスタムボタンを作成する方法を紹介します。この例では、カスタムボタンが **連絡先** in [!DNL Salesforce]を選択します。 ボタンをクリックすると、送信プロセスが開始され、 **連絡先** 契約書に直接追加できます。
 
->[!VIDEO](https://video.tv.adobe.com/v/17352?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/17352?quality=12&learn=on&hidetitle=true)
