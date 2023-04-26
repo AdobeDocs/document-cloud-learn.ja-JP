@@ -7,9 +7,9 @@ level: Intermediate
 topic-revisit: Integrations
 thumbnail: KT-6850.jpg
 exl-id: 2b1b9fae-7b4c-4092-aec7-c2025ef07cf4
-source-git-commit: b608a19a870f20b352f8eab3d4f5c17e13f09320
+source-git-commit: c3c425ff21cbe50d63521d980b8f37b4c7eadf2e
 workflow-type: tm+mt
-source-wordcount: '636'
+source-wordcount: '630'
 ht-degree: 0%
 
 ---
@@ -25,10 +25,10 @@ Acrobat Signは、組織で既に使用している他のアプリケーショ�
 
 ## 新機能
 
+* [Acrobat Sign+Workday新規採用者入社書類](acrobat-sign-workday-onboarding.md)
+Acrobat Sign + Workdayでオンボーディングワークフローを効率化する方法をご覧ください
 * [公証のために文書を送信](send-document-notarize.md)
 この 3 部構成のチュートリアルでは、公証のために文書を送信する方法、署名者のエクスペリエンスを表示する方法、および結果を受け取る方法について説明します
-* [Power Automate を使用したSharePointでのファイルの自動アーカイブ](auto-archive-sharepoint-power-automate.md)
-Power Automate を使用して、署名済み文書をSharePointライブラリに自動的にアーカイブする方法について説明します
 
 ## Microsoft統合チュートリアル
 
