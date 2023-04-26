@@ -7,9 +7,9 @@ level: Intermediate
 topic-revisit: Integrations
 thumbnail: KT-6850.jpg
 exl-id: 2b1b9fae-7b4c-4092-aec7-c2025ef07cf4
-source-git-commit: 88482ea5eadc93ff3bfcf995f0725e94c3a660cc
+source-git-commit: b608a19a870f20b352f8eab3d4f5c17e13f09320
 workflow-type: tm+mt
-source-wordcount: '615'
+source-wordcount: '636'
 ht-degree: 0%
 
 ---
@@ -197,14 +197,19 @@ Power Automate を使用して、署名済み文書をSharePointライブラリ�
       <img alt="WorkdayでのAcrobat Signの設定" src="../assets/WD-Configure.png" />
     </a>
     <div>
-    <a href="workday.md"><strong>WorkdayでのAcrobat Signの設定</strong></a>
+    <a href="acrobat-sign-workday-onboarding.md"><strong>WorkdayでのAcrobat Signの設定</strong></a>
     </div>
     <em>Acrobat SignがWorkday内で直接動作するように設定し、すべての人事関連書類をシームレスに管理する方法について説明します</em>
     <br>
   </td>
   <td>
-    <img alt="スペーサー" src="../assets/Whitespacer.png" />
+    <a href="acrobat-sign-workday-onboarding.md">
+      <img alt="Acrobat Sign+Workday新規採用者入社書類" src="../assets/workday.png" />
+    </a>
     <div>
+    <a href="acrobat-sign-workday-onboarding.md"><strong>Acrobat Sign+Workday新規採用者入社書類</strong></a>
+    </div>
+    <em>Acrobat Sign + Workdayでオンボーディングワークフローを効率化する方法をご覧ください</em>
     <br>
   </td>
   <td>

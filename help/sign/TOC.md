@@ -8,9 +8,9 @@ getting-started-url: https://helpx.adobe.com/sign/using/get-started-guide.html
 tutorials-title: Tutorials
 tutorials-url: https://helpx.adobe.com/sign/tutorials.html
 breadcrumb-title: Acrobat SignTutorials
-source-git-commit: 9ff23e33bed24593b2675e6aba177ebe41f39b1b
+source-git-commit: b608a19a870f20b352f8eab3d4f5c17e13f09320
 workflow-type: tm+mt
-source-wordcount: '483'
+source-wordcount: '489'
 ht-degree: 10%
 
 ---
@@ -109,6 +109,7 @@ ht-degree: 10%
       + [カスタムボタンの作成](integrations/create-a-custom-button.md)
    + Workday {#workday}
       + [WorkdayでのAcrobat Signの設定](integrations/workday.md)
+      + [Acrobat Sign+Workday新規採用者入社書類](integrations/acrobat-sign-workday-onboarding.md)
    + Marketo {#marketo}
       + [Salesforce 用Acrobat SignおよびMarketoを使用した通知の送信](integrations/marketo-salesforce-sms.md)
       + [Acrobat Sign for Salesforce とMarketoのビデオチュートリアルを使用したリマインダーの送信](integrations/marketo-salesforce-reminder-video.md)
