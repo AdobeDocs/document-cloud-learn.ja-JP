@@ -7,7 +7,7 @@ level: Intermediate
 thumbnail: KT-8197.jpg
 kt: 8197
 exl-id: 8b7f85b8-f499-4402-8c0b-8170e7159ba0
-source-git-commit: 4037b6308778dffdfc27b6d22f6d53adedd75cf2
+source-git-commit: 2b997c56c852c93f39e523c7b71d597ebb75c615
 workflow-type: tm+mt
 source-wordcount: '915'
 ht-degree: 0%
@@ -22,17 +22,17 @@ Acrobat Sign Skill Builders は、1 日の作業を増やすことなく電子�
 
 ## 月間セッション
 
-**[Microsoftアプリでの電子サイン](https://teamwork.adobe.com/adobe-sign-skill-builder/attendease/networking/experience/7c88319e-04b7-4560-aad3-ba288d5cfc76/3bd16192-c4c9-4d66-9b1c-575ddcc3c6bb)
+**[Microsoftアプリでの電子サイン](https://teamwork.adobe.com/adobe-sign-skill-builder/attendease/networking/experience/7c88319e-04b7-4560-aad3-ba288d5cfc76/3bd16192-c4c9-4d66-9b1c-575ddcc3c6bb){target="_blank"}**
 日付：2023 年 10 月 19 日既存のワークフローにAdobe Acrobat Signを追加することで、Word、Outlook、Sharepoint などのMicrosoftアプリケーションの使用方法を拡張できます。 このセッションでは、一般的なMicrosoftアプリケーションで文書プロセスを合理化し、署名を取得したりステータスを確認するためだけにコンテキストを切り替える必要がないようにする方法について説明します。
 
-**[契約書を管理：契約書のステータスをリアルタイムで表示](https://teamwork.adobe.com/adobe-sign-skill-builder/attendease/networking/experience/d326c8ab-3173-4c95-9e5a-0afeff4ce006/4bae4b11-516b-4e50-8f10-d116538fd710)
+**[契約書を管理：契約書のステータスをリアルタイムで表示](https://teamwork.adobe.com/adobe-sign-skill-builder/attendease/networking/experience/d326c8ab-3173-4c95-9e5a-0afeff4ce006/4bae4b11-516b-4e50-8f10-d116538fd710){target="_blank"}**
 日付：2023 年 9 月 21 日契約管理ツールとベストプラクティスの詳細を説明します。契約書のステータスを随時確認できます。 このセッションでは、次のトピックスについて解説します。
 
 * 「管理」タブから文書に対して実行できるアクション
 * Web フォームおよび一括送信からのデータを処理および使用する方法
 * 必要な文書を検索してフィルターする方法
 
-**[署名用に文書を送信するための高度なヒント](https://teamwork.adobe.com/adobe-sign-skill-builder/attendease/networking/experience/4c4e8632-ba24-445f-a567-a9e76429bdf5/0a2f68ed-9a21-4911-9e38-15943c0e3f9a)
+**[署名用に文書を送信するための高度なヒント](https://teamwork.adobe.com/adobe-sign-skill-builder/attendease/networking/experience/4c4e8632-ba24-445f-a567-a9e76429bdf5/0a2f68ed-9a21-4911-9e38-15943c0e3f9a){target="_blank"}**
 日付：2023 年 8 月 17 日契約書を署名用に送信する際に使用できるすべてのオプションについて詳しく説明します。 このセッションでは、次のトピックスについて解説します。
 
 * 複数の受信者への送信
@@ -40,7 +40,7 @@ Acrobat Sign Skill Builders は、1 日の作業を増やすことなく電子�
 * CC フィールドの追加
 * パスワード保護など
 
-**[Acrobat Signとの連携：Salesforce とWorkday](https://teamwork.adobe.com/adobe-sign-skill-builder/attendease/networking/experience/8409ba8b-e4ee-4e99-80cc-33902027b80e/307d147e-4b85-4330-81af-5929f0dc5ae4)
+**[Acrobat Signとの連携：Salesforce とWorkday](https://teamwork.adobe.com/adobe-sign-skill-builder/attendease/networking/experience/8409ba8b-e4ee-4e99-80cc-33902027b80e/307d147e-4b85-4330-81af-5929f0dc5ae4){target="_blank"}**
 日付：2023 年 7 月 20 日 Salesforce およびWorkdayとの最も一般的で強力なAcrobat Sign統合について説明します。 このセッションでは、非効率的な手作業をなくし、既存のツールの中で完全にデジタルなワークフローと電子サインプロセスを作成することで、ビジネス取引を促進する方法を探ります。
 
 **[Adobe Acrobat Signの高度なレポート](https://adobe-sign-skill-builder.joinus.adobeevents.com/attendease/networking/experience/fa28b18d-ab38-47d4-8ae8-3e0161550bd3/60081eb2-f8a3-45b6-9d75-4f3a53b4c53a){target="_blank"}**
@@ -60,7 +60,7 @@ Acrobat Sign Skill Builders は、1 日の作業を増やすことなく電子�
 * 文書テンプレートとフォームフィールドテンプレートの比較による、署名用のテンプレートの送信方法
 
 **[入力可能で署名可能な Web フォームの投稿](https://adobe-sign-skill-builder.joinus.adobeevents.com/attendease/networking/experience/265580bf-245a-4751-9b51-c6877192d13a/9ae41cae-a53e-4b71-a748-2df0ee2e14c8){target="_blank"}**
-日付：2023 年 3 月 16 日誰もが、トランザクションを開始したり、署名者の電子メールアドレスを知る必要なしに、入力および署名できる Web フォームを作成する方法について説明します。 個々の署名トランザクションに使用できる文書テンプレートを準備する方法や、幅広い共有のために一意の URL に投稿する方法についても説明します。
+日付：2023 年 3 月 16 日誰もが、トランザクションを開始したり、署名者の電子メールアドレスを知る必要なく、入力および署名できる Web フォームを作成する方法を説明します。 個々の署名トランザクションに使用できる文書テンプレートを準備する方法や、幅広い共有のために一意の URL に投稿する方法についても説明します。
 
 **[多くの署名をワンクリックで収集](https://adobe-sign-skill-builder.joinus.adobeevents.com/attendease/networking/experience/552e5165-8762-4c73-9d41-8215d48a62cc/9d88acde-96fa-4d83-89e3-1296b94f4d90){target="_blank"}**
 日付：2023 年 2 月 16 日Acrobat Signの一括送信機能によって時間を節約する方法を説明します。 企業全体のポリシーアップデート、NDA、その他の文書の一意のコピーに複数の個人による署名が必要な場合、一括送信を使用すると、ファイルを 1 回だけ準備し、複数の署名者に 1 回のクリックで送信して、簡単に応答を追跡できます。
