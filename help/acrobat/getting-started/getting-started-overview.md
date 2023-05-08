@@ -6,10 +6,10 @@ product: adobe acrobat
 level: Beginner
 thumbnail: KT-6856.jpg
 exl-id: 24660a17-a04e-4937-be94-0a42c4b2c2ca
-source-git-commit: ff700ec6a3bf71642cc27540064ba1f48874e279
+source-git-commit: da1cbeba135380abf5179734efdb86b294887004
 workflow-type: tm+mt
-source-wordcount: '493'
-ht-degree: 8%
+source-wordcount: '491'
+ht-degree: 5%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 8%
 
 ![Acrobat入門の画像](../assets/Hero-GettingStarted.png)
 
-Adobe Acrobatの使い方をステップバイステップ形式のチュートリアルで説明します。 ドキュメントの作成から保護または [編集、PDFファイル](https://www.adobe.com/acrobat/online/pdf-editor.html){target=&quot;_blank&quot;}。このコンテンツは、簡単にワークフローをPDFできます。
+Adobe Acrobatの使い方をステップバイステップ形式のチュートリアルで説明します。 ドキュメントの作成から保護または [編集、PDFファイル](https://www.adobe.com/jp/acrobat/online/pdf-editor.html){target="_blank"}このコンテンツは、簡単にワークフローをPDFします。
 
 ## はじめに/チュートリアル
 
@@ -107,7 +107,7 @@ Adobe Acrobatの使い方をステップバイステップ形式のチュート�
         <img alt="PDF ファイルの作成" src="../assets/Create.jpg" />
       </a>
       <div>
-      <a href="create-pdf.md"><strong>PDF の作成</strong></a>
+      <a href="create-pdf.md"><strong>PDF</strong></a>
       </div>
       <em>様々なPDFからドキュメントを作成する</em>
       <br>
@@ -291,12 +291,12 @@ Adobe Acrobatの使い方をステップバイステップ形式のチュート�
     <br>
   </td>
   <td>
-   <img alt="スペーサー" src="../assets/Whitespacer.png" />
+   <img alt="スペーサー" src="../assets/Grayspacer.png" />
     <div>
     <br>
   </td>
   <td>
-   <img alt="スペーサー" src="../assets/Whitespacer.png" />
+   <img alt="スペーサー" src="../assets/Grayspacer.png" />
     <div>
     <br>
   </td>
