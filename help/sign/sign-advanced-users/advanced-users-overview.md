@@ -7,9 +7,9 @@ solution: Acrobat Sign
 level: Experienced
 thumbnail: KT-6848.jpg
 exl-id: c4f0a953-e28b-4488-a27c-010b5adaf7ec
-source-git-commit: 854e70d1dd1d6535e1f8a8b53cfc6907862f5569
+source-git-commit: b1254c2dbb82932319d62c78e683b8a395e7eece
 workflow-type: tm+mt
-source-wordcount: '382'
+source-wordcount: '413'
 ht-degree: 3%
 
 ---
@@ -22,10 +22,10 @@ ht-degree: 3%
 
 ## 新機能
 
+* [Acrobat Signの認証方法](authentication-methods.md)
+文書に署名する人物の ID を認証するためにAcrobat Signで使用できる様々な方法について説明します
 * [オンライン支払いの設定](set-up-online-payments.md)
 ドキュメントでのオンライン支払いを設定して承認する方法について説明します
-* [レポートの作成](creating-a-report.md)
-独自のレポートを作成して、文書の署名プロセスを可視化する方法について説明します。
 
 ## 送信
 
@@ -62,6 +62,18 @@ ht-degree: 3%
     <br>
   </td>
   <td>
+    <a href="authentication-methods.md">
+      <img alt="Acrobat Signの認証方法" src="../assets/authentication.png" />
+    </a>
+    <div>
+    <a href="authentication-methods.md"><strong>Acrobat Signの認証方法</strong></a>
+    </div>
+    <em>Acrobat Signで使用できる ID 認証方法の範囲について説明します。</em>
+    <br>
+  </td>
+</tr>
+<tr>
+  <td>
     <a href="set-up-online-payments.md">
       <img alt="オンライン決済の設定" src="../assets/Payments.png" />
     </a>
@@ -71,38 +83,38 @@ ht-degree: 3%
     <em>ドキュメントでのオンライン支払いを設定して承認する方法について説明します</em>
     <br>
   </td>
+  <td>
+      <a href="megasign.md">
+        <img alt="署名を一括で送信して収集" src="../assets/Megasign.png" />
+      </a>
+      <div>
+      <a href="megasign.md"><strong>署名を一括で送信して収集</strong></a>
+      </div>
+      <em>わずか数ステップであらゆる文書から一度に数百もの署名を収集</em>
+      <br>
+    </td>
+    <td>
+      <a href="webform.md">
+        <img alt="Web フォームの作成" src="../assets/Webform.png" />
+      </a>
+      <div>
+      <a href="webform.md"><strong>Web フォームの作成</strong></a>
+      </div>
+      <em>Web サイトで直接電子的に署名できる文書を作成します</em>
+      <br>
+    </td>
+    <td>
+      <a href="adobe-sign-text-tagging.md">
+        <img alt="Acrobat Sign Text Tagging" src="../assets/Text-Tagging.png" />
+    </a>
+      <div>
+      <a href="adobe-sign-text-tagging.md"><strong>Acrobat Sign Text Tagging</strong></a>
+      </div>
+      <em>Adobe Acrobatを使用したテキストタグによるAcrobat Signフォームフィールドの作成</em>
+      <br>
+    </td>
 </tr>
 <tr>
- <td>
-    <a href="megasign.md">
-      <img alt="署名を一括で送信して収集" src="../assets/Megasign.png" />
-    </a>
-    <div>
-    <a href="megasign.md"><strong>署名を一括で送信して収集</strong></a>
-    </div>
-    <em>わずか数ステップであらゆる文書から一度に数百もの署名を収集</em>
-    <br>
-  </td>
-  <td>
-    <a href="webform.md">
-      <img alt="Web フォームの作成" src="../assets/Webform.png" />
-    </a>
-    <div>
-    <a href="webform.md"><strong>Web フォームの作成</strong></a>
-    </div>
-    <em>Web サイトで直接電子的に署名できる文書を作成します</em>
-    <br>
-  </td>
-  <td>
-    <a href="adobe-sign-text-tagging.md">
-      <img alt="Acrobat Sign Text Tagging" src="../assets/Text-Tagging.png" />
-  </a>
-    <div>
-    <a href="adobe-sign-text-tagging.md"><strong>Acrobat Sign Text Tagging</strong></a>
-    </div>
-    <em>Adobe Acrobatを使用したテキストタグによるAcrobat Signフォームフィールドの作成</em>
-    <br>
-  </td>
   <td>
     <a href="text-tagging-word.md">
       <img alt="でのテキストタグの使用 [!DNL Microsoft Word]" src="../assets/Wordtexttagging.png" />
@@ -111,6 +123,21 @@ ht-degree: 3%
     <a href="text-tagging-word.md"><strong>でのテキストタグの使用 [!DNL Microsoft Word]</strong></a>
     </div>
     <em>Acrobat Signテキストタグを [!DNL Microsoft Word]</em>
+    <br>
+  </td>
+  <td>
+    <img alt="スペーサー" src="../assets/Whitespacer.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="スペーサー" src="../assets/Whitespacer.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="スペーサー" src="../assets/Whitespacer.png" />
+    <div>
     <br>
   </td>
 </tr>

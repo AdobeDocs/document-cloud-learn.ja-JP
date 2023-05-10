@@ -8,9 +8,9 @@ getting-started-url: https://helpx.adobe.com/sign/using/get-started-guide.html
 tutorials-title: Tutorials
 tutorials-url: https://helpx.adobe.com/sign/tutorials.html
 breadcrumb-title: Acrobat SignTutorials
-source-git-commit: b608a19a870f20b352f8eab3d4f5c17e13f09320
+source-git-commit: 0e5c6ead1bcc3697b224937414b7f417ede0b5b3
 workflow-type: tm+mt
-source-wordcount: '489'
+source-wordcount: '494'
 ht-degree: 10%
 
 ---
@@ -47,9 +47,10 @@ ht-degree: 10%
       + [署名順序の設定](sign-advanced-users/setting-up-routing.md)
       + [委任者の役割の使用](sign-advanced-users/delegate-signature.md)
       + [承認者の役割の使用](sign-advanced-users/add-an-approver.md)
+      + [Acrobat Signの認証方法](sign-advanced-users/authentication-methods.md)
+      + [オンライン決済の設定](sign-advanced-users/set-up-online-payments.md)
       + [署名を一括で送信して収集](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/megasign.html)
       + [Web フォームの作成](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/webform.html)
-      + [オンライン決済の設定](sign-advanced-users/set-up-online-payments.md)
       + [Acrobat Sign Text Tagging](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/advanced-tasks-admins/adobe-sign-text-tagging.html)
       + [でのテキストタグの使用 [!DNL Microsoft Word]](sign-advanced-users/text-tagging-word.md)
    + 管理 {#advanced-tasks-managing}
