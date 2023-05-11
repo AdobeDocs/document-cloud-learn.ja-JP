@@ -8,9 +8,9 @@ getting-started-url: https://helpx.adobe.com/sign/using/get-started-guide.html
 tutorials-title: Tutorials
 tutorials-url: https://helpx.adobe.com/sign/tutorials.html
 breadcrumb-title: Acrobat SignTutorials
-source-git-commit: 0e5c6ead1bcc3697b224937414b7f417ede0b5b3
+source-git-commit: f09913b9f9dd134a8e2ad723dcc11e070e332ea6
 workflow-type: tm+mt
-source-wordcount: '494'
+source-wordcount: '498'
 ht-degree: 10%
 
 ---
@@ -69,6 +69,7 @@ ht-degree: 10%
       + [外部アーカイブの設定](admin/set-up-your-external-archive.md)
       + [テンプレートの作成](sign-advanced-users/create-a-template.md)
       + [レポートグラフの作成](admin/create-a-report.md)
+      + [ユーザーのレポートオプション](admin/report-options.md)
       + [Web フォームの作成](sign-advanced-users/webform.md)
       + [既存の Web フォームの変更](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/advanced-tasks/advanced-tasks-managing/modify-webform.html)
       + [署名を一括で送信して収集](sign-advanced-users/megasign.md)

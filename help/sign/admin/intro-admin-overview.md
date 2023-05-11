@@ -7,9 +7,9 @@ level: Intermediate
 topic-revisit: Administration
 thumbnail: KT-6849.jpg
 exl-id: 1b6ea9f0-6bbb-4ea5-aa22-bfa42f7cca18
-source-git-commit: b53d445b32bf4b46c2af2aa65a10441d93bccda6
+source-git-commit: e7b475f9d0abce1c88dbb3377f783f53bf794b52
 workflow-type: tm+mt
-source-wordcount: '490'
+source-wordcount: '510'
 ht-degree: 1%
 
 ---
@@ -116,6 +116,16 @@ ht-degree: 1%
 </tr>
 <tr>
   <td>
+    <a href="report-options.md">
+      <img alt="ユーザーのレポートオプション" src="../assets/report-options.png" />
+    </a>
+    <div>
+    <a href="report-options.md"><strong>ユーザーのレポートオプション</strong></a>
+    </div>
+    <em>ユーザーのレポートオプションを設定する方法について説明します</em>
+    <br>
+  </td>
+  <td>
     <a href="../sign-advanced-users/webform.md">
       <img alt="Web フォームの作成" src="../assets/Webform.png" />
     </a>
@@ -145,7 +155,9 @@ ht-degree: 1%
     <em>あらゆる文書に一度に数百件の署名を収集</em>
     <br>
   </td>
-   <td>
+</tr>
+<tr>
+  <td>
     <a href="building-a-custom-workflow.md">
       <img alt="ワークフローの設定" src="../assets/BuildingWorkflow.png" />
     </a>
@@ -155,7 +167,21 @@ ht-degree: 1%
     <em>文書ワークフローを自動化して電子サインとデータをすばやく収集</em>
     <br>
   </td>
-</tr>
+  <td>
+    <img alt="スペーサー" src="../assets/Grayspacer.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="スペーサー" src="../assets/Grayspacer.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="スペーサー" src="../assets/Grayspacer.png" />
+    <div>
+    <br>
+  </td>
 </table>
 
 ## 高度なタスク
