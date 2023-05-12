@@ -7,9 +7,9 @@ solution: Acrobat Sign
 level: Experienced
 thumbnail: KT-6848.jpg
 exl-id: c4f0a953-e28b-4488-a27c-010b5adaf7ec
-source-git-commit: b1254c2dbb82932319d62c78e683b8a395e7eece
+source-git-commit: acadf9bd9613c361934ba82481271c9572d6dff9
 workflow-type: tm+mt
-source-wordcount: '413'
+source-wordcount: '423'
 ht-degree: 3%
 
 ---
@@ -24,8 +24,8 @@ ht-degree: 3%
 
 * [Acrobat Signの認証方法](authentication-methods.md)
 文書に署名する人物の ID を認証するためにAcrobat Signで使用できる様々な方法について説明します
-* [オンライン支払いの設定](set-up-online-payments.md)
-ドキュメントでのオンライン支払いを設定して承認する方法について説明します
+* [フォームデータの管理](manage-form-data.md)
+ドキュメントのフォームデータを統合する方法を説明します
 
 ## 送信
 
@@ -74,6 +74,16 @@ ht-degree: 3%
 </tr>
 <tr>
   <td>
+      <a href="manage-form-data.md">
+        <img alt="フォームデータの管理" src="../assets/manage-form-data.png" />
+      </a>
+      <div>
+      <a href="manage-form-data.md"><strong>フォームデータの管理</strong></a>
+      </div>
+      <em>ドキュメントのフォームデータを統合する方法を説明します</em>
+      <br>
+    </td>
+  <td>
     <a href="set-up-online-payments.md">
       <img alt="オンライン決済の設定" src="../assets/Payments.png" />
     </a>
@@ -92,18 +102,20 @@ ht-degree: 3%
       </div>
       <em>わずか数ステップであらゆる文書から一度に数百もの署名を収集</em>
       <br>
-    </td>
-    <td>
-      <a href="webform.md">
+  </td>
+  <td>
+    <a href="webform.md">
         <img alt="Web フォームの作成" src="../assets/Webform.png" />
-      </a>
-      <div>
-      <a href="webform.md"><strong>Web フォームの作成</strong></a>
-      </div>
-      <em>Web サイトで直接電子的に署名できる文書を作成します</em>
-      <br>
-    </td>
-    <td>
+    </a>
+    <div>
+    <a href="webform.md"><strong>Web フォームの作成</strong></a>
+    </div>
+    <em>Web サイトで直接電子的に署名できる文書を作成します</em>
+    <br>
+  </td>
+</tr>
+<tr>
+  <td>
       <a href="adobe-sign-text-tagging.md">
         <img alt="Acrobat Sign Text Tagging" src="../assets/Text-Tagging.png" />
     </a>
@@ -113,8 +125,6 @@ ht-degree: 3%
       <em>Adobe Acrobatを使用したテキストタグによるAcrobat Signフォームフィールドの作成</em>
       <br>
     </td>
-</tr>
-<tr>
   <td>
     <a href="text-tagging-word.md">
       <img alt="でのテキストタグの使用 [!DNL Microsoft Word]" src="../assets/Wordtexttagging.png" />
@@ -123,11 +133,6 @@ ht-degree: 3%
     <a href="text-tagging-word.md"><strong>でのテキストタグの使用 [!DNL Microsoft Word]</strong></a>
     </div>
     <em>Acrobat Signテキストタグを [!DNL Microsoft Word]</em>
-    <br>
-  </td>
-  <td>
-    <img alt="スペーサー" src="../assets/Whitespacer.png" />
-    <div>
     <br>
   </td>
   <td>

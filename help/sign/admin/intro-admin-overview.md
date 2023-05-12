@@ -7,9 +7,9 @@ level: Intermediate
 topic-revisit: Administration
 thumbnail: KT-6849.jpg
 exl-id: 1b6ea9f0-6bbb-4ea5-aa22-bfa42f7cca18
-source-git-commit: 69dc12c570059a7adcbc0d66450abe1889ea26a7
+source-git-commit: acadf9bd9613c361934ba82481271c9572d6dff9
 workflow-type: tm+mt
-source-wordcount: '506'
+source-wordcount: '503'
 ht-degree: 1%
 
 ---
@@ -22,10 +22,10 @@ ht-degree: 1%
 
 ## 新機能
 
+* [レポートオプション](report-options.md)
+ユーザーのレポートオプションを設定する方法について説明します
 * [新しい管理者の基本](get-started-admin.md)
 この包括的なビデオガイドでは、Acrobat Signを導入するために必要なすべてのツールについて説明します
-* [ワークフローの設定](building-a-custom-workflow.md)
-文書ワークフローを自動化して電子サインとデータをすばやく収集
 
 ## はじめに
 
