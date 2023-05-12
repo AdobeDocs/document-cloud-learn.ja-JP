@@ -7,9 +7,9 @@ level: Intermediate
 topic-revisit: Administration
 thumbnail: KT-6849.jpg
 exl-id: 1b6ea9f0-6bbb-4ea5-aa22-bfa42f7cca18
-source-git-commit: acadf9bd9613c361934ba82481271c9572d6dff9
+source-git-commit: 2c3dafbd034627ab25186b56c9fd2a276ab3daa5
 workflow-type: tm+mt
-source-wordcount: '503'
+source-wordcount: '489'
 ht-degree: 1%
 
 ---
@@ -24,8 +24,8 @@ ht-degree: 1%
 
 * [レポートオプション](report-options.md)
 ユーザーのレポートオプションを設定する方法について説明します
-* [新しい管理者の基本](get-started-admin.md)
-この包括的なビデオガイドでは、Acrobat Signを導入するために必要なすべてのツールについて説明します
+* [ユーザーの追加](add-users-to-your-account.md)
+Acrobat Signのユーザーを追加および管理する方法について説明します
 
 ## はじめに
 
