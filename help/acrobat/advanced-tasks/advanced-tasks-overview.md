@@ -6,10 +6,10 @@ product: adobe acrobat
 level: Experienced
 thumbnail: KT-6857.jpg
 exl-id: 2e2dc54d-23e1-4bd8-81de-62131aa5c966
-source-git-commit: 4dfd14c89c11c07b9a2fc0c62e869b11a1ac00bc
+source-git-commit: ad985fe7818817726fa79870ab05005cda07e884
 workflow-type: tm+mt
-source-wordcount: '343'
-ht-degree: 3%
+source-wordcount: '366'
+ht-degree: 2%
 
 ---
 
@@ -18,6 +18,11 @@ ht-degree: 3%
 ![Acrobat入門の画像](../assets/Hero-AdvancedTasks.png)
 
 Acrobatの高度なツールで、さらに高度な編集が可能です。 日常的な作業の繰り返し、機密情報の削除、大きなファイルの削減と最適化、フォームデータの迅速な収集、ユニバーサルアクセス可能なPDFファイルの作成などを行うアクションの作成方法を説明します。
+
+## 新機能
+
+* [Acrobat Web でどこでも作業](optimizeseo.md)
+Web 上での検索可能性と検索エンジンのランキングを向上させるためにPDFを最適化する方法について説明します
 
 ## 高度なタスクチュートリアル
 
@@ -109,10 +114,10 @@ Acrobatの高度なツールで、さらに高度な編集が可能です。 日
 <tr>
   <td>
     <a href="action.md">
-      <img alt="アクションウィザード" src="../assets/Action.jpg" />
+      <img alt="Action Wizard" src="../assets/Action.jpg" />
     </a>
     <div>
-    <a href="action.md"><strong>アクションウィザード</strong></a>
+    <a href="action.md"><strong>Action Wizard</strong></a>
     </div>
     <em>アクションを使用して一連のコマンドを 1 つまたは複数のファイルに自動的に適用することで、時間とキーストロークを節約できます</em>
     <br>
@@ -139,7 +144,7 @@ Acrobatの高度なツールで、さらに高度な編集が可能です。 日
   </td>
   <td>
     <a href="formdata.md">
-      <img alt="アクションウィザード" src="../assets/FormData.jpg" />
+      <img alt="Action Wizard" src="../assets/FormData.jpg" />
     </a>
     <div>
     <a href="formdata.md"><strong>フォームデータの操作</strong></a>

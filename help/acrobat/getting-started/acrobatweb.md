@@ -7,16 +7,16 @@ level: Beginner
 thumbnail: KT-8498.jpg
 kt: 8498
 exl-id: 8c611578-59e9-4438-ac99-3bb22e661d17
-source-git-commit: 4ebf9594025f98f0505c58f1ab43fb864ed51206
+source-git-commit: ad985fe7818817726fa79870ab05005cda07e884
 workflow-type: tm+mt
-source-wordcount: '97'
-ht-degree: 0%
+source-wordcount: '103'
+ht-degree: 1%
 
 ---
 
 # Acrobat Web でどこでも作業
 
-リモートワークを利用する環境では、コンテンツを迅速かつ大規模に提供することが不可欠です。 ブラウザーのAcrobat Web ツールを使用して、どこからでもビジネス文書のリクエストに対応する方法について説明します。
+リモートワークを利用する環境では、コンテンツを迅速かつ大規模に提供することが不可欠です。 ブラウザーのAcrobat Web ツールを使用して、どこからでもビジネス文書のリクエストに対応する方法について説明します。 試してみる [acrobat.adobe.com](https://acrobat.adobe.com/)を選択します。
 
 >[!TIP]
 >

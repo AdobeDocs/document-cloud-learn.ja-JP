@@ -6,9 +6,9 @@ product: adobe acrobat
 level: Beginner
 thumbnail: KT-6856.jpg
 exl-id: 24660a17-a04e-4937-be94-0a42c4b2c2ca
-source-git-commit: da1cbeba135380abf5179734efdb86b294887004
+source-git-commit: ad985fe7818817726fa79870ab05005cda07e884
 workflow-type: tm+mt
-source-wordcount: '491'
+source-wordcount: '515'
 ht-degree: 5%
 
 ---
@@ -18,6 +18,11 @@ ht-degree: 5%
 ![Acrobat入門の画像](../assets/Hero-GettingStarted.png)
 
 Adobe Acrobatの使い方をステップバイステップ形式のチュートリアルで説明します。 ドキュメントの作成から保護または [編集、PDFファイル](https://www.adobe.com/jp/acrobat/online/pdf-editor.html){target="_blank"}このコンテンツは、簡単にワークフローをPDFします。
+
+## 新機能
+
+* [Acrobat Web でどこでも作業](acrobatweb.md)
+ブラウザーのAcrobat Web ツールを使用して、どこからでもビジネス文書のリクエストに対応する方法について説明します
 
 ## はじめに/チュートリアル
 
