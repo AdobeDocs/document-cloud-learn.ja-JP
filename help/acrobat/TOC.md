@@ -2,17 +2,17 @@
 user-guide-title: AcrobatTutorials
 solution: Acrobat
 breadcrumb-title: AcrobatTutorials
-source-git-commit: 9d40cb78ea7dae3eb372d704737815082fdcc32f
+source-git-commit: f98800a7b2ec14fb76faa5f2a809be6c782d89aa
 workflow-type: tm+mt
 source-wordcount: '412'
-ht-degree: 0%
+ht-degree: 7%
 
 ---
 
 
 # Acrobat tutorials {#acrobat-learning}
 
-+ [予備スキャン](overview.md)
++ [概要](overview.md)
 + はじめに {#getting-started}
    + [概要](getting-started/getting-started-overview.md)
    + [ワークスペースの基本](getting-started/get-to-know-the-acrobat-dc-interface.md)
@@ -23,7 +23,7 @@ ht-degree: 0%
    + [PDFの出所](getting-started/where-do-pdfs-come-from.md)
    + [PDF](getting-started/create-pdf.md)
    + [Combine FilesからPDF](getting-started/combine-to-pdf.md)
-   + [ページの編成](getting-started/organize.md)
+   + [ページを整理](getting-started/organize.md)
    + [カスタムページの追加](getting-started/add-custom-page.md)
    + [PDF を編集](getting-started/edit-pdf.md)
    + [レイアウトの自動調整](getting-started/auto-adjust-layout.md)
@@ -61,22 +61,22 @@ ht-degree: 0%
       + [タグなしPDF](advanced-tasks/accessibilitysession6.md)
 + 60 秒Acrobat {#60-second}
    + [概要](60-second/60-second-overview.md)
-   + [効率的なPDFファイルの簡単な作成](60-second/optimize.md)
-   + [パスワードでPDFファイルをProtect](60-second/protect.md)
-   + [フォームフィールドを含むPDFに Word を変換する](60-second/wordform.md)
-   + [AcrobatでアクセシブルなPDF](60-second/accessible.md)
-   + [Export PDFから Word へ](60-second/exportwordphone.md)
+   + [Acrobat Web でのPDFの編集](60-second/edit.md)
    + [スキャンした認識ファイルのテキストPDF](60-second/textrecognition.md)
    + [ファイルを 1 つのPDFに](60-second/combine-to-one-pdf.md)
-   + [Acrobat Web でのPDFの編集](60-second/edit.md)
-   + [複数のPDFファイルの一括検索](60-second/search.md)
-   + [写真のPDFを瞬時に作成](60-second/photo.md)
-   + [スマートフォンで PPT ファイルをPDFに変換](60-second/phone.md)
-   + [紙の文書に電子サインする](60-second/sign.md)
-   + [PDFコメントの読み込みInDesign](60-second/indesign.md)
+   + [ページを瞬時に整理](60-second/organize.md)
    + [PDFで写真を編集](60-second/editphoto.md)
    + [PDF](60-second/editgraphic.md)
-   + [ページを瞬時に整理](60-second/organize.md)
+   + [Export PDFから Word へ](60-second/exportwordphone.md)
+   + [フォームフィールドを含むPDFに Word を変換する](60-second/wordform.md)
+   + [写真のPDFを瞬時に作成](60-second/photo.md)
+   + [スマートフォンで PPT ファイルをPDFに変換](60-second/phone.md)
+   + [効率的なPDFファイルの簡単な作成](60-second/optimize.md)
+   + [紙の文書に電子サインする](60-second/sign.md)
+   + [パスワードでPDFファイルをProtect](60-second/protect.md)
+   + [AcrobatでアクセシブルなPDF](60-second/accessible.md)
+   + [複数のPDFファイルの一括検索](60-second/search.md)
+   + [PDFコメントの読み込みInDesign](60-second/indesign.md)
 + スキルビルダー {#skill-builders}
    + [ウェビナー](skill-builder/skill-builder-webinars.md)
 + 統合 {#integrations}
