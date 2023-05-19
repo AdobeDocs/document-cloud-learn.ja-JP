@@ -7,9 +7,9 @@ level: Beginner
 thumbnail: KT-8493.jpg
 KT: 8493
 exl-id: 43750150-6e0d-4326-946d-61e1bae86f2a
-source-git-commit: f98800a7b2ec14fb76faa5f2a809be6c782d89aa
+source-git-commit: 8d96841361809a5b4e6fd894a3d9cb3fef27ce2c
 workflow-type: tm+mt
-source-wordcount: '551'
+source-wordcount: '643'
 ht-degree: 0%
 
 ---
@@ -106,6 +106,35 @@ ht-degree: 0%
 <table style="table-layout:fixed">
 <tr>
   <td>
+    <a href="convert-pdf-word.md">
+      <img alt="PDFを Word に変換" src="../assets/60sec_convertword.png" />
+    </a>
+    <div>
+    <a href="convert-pdf-word.md"><strong>PDFを Word に変換</strong></a>
+    </div>
+    <em>PDFファイルを完全に編集可能なMicrosoft Word 文書に変換</em>
+    <br>
+  </td>
+ <td>
+    <a href="convert-pdf-excel.md">
+      <img alt="Excel へのPDFの変換" src="../assets/60sec_convertexcel.png" />
+    </a>
+    <div>
+    <a href="convert-pdf-excel.md"><strong>Excel へのPDFの変換</strong></a>
+    </div>
+    <em>PDFファイルを完全に編集可能なMicrosoft Excel ドキュメントに変換する</em>
+    <br>
+  </td>
+  <td>
+    <a href="convert-pdf-powerpoint.md">
+      <img alt="PowerPoint へのPDFの変換" src="../assets/60sec_convertppt.png" />
+    </a>
+    <div>
+    <a href="convert-pdf-excel.md"><strong>PowerPoint へのPDFの変換</strong></a>
+    </div>
+    <em>PDFファイルを完全に編集可能なMicrosoft PowerPoint ドキュメントに変換する</em>
+    <br>
+  </td>
     <a href="exportwordphone.md">
       <img alt="Export PDFから Word へ" src="../assets/60sec_Exportphone_1280.jpg" />
     </a>
@@ -114,21 +143,6 @@ ht-degree: 0%
     </div>
     <em>Acrobatモバイル版アプリで、PDFファイルを編集可能なMicrosoft Word 文書に変換できます</em>
     <br>
-  </td>
-  <td>
-      <img alt="スペーサー" src="../assets/Whitespacer.png" />
-        <div>
-        <br>
-  </td>
-  <td>
-      <img alt="スペーサー" src="../assets/Whitespacer.png" />
-        <div>
-        <br>
-  </td>
-  <td>
-      <img alt="スペーサー" src="../assets/Whitespacer.png" />
-        <div>
-        <br>
   </td>
 </tr>
 </table>
@@ -258,10 +272,15 @@ ht-degree: 0%
     <em>アクセス可能なPDFの確認</em>
     <br>
   </td>
-  <td>
-      <img alt="スペーサー" src="../assets/Whitespacer.png" />
-        <div>
-        <br>
+ <td>
+    <a href="conform.md">
+      <img alt="標準形式にPDFを最適化する" src="../assets/60sec_standard.png" />
+    </a>
+    <div>
+    <a href="conform.md"><strong>標準形式にPDFを最適化する</strong></a>
+    </div>
+    <em>PDF/X、PDF/A、PDF/E など、PDFの標準的な基準に照らしてPDFの内容を検証する方法を説明します</em>
+    <br>
   </td>
   <td>
       <img alt="スペーサー" src="../assets/Whitespacer.png" />

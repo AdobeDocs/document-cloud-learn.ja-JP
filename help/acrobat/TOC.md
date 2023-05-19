@@ -2,10 +2,10 @@
 user-guide-title: AcrobatTutorials
 solution: Acrobat
 breadcrumb-title: AcrobatTutorials
-source-git-commit: f98800a7b2ec14fb76faa5f2a809be6c782d89aa
+source-git-commit: 3f9dc206aee94fa9a8b9a7938ef4ca0f4de89164
 workflow-type: tm+mt
-source-wordcount: '412'
-ht-degree: 7%
+source-wordcount: '434'
+ht-degree: 6%
 
 ---
 
@@ -67,6 +67,9 @@ ht-degree: 7%
    + [ページを瞬時に整理](60-second/organize.md)
    + [PDFで写真を編集](60-second/editphoto.md)
    + [PDF](60-second/editgraphic.md)
+   + [PDFを Word に変換](60-second/convert-pdf-word.md)
+   + [Excel へのPDFの変換](60-second/convert-pdf-excel.md)
+   + [PowerPoint へのPDFの変換](60-second/convert-pdf-powerpoint.md)
    + [Export PDFから Word へ](60-second/exportwordphone.md)
    + [フォームフィールドを含むPDFに Word を変換する](60-second/wordform.md)
    + [写真のPDFを瞬時に作成](60-second/photo.md)
@@ -75,6 +78,7 @@ ht-degree: 7%
    + [紙の文書に電子サインする](60-second/sign.md)
    + [パスワードでPDFファイルをProtect](60-second/protect.md)
    + [AcrobatでアクセシブルなPDF](60-second/accessible.md)
+   + [標準形式にPDFを最適化する](60-second/conform.md)
    + [複数のPDFファイルの一括検索](60-second/search.md)
    + [PDFコメントの読み込みInDesign](60-second/indesign.md)
 + スキルビルダー {#skill-builders}
