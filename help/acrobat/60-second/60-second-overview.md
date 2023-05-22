@@ -7,9 +7,9 @@ level: Beginner
 thumbnail: KT-8493.jpg
 KT: 8493
 exl-id: 43750150-6e0d-4326-946d-61e1bae86f2a
-source-git-commit: d1416b3c1137a44897a5a6e4b74ba9b4e6ee63b4
+source-git-commit: aa2bb2bf7a50fd23d1b71194ffb614c8e8d4e271
 workflow-type: tm+mt
-source-wordcount: '643'
+source-wordcount: '747'
 ht-degree: 0%
 
 ---
@@ -242,9 +242,14 @@ ht-degree: 0%
     <br>
   </td>
   <td>
-      <img alt="スペーサー" src="../assets/Whitespacer.png" />
-        <div>
-        <br>
+    <a href="redaction.md">
+      <img alt="墨消し：正しい方法" src="../assets/60sec_redaction.png" />
+    </a>
+    <div>
+    <a href="redaction.md"><strong>墨消し：正しい方法</strong></a>
+    </div>
+    <em>PDFから機密情報を削除する適切な方法</em>
+    <br>
   </td>
   <td>
       <img alt="スペーサー" src="../assets/Whitespacer.png" />
@@ -255,6 +260,53 @@ ht-degree: 0%
       <img alt="スペーサー" src="../assets/Whitespacer.png" />
         <div>
         <br>
+  </td>
+</tr>
+</table>
+
+## 共有とレビュー
+
+<table style="table-layout:fixed">
+<tr>
+  <td>
+    <a href="share-comment.md">
+      <img alt="注釈用のPDFを共有" src="../assets/60sec_sharecomment.png" />
+    </a>
+    <div>
+    <a href="share-comment.md"><strong>注釈用のPDFを共有</strong></a>
+    </div>
+    <em>ひとつのファイルで複数の人からPDFをすばやく収集し、フィードバックを共有する方法を説明します</em>
+    <br>
+  </td>
+  <td>
+    <a href="share-comment-teams.md">
+      <img alt="Teams でのPDFファイルの共有とコメント" src="../assets/60sec_shareteams.png" />
+    </a>
+    <div>
+    <a href="share-comment-teams.md"><strong>Teams でのPDFファイルの共有とコメント</strong></a>
+    </div>
+    <em>Microsoft Teams</em>
+    <br>
+  </td>
+  <td>
+    <a href="summarize-comments.md">
+      <img alt="概要によるPDFコメントの解決" src="../assets/60sec_summarize.png" />
+    </a>
+    <div>
+    <a href="summarize-comments.md"><strong>概要によるPDFコメントの解決</strong></a>
+    </div>
+    <em>注釈ファイル内のすべての注釈とマークアップの概要を作成する方法についてPDFします</em>
+    <br>
+  </td>
+   <td>
+    <a href="indesign.md">
+      <img alt="PDFコメントの読み込みInDesign" src="../assets/60sec_InDesign_1280.jpg" />
+    </a>
+    <div>
+    <a href="indesign.md"><strong>PDFコメントの読み込みInDesign</strong></a>
+    </div>
+    <em>Acrobatの共有レビューの後に、PDFのコメントをInDesignに読み込む方法について説明します。</em>
+    <br>
   </td>
 </tr>
 </table>
@@ -310,15 +362,10 @@ ht-degree: 0%
     <em>PDFファイルで検索を開始し、「詳細検索」を開いてフォルダーファイル全体をPDFします</em>
     <br>
   </td>
-  <td>
-    <a href="indesign.md">
-      <img alt="PDFコメントの読み込みInDesign" src="../assets/60sec_InDesign_1280.jpg" />
-    </a>
-    <div>
-    <a href="indesign.md"><strong>PDFコメントの読み込みInDesign</strong></a>
-    </div>
-    <em>Acrobatの共有レビューの後に、PDFのコメントをInDesignに読み込む方法について説明します。</em>
-    <br>
+ <td>
+      <img alt="スペーサー" src="../assets/Whitespacer.png" />
+        <div>
+        <br>
   </td>
   <td>
       <img alt="スペーサー" src="../assets/Whitespacer.png" />

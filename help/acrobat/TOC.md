@@ -2,9 +2,9 @@
 user-guide-title: AcrobatTutorials
 solution: Acrobat
 breadcrumb-title: AcrobatTutorials
-source-git-commit: 3f9dc206aee94fa9a8b9a7938ef4ca0f4de89164
+source-git-commit: 16997696e1947a6dfe45418e60bf868e9db5cb23
 workflow-type: tm+mt
-source-wordcount: '434'
+source-wordcount: '454'
 ht-degree: 6%
 
 ---
@@ -77,6 +77,10 @@ ht-degree: 6%
    + [効率的なPDFファイルの簡単な作成](60-second/optimize.md)
    + [紙の文書に電子サインする](60-second/sign.md)
    + [パスワードでPDFファイルをProtect](60-second/protect.md)
+   + [墨消し：正しい方法](60-second/redaction.md)
+   + [注釈用に共有](60-second/share-comment.md)
+   + [Teams でのPDFファイルの共有とコメント](60-second/share-comment-teams.md)
+   + [概要によるPDFコメントの解決](60-second/summarize-comments.md)
    + [AcrobatでアクセシブルなPDF](60-second/accessible.md)
    + [標準形式にPDFを最適化する](60-second/conform.md)
    + [複数のPDFファイルの一括検索](60-second/search.md)
