@@ -7,9 +7,9 @@ level: Beginner
 thumbnail: KT-8493.jpg
 KT: 8493
 exl-id: 43750150-6e0d-4326-946d-61e1bae86f2a
-source-git-commit: aa2bb2bf7a50fd23d1b71194ffb614c8e8d4e271
+source-git-commit: fae1f29817ef677d3473f31d09278e10283f8b16
 workflow-type: tm+mt
-source-wordcount: '747'
+source-wordcount: '815'
 ht-degree: 0%
 
 ---
@@ -153,6 +153,26 @@ ht-degree: 0%
 <table style="table-layout:fixed">
 <tr>
   <td>
+    <a href="word-to-pdf.md">
+      <img alt="Microsoft Word からのPDFの作成" src="../assets/60sec_createfromword.png" />
+    </a>
+    <div>
+     <a href="word-to-pdf.md"><strong>Microsoft Word からのPDFの作成</strong></a>
+    </div>
+    <em>Microsoft Word からのPDFの作成</em>
+    <br>
+  </td>
+  <td>
+    <a href="create-from-acrobat.md">
+      <img alt="AcrobatからのPDFの作成" src="../assets/60sec_createfromacrobat.png" />
+    </a>
+    <div>
+     <a href="create-from-acrobat.md"><strong>AcrobatからのPDFの作成</strong></a>
+    </div>
+    <em>AcrobatデスクトップPDF内で、Microsoft 365 ファイルからアプリケーションを作成できます</em>
+    <br>
+  </td>
+  <td>
     <a href="wordform.md">
       <img alt="フォームフィールドを含むPDFに Word を変換する" src="../assets/60sec_Wordform_1280.jpg" />
     </a>
@@ -172,6 +192,8 @@ ht-degree: 0%
       <em>複数のJPGをAcrobatアイコンにドラッグ&amp;ドロップするだけでPDFを作成できます</em>
       <br>
   </td>
+</tr>
+<tr>
   <td>
     <a href="phone.md">
       <img alt="スマートフォンで PPT ファイルをPDFに変換" src="../assets/60sec_Phone_1280.jpg" />
@@ -191,6 +213,16 @@ ht-degree: 0%
       </div>
       <em>Optimize PDFツールを使用して、PDFファイル</em>
       <br>
+  </td>
+  <td>
+      <img alt="スペーサー" src="../assets/Grayspacer.png" />
+        <div>
+        <br>
+  </td>
+  <td>
+      <img alt="スペーサー" src="../assets/Grayspacer.png" />
+        <div>
+        <br>
   </td>
 </tr>
 </table>
@@ -353,6 +385,16 @@ ht-degree: 0%
 <table style="table-layout:fixed">
 <tr>
   <td>
+    <a href="compare.md">
+      <img alt="PDF比較" src="../assets/60sec_compare.png" />
+    </a>
+    <div>
+     <a href="compare.md"><strong>PDF比較</strong></a>
+    </div>
+    <em>Acrobatでファイルを比較ツールを使用して、2 つのPDFファイルの違いを確認する方法を説明します</em>
+    <br>
+  </td>
+ <td>
     <a href="search.md">
       <img alt="複数のPDFファイルの一括検索" src="../assets/60sec_Search_1280.jpg" />
     </a>
@@ -361,11 +403,6 @@ ht-degree: 0%
     </div>
     <em>PDFファイルで検索を開始し、「詳細検索」を開いてフォルダーファイル全体をPDFします</em>
     <br>
-  </td>
- <td>
-      <img alt="スペーサー" src="../assets/Whitespacer.png" />
-        <div>
-        <br>
   </td>
   <td>
       <img alt="スペーサー" src="../assets/Whitespacer.png" />

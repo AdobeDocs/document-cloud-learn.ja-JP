@@ -2,9 +2,9 @@
 user-guide-title: AcrobatTutorials
 solution: Acrobat
 breadcrumb-title: AcrobatTutorials
-source-git-commit: 16997696e1947a6dfe45418e60bf868e9db5cb23
+source-git-commit: fae1f29817ef677d3473f31d09278e10283f8b16
 workflow-type: tm+mt
-source-wordcount: '454'
+source-wordcount: '471'
 ht-degree: 6%
 
 ---
@@ -71,6 +71,8 @@ ht-degree: 6%
    + [Excel へのPDFの変換](60-second/convert-pdf-excel.md)
    + [PowerPoint へのPDFの変換](60-second/convert-pdf-powerpoint.md)
    + [Export PDFから Word へ](60-second/exportwordphone.md)
+   + [Microsoft Word からのPDFの作成](60-second/word-to-pdf.md)
+   + [AcrobatでのPDFファイルの作成](60-second/create-from-acrobat.md)
    + [フォームフィールドを含むPDFに Word を変換する](60-second/wordform.md)
    + [写真のPDFを瞬時に作成](60-second/photo.md)
    + [スマートフォンで PPT ファイルをPDFに変換](60-second/phone.md)
@@ -81,10 +83,11 @@ ht-degree: 6%
    + [注釈用に共有](60-second/share-comment.md)
    + [Teams でのPDFファイルの共有とコメント](60-second/share-comment-teams.md)
    + [概要によるPDFコメントの解決](60-second/summarize-comments.md)
+   + [PDFコメントの読み込みInDesign](60-second/indesign.md)
    + [AcrobatでアクセシブルなPDF](60-second/accessible.md)
    + [標準形式にPDFを最適化する](60-second/conform.md)
+   + [PDF比較](60-second/compare.md)
    + [複数のPDFファイルの一括検索](60-second/search.md)
-   + [PDFコメントの読み込みInDesign](60-second/indesign.md)
 + スキルビルダー {#skill-builders}
    + [ウェビナー](skill-builder/skill-builder-webinars.md)
 + 統合 {#integrations}
