@@ -8,9 +8,9 @@ getting-started-url: https://helpx.adobe.com/sign/using/get-started-guide.html
 tutorials-title: Tutorials
 tutorials-url: https://helpx.adobe.com/sign/tutorials.html
 breadcrumb-title: Acrobat SignTutorials
-source-git-commit: 9d4c634f9f0b136cbd184051f51f128856a96615
+source-git-commit: 8f2feaee22d7264abe6085695a2df5d3632ad76d
 workflow-type: tm+mt
-source-wordcount: '501'
+source-wordcount: '488'
 ht-degree: 10%
 
 ---
@@ -96,29 +96,30 @@ ht-degree: 10%
 + 統合 {#integrations}
    + [概要](integrations/integrations-overview.md)
    + Microsoft {#microsoft}
-      + [Outlook での入力と署名](integrations/fill-and-sign-doc-microsoft-outlook.md)
-      + [Outlook の署名用に送信](integrations/send-for-signature-with-outlook.md)
-      + [SharePoint Onlineでの署名用に送信](integrations/send-for-signature-with-sharepoint-online.md)
-      + [SharePoint Onlineでのトラッキング](integrations/track-an-agreement-with-sharepoint-online.md)
-      + [署名用に送信 [!DNL Microsoft Teams]](integrations/adobe-sign-teams-mortgage.md)
+      + [入力とログイン [!DNL Outlook]](integrations/fill-and-sign-doc-microsoft-outlook.md)
+      + [署名用に送信 [!DNL Outlook]](integrations/send-for-signature-with-outlook.md)
+      + [署名用に送信 [!DNL SharePoint Online]](integrations/send-for-signature-with-sharepoint-online.md)
+      + [トラッキング [!DNL SharePoint Online]](integrations/track-an-agreement-with-sharepoint-online.md)
+      + [Web フォームを [!DNL SharePoint Online]](integrations/integrate-web-form-sharepoint-online.md)
       + [ファイルの自動アーカイブ [!DNL SharePoint] を [!DNL Power Automate]](integrations/auto-archive-sharepoint-power-automate.md)
-      + [Acrobat Sign for Microsoft Power Platform による文書の自動化](integrations/documentautomation.md)
+      + [Acrobat Sign for [!DNL Microsoft Power Platform]](integrations/documentautomation.md)
+      + [署名用に送信 [!DNL Microsoft Teams]](integrations/adobe-sign-teams-mortgage.md)
    + Notarize {#notarize}
       + [公証のために文書を送信](integrations/send-document-notarize.md)
    + Salesforce {#salesforce}
-      + [Salesforce 用ドキュメントビルダー](integrations/create-an-agreement-template.md)
+      + [ドキュメントビルダー [!DNL Salesforce]](integrations/create-an-agreement-template.md)
       + [データマッピングの設定](integrations/set-up-data-mapping.md)
       + [結合マッピングの設定](integrations/set-up-merging-map.md)
       + [カスタムボタンの作成](integrations/create-a-custom-button.md)
    + Workday {#workday}
-      + [WorkdayでのAcrobat Signの設定](integrations/workday.md)
+      + [Acrobat Signの設定 [!DNL Workday]](integrations/workday.md)
       + [Acrobat Sign+Workday新規採用者入社書類](integrations/acrobat-sign-workday-onboarding.md)
    + Marketo {#marketo}
-      + [Salesforce 用Acrobat SignおよびMarketoを使用した通知の送信](integrations/marketo-salesforce-sms.md)
-      + [Acrobat Sign for Salesforce とMarketoのビデオチュートリアルを使用したリマインダーの送信](integrations/marketo-salesforce-reminder-video.md)
-      + [Acrobat Sign for Salesforce およびMarketo設定ガイドを使用したリマインダーの送信](integrations/marketo-salesforce-reminder.md)
-      + [Acrobat Sign for Microsoft Dynamics およびMarketoを使用した通知の送信](integrations/marketo-dynamics-sms.md)
-      + [Acrobat Sign for Microsoft Dynamics 365 およびMarketoを使用したリマインダーの送信](integrations/marketo-dynamics-reminder.md)
+      + [Acrobat Sign for [!DNL Salesforce] とMarketo](integrations/marketo-salesforce-sms.md)
+      + [Acrobat Sign for [!DNL Salesforce] Marketoビデオチュートリアル](integrations/marketo-salesforce-reminder-video.md)
+      + [Acrobat Sign for [!DNL Salesforce] Marketo設定ガイド](integrations/marketo-salesforce-reminder.md)
+      + [Acrobat Sign for [!DNL Microsoft Dynamics] とMarketo](integrations/marketo-dynamics-sms.md)
+      + [Acrobat Sign for [!DNL Microsoft Dynamics 365] とMarketo](integrations/marketo-dynamics-reminder.md)
 + 業種および部門 {#expand}
    + [概要](sign-usecase/expand-inspire-overview.md)
    + スキルビルダー {#innovation}
