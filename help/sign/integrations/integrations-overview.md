@@ -7,9 +7,9 @@ level: Intermediate
 topic-revisit: Integrations
 thumbnail: KT-6850.jpg
 exl-id: 2b1b9fae-7b4c-4092-aec7-c2025ef07cf4
-source-git-commit: 8f2feaee22d7264abe6085695a2df5d3632ad76d
+source-git-commit: f8d03aaba0d298c972c7f1fd359fba60d692ecca
 workflow-type: tm+mt
-source-wordcount: '653'
+source-wordcount: '648'
 ht-degree: 0%
 
 ---
@@ -25,10 +25,10 @@ Acrobat Signは、組織で既に使用している他のアプリケーショ�
 
 ## 新機能
 
+* [Web フォームを [!DNL SharePoint] オンライン](integrate-web-form-sharepoint-online.md)
+Web フォームから収集したデータを [!DNL SharePoint] list
 * [Acrobat Sign+Workday新規採用者入社書類](acrobat-sign-workday-onboarding.md)
 Acrobat Sign + Workdayでオンボーディングワークフローを効率化する方法をご覧ください
-* [公証のために文書を送信](send-document-notarize.md)
-この 3 部構成のチュートリアルでは、公証のために文書を送信する方法、署名者のエクスペリエンスを表示する方法、および結果を受け取る方法について説明します
 
 ## Microsoft統合チュートリアル
 
