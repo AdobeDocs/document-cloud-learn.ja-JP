@@ -7,9 +7,9 @@ solution: Acrobat Sign
 level: Experienced
 thumbnail: KT-6848.jpg
 exl-id: c4f0a953-e28b-4488-a27c-010b5adaf7ec
-source-git-commit: d2920dd03f17df7f502f3892838a0006feb8c7d0
+source-git-commit: d842a83819a9e8fcec3fd91b7cd6ef4f77dd4774
 workflow-type: tm+mt
-source-wordcount: '449'
+source-wordcount: '457'
 ht-degree: 3%
 
 ---
@@ -22,10 +22,10 @@ ht-degree: 3%
 
 ## 新機能
 
+* [複数の不明な署名者を含む Web フォームの作成](webform-multiple-signers.md)
+不明な参加者が複数いる複雑な Web フォームを作成する方法について説明します。
 * [Acrobat Signの認証方法](authentication-methods.md)
 文書に署名する人物の ID を認証するためにAcrobat Signで使用できる様々な方法について説明します
-* [フォームデータの管理](manage-form-data.md)
-ドキュメントのフォームデータを統合する方法を説明します
 
 ## 送信
 
