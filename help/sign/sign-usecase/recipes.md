@@ -9,9 +9,9 @@ team: DC Product Marketing Retention and Engagement
 thumbnail: 8200.jpg
 jira: KT-8200
 exl-id: 7f6edd52-c3fc-4cf0-af84-c956db3bd008
-source-git-commit: d52fb4316df05e45f472f43066a84f760cbf7b05
+source-git-commit: 1e5b8a8f33abd0f90ff6831288eb2648a27ec615
 workflow-type: tm+mt
-source-wordcount: '307'
+source-wordcount: '309'
 ht-degree: 0%
 
 ---
@@ -21,6 +21,8 @@ ht-degree: 0%
 ![使用例バナー](../assets/Hero-Recipe.png)
 
 官公庁の電子サインや商用の電子サインのサンプルを利用して、組織のデジタルワークフローをスピードアップしましょう。 クリックすると、PDFが表示され、これらの特定の電子サインの使用例の設定方法に関するリソースと詳細が表示されます。
+
+## 新機能
 
 * [複数の不明な署名者を対象とした政府融資申請](webform-multiple-signers.md)
 複数の不明な参加者を伴う複雑な政府融資申請ワークフローに Web フォームを使用する方法について説明します
