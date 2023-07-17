@@ -5,10 +5,11 @@ role: Admin
 product: adobe sign
 solution: Acrobat Sign, Marketo, Document Cloud
 level: Intermediate
+jira: KT-7248
 topic-revisit: Integrations
 thumbnail: KT-7248.jpg
 exl-id: 33aca2e0-2f27-4100-a16f-85ba652c17a3
-source-git-commit: e02b1250de94ec781e7984c6c146dbae993f5d31
+source-git-commit: aa8fd589d214879f2bfcb6bc54576c707532fd6f
 workflow-type: tm+mt
 source-wordcount: '953'
 ht-degree: 1%
@@ -155,7 +156,7 @@ Marketo Salesforce 同期と Salesforce 用Acrobat Signの設定が完了する�
 
 1. 契約書が割り当てられているプロファイルを使用してプレビューします。 URL へのリンクが表示され、ラベルに契約書名が表示されます。
 
-   ![リンクを電子メールで送信](assets/emailLink.png)
+   ![電子メールリンク](assets/emailLink.png)
 
 ## スマートキャンペーンフィルターの設定
 
@@ -173,7 +174,7 @@ Marketo Salesforce 同期と Salesforce 用Acrobat Signの設定が完了する�
 
 1. トリガーに公開したフィールドが **拘束を追加**&#x200B;を選択します。 選択 **契約状況** およびフィルタに使用する他のフィールドを選択します。 追加するフィールドごとに、フィルタの基準となる値を定義します。 この場合は、 **契約状況** は署名用に送信され、 **送信日** は 7 日前に過去の日付です。
 
-   ![契約書のステータス](assets/agreementStatus.png)
+   ![契約書ステータス](assets/agreementStatus.png)
 
    >[!NOTE]
    >

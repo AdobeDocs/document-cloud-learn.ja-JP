@@ -5,12 +5,13 @@ role: Admin
 product: adobe sign
 solution: Acrobat
 level: Intermediate
+jira: KT-6853
 thumbnail: KT-6853.jpg
 exl-id: b91fd23d-3aa3-4623-96f7-a00b3768251f
-source-git-commit: ed2ef0baf3039d023ae4272bee955fa864cdc8f5
+source-git-commit: aa8fd589d214879f2bfcb6bc54576c707532fd6f
 workflow-type: tm+mt
 source-wordcount: '116'
-ht-degree: 10%
+ht-degree: 15%
 
 ---
 
@@ -34,10 +35,10 @@ Acrobat Signの組織内への導入に関する貴重なインサイトが記�
   </td>
   <td>
     <a href="https://www.adobe.com/trust/document-cloud-security.html" target="_blank">
-      <img alt="Adobeトラストセンター" src="assets/Deploy_Trust.png" />
+      <img alt="Adobe Trust Center" src="assets/Deploy_Trust.png" />
     </a>
     <div>
-    <a href="https://www.adobe.com/trust/document-cloud-security.html" target="_blank"><strong>Adobeトラストセンター</strong></a>
+    <a href="https://www.adobe.com/trust/document-cloud-security.html" target="_blank"><strong>Adobe Trust Center</strong></a>
     </div>
     <em>Acrobat Signのセキュリティ、法的効力、標準に関するアドビの継続的な取り組みについてご覧ください</em>
     <br>

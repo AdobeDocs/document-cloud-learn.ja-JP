@@ -4,12 +4,13 @@ description: 既存のシステム、プロセス、アプリケーションにA
 role: User
 product: adobe sign
 level: Intermediate
+jira: KT-6850
 topic-revisit: Integrations
 thumbnail: KT-6850.jpg
 exl-id: 2b1b9fae-7b4c-4092-aec7-c2025ef07cf4
-source-git-commit: f8d03aaba0d298c972c7f1fd359fba60d692ecca
+source-git-commit: aa8fd589d214879f2bfcb6bc54576c707532fd6f
 workflow-type: tm+mt
-source-wordcount: '648'
+source-wordcount: '621'
 ht-degree: 0%
 
 ---
@@ -202,17 +203,7 @@ Acrobat Sign + Workdayでオンボーディングワークフローを効率化�
 
 <table style="table-layout:fixed">
 <tr>
-  <td>
-    <a href="workday.md">
-      <img alt="WorkdayでのAcrobat Signの設定" src="../assets/WD-Configure.png" />
-    </a>
-    <div>
-    <a href="acrobat-sign-workday-onboarding.md"><strong>WorkdayでのAcrobat Signの設定</strong></a>
-    </div>
-    <em>Acrobat SignがWorkday内で直接動作するように設定し、すべての人事関連書類をシームレスに管理する方法について説明します</em>
-    <br>
-  </td>
-  <td>
+ <td>
     <a href="acrobat-sign-workday-onboarding.md">
       <img alt="Acrobat Sign+Workday新規採用者入社書類" src="../assets/workday.png" />
     </a>
@@ -220,6 +211,11 @@ Acrobat Sign + Workdayでオンボーディングワークフローを効率化�
     <a href="acrobat-sign-workday-onboarding.md"><strong>Acrobat Sign+Workday新規採用者入社書類</strong></a>
     </div>
     <em>Acrobat Sign + Workdayでオンボーディングワークフローを効率化する方法をご覧ください</em>
+    <br>
+  </td>
+ <td>
+    <img alt="スペーサー" src="../assets/Whitespacer.png" />
+    <div>
     <br>
   </td>
   <td>

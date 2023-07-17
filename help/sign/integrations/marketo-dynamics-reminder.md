@@ -1,21 +1,22 @@
 ---
-title: Microsoft Dynamics 365 およびMarketo用Acrobat Sign を使用したリマインダーの送信
+title: Acrobat Sign for Microsoft Dynamics 365 およびMarketoを使用したリマインダーの送信
 description: 一定期間が経過しても契約書が署名されていない場合に、電子メールでリマインダーを送信する方法を説明します。
 role: Admin
 product: adobe sign
 solution: Acrobat Sign, Marketo, Document Cloud
 level: Intermediate
 topic-revisit: Integrations
+jira: KT-7250
 thumbnail: KT-7250.jpg
 exl-id: 5a97fade-18a3-448a-8504-efb9e38e9187
-source-git-commit: e02b1250de94ec781e7984c6c146dbae993f5d31
+source-git-commit: aa8fd589d214879f2bfcb6bc54576c707532fd6f
 workflow-type: tm+mt
 source-wordcount: '911'
-ht-degree: 3%
+ht-degree: 2%
 
 ---
 
-# Microsoft Dynamics 365 およびMarketo用Acrobat Sign を使用したリマインダーの送信
+# Acrobat Sign for Microsoft Dynamics 365 およびMarketoを使用したリマインダーの送信
 
 一定期間が経過しても契約書が署名されていない場合に、電子メールでリマインダーを送信する方法を説明します。 この統合では、Acrobat Sign、Microsoft Dynamics 用Acrobat Sign、Marketo、Marketo Microsoft Dynamics 同期を使用します。
 
@@ -31,7 +32,7 @@ ht-degree: 3%
 
 ## カスタムオブジェクトの検索
 
-Marketo Microsoft Dynamics 同期とAcrobat Sign for Dynamics の設定が完了すると、Marketo管理ターミナルに 2 つの新しいオプションが表示されます。
+Marketo Microsoft Dynamics 同期とAcrobat Sign for Dynamics の設定が完了すると、Marketo Admin Terminal に 2 つの新しいオプションが表示されます。
 
 ![管理者](assets/adminTerminal.png)
 
@@ -153,7 +154,7 @@ Marketo Microsoft Dynamics 同期とAcrobat Sign for Dynamics の設定が完了
 
    URL へのリンクが表示され、ラベルに契約書名が表示されます。
 
-   ![リンクを電子メールで送信](assets/emailLink.png)
+   ![電子メールリンク](assets/emailLink.png)
 
 ## スマートキャンペーンフィルターの設定
 
@@ -175,7 +176,7 @@ Marketo Microsoft Dynamics 同期とAcrobat Sign for Dynamics の設定が完了
 
    追加するフィールドごとに、フィルタの基準となる値を定義します。 この場合、トリガーされるのは、 **[!UICONTROL 契約状況]** is *署名用に送信* および **[!UICONTROL 送信日]** is *過去 1 週間前に*&#x200B;を選択します。
 
-   ![契約書のステータス](assets/hasAgreementDynaSentOn.png)
+   ![契約書ステータス](assets/hasAgreementDynaSentOn.png)
 
    >[!NOTE]
    >
@@ -205,4 +206,4 @@ Marketo Microsoft Dynamics 同期とAcrobat Sign for Dynamics の設定が完了
 
 >[!TIP]
 >
->このチュートリアルはコースの一部です [Microsoft Dynamics とMarketoでAcrobat Sign を使用して販売サイクルを加速](https://experienceleague.adobe.com/?recommended=Sign-U-1-2021.1) それは無料で利用できますExperience League!
+>このチュートリアルはコースの一部です [Acrobat Sign for Microsoft Dynamics とMarketoで販売サイクルを加速](https://experienceleague.adobe.com/?recommended=Sign-U-1-2021.1) それは無料で利用できますExperience League!

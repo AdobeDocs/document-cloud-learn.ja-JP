@@ -4,9 +4,10 @@ description: イベントと警告の通知を構成する方法について説�
 role: User, Admin
 product: adobe sign
 level: Intermediate
+jira: KT-5507
 thumbnail: 17359.jpg
 exl-id: 7f8271cc-fe90-4929-964c-d78681fd0dcb
-source-git-commit: 4ebf9594025f98f0505c58f1ab43fb864ed51206
+source-git-commit: aa8fd589d214879f2bfcb6bc54576c707532fd6f
 workflow-type: tm+mt
 source-wordcount: '56'
 ht-degree: 0%

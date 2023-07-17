@@ -5,12 +5,12 @@ role: User, Developer
 level: Intermediate
 topic: Integrations
 thumbnail: KT-7488.jpg
-kt: 7488
+jira: KT-7488
 exl-id: 4113bc3f-293c-44a8-94ab-e1dbac74caed
-source-git-commit: e02b1250de94ec781e7984c6c146dbae993f5d31
+source-git-commit: aa8fd589d214879f2bfcb6bc54576c707532fd6f
 workflow-type: tm+mt
 source-wordcount: '2436'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
@@ -266,7 +266,7 @@ SharePointサイトのドキュメントリポジトリに移動して、テス�
 
    ![「開始」ボタンのスクリーンショット](assets/documentautomation/automation_28.png)
 
-1. Adobe ID.
+1. Adobe ID でログインします。
 
    ![ログイン画面のスクリーンショット](assets/documentautomation/automation_29.png)
 
@@ -345,7 +345,7 @@ Templates フォルダーには、さまざまな都市の表紙デザインを�
 
    ![「マイフロー」を選択する場所のスクリーンショット](assets/documentautomation/automation_39.png)
 
-1. クリック **読み込み**&#x200B;を選択します。
+1. 「**読み込み**」をクリックします。
 
    ![読み込み画面のスクリーンショット](assets/documentautomation/automation_40.png)
 
@@ -353,7 +353,7 @@ Templates フォルダーには、さまざまな都市の表紙デザインを�
 
    ![フォルダー選択のスクリーンショット](assets/documentautomation/automation_41.png)
 
-1. クリック **読み込み**&#x200B;を選択します。
+1. 「**読み込み**」をクリックします。
 
 1. 「アクション」の横にある「レンチ」アイコンをクリックします。 **お客様に提案を送信**&#x200B;を選択します。
 
@@ -373,7 +373,7 @@ Templates フォルダーには、さまざまな都市の表紙デザインを�
 
 フローが作成されたら、次の操作を行います。
 
-1. クリック **編集**&#x200B;を選択します。
+1. 「**編集**」をクリックします。
 
    ![編集を選択する場所のスクリーンショット](assets/documentautomation/automation_44.png)
 
@@ -425,7 +425,7 @@ Templates フォルダーには、さまざまな都市の表紙デザインを�
 
 1. 展開 **ファイルを作成**&#x200B;を選択します。
 
-   サイトアドレスとフォルダーパスの編集：SharePointサイトと Generated Docs フォルダーのパスを編集します。
+   サイトアドレスとフォルダーパスの編集：SharePointサイトと Generated Docs フォルダーのパス。
 
 1. 「**保存**」をクリックします。
 

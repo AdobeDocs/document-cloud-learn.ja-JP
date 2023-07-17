@@ -4,8 +4,10 @@ description: この包括的なビデオガイドでは、Acrobat Signを導入�
 role: Admin
 product: adobe sign
 level: Beginner
+jira: KT-11289
 thumbnail: KT-11289.jpg
-source-git-commit: 89a9053921912a0b904aed172c5527a846a300f7
+exl-id: 71a00fa1-2814-4f8b-87e1-61bbce752308
+source-git-commit: aa8fd589d214879f2bfcb6bc54576c707532fd6f
 workflow-type: tm+mt
 source-wordcount: '177'
 ht-degree: 0%

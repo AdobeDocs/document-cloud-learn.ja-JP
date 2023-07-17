@@ -4,13 +4,14 @@ description: Acrobat Sign API を使用して、電子サインと文書エク�
 role: User, Developer
 level: Intermediate
 topic: Integrations
+jira: KT-7489
 thumbnail: KT-7489.jpg
 kt: 7489
 exl-id: db300cb9-6513-4a64-af60-eadedcd4858e
-source-git-commit: 7a27c3ebe52bdb13f99a38abdd6a4881f7fb09c1
+source-git-commit: aa8fd589d214879f2bfcb6bc54576c707532fd6f
 workflow-type: tm+mt
 source-wordcount: '876'
-ht-degree: 3%
+ht-degree: 2%
 
 ---
 
@@ -91,9 +92,9 @@ API にアクセスして操作できるようになったので、API で何が
 
 ![一時ドキュメント作成のスクリーンショット](assets/embeddedesignature/embed_7.png)
 
-契約書を初めて送信した後は、ロジックを追加する準備が整います。 繰り返しを最小限に抑えるために、いくつかのヘルパーを確立することをお勧めします。 いくつかの例を示します。
+契約書を初めて送信した後は、ロジックを追加する準備が整います。 繰り返しを最小限に抑えるために、いくつかのヘルパーを確立することをお勧めします。 次に例をいくつか示します。
 
-**検証**
+**バリデーター**
 
 ![検証ロジックのスクリーンショット](assets/embeddedesignature/embed_8.png)
 
@@ -155,6 +156,6 @@ Transient ドキュメントが Sign エコシステムの壮大なスキーム�
 * カスタムリマインダー
    * 最初の作成時
 
-      ![Power Automate への移動のスクリーンショット](assets/embeddedesignature/embed_16.png)
+     ![Power Automate への移動のスクリーンショット](assets/embeddedesignature/embed_16.png)
 
    * または、1 つ追加します [機内で](https://sign-acs.na1.echosign.com/public/docs/restapi/v6#!/agreements/createReminderOnParticipant)
