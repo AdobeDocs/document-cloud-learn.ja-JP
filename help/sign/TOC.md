@@ -8,9 +8,9 @@ getting-started-url: https://helpx.adobe.com/sign/using/get-started-guide.html
 tutorials-title: Tutorials
 tutorials-url: https://helpx.adobe.com/sign/tutorials.html
 breadcrumb-title: Acrobat SignTutorials
-source-git-commit: d2920dd03f17df7f502f3892838a0006feb8c7d0
+source-git-commit: 06160e33b532852be969b5c6c20d5591dd21fd38
 workflow-type: tm+mt
-source-wordcount: '496'
+source-wordcount: '495'
 ht-degree: 10%
 
 ---
@@ -52,7 +52,6 @@ ht-degree: 10%
       + [オンライン決済の設定](sign-advanced-users/set-up-online-payments.md)
       + [署名を一括で送信して収集](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/megasign.html)
       + [Web フォームの作成](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/webform.html)
-      + [複数の不明な署名者を含む Web フォームの作成](sign-advanced-users/webform-multiple-signers.md)
       + [Acrobat Sign Text Tagging](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/advanced-tasks-admins/adobe-sign-text-tagging.html)
       + [でのテキストタグの使用 [!DNL Microsoft Word]](sign-advanced-users/text-tagging-word.md)
    + 管理 {#advanced-tasks-managing}
@@ -128,6 +127,7 @@ ht-degree: 10%
    + ユースケースレシピ {#recipes}
       + [概要](sign-usecase/recipes.md)
       + 中央省庁 {#gov}
+         + [複数の不明な署名者を対象とした政府融資申請](sign-usecase/webform-multiple-signers.md)
          + [業務助成金](sign-usecase/usecasegovgrants.md)
          + [テレワーク契約](sign-usecase/usecasegovtelework.md)
          + [契約書および請求書フォーム](sign-usecase/usecasegovcontracts.md)

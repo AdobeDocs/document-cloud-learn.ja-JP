@@ -9,9 +9,9 @@ team: DC Product Marketing Retention and Engagement
 thumbnail: 8200.jpg
 jira: KT-8200
 exl-id: 7f6edd52-c3fc-4cf0-af84-c956db3bd008
-source-git-commit: aa8fd589d214879f2bfcb6bc54576c707532fd6f
+source-git-commit: 06160e33b532852be969b5c6c20d5591dd21fd38
 workflow-type: tm+mt
-source-wordcount: '249'
+source-wordcount: '307'
 ht-degree: 0%
 
 ---
@@ -22,10 +22,23 @@ ht-degree: 0%
 
 官公庁の電子サインや商用の電子サインのサンプルを利用して、組織のデジタルワークフローをスピードアップしましょう。 クリックすると、PDFが表示され、これらの特定の電子サインの使用例の設定方法に関するリソースと詳細が表示されます。
 
+* [複数の不明な署名者を対象とした政府融資申請](webform-multiple-signers.md)
+複数の不明な参加者を伴う複雑な政府融資申請ワークフローに Web フォームを使用する方法について説明します
+
 ## 官公庁の事例
 
 <table style="table-layout:fixed">
 <tr>
+  <td>
+    <a href="webform-multiple-signers.md">
+      <img alt="複数の不明な署名者を対象とした政府融資申請" src="../assets/UC_Business.png" />
+    </a>
+    <div>
+    <a href="webform-multiple-signers.md"><strong>複数の不明な署名者を対象とした政府融資申請</strong></a>
+    </div>
+    <em>複数の不明な参加者を伴う複雑な政府融資申請ワークフローに Web フォームを使用する方法について説明します</em>
+    <br>
+  </td> 
   <td>
     <a href="usecasegovgrants.md">
       <img alt="業務助成金" src="../assets/UC_Business.png" />
@@ -56,7 +69,9 @@ ht-degree: 0%
     <em>紙ベースの処理をコンプライアンスに準拠したデジタルワークフローにすばやく置き換え、監査レポートを作成</em>
     <br>
   </td>
-  <td>
+</tr>
+<tr>
+ <td>
     <a href="usecasegovreemployment.md">
       <img alt="再雇用支援" src="../assets/UC_WebformsR.png" />
     </a>
@@ -66,8 +81,6 @@ ht-degree: 0%
     <em>市民が必要なサポートを受けられるよう、数日で稼働する完全デジタルの申請書に対応する必要はありません</em>
     <br>
   </td>
-</tr>
-<tr>
   <td>
     <a href="usecasegovpaycheck.md">
       <img alt="給与保護" src="../assets/UC_PaycheckProtectionR.png" />
@@ -86,11 +99,6 @@ ht-degree: 0%
     <a href="usecasegovremote.md"><strong>リモート令状要求</strong></a>
     </div>
     <em>電子サインと web 会議を併用することで、裁判官による令状の要求と確保にかかる時間を短縮できます</em>
-    <br>
-  </td>
-  <td>
-    <img alt="スペーサー" src="../assets/Grayspacer.png" />
-    <div>
     <br>
   </td>
   <td>

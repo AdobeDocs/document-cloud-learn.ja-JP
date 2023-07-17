@@ -8,9 +8,9 @@ level: Experienced
 jira: KT-6848
 thumbnail: KT-6848.jpg
 exl-id: c4f0a953-e28b-4488-a27c-010b5adaf7ec
-source-git-commit: aa8fd589d214879f2bfcb6bc54576c707532fd6f
+source-git-commit: 06160e33b532852be969b5c6c20d5591dd21fd38
 workflow-type: tm+mt
-source-wordcount: '457'
+source-wordcount: '426'
 ht-degree: 3%
 
 ---
@@ -23,10 +23,10 @@ ht-degree: 3%
 
 ## 新機能
 
-* [複数の不明な署名者を含む Web フォームの作成](webform-multiple-signers.md)
-不明な参加者が複数いる複雑な Web フォームを作成する方法について説明します。
 * [Acrobat Signの認証方法](authentication-methods.md)
 文書に署名する人物の ID を認証するためにAcrobat Signで使用できる様々な方法について説明します
+* [オンライン支払いの設定](set-up-online-payments.md)
+ドキュメントでのオンライン支払いを設定して承認する方法について説明します
 
 ## 送信
 
@@ -104,19 +104,7 @@ ht-degree: 3%
       <em>わずか数ステップであらゆる文書から一度に数百もの署名を収集</em>
       <br>
   </td>
-  <td>
-    <a href="webform-multiple-signers.md">
-        <img alt="複数の不明な署名者を含む Web フォームの作成" src="../assets/Web-form-unknown.png" />
-    </a>
-    <div>
-    <a href="webform-multiple-signers.md"><strong>複数の不明な署名者を含む Web フォームの作成</strong></a>
-    </div>
-    <em>不明な参加者が複数いる複雑な Web フォームを作成する方法について説明します。</em>
-    <br>
-  </td>
-</tr>
-<tr>
-  <td>
+ <td>
       <a href="adobe-sign-text-tagging.md">
         <img alt="Acrobat Sign Text Tagging" src="../assets/Text-Tagging.png" />
     </a>
@@ -125,7 +113,9 @@ ht-degree: 3%
       </div>
       <em>Adobe Acrobatを使用したテキストタグによるAcrobat Signフォームフィールドの作成</em>
       <br>
-    </td>
+  </td>
+</tr>
+<tr>
   <td>
       <a href="adobe-sign-text-tagging.md">
         <img alt="Acrobat Sign Text Tagging" src="../assets/Text-Tagging.png" />
@@ -144,6 +134,11 @@ ht-degree: 3%
     <a href="text-tagging-word.md"><strong>でのテキストタグの使用 [!DNL Microsoft Word]</strong></a>
     </div>
     <em>Acrobat Signテキストタグを [!DNL Microsoft Word]</em>
+    <br>
+  </td>
+  <td>
+    <img alt="スペーサー" src="../assets/Whitespacer.png" />
+    <div>
     <br>
   </td>
   <td>
