@@ -5,14 +5,14 @@ product: adobe sign
 solution: Acrobat Sign
 level: Intermediate
 jira: KT-13596
-source-git-commit: 06160e33b532852be969b5c6c20d5591dd21fd38
+source-git-commit: 428983c7cc727096261d3c92897c25c255078261
 workflow-type: tm+mt
-source-wordcount: '128'
+source-wordcount: '127'
 ht-degree: 0%
 
 ---
 
-# 複数の不明な署名者を含む Web フォームの作成
+# 複数の不明な署名者を対象とした政府融資申請
 
 詳細を見る [web フォーム](../sign-advanced-users/webform.md) は、複数の不明な参加者を含む複雑な政府借入申込ワークフローに使用されます。 これらのフォームは、Web サイトに埋め込んだり、リンクとして電子メールで送信したりできます。 また、任意のデバイスで任意の場所に入力できるため、プロセスとサービスの提供が迅速化されます。
 
