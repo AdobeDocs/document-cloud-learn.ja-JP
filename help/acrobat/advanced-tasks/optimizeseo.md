@@ -5,10 +5,11 @@ role: User
 product: adobe acrobat
 level: Experienced
 thumbnail: KT-9347.jpg
+jira: KT-9347
 exl-id: 2f24d745-762a-4631-8495-08b9e9d77af0
-source-git-commit: ff700ec6a3bf71642cc27540064ba1f48874e279
+source-git-commit: 2b47655370d52405e5773f0358c71aa65fdecdef
 workflow-type: tm+mt
-source-wordcount: '771'
+source-wordcount: '767'
 ht-degree: 1%
 
 ---
@@ -33,7 +34,7 @@ PDFコンテンツは、一意で、次のような構造である必要があ�
 * 実行 [テキスト認識](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/getting-started/scan-and-ocr.html) すべてのスキャン文書
 * モバイル対応のPDFを作成するPDFのモバイル表示エクスペリエンスを確認するには、ブラウザーでファイルを開きます。 [Acrobat Reader mobile app](https://www.adobe.com/acrobat/mobile/acrobat-reader.html) Liquid Mode をオンにします。 必要に応じてサブヘッダーを追加し、ナビゲーションを改善します。
 
-   ![Acrobat Readerモバイルアプリの Liquid Mode のスクリーンショット](../assets/optimizeseo1.png)
+  ![Acrobat Readerモバイルアプリの Liquid Mode のスクリーンショット](../assets/optimizeseo1.png)
 
 +++
 
@@ -86,7 +87,7 @@ PDFファイルには、Web ページと同じようにタイトルとメタ説�
 
 ## 4. Web 用の準備
 
-Web 表示用にPDFを準備し、 [ファイルサイズのPDFの縮小](https://www.adobe.com/acrobat/online/compress-pdf.html){target=&quot;_blank&quot;}。
+Web 表示用にPDFを準備し、 [ファイルサイズのPDFの縮小](https://www.adobe.com/jp/acrobat/online/compress-pdf.html){target="_blank"}を選択します。
 
 +++web 用にPDFを準備する方法
 
@@ -122,7 +123,7 @@ Web 用にPDFを準備するには、 **[!UICONTROL ファイル/その他の形
 
 ## 6.セキュリティでPDF
 
-最後のステップは [PDF](https://www.adobe.com/acrobat/online/password-protect-pdf.html){target=&quot;_blank&quot;} を使用して、許可されていない変更を防ぎます。
+最後のステップは [PDF](https://www.adobe.com/acrobat/online/password-protect-pdf.html){target="_blank"} 権限のない変更を防ぐことができます。
 
 +++PDFのセキュリティ保護方法の詳細を表示
 

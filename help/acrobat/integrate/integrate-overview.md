@@ -6,10 +6,11 @@ product: adobe acrobat
 level: Beginner
 topic-revisit: Integrations
 thumbnail: KT-6859.jpg
+jira: KT-6859
 exl-id: 76cb40b4-bbb4-4f50-b01d-4c5a74bf9f20
-source-git-commit: 527ef7363945aa05666cd2ff956366c806a2d627
+source-git-commit: 2b47655370d52405e5773f0358c71aa65fdecdef
 workflow-type: tm+mt
-source-wordcount: '329'
+source-wordcount: '327'
 ht-degree: 1%
 
 ---
@@ -176,4 +177,4 @@ Acrobatと [!DNL Box], [!DNL Dropbox], [!DNL Google Drive], [!DNL OneDrive]お�
 
 ## Box
 
-Acrobatと [ボックス](https://www.adobe.com/documentcloud/integrations/box.html){target=&quot;_blank&quot;} 組織内の全員がビジネスを円滑に進められるようにします。
+Acrobatと [ボックス](https://www.adobe.com/documentcloud/integrations/box.html){target="_blank"} 組織内の全員がビジネスを円滑に進められるようにします。

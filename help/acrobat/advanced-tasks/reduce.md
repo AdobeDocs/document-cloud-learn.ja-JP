@@ -5,11 +5,12 @@ role: User
 product: adobe acrobat
 level: Experienced
 thumbnail: KT-6827.jpg
+jira: KT-6827
 exl-id: da187edb-b1c9-41ae-91c7-0e6758f3a831
-source-git-commit: 40be81a04921205a63ecb99e723d4b62b7b6ba3f
+source-git-commit: 2b47655370d52405e5773f0358c71aa65fdecdef
 workflow-type: tm+mt
 source-wordcount: '230'
-ht-degree: 7%
+ht-degree: 0%
 
 ---
 
@@ -37,7 +38,7 @@ ht-degree: 7%
 
 1. 選択 **[!UICONTROL 標準]** 」を **[!UICONTROL 設定]** メニューを使用して初期設定を使用します。
 
-   **[!UICONTROL PDF の最適化]**&#x200B;ダイアログボックスで設定を変更すると、**プリセット**&#x200B;メニューは自動的に「**カスタム**」に切り替わります。
+   で設定を変更した場合、 **[!UICONTROL PDFの最適化]** ダイアログボックスの **設定** メニューが **カスタム**&#x200B;を選択します。
 
 1. 選択 **[!UICONTROL 既存を保持]** 」を **[!UICONTROL 互換性を持たせる]** メニューを使用して、現在のPDFバージョンを維持するか、特定のAcrobatバージョンを選択します。
 

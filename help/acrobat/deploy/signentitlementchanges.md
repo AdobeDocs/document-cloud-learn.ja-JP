@@ -5,11 +5,12 @@ role: Admin
 product: adobe acrobat
 level: Intermediate
 thumbnail: KT-7269.jpg
+jira: KT-7269
 exl-id: 1a8d3f7d-96a4-4811-b4e9-9c55287b92ea
-source-git-commit: 35827630dec298fa09e43159efa2abb9362f59c2
+source-git-commit: 2b47655370d52405e5773f0358c71aa65fdecdef
 workflow-type: tm+mt
-source-wordcount: '747'
-ht-degree: 5%
+source-wordcount: '745'
+ht-degree: 6%
 
 ---
 
@@ -17,7 +18,7 @@ ht-degree: 5%
 
 [!DNL Adobe Sign Individual] (Adobe Sign Pro とも呼ばれます ) は、2020 年 8 月から 2020 年 11 月 20 日まで、ETLA（エンタープライズタームライセンス契約）の提供に含まれるすべてのAcrobat DCエンタイトルメントからプロビジョニング解除されます。 [!DNL Adobe Sign Individual] にはエンタープライズレベルの機能がないため、Adobe Sign Enterprise エンタープライズ版に置き換えてください。 これには、スタンドアロンアプリケーションとしてライセンスされたAcrobat DCと、エンタープライズ版コンプリートプランの一部としてライセンスされたAcrobat DCがCreative Cloudされます。
 
-アクセス [!DNL Adobe Sign Individual] Acrobatでは、 **Adobe Sign** ツールまたは **Fill &amp; Sign** ツール ([署名を依頼](https://www.adobe.com/jp/acrobat/online/request-signature.html){target=&quot;_blank&quot;})。
+アクセス [!DNL Adobe Sign Individual] Acrobatでは、 **Adobe Sign** ツールまたは **Fill &amp; Sign** ツール ([署名を依頼](https://www.adobe.com/jp/acrobat/online/request-signature.html){target="_blank"})。
 
 ![[!DNL Adobe Sign Individual] Acrobat DCでのアクセス](../assets/Deploy_SignEntitle1.png)
 
@@ -71,8 +72,8 @@ Adobe Sign Enterprise の使用権限がないユーザーは、新しい契約�
 
 * [Adobe Document Cloud にサインイン](https://helpx.adobe.com/document-cloud/help/sign-in.html)
 * [ファイルの管理（ファイルの場所）](https://helpx.adobe.com/document-cloud/help/manage-files.html)
-* [使用方法 [!UICONTROL AcrobatCustomization Wizard] 設定](https://www.adobe.com/devnet-docs/acrobatetk/tools/Wizard/WizardDC/index.html)
-* [概要 [!UICONTROL Admin Console]](https://helpx.adobe.com/enterprise/using/admin-console.html)
+* [使用方法 [!UICONTROL AcrobatCustomization Wizard] 設定](https://www.adobe.com/jp/devnet-docs/acrobatetk/tools/Wizard/WizardDC/index.html)
+* [概要 [!UICONTROL Admin Console]](https://helpx.adobe.com/jp/enterprise/using/admin-console.html)
 * [Adobe Signの管理 [!UICONTROL Admin Console]](https://helpx.adobe.com/enterprise/using/adobe-sign-for-enterprise.html)
 
 **改訂** 2020 年 5 月 20 日；元の投稿 — 2019 年 8 月

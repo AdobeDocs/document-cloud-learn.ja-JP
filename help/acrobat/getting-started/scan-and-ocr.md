@@ -5,17 +5,18 @@ role: User
 product: adobe acrobat
 level: Beginner
 thumbnail: KT-6830.jpg
+jira: KT-6830
 exl-id: c898de6e-7320-4cd4-9998-6a99efd7ea56
-source-git-commit: ff700ec6a3bf71642cc27540064ba1f48874e279
+source-git-commit: 2b47655370d52405e5773f0358c71aa65fdecdef
 workflow-type: tm+mt
-source-wordcount: '186'
-ht-degree: 6%
+source-wordcount: '184'
+ht-degree: 4%
 
 ---
 
 # スキャンと OCR
 
-文書のスキャンや画像を検索可能な [編集可能なPDFファイル](https://www.adobe.com/acrobat/online/pdf-editor.html){target=&quot;_blank&quot;}。
+文書のスキャンや画像を検索可能な [編集可能なPDFファイル](https://www.adobe.com/jp/acrobat/online/pdf-editor.html){target="_blank"}を選択します。
 
 >[!TIP]
 >
@@ -25,7 +26,7 @@ ht-degree: 6%
 
    ![スキャン手順 1](../assets/Scan_1.png)
 
-1. ファイルを選択.
+1. ファイルを選択する.
 
    このファイルには、文書の写真か、スキャナーまたはAdobe Scanモバイルアプリを使用して作成されたスキャン済みのファイルを使用できます。 または、文書をスキャンし、接続されたスキャナーを使用して新しいファイルを作成することもできます。
 
