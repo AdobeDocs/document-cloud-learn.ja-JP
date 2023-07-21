@@ -9,9 +9,9 @@ team: DC Product Marketing Retention and Engagement
 thumbnail: 8200.jpg
 jira: KT-8200
 exl-id: 7f6edd52-c3fc-4cf0-af84-c956db3bd008
-source-git-commit: 1e5b8a8f33abd0f90ff6831288eb2648a27ec615
+source-git-commit: 3c5ae4ba8e264cf68fc696bd6ad3b1c066ec5a1f
 workflow-type: tm+mt
-source-wordcount: '309'
+source-wordcount: '356'
 ht-degree: 0%
 
 ---
@@ -24,6 +24,8 @@ ht-degree: 0%
 
 ## 新機能
 
+* [教育 Web フォームインターンシップ応募](usecase-edu-intern.md)
+学生が web フォームを使用して、必要なフォームにアクセスしやすくなります。
 * [複数の不明な署名者を対象とした政府融資申請](webform-multiple-signers.md)
 複数の不明な参加者を伴う複雑な政府融資申請ワークフローに Web フォームを使用する方法について説明します
 
@@ -152,3 +154,36 @@ ht-degree: 0%
   </td>
 </tr>
 </table>
+
+## 教育ユースケース
+
+<table style="table-layout:fixed">
+<tr>
+  <td>
+    <a href="usecase-edu-intern.md">
+      <img alt="教育 Web フォームインターンシップ応募" src="../assets/Webform-internship.png" />
+    </a>
+    <div>
+    <a href="usecase-edu-intern.md"><strong>教育 Web フォームインターンシップ応募</strong></a>
+    </div>
+    <em>学生が web フォームを使用して、必要なフォームにアクセスしやすくなります。</em>
+    <br>
+  </td> 
+  <td>
+    <img alt="スペーサー" src="../assets/Whitespacer.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="スペーサー" src="../assets/Whitespacer.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="スペーサー" src="../assets/Whitespacer.png" />
+    <div>
+    <br>
+  </td>
+</tr>
+</table>
+

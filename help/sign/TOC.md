@@ -8,9 +8,9 @@ getting-started-url: https://helpx.adobe.com/sign/using/get-started-guide.html
 tutorials-title: Tutorials
 tutorials-url: https://helpx.adobe.com/sign/tutorials.html
 breadcrumb-title: Acrobat SignTutorials
-source-git-commit: 06160e33b532852be969b5c6c20d5591dd21fd38
+source-git-commit: ec0a3c86e42a185d22c623911274b823886d261c
 workflow-type: tm+mt
-source-wordcount: '495'
+source-wordcount: '501'
 ht-degree: 10%
 
 ---
@@ -138,6 +138,8 @@ ht-degree: 10%
          + [契約書および請求書フォーム](sign-usecase/usecasecomcontracts.md)
          + [契約書](sign-usecase/usecasecompolicy.md)
          + [テレワーク契約](sign-usecase/usecasecomtelework.md)
+      + 教育機関 {#edu}
+         + [教育 Web フォームインターンシップ応募](sign-usecase/usecase-edu-intern.md)
    + 事例紹介ショーケース {#use-case}
       + [ショーケース](sign-usecase/use-case-showcase.md)
 + 開発 {#develop}
