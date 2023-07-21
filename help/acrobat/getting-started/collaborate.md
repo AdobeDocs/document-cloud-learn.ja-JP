@@ -2,12 +2,11 @@
 title: リアルタイムの共同作業
 description: コメントの収集、共同作業、文書の進捗状況のトラックなど、プロジェクトを進めるための機能がすべてリアルタイムでどこからでも利用できます
 role: User
-product: adobe acrobat
 level: Beginner
 thumbnail: KT-8255.jpg
 jira: KT-8255
 exl-id: d52ca81e-6a8e-47ad-a815-87ea8fc9f5c2
-source-git-commit: 2b47655370d52405e5773f0358c71aa65fdecdef
+source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
 workflow-type: tm+mt
 source-wordcount: '100'
 ht-degree: 0%

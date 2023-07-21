@@ -2,13 +2,11 @@
 title: 1 人の受信者への送信
 description: 署名用に文書を送信する方法を簡単に学びます
 role: User
-product: adobe sign
-solution: Acrobat Sign
 level: Beginner
 jira: KT-4965
 thumbnail: KT-4965.jpg
 exl-id: 39f698dc-9118-48c6-9eed-aacbaf500939
-source-git-commit: aa8fd589d214879f2bfcb6bc54576c707532fd6f
+source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
 workflow-type: tm+mt
 source-wordcount: '75'
 ht-degree: 0%

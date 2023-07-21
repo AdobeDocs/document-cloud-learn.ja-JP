@@ -2,12 +2,11 @@
 title: 高度なフォームフィールド
 description: 既存のすべてのフォームフィールドを再構築することなく、計算の設定、電子メール送信ボタンの作成、フォームページの迅速な更新をおこなう方法について説明します
 role: User
-product: adobe acrobat
 level: Experienced
 thumbnail: KT-9346.jpg
 jira: KT-9346
 exl-id: 24cc04f6-1cc1-4186-b22f-f96db3d982f1
-source-git-commit: 2b47655370d52405e5773f0358c71aa65fdecdef
+source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
 workflow-type: tm+mt
 source-wordcount: '80'
 ht-degree: 7%

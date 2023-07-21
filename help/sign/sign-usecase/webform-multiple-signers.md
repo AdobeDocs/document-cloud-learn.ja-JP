@@ -1,11 +1,10 @@
 ---
 title: 複数の不明な署名者を対象とした政府融資申請
 description: 複数の不明な参加者を伴う複雑な政府融資申請ワークフローに Web フォームを使用する方法について説明します
-product: adobe sign
-solution: Acrobat Sign
+role: User
 level: Intermediate
 jira: KT-13596
-source-git-commit: 428983c7cc727096261d3c92897c25c255078261
+source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
 workflow-type: tm+mt
 source-wordcount: '127'
 ht-degree: 0%

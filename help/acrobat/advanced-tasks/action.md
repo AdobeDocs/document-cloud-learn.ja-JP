@@ -2,12 +2,11 @@
 title: Action Wizard
 description: アクションを使用して一連のコマンドを 1 つまたは複数のファイルに自動的に適用することで、時間とキーストロークを節約できます
 role: User
-product: adobe acrobat
 level: Experienced
 thumbnail: KT-6803.jpg
 jira: KT-6803
 exl-id: d932f20e-7e7c-4087-8ccc-cba7253f1394
-source-git-commit: 2b47655370d52405e5773f0358c71aa65fdecdef
+source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
 workflow-type: tm+mt
 source-wordcount: '218'
 ht-degree: 0%

@@ -2,14 +2,13 @@
 title: 署名用に送信 [!DNL Microsoft Teams]
 description: 署名用の契約書の送信、契約書のステータスの確認、およびリマインダーの送信をすべて内部から行う方法について説明します。 [!DNL Microsoft Teams]
 role: User
-product: adobe sign
-solution: Acrobat Sign
+topic: Integrations
 level: Intermediate
 jira: KT-6208
 topic-revisit: Integrations
 thumbnail: 40125.jpg
 exl-id: dc6b8cc8-6d9d-46a0-add2-dc5ada06fbaf
-source-git-commit: aa8fd589d214879f2bfcb6bc54576c707532fd6f
+source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
 workflow-type: tm+mt
 source-wordcount: '104'
 ht-degree: 0%

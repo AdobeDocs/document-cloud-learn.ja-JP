@@ -2,13 +2,12 @@
 title: 承認者の役割の使用
 description: 承認者ロールを契約承認プロセスに追加する方法を説明します
 role: User
-product: adobe sign
 solution: Acrobat Sign
 level: Intermediate
 jira: KT-5324
 thumbnail: 17367.jpg
 exl-id: e3d46b27-c30b-47eb-8d84-3d99813f3096
-source-git-commit: aa8fd589d214879f2bfcb6bc54576c707532fd6f
+source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
 workflow-type: tm+mt
 source-wordcount: '93'
 ht-degree: 22%

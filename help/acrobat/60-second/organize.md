@@ -2,12 +2,11 @@
 title: 簡単にページを整理
 description: ページを整理ツールを使用して、PDFを俯瞰する方法を説明します
 role: User
-product: adobe acrobat
 level: Beginner
 thumbnail: KT-9278.jpg
 jira: KT-9278
 exl-id: b7f08003-1bbd-4d90-9ff7-6033da20a705
-source-git-commit: 2b47655370d52405e5773f0358c71aa65fdecdef
+source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
 workflow-type: tm+mt
 source-wordcount: '72'
 ht-degree: 13%

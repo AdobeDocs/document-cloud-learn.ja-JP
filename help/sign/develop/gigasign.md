@@ -1,14 +1,13 @@
 ---
 title: GigaSign を使用した大量の文書の収集
 description: Gigasign を使用すると、署名が必要な文書を送信、収集、追跡して、数千人に同時に送信できます
-role: User, Admin
-product: adobe sign
+role: Developer
 level: Intermediate
 jira: KT-6626
 topic-revisit: Integrations
 thumbnail: 328113.jpg
 exl-id: a59eab61-fe61-45c6-8137-f074e1f2b3ed
-source-git-commit: aa8fd589d214879f2bfcb6bc54576c707532fd6f
+source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
 workflow-type: tm+mt
 source-wordcount: '264'
 ht-degree: 5%

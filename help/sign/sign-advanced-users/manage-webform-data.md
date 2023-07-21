@@ -2,13 +2,11 @@
 title: Web フォームデータの管理
 description: Web フォームからデータをトラック、管理、および書き出す方法について説明します
 role: User, Admin
-product: adobe sign
-solution: Acrobat Sign
 level: Intermediate
 jira: KT-10981
 thumbnail: KT-10981.jpg
 exl-id: e0e09718-1e4f-45d2-a0a4-43468ea4ed29
-source-git-commit: aa8fd589d214879f2bfcb6bc54576c707532fd6f
+source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
 workflow-type: tm+mt
 source-wordcount: '97'
 ht-degree: 0%

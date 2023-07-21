@@ -2,13 +2,12 @@
 title: Salesforce 用Acrobat Signでのカスタムボタンの作成
 description: 送信プロセスを開始して契約書を自動入力するカスタムボタンの作成方法について説明します。
 role: Admin
-product: adobe sign
-solution: Acrobat Sign
+topic: Integrations
 level: Intermediate
 topic-revisit: Integrations
 thumbnail: 17352.jpg
 exl-id: 08407097-b916-4532-a613-43eb1475fe2c
-source-git-commit: 4ebf9594025f98f0505c58f1ab43fb864ed51206
+source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
 workflow-type: tm+mt
 source-wordcount: '79'
 ht-degree: 16%

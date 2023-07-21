@@ -2,13 +2,12 @@
 title: PDF投票の利便性の向上
 description: スクリーンリーダーなどの支援テクノロジーのPDFが投票を読んで完了できるようにするために必要な、ユーザー補助のアクセシビリティの主な領域について説明します
 role: User
-product: adobe acrobat
 level: Experienced
 topic-revisit: Accessibility
 thumbnail: KT-6817.jpg
 jira: KT-6817
 exl-id: 3a8eff2f-1b39-4073-828e-18bfc5d89dd3
-source-git-commit: 2b47655370d52405e5773f0358c71aa65fdecdef
+source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
 workflow-type: tm+mt
 source-wordcount: '170'
 ht-degree: 0%

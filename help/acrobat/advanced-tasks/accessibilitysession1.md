@@ -2,12 +2,11 @@
 title: アクセシビリティPDFの概要
 description: このセッションでは、PDFをアクセシブルにすることの意味、アクセシビリティのPDFを操作するためのAcrobat Proの設定方法、ソースドキュメントからPDFへの変換プロセスについて説明します
 role: User
-product: adobe acrobat
 level: Experienced
 thumbnail: KT-8606.jpg
 jira: KT-8606
 exl-id: 3765673b-15fd-4071-bb31-e589feffa471
-source-git-commit: 2b47655370d52405e5773f0358c71aa65fdecdef
+source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
 workflow-type: tm+mt
 source-wordcount: '108'
 ht-degree: 0%

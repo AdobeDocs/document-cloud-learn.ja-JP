@@ -2,13 +2,12 @@
 title: '[!DNL D-Trust] を使用した登録と署名'
 description: '[!DNL D-Trust] に ID を登録し、Acrobat Signの文書で [!DNL D-Trust] 電子署名を使用する方法を説明します'
 role: User
-product: adobe sign
 solution: Acrobat Sign
 level: Beginner
 jira: KT-11120
 thumbnail: KT-11120.jpg
 exl-id: 091ccb98-4db2-4ea9-8bf0-d585fcdfd9a0
-source-git-commit: aa8fd589d214879f2bfcb6bc54576c707532fd6f
+source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
 workflow-type: tm+mt
 source-wordcount: '52'
 ht-degree: 0%

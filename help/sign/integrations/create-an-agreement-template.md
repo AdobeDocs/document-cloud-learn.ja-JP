@@ -2,14 +2,13 @@
 title: ドキュメントビルダー [!DNL Salesforce]
 description: Salesforce 用の文書ビルダーを使用して、再利用可能な文書テンプレートを作成する方法を説明します。
 role: User, Admin
-product: adobe sign
-solution: Acrobat Sign
+topic: Integrations
 level: Intermediate
 jira: KT-10598
 topic-revisit: Integrations
 thumbnail: KT-10598.jpg
 exl-id: c97d0652-fee5-4533-8567-377e04eabbf2
-source-git-commit: aa8fd589d214879f2bfcb6bc54576c707532fd6f
+source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
 workflow-type: tm+mt
 source-wordcount: '52'
 ht-degree: 0%

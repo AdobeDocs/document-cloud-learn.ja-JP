@@ -2,12 +2,11 @@
 title: SEO(Search Engine Optimization) のOptimize PDF
 description: Web 上での検索可能性と検索エンジンのランキングを向上させるためにPDFを最適化する方法について説明します
 role: User
-product: adobe acrobat
 level: Experienced
 thumbnail: KT-9347.jpg
 jira: KT-9347
 exl-id: 2f24d745-762a-4631-8495-08b9e9d77af0
-source-git-commit: 2b47655370d52405e5773f0358c71aa65fdecdef
+source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
 workflow-type: tm+mt
 source-wordcount: '767'
 ht-degree: 1%

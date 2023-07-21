@@ -1,14 +1,13 @@
 ---
 title: 業種および部門の概要
 description: 業界や部門の実際の使用事例、レシピ、オンラインセミナーを通じて、顧客や従業員の電子サイン体験をどのように変革できるかご覧ください
-role: User
-product: adobe sign
+role: User, Admin
 level: Intermediate
 jira: KT-6851
 thumbnail: KT-6851.jpg
 kt: 6851
 exl-id: 5207d19f-08c3-4fac-97a3-61467839748a
-source-git-commit: aa8fd589d214879f2bfcb6bc54576c707532fd6f
+source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
 workflow-type: tm+mt
 source-wordcount: '124'
 ht-degree: 0%

@@ -2,13 +2,11 @@
 title: 商用テレワーク契約
 description: テレワーク契約に基づいて、すべての従業員から効率的に署名を収集
 role: User
-product: adobe sign
-solution: Acrobat Sign
 level: Intermediate
 jira: KT-5295
 thumbnail: 33978.jpg
 exl-id: 502f65db-8dd4-4f21-a7da-8aaf237ac224
-source-git-commit: aa8fd589d214879f2bfcb6bc54576c707532fd6f
+source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
 workflow-type: tm+mt
 source-wordcount: '79'
 ht-degree: 0%

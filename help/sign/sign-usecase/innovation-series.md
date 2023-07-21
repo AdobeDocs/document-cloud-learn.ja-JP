@@ -2,13 +2,12 @@
 title: Acrobat Sign Skill Builder
 description: Acrobat Sign Skill Builders は、1 日の作業を増やすことなく電子サインを機能させるために作られた 30 分のセッションです
 role: User
-product: adobe sign
-level: Intermediate
+level: Beginner, Intermediate
 jira: KT-8197
 thumbnail: KT-8197.jpg
 kt: 8197
 exl-id: 8b7f85b8-f499-4402-8c0b-8170e7159ba0
-source-git-commit: aa8fd589d214879f2bfcb6bc54576c707532fd6f
+source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
 workflow-type: tm+mt
 source-wordcount: '915'
 ht-degree: 0%
@@ -61,7 +60,7 @@ Acrobat Sign Skill Builders は、1 日の作業を増やすことなく電子�
 * 文書テンプレートとフォームフィールドテンプレートの比較による、署名用のテンプレートの送信方法
 
 **[入力可能で署名可能な Web フォームの投稿](https://adobe-sign-skill-builder.joinus.adobeevents.com/attendease/networking/experience/265580bf-245a-4751-9b51-c6877192d13a/9ae41cae-a53e-4b71-a748-2df0ee2e14c8){target="_blank"}**
-日付：2023 年 3 月 16 日誰もが、トランザクションを開始したり、署名者の電子メールアドレスを知る必要なく、入力および署名できる Web フォームを作成する方法を説明します。 個々の署名トランザクションに使用できる文書テンプレートを準備する方法や、幅広い共有のために一意の URL に投稿する方法についても説明します。
+日付：2023 年 3 月 16 日誰もが、トランザクションを開始したり、署名者の電子メールアドレスを知る必要なしに、入力および署名できる Web フォームを作成する方法について説明します。 個々の署名トランザクションに使用できる文書テンプレートを準備する方法や、幅広い共有のために一意の URL に投稿する方法についても説明します。
 
 **[多くの署名をワンクリックで収集](https://adobe-sign-skill-builder.joinus.adobeevents.com/attendease/networking/experience/552e5165-8762-4c73-9d41-8215d48a62cc/9d88acde-96fa-4d83-89e3-1296b94f4d90){target="_blank"}**
 日付：2023 年 2 月 16 日Acrobat Signの一括送信機能によって時間を節約する方法を説明します。 企業全体のポリシーアップデート、NDA、その他の文書の一意のコピーに複数の個人による署名が必要な場合、一括送信を使用すると、ファイルを 1 回だけ準備し、複数の署名者に 1 回のクリックで送信して、簡単に応答を追跡できます。

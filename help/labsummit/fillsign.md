@@ -1,12 +1,14 @@
 ---
 title: デスクトップでもモバイルでも、任意のフォームに入力して署名
 description: デスクトップ、ブラウザー、モバイル版アプリから、フォームにすばやく入力、署名、送信できます
-solution: Acrobat Sign
+solution: Acrobat
+role: User
+level: Beginner
 exl-id: 5d109c5a-2954-473a-b880-9c09a61929a5
-source-git-commit: 1a2c91b1379fbaa1f8efa5e159bc64a13be29f96
+source-git-commit: 754e96676e48cd08a0cd4585bde7c388e6701f0a
 workflow-type: tm+mt
 source-wordcount: '397'
-ht-degree: 1%
+ht-degree: 0%
 
 ---
 

@@ -2,12 +2,11 @@
 title: 新しい管理者の基本
 description: この包括的なビデオガイドでは、Acrobat Signを導入するために必要なすべてのツールについて説明します
 role: Admin
-product: adobe sign
 level: Beginner
 jira: KT-11289
 thumbnail: KT-11289.jpg
 exl-id: 71a00fa1-2814-4f8b-87e1-61bbce752308
-source-git-commit: aa8fd589d214879f2bfcb6bc54576c707532fd6f
+source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
 workflow-type: tm+mt
 source-wordcount: '177'
 ht-degree: 0%

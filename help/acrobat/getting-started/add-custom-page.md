@@ -2,12 +2,11 @@
 title: カスタムページの追加
 description: 統合された追加アプリケーションを使用して、PDFにカスタムページをAdobe Expressする
 role: User
-product: adobe acrobat
 level: Beginner
 thumbnail: KT-10836.jpg
 jira: KT-10836
 exl-id: 900815b4-6242-457e-86cf-7aa995016f29
-source-git-commit: 2b47655370d52405e5773f0358c71aa65fdecdef
+source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
 workflow-type: tm+mt
 source-wordcount: '52'
 ht-degree: 5%

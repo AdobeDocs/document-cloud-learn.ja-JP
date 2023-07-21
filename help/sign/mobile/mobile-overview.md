@@ -2,13 +2,12 @@
 title: モバイルの概要
 description: モバイルデバイスで、署名用に文書を送信、電子サインの進捗状況をトラックし、リアルタイムで更新
 role: User
-product: adobe sign
 level: Intermediate
 jira: KT-6854
 topic-revisit: Mobile
 thumbnail: KT-6854.jpg
 exl-id: c52bf1c6-0821-4754-af7f-71f29b8a18c9
-source-git-commit: aa8fd589d214879f2bfcb6bc54576c707532fd6f
+source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
 workflow-type: tm+mt
 source-wordcount: '111'
 ht-degree: 34%
