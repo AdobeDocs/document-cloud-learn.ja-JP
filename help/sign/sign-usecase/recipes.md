@@ -9,9 +9,9 @@ team: DC Product Marketing Retention and Engagement
 thumbnail: 8200.jpg
 jira: KT-8200
 exl-id: 7f6edd52-c3fc-4cf0-af84-c956db3bd008
-source-git-commit: 3c5ae4ba8e264cf68fc696bd6ad3b1c066ec5a1f
+source-git-commit: ed04a9ec6562c0104e77cedbec2f28bf610a673e
 workflow-type: tm+mt
-source-wordcount: '356'
+source-wordcount: '392'
 ht-degree: 0%
 
 ---
@@ -26,6 +26,8 @@ ht-degree: 0%
 
 * [教育 Web フォームインターンシップ応募](usecase-edu-intern.md)
 学生が web フォームを使用して、必要なフォームにアクセスしやすくなります。
+* [教育 Web フォームインターンシップ応募の作成](usecase-edu-intern-create.md)
+インターンシップ web フォームの作成方法を学ぶ
 * [複数の不明な署名者を対象とした政府融資申請](webform-multiple-signers.md)
 複数の不明な参加者を伴う複雑な政府融資申請ワークフローに Web フォームを使用する方法について説明します
 
@@ -170,10 +172,15 @@ ht-degree: 0%
     <br>
   </td> 
   <td>
-    <img alt="スペーサー" src="../assets/Whitespacer.png" />
+    <a href="usecase-edu-intern-create.md">
+      <img alt="教育 Web フォームインターンシップ応募の作成" src="../assets/Webform-internship-create.png" />
+    </a>
     <div>
+    <a href="usecase-edu-intern-create.md"><strong>教育 Web フォームインターンシップ応募の作成</strong></a>
+    </div>
+    <em>インターンシップ web フォームの作成方法を学ぶ</em>
     <br>
-  </td>
+  </td> 
   <td>
     <img alt="スペーサー" src="../assets/Whitespacer.png" />
     <div>
