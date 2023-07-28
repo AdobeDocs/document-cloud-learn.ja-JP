@@ -8,9 +8,9 @@ getting-started-url: https://helpx.adobe.com/sign/using/get-started-guide.html
 tutorials-title: Tutorials
 tutorials-url: https://helpx.adobe.com/sign/tutorials.html
 breadcrumb-title: Acrobat SignTutorials
-source-git-commit: 2577034fea81ceaaafd620a983e4b40ae6251d83
+source-git-commit: 4632f7ca6a015e33166ba9ae26560fd532865f36
 workflow-type: tm+mt
-source-wordcount: '513'
+source-wordcount: '519'
 ht-degree: 10%
 
 ---
@@ -142,6 +142,7 @@ ht-degree: 10%
       + 教育機関 {#edu}
          + [教育機関webフォームインターンシップ申請](sign-usecase/usecase-edu-intern.md)
          + [教育用Webフォームインターンシップ申請の作成](sign-usecase/usecase-edu-intern-create.md)
+         + [教育機関向けIEPプロセスのカスタムワークフロー](sign-usecase/usecase-edu-iep.md)
    + ユースケースの提示 {#use-case}
       + [Showcase](sign-usecase/use-case-showcase.md)
 + 現像 {#develop}
