@@ -1,20 +1,21 @@
 ---
-title: スキャンした認識ファイルのテキストPDF
-description: スキャンしたPDFを変換して、PDF
+title: スキャンしたPDFファイルのテキストを認識
+description: PDF内のテキストを検索できるようにスキャンしたPDFを変換する
+feature: Edit PDF
 role: User
 level: Beginner
-thumbnail: KT-9750.jpg
 jira: KT-9750
+thumbnail: KT-9750.jpg
 exl-id: 7e602cf0-f3b4-4879-90a3-fa6ffd5827a4
-source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
+source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
 workflow-type: tm+mt
 source-wordcount: '50'
 ht-degree: 0%
 
 ---
 
-# スキャンした認識ファイルのテキストPDF
+# スキャンしたPDFファイルのテキストを認識
 
-この 60 秒のビデオチュートリアルでは、スキャンしたPDFを変換してPDF内のテキストを検索する方法を説明します。
+この60秒のビデオチュートリアルでは、PDF内のテキストを検索できるようにスキャンしたPDFを変換する方法について学習します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/340081?quality=12&learn=on&hidetitle=true)

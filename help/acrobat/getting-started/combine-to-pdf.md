@@ -1,25 +1,26 @@
 ---
-title: Combine Filesを単一のPDFに
-description: PDF、Word、Excel、PowerPoint、JPEGなど、様々な種類のファイルを 1 つのPDFに
+title: 1つのPDFへのCombine Files
+description: PDF、Word、Excel、PowerPoint、JPEGなど、多種多様なファイルを1つのPDFに結合
+feature: Edit PDF
 role: User
 level: Beginner
-thumbnail: 35452.jpg
 jira: KT-8254
+thumbnail: 35452.jpg
 exl-id: 56ddf180-89a4-415b-9b25-55842b9bdd62
-source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
+source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
 workflow-type: tm+mt
 source-wordcount: '130'
 ht-degree: 3%
 
 ---
 
-# ファイルを 1 つのPDFに
+# ファイルを1つのPDFーに結合
 
-優れた顧客体験を提供するためには、コンテンツをかつてないほど迅速に作成する必要があります。 様々な種類のファイル (PDF、Word、Excel、PowerPoint、JPEGなど ) を 単一のPDFに [ファイルの単一PDF](https://www.adobe.com/jp/acrobat/online/merge-pdf.html){target="_blank"} 他のユーザーに送信するコンテンツを管理および制御して、より優れたエクスペリエンスを作成できます。
+最高のカスタマーエクスペリエンスを提供するには、これまでになく高速にコンテンツを作成する必要があります。 多くの異なる種類のファイル(PDF、Word、Excel、PowerPoint、JPEGなど)をシームレスに結合する方法を説明します。 一つのPDFに [ファイルを1つのPDFに結合](https://www.adobe.com/jp/acrobat/online/merge-pdf.html){target="_blank"} 他のユーザーに送信するコンテンツを管理および制御できるため、操作性が向上します。
 
 >[!TIP]
 >
->ブランドを追加する方法 [新しいカスタムページ](add-custom-page.md) ファイルの結合を行います。
+>ブランドを追加する方法 [新しいカスタムページ](add-custom-page.md) ファイルを結合中です。
 
 <br> 
 
@@ -27,4 +28,4 @@ ht-degree: 3%
 
 >[!TIP]
 >
->このビデオはコースの一部です [Acrobat DCとMicrosoft 365 でスマートに作業](https://experienceleague.adobe.com/?recommended=Acrobat-U-1-2021.microsoft365) それは無料で利用できますExperience League!
+>このビデオはコースの一部です [Acrobat DCとMicrosoft 365を使用して、よりスマートに作業](https://experienceleague.adobe.com/?recommended=Acrobat-U-1-2021.microsoft365) それはExperience Leagueで無料で入手できます！

@@ -1,86 +1,86 @@
 ---
-title: 官公庁向けAcrobat
-description: 連邦、州、地方自治体を対象としたAcrobatチュートリアルをご覧ください
+title: Acrobat官公庁向け
+description: 連邦、州、地方自治体に特化したAcrobatチュートリアルをご覧ください
+feature: Accessibility, Collaboration, Workspace, Mobile, Security
 role: User
-product: adobe acrobat
 level: Beginner, Intermediate, Experienced
-thumbnail: KT-9910.jpg
 jira: KT-9910
+thumbnail: KT-9910.jpg
 exl-id: 8a8e760f-0983-46b5-86ed-8c8d977b6478
-source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
+source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
 workflow-type: tm+mt
 source-wordcount: '315'
 ht-degree: 0%
 
 ---
 
-# 官公庁向けAcrobat
+# Acrobat官公庁
 
-連邦、州、地方自治体を対象としたAcrobatチュートリアルをご覧ください。
+連邦、州、地方自治体に特化したAcrobatチュートリアルをご覧ください。
 
-## Acrobatで場所を問わずに作業するための 5 つのヒント
+## Acrobatでどこでも作業するための5つのヒント
 
 <table style="table-layout:fixed">
 <tr>
   <td>
     <a href="5-tips-for-working-anywhere-with-acrobat-dc-for-government.md">
-      <img alt="Acrobatで場所を問わず作業できる環境を実現するための 5 つのヒント（完全な 15:12）" src="../../assets/5tipscomplete.png" />
+      <img alt="Acrobatでどこでも作業するための5つのヒント（完了15:12）" src="../../assets/5tipscomplete.png" />
     </a>
     <div>
-    <a href="5-tips-for-working-anywhere-with-acrobat-dc-for-government.md"><strong>Acrobatで場所を問わず作業できる環境を実現するための 5 つのヒント（完全な 15:12）</strong></a>
+    <a href="5-tips-for-working-anywhere-with-acrobat-dc-for-government.md"><strong>Acrobatでどこでも作業するための5つのヒント（完了15:12）</strong></a>
     </div>
-    <em>Acrobatおよび関連するモバイルアプリのツールを使用して、どこからでも作業する方法について説明します</em>
+    <em>Acrobatとその関連モバイルアプリのツールを使用して、どこからでも作業する方法について説明します</em>
     <br>
   </td>
   <td>
     <a href="get-your-tools.md">
-      <img alt="ヒント 1:ツールを入手" src="../../assets/Tip1.png" />
+      <img alt="ヒント1:ツールを入手する" src="../../assets/Tip1.png" />
     </a>
     <div>
-    <a href="get-your-tools.md"><strong>ヒント 1:ツールを入手</strong></a>
+    <a href="get-your-tools.md"><strong>ヒント1:ツールを入手する</strong></a>
     </div>
-    <em>どこからでも作業できるようにするには、まずAcrobatのツールと付属のモバイルアプリを入手します</em>
+    <em>どこからでも作業を開始するための最初のステップは、Acrobatツールとコンパニオンのモバイルアプリを入手することです</em>
     <br>
   </td>  
   <td>
     <a href="collaborate-on-documents.md">
-      <img alt="ヒント 2:ドキュメントでの共同作業" src="../../assets/Tip2.png" />
+      <img alt="ヒント2：ドキュメントでの共同作業" src="../../assets/Tip2.png" />
     </a>
     <div>
-    <a href="collaborate-on-documents.md"><strong>ヒント 2:ドキュメントでの共同作業</strong></a>
+    <a href="collaborate-on-documents.md"><strong>ヒント2：ドキュメントでの共同作業</strong></a>
     </div>
-    <em>シンプルかつ簡単なワークフローを作成して、文書で共同作業できます</em>
+    <em>文書で共同作業するためのシンプルで簡単なワークフローを作成</em>
     <br>
   </td>
   <td>
     <a href="protect-digital-documents.md">
-      <img alt="ヒント：3Protect digital documents" src="../../assets/Tip3.png" />
+      <img alt="ヒント：30種類のProtectデジタルドキュメント" src="../../assets/Tip3.png" />
     </a>
     <div>
-    <a href="protect-digital-documents.md"><strong>ヒント 3:Protect digital documents</strong></a>
+    <a href="protect-digital-documents.md"><strong>ヒント3: Protectデジタルドキュメント</strong></a>
     </div>
-    <em>コピー、編集、印刷を防ぐために、PDFにパスワードを追加します。</em>
+    <em>PDFにパスワードを設定して、コピー、編集、印刷ができないようにします</em>
     <br>
   </td>
 </tr>
   <td>
     <a href="work-with-forms-and-signatures.md">
-      <img alt="ヒント 4:フォームと署名の使用" src="../../assets/Tip4.png" />
+      <img alt="ヒント4:フォームと署名の操作" src="../../assets/Tip4.png" />
     </a>
     <div>
-    <a href="work-with-forms-and-signatures.md"><strong>ヒント 4:フォームと署名の使用</strong></a>
+    <a href="work-with-forms-and-signatures.md"><strong>ヒント4:フォームと署名の操作</strong></a>
     </div>
-    <em>フォームの入力時にデジタル化を維持する方法について説明します</em>
+    <em>フォームの入力時にデジタル情報を維持する方法を説明します。</em>
     <br>
   </td>
   <td>
     <a href="scan-and-edit-on-mobile.md">
-      <img alt="ヒント 5:モバイルでスキャンと編集" src="../../assets/Tip5.png" />
+      <img alt="ヒント5：モバイルでスキャンして編集" src="../../assets/Tip5.png" />
     </a>
     <div>
-    <a href="scan-and-edit-on-mobile.md"><strong>ヒント 5:モバイルでスキャンと編集</strong></a>
+    <a href="scan-and-edit-on-mobile.md"><strong>ヒント5：モバイルでスキャンして編集</strong></a>
     </div>
-    <em>Adobe ScanとAcrobat Readerのモバイルアプリを使用して、どこからでも作業をおこなう方法について説明します</em>
+    <em>Adobe ScanおよびAcrobat Readerモバイルアプリケーションを使用して、どこからでも作業を行う方法について説明します</em>
     <br>
   </td>
   <td>
@@ -102,40 +102,40 @@ ht-degree: 0%
 <tr>
   <td>
     <a href="making-pdfs-accessible.md">
-      <img alt="PDFのアクセシブル化（完成 14:11）" src="../../assets/Accessiblecomplete.png" />
+      <img alt="PDFのアクセシブル化（完了14:11）" src="../../assets/Accessiblecomplete.png" />
     </a>
     <div>
-    <a href="making-pdfs-accessible.md"><strong>PDFのアクセシブル化（完成 14:11）</strong></a>
+    <a href="making-pdfs-accessible.md"><strong>PDFのアクセシブル化（完了14:11）</strong></a>
     </div>
-    <em>アクセシブルなワークフローファイルを作成するための最適なワークフローについてPDFします</em>
+    <em>アクセシブルなPDFファイルを作成するための最適なワークフローについて説明します</em>
     <br>
   </td>
   <td>
     <a href="understanding-accessibility.md">
-      <img alt="アクセス可能なPDFの作成：アクセシビリティについて" src="../../assets/Accessibiityunderstanding.png" />
+      <img alt="PDFのアクセシブル化：アクセシビリティについて" src="../../assets/Accessibiityunderstanding.png" />
     </a>
     <div>
-    <a href="understanding-accessibility.md"><strong>アクセス可能なPDFの作成：アクセシビリティについて</strong></a>
+    <a href="understanding-accessibility.md"><strong>PDFのアクセシブル化：アクセシビリティについて</strong></a>
     </div>
-    <em>障害を持つ人々がアクセスしやすいPDFにすることの意味を学ぶ</em>
+    <em>障害のあるユーザーがPDFにアクセスできるようにすることの意味を学ぶ</em>
     <br>
   </td>  
   <td>
     <a href="collaborate-on-documents.md">
-      <img alt="アクセス可能なPDFの作成：Word でのオーサリング" src="../../assets/Accessibilityword.png" />
+      <img alt="PDFのアクセシブル化： Wordでのオーサリング" src="../../assets/Accessibilityword.png" />
     </a>
     <div>
-    <a href="collaborate-on-documents.md"><strong>アクセス可能なPDFの作成：Word でのオーサリング</strong></a>
+    <a href="collaborate-on-documents.md"><strong>PDFのアクセシブル化： Wordでのオーサリング</strong></a>
     </div>
-    <em>で作成されるPDFファイルの作成のベストプラクティス [!DNL Microsoft Word]</em>
+    <em>で作成したPDFファイルのベストプラクティスについて説明します。 [!DNL Microsoft Word]</em>
     <br>
   </td>
    <td>
     <a href="finishing-in-acrobat.md">
-      <img alt="アクセス可能なPDFの作成：Acrobatでの仕上げ" src="../../assets/Accessibilityacrobat.png" />
+      <img alt="PDFのアクセシブル化：Acrobatでの仕上げ" src="../../assets/Accessibilityacrobat.png" />
     </a>
     <div>
-    <a href="finishing-in-acrobat.md"><strong>アクセス可能なPDFの作成：Acrobatでの仕上げ</strong></a>
+    <a href="finishing-in-acrobat.md"><strong>PDFのアクセシブル化：Acrobatでの仕上げ</strong></a>
     </div>
     <em>Acrobat Proのツールを使用して、PDFファイルにアクセスできるようにする方法を説明します</em>
     <br>
@@ -144,12 +144,12 @@ ht-degree: 0%
 <tr>
   <td>
     <a href="making-pdf-ballots-accessible.md">
-      <img alt="PDF投票の利便性の向上" src="../../assets/Accessibleballots.png" />
+      <img alt="PDF投票のアクセシビリティの向上" src="../../assets/Accessibleballots.png" />
     </a>
     <div>
-    <a href="making-pdf-ballots-accessible.md"><strong>PDF投票の利便性の向上</strong></a>
+    <a href="making-pdf-ballots-accessible.md"><strong>PDF投票のアクセシビリティの向上</strong></a>
     </div>
-    <em>このウェビナーでは、スクリーンリーダーなどの支援テクノロジーのユーザーが投票を読んで完成させるために必要な、PDFのアクセシビリティに関する主要な分野について説明します</em>
+    <em>このウェビナーでは、スクリーンリーダーなどの支援テクノロジーを使用するユーザーが投票用紙を読んで記入できるようにするために必要な、PDFのアクセシビリティの重要な領域について説明します</em>
     <br>
   </td>  
   <td>

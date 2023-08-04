@@ -1,18 +1,19 @@
 ---
-title: 教育 Web フォームインターンシップ応募書の作成
-description: インターンシップ web フォームの作成方法を学ぶ
+title: 教育用Webフォームインターンシップ申請の作成
+description: インターンwebフォームの作成方法を学ぶ
+feature: Use Cases, Web Forms
 role: User, Admin
 level: Intermediate
 jira: KT-13695
-source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
+source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
 workflow-type: tm+mt
 source-wordcount: '78'
 ht-degree: 0%
 
 ---
 
-# 教育 Web フォームインターンシップ応募の作成
+# 教育用Webフォームインターンシップ申請の作成
 
-学生が必要な書類にスムーズにアクセスして任意のデバイスと場所から送信できる、インターンシップ用 web フォームの作成方法を説明します。 この例では、すべての学生に対するワークフローが、学習コースに応じて固有になっています。これは、各学生が承認を得るために、独自の教員スーパーバイザーと部門長を追加する必要があるためです。
+インターンシップ用webフォームを作成して、学生がどのデバイスからでも、どの場所からでも提出できる必須フォームにアクセスできるようにする方法について説明します。 この例では、各学生のワークフローは学習コースによって異なります。これは、各学生が承認を受けるために、それぞれの教員のスーパーバイザーと部門長を追加する必要があるためです。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3421853?quality=12&learn=on&hidetitle=true)

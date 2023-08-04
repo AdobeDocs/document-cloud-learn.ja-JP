@@ -1,24 +1,25 @@
 ---
-title: 業種および部門の概要
-description: 業界や部門の実際の使用事例、レシピ、オンラインセミナーを通じて、顧客や従業員の電子サイン体験をどのように変革できるかご覧ください
+title: 業界と部門の概要
+description: これらの実際の業界や部門のユースケース、レシピ、およびウェビナーを通じて、顧客や従業員の電子サイン体験を変革する方法について説明します
+feature: Use Cases, Skill Builder
 role: User, Admin
 level: Intermediate
 jira: KT-6851
 thumbnail: KT-6851.jpg
 kt: 6851
 exl-id: 5207d19f-08c3-4fac-97a3-61467839748a
-source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
+source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
 workflow-type: tm+mt
 source-wordcount: '124'
 ht-degree: 0%
 
 ---
 
-# 業種と部門の概要
+# 業界と部門の概要
 
 ![Acrobat Sign Industry Image](../assets/Hero-Industry.png)
 
-実際の業界や部門の使用事例、レシピ、ウェビナーを参考に、組織の電子サインエクスペリエンスを変革する方法をご確認ください。
+これらの実際の業界や部門のユースケース、レシピ、ウェビナーを調べて、組織の電子サイン体験を一変させる方法を説明します。
 
 <table style="table-layout:fixed">
 <tr>
@@ -29,27 +30,27 @@ ht-degree: 0%
     <div>
     <a href="innovation-series.md"><strong>スキルビルダー</strong></a>
     </div>
-    <em>この 30 分間のスキルビルダーでは、1 日の作業を増やすことなく電子サインを活用する方法をご紹介します</em>
+    <em>30分間のスキルビルダーに参加して、1日の作業を増やすことなく電子サインを活用する方法を学びましょう</em>
     <br>
   </td>
   <td>
     <a href="recipes.md">
-      <img alt="事例レシピ" src="../assets/Expand_RecipeR.png" />
+      <img alt="ユースケースのレシピ" src="../assets/Expand_RecipeR.png" />
     </a>
     <div>
-    <a href="recipes.md"><strong>事例レシピ</strong></a>
+    <a href="recipes.md"><strong>ユースケースのレシピ</strong></a>
     </div>
-    <em>様々な電子サイン部門のワークフローを迅速に独自にデプロイするために必要なリソースをダウンロードします</em>
+    <em>様々な電子サイン部門のワークフローを自分で迅速にデプロイするために必要なリソースをダウンロードします</em>
     <br>
   </td>
   <td>
     <a href="use-case-showcase.md">
-      <img alt="事例紹介ショーケース" src="../assets/UseCaseShowcaseR.png" />
+      <img alt="ユースケースの提示" src="../assets/UseCaseShowcaseR.png" />
     </a>
     <div>
-    <a href="use-case-showcase.md"><strong>事例紹介ショーケース</strong></a>
+    <a href="use-case-showcase.md"><strong>ユースケースの提示</strong></a>
     </div>
-    <em>新しいAcrobat Signの活用方法やトレンドをライブまたは録画されたセッションでご覧いただけます</em>
+    <em>Acrobat Signの新しいユースケースとトレンドについて、ライブまたは記録済みのセッションでご紹介します</em>
     <br>
   </td>
   <td>

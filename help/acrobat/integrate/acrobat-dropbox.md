@@ -1,22 +1,23 @@
 ---
-title: ファイルの操作 [!DNL Dropbox]
-description: 文書を開いて、変更内容を PDF に保存する方法を説明します。 [!DNL Dropbox] Acrobat内のファイル
+title: からのファイルを操作 [!DNL Dropbox]
+description: 開く、作成、編集、署名、変更の保存の方法について説明します [!DNL Dropbox] Acrobat内のファイル
+feature: Integrations, Create PDF, Sign, Edit PDF
 role: User
 level: Beginner
 topic: Integrations
 topic-revisit: Integrations
-thumbnail: KT-10837.jpg
 jira: KT-10837
+thumbnail: KT-10837.jpg
 exl-id: 25de7921-6ca4-413f-8172-083619b3aad5
-source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
+source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
 workflow-type: tm+mt
 source-wordcount: '57'
 ht-degree: 0%
 
 ---
 
-# ファイルの操作 [!DNL Dropbox]
+# からのファイルを操作 [!DNL Dropbox]
 
-文書を開いて、変更内容を PDF に保存する方法を説明します。 [!DNL Dropbox] ファイルをAcrobatから読み込みます。 DropboxアカウントをAcrobatに接続すると、すべてのファイルを簡単に管理できるため、本当に時間を節約できます。
+開く、作成、編集、署名、変更の保存の方法について説明します [!DNL Dropbox] Acrobat内のファイル DropboxアカウントをAcrobatに連携させると、すべてのファイルをすぐに利用できるため、時間を節約できます。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3409411?quality=12&learn=on&hidetitle=true)

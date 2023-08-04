@@ -1,24 +1,25 @@
 ---
-title: スキャンした文書の最適化
-description: スキャンした文書を補正して、表示や検索の操作性を向上させるPDFの方法について説明します
+title: スキャンした文書を最適化
+description: スキャンした文書のPDF表示と検索の操作性を向上させる方法を説明します
+feature: Edit PDF
 role: User
 level: Intermediate
-thumbnail: KT-9344.jpg
 jira: KT-9344
+thumbnail: KT-9344.jpg
 exl-id: cf8e8696-ddba-48e3-acba-3c69541eb483
-source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
+source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
 workflow-type: tm+mt
 source-wordcount: '63'
 ht-degree: 0%
 
 ---
 
-# スキャンした文書の最適化
+# スキャンした文書を最適化
 
-文書の取り込み元がカメラであっても、スキャナーであっても、 Acrobatで結果を補正し、PDFの表示と検索を向上させる方法について説明します。
+カメラで撮影した文書でもスキャナーで撮影した文書でも、Acrobatを使用して高度なPDF表示と検索を実現する方法を説明します。
 
 >[!TIP]
 >
->Acrobat Proを使用している場合は、最適化ツールで「スキャンした文書をAction Wizard」を実行して、このプロセスを自動化します。
+>Acrobat Proを使用している場合は、Action Wizardツールの「スキャン文書を最適化」を実行して、このプロセスを自動化します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/340823?quality=12&learn=on&hidetitle=true)

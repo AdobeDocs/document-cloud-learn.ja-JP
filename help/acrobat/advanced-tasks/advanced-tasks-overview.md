@@ -1,12 +1,13 @@
 ---
-title: Acrobat Advanced Tasks Overview
-description: Acrobatの高度なツールを使って、さらに高度な編集を加えましょう
+title: Acrobatの高度なタスクの概要
+description: Acrobatの高度なツールを使って基本を超えるデザインを作成
+feature: Accessibility, Action, Edit PDF, Optimize PDF, Sign, Security
 role: User
 level: Intermediate, Experienced
 thumbnail: KT-6857.jpg
 jira: KT-6857
 exl-id: 2e2dc54d-23e1-4bd8-81de-62131aa5c966
-source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
+source-git-commit: 3c7ffbf7f59fea5d4de87434931236322dfe3bce
 workflow-type: tm+mt
 source-wordcount: '368'
 ht-degree: 2%
@@ -15,14 +16,14 @@ ht-degree: 2%
 
 # 高度なタスクの概要
 
-![Acrobat入門の画像](../assets/Hero-AdvancedTasks.png)
+![Acrobat入門ガイドの画像](../assets/Hero-AdvancedTasks.png)
 
-Acrobatの高度なツールで、さらに高度な編集が可能です。 日常的な作業の繰り返し、機密情報の削除、大きなファイルの削減と最適化、フォームデータの迅速な収集、ユニバーサルアクセス可能なPDFファイルの作成などを行うアクションの作成方法を説明します。
+Acrobatの高度なツールで基本を超えることができます。 日常的な作業の繰り返し、機密情報の削除、大きなファイルの削減と最適化、フォームデータの迅速な収集、ユニバーサルアクセスが可能なPDFファイルの作成などを行うアクションを作成する方法について説明します。
 
 ## 新機能
 
-* [SEO(Search Engine Optimization) のOptimize PDF](optimizeseo.md)
-Web 上での検索可能性と検索エンジンのランキングを向上させるためにPDFを最適化する方法について説明します
+* [SEO（検索エンジン最適化）のOptimize PDF](optimizeseo.md)
+PDFを最適化して、検出可能性と検索エンジンのランキングをweb上で向上させる方法を説明します
 
 ## 高度なタスクチュートリアル
 
@@ -35,17 +36,17 @@ Web 上での検索可能性と検索エンジンのランキングを向上さ�
     <div>
     <a href="bookmarks.md"><strong>ブックマークとハイパーリンクの追加</strong></a>
     </div>
-    <em>ブックマークとハイパーリンクを追加して、ナビゲーションとインタラクションを改善する方法について説明します</em>
+    <em>ブックマークとハイパーリンクを追加して、ナビゲーションと操作を改善する方法を説明します</em>
     <br>
   </td>
   <td>
     <a href="optimizescan.md">
-      <img alt="スキャンした文書の最適化" src="../assets/Scan_1280.png" />
+      <img alt="スキャンした文書を最適化" src="../assets/Scan_1280.png" />
     </a>
     <div>
-    <a href="optimizescan.md"><strong>スキャンした文書の最適化</strong></a>
+    <a href="optimizescan.md"><strong>スキャンした文書を最適化</strong></a>
     </div>
-    <em>スキャンした文書を補正して、表示や検索の操作性を向上させるPDFの方法について説明します</em>
+    <em>スキャンした文書のPDF表示と検索の操作性を向上させる方法を説明します</em>
     <br>
   </td>
   <td>
@@ -55,7 +56,7 @@ Web 上での検索可能性と検索エンジンのランキングを向上さ�
     <div>
     <a href="custom.md"><strong>カスタムコマンドとツール</strong></a>
     </div>
-    <em>カスタムコマンドとツールを使用して、文書ワークフローの生産性を向上</em>
+    <em>カスタムコマンドとカスタムツールを使用してドキュメントワークフローの生産性を向上</em>
     <br>
   </td>
   <td>
@@ -65,19 +66,19 @@ Web 上での検索可能性と検索エンジンのランキングを向上さ�
     <div>
     <a href="advancedforms.md"><strong>高度なフォームフィールド</strong></a>
     </div>
-    <em>プロフェッショナルなPDF forms</em>
+    <em>プロフェッショナルなPDF formsを構築するための高度なテクニックを学ぶ</em>
     <br>
   </td>
 </tr>
 <tr>
  <td>
     <a href="optimizeseo.md">
-      <img alt="SEO(Search Engine Optimization) のOptimize PDF" src="../assets/seo_1280.png" />
+      <img alt="SEO（検索エンジン最適化）のOptimize PDF" src="../assets/seo_1280.png" />
     </a>
     <div>
-    <a href="optimizeseo.md"><strong>SEO(Search Engine Optimization) のOptimize PDF</strong></a>
+    <a href="optimizeseo.md"><strong>SEO（検索エンジン最適化）のOptimize PDF</strong></a>
     </div>
-    <em>PDFを最適化して、Web 上での検出可能性と検索エンジンのランキングを向上</em>
+    <em>PDFを最適化して、web上での検出可能性と検索エンジンのランキングを向上させる</em>
     <br>
   </td>
   <td>
@@ -87,27 +88,27 @@ Web 上での検索可能性と検索エンジンのランキングを向上さ�
     <div>
     <a href="workforms.md"><strong>フォームフィールドの操作</strong></a>
     </div>
-    <em>様々なタイプのフォームフィールドの追加、フォームフィールドプロパティの設定、セキュリティの追加をおこなって、高品質でプロフェッショナルなフォームを作成できます</em>
+    <em>様々な種類のフォームフィールドの追加、フォームフィールドのプロパティの設定、セキュリティの追加により、高品質でプロフェッショナルなフォームを作成できます</em>
     <br>
   </td>
   <td>
     <a href="enhance.md">
-      <img alt="PDF" src="../assets/Enhance_1280.png" />
+      <img alt="PDFを向上させる" src="../assets/Enhance_1280.png" />
     </a>
     <div>
-    <a href="enhance.md"><strong>PDF</strong></a>
+    <a href="enhance.md"><strong>PDFを向上させる</strong></a>
     </div>
-    <em>グラフィックの機能強化や自動番号付けを追加して、PDFを一変させましょう</em>
+    <em>グラフィックの機能強化と自動番号付けを追加して、PDFを変化させます</em>
     <br>
   </td>
  <td>
     <a href="compare.md">
-      <img alt="2 つのPDFの違いを検出" src="../assets/Compare_1280.png" />
+      <img alt="2つのPDFの違いを検出" src="../assets/Compare_1280.png" />
     </a>
     <div>
-    <a href="compare.md"><strong>2 つのPDFの違いを検出</strong></a>
+    <a href="compare.md"><strong>2つのPDFの違いを検出する</strong></a>
     </div>
-    <em>2 つのファイル間の差異をすばやく正確にPDFする</em>
+    <em>2つのPDF・ファイルの違いを迅速かつ正確に検出</em>
     <br>
   </td>
 </tr>
@@ -119,27 +120,27 @@ Web 上での検索可能性と検索エンジンのランキングを向上さ�
     <div>
     <a href="action.md"><strong>Action Wizard</strong></a>
     </div>
-    <em>アクションを使用して一連のコマンドを 1 つまたは複数のファイルに自動的に適用することで、時間とキーストロークを節約できます</em>
+    <em>アクションを使用してコマンドのセットを1つまたは複数のファイルに自動的に適用することで、時間とキーストロークを節約できます</em>
     <br>
   </td>
   <td>
     <a href="redact.md">
-      <img alt="墨消しと削除" src="../assets/Redact.jpg" />
+      <img alt="墨消しと非表示情報" src="../assets/Redact.jpg" />
     </a>
     <div>
-    <a href="redact.md"><strong>墨消しと削除</strong></a>
+    <a href="redact.md"><strong>墨消しと非表示情報</strong></a>
     </div>
     <em>個人情報や機密情報をPDFから完全に削除</em>
     <br>
   </td>
  <td>
     <a href="reduce.md">
-      <img alt="ファイルサイズの縮小と最適化" src="../assets/Reduce.jpg" />
+      <img alt="ファイルサイズを縮小して最適化" src="../assets/Reduce.jpg" />
     </a>
     <div>
-    <a href="reduce.md"><strong>ファイルサイズの縮小と最適化</strong></a>
+    <a href="reduce.md"><strong>ファイルサイズを縮小して最適化</strong></a>
     </div>
-    <em>共有、投稿、アーカイブの品質を損なうことなく、大きなファイルを削減し、PDFを最適化できます</em>
+    <em>共有、投稿、アーカイブのための画質を損なうことなく、大きなファイルを減らし、PDFを最適化します</em>
     <br>
   </td>
   <td>
@@ -156,12 +157,12 @@ Web 上での検索可能性と検索エンジンのランキングを向上さ�
 <tr>
  <td>
     <a href="accessibility.md">
-      <img alt="アクセシビリティPDFのチェック" src="../assets/Checkaccessible_1280.jpg" />
+      <img alt="PDFのアクセシビリティの確認" src="../assets/Checkaccessible_1280.jpg" />
     </a>
     <div>
-    <a href="accessibility.md"><strong>アクセシビリティPDFのチェック</strong></a>
+    <a href="accessibility.md"><strong>PDFのアクセシビリティの確認</strong></a>
     </div>
-    <em>障害を持つユーザーがPDFに誰もがアクセスできるかどうかを確認する</em>
+    <em>お使いのPDFが、障がいをお持ちの方も広く利用できるかどうかを確認します</em>
     <br>
   </td>
  <td>
@@ -169,9 +170,9 @@ Web 上での検索可能性と検索エンジンのランキングを向上さ�
       <img alt="アクセシブルなPDFファイルの準備" src="../assets/Accessibilityseries_1280.png" />
     </a>
     <div>
-    <a href="accessibility-series.md"><strong>Acrobat Accessibility series</strong></a>
+    <a href="accessibility-series.md"><strong>Acrobatアクセシビリティシリーズ</strong></a>
     </div>
-    <em>この 6 部構成のオンデマンド型オンラインセミナーシリーズでは、アクセシビリティの基本からPDFファイルのタグ付けまで網羅しています</em>
+    <em>この6つのパートで構成されるオンデマンドウェビナーシリーズでは、アクセシビリティの基本から、PDFファイルのタグ付けの詳細へと進みます</em>
     <br>
   </td>
   <td>

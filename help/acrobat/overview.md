@@ -1,23 +1,24 @@
 ---
 title: AcrobatTutorials
-description: Adobe Acrobatのチュートリアル、Web セミナー、ユースケースのコレクション
+description: Adobe Acrobatのチュートリアル、ウェビナー、ユースケースのコレクション
+feature: Accessibility, Action, Collaboration, Create PDF, Edit PDF, Convert PDF, Deploy, Mobile, Optimize PDF, Security, Workflow, Workspace, Skill Builder, Sign, Form
 role: User
 level: Beginner, Intermediate, Experienced
-thumbnail: KT-6864.jpg
 jira: KT-6864
+thumbnail: KT-6864.jpg
 exl-id: 353c8352-88cc-4ada-a9a9-19a7423a993f
-source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
+source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
 workflow-type: tm+mt
 source-wordcount: '73'
 ht-degree: 6%
 
 ---
 
-# Acrobat tutorials
+# Acrobatチュートリアル
 
 ![Acrobat Hero Image](assets/Hero_Acrobat.jpg)
 
-Adobe Document CloudのソリューションであるAdobe Acrobatを使用すれば、アセットの変換、編集、共有、署名をおこなうことで、ビジネスを推進できます。PDF 初心者から上級ユーザーまですばやくAdobe Acrobatで学習できるように設計された、幅広い学習体験が用意されています。
+Adobe Document CloudソリューションであるAdobe Acrobatは、PDFの変換、編集、共有、署名により、ビジネスを継続して進めることができます。 ここでは、Adobe Acrobatで初心者と上級者の両方に最新の状態にすばやく移行できるように設計された、幅広い学習体験を見つけることができます。
 
 <div id="recs-overview-body-1"></div>
 <div id="recs-overview-body-2"></div>
@@ -54,12 +55,12 @@ Adobe Document CloudのソリューションであるAdobe Acrobatを使用す�
 <tr>
   <td>
     <a href="industry/industry-overview.md">
-      <img alt="業種および部門" src="assets/acrobat_title_industry.png" />
+      <img alt="業界と部門" src="assets/acrobat_title_industry.png" />
     </a>
   </td>  
   <td>
     <a href="develop/develop-overview.md">
-      <img alt="開発" src="assets/acrobat_title_develop.png" />
+      <img alt="現像" src="assets/acrobat_title_develop.png" />
     </a>
   </td>
   <td>

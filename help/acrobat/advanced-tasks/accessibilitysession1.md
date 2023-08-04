@@ -1,24 +1,25 @@
 ---
-title: アクセシビリティPDFの概要
-description: このセッションでは、PDFをアクセシブルにすることの意味、アクセシビリティのPDFを操作するためのAcrobat Proの設定方法、ソースドキュメントからPDFへの変換プロセスについて説明します
+title: PDFのアクセシビリティの概要
+description: このセッションでは、PDFをアクセシブルにする方法、アクセシビリティを目的としたPDFで動作するようにAcrobat Proを設定する方法、ソース文書からPDFへの変換プロセスについて説明します
+feature: Accessibility
 role: User
 level: Experienced
-thumbnail: KT-8606.jpg
 jira: KT-8606
+thumbnail: KT-8606.jpg
 exl-id: 3765673b-15fd-4071-bb31-e589feffa471
-source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
+source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
 workflow-type: tm+mt
 source-wordcount: '108'
 ht-degree: 0%
 
 ---
 
-# アクセシビリティPDFの概要
+# PDFのアクセシビリティの概要
 
-このセッションでは、PDFをアクセシブルにすることの意味、アクセシビリティのPDFを処理するためのAcrobat Proの設定方法、ソースドキュメントからPDFへの変換プロセスについて説明します。
+このセッションでは、PDFをアクセシブルにする方法、アクセシビリティ対応のPDFを処理するようにAcrobat Proを設定する方法、ソース文書からPDFへの変換プロセスについて説明します。
 
-クリック [ここ](../assets/accessibilitysession1.zip) 実践セッションファイルの zip フォルダーをダウンロードします。
+クリック [こちら](../assets/accessibilitysession1.zip) ハンズオンセッションファイルのzipフォルダーをダウンロードします。
 
-画像を選択して、別のブラウザータブでビデオを表示します。
+画像を選択して、別のブラウザータブにビデオを表示します。
 
-[![セッション 1 のビデオ](../assets/Accessibilitysession1_YT.png)](https://www.youtube.com/embed/DaadHIWHgzU){target="_blank"}
+[![セッション1のビデオ](../assets/Accessibilitysession1_YT.png)](https://www.youtube.com/embed/DaadHIWHgzU){target="_blank"}

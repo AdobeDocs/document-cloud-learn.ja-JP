@@ -1,12 +1,13 @@
 ---
 title: フォームデータの操作
-description: Acrobatでのフォームフィールドデータの単一スプレッドシートへの結合
+description: Acrobatでフォームフィールドデータを1つのスプレッドシートに結合
+feature: Form, Workflow
 role: User
 level: Experienced
-thumbnail: KT-6828.jpg
 jira: KT-6828
+thumbnail: KT-6828.jpg
 exl-id: d1284027-7df6-4242-9756-e0d401156498
-source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
+source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
 workflow-type: tm+mt
 source-wordcount: '123'
 ht-degree: 0%
@@ -15,22 +16,22 @@ ht-degree: 0%
 
 # フォームデータの操作
 
-入力済みのフォームがあり、データを収集する必要がある場合は、Acrobatを使用して返答を 1 つのスプレッドシートに結合できます。
+一連の完成したフォームがあり、データをコンパイルする必要がある場合は、Acrobatを使用して、返答を1つのスプレッドシートに結合できます。
 
-1. まず、完成したすべてのPDF formsをコンピューターのフォルダーに入れます。
+1. 最初に、完成したすべてのPDF formsをコンピューター上のフォルダーに保存します。
 
-   ![フォームデータステップ 1](../assets/FormData_1.png)
+   ![フォームデータステップ1](../assets/FormData_1.png)
 
-1. 入力済みのフォームファイルのいずれかを開き、 **[!UICONTROL Prepare Form]** を選択します。
+1. 入力済みのフォームファイルのいずれかを開き、 **[!UICONTROL Prepare Form]** ツールセンターまたは右側のペインから。
 
-   ![フォームデータステップ 2](../assets/FormData_2.png)
+   ![フォームデータステップ2](../assets/FormData_2.png)
 
-1. 選択 **[!UICONTROL 詳細]** **>** **[!UICONTROL スプレッドシートへのデータファイルのマージ]** をクリックします。
+1. 選択 **[!UICONTROL その他]** **>** **[!UICONTROL スプレッドシートにデータファイルを結合]** 右側のパネルに表示されます。
 
-   ![フォームデータステップ 3](../assets/FormData_3.png)
+   ![フォームデータステップ3](../assets/FormData_3.png)
 
-1. 入力済みのフォームで作成したフォルダーを選択します。
+1. 記入済みフォームを使用して作成したフォルダーを選択します。
 
-   Acrobatは各フォームからデータを抽出し、すべてのデータのスプレッドシートを作成します。
+   Acrobatは、各フォームからデータを抽出し、すべてのデータのスプレッドシートを作成します。
 
-   ![フォームデータステップ 4](../assets/FormData_4.png)
+   ![フォームデータステップ4](../assets/FormData_4.png)

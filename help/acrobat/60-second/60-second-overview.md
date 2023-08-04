@@ -1,25 +1,26 @@
 ---
-title: 60 秒のAcrobatの概要
-description: 60 秒のAcrobatには、Acrobatの新しいトリックを 1 分以内に習得できる簡単なチュートリアルが用意されています
+title: 60秒Acrobatの概要
+description: 60秒のAcrobatには、Acrobatで新しいトリックを1分以内に学ぶのに役立つ一口サイズのチュートリアルが用意されています
+feature: Accessibility, Edit PDF, Create PDF, Convert PDF, Optimize PDF, Sign, Security, Share, Collaboration
 role: User
 level: Beginner, Intermediate
-thumbnail: KT-8493.jpg
 jira: KT-8493
+thumbnail: KT-8493.jpg
 exl-id: 43750150-6e0d-4326-946d-61e1bae86f2a
-source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
+source-git-commit: 3c7ffbf7f59fea5d4de87434931236322dfe3bce
 workflow-type: tm+mt
 source-wordcount: '815'
 ht-degree: 0%
 
 ---
 
-# 60 秒のAcrobatの概要
+# 60秒のAcrobatの概要
 
-![60 秒のAcrobat Image](../assets/Hero-60sec.png)
+![60秒のAcrobat画像](../assets/Hero-60sec.png)
 
-60 秒のAcrobatには、Acrobatの新しいトリックを 1 分以内に習得できる簡単なチュートリアルが用意されています。 これらのタスクベースのヒントを使用して、Acrobatの隠れた機能の一部をロック解除することで、PDFファイルを操作するための新しいスキルを身につけることができます。 1 つ目のチュートリアルで答えをすぐに見つけたり、5 つ目のチュートリアルで文書の生産性を高めたりしながら、コーヒーブレイクを楽しむ時間を確保できます。
+60秒のAcrobatには、Acrobatで新しいトリックを1分以内に学ぶのに役立つ一口サイズのチュートリアルが用意されています。 これらのタスクベースのヒントは、Acrobatの隠れた機能のロックを解除することで、PDFファイルを操作するための新しいスキルを身に付けるのに役立ちます。 回答を素早く得るには1つ、文書の生産性を向上させるには5つ見ることができます。それでも、休憩を楽しむ時間はあります。
 
-## 60 秒のAcrobat tutorials
+## 60秒のAcrobatチュートリアル
 
 ## 編集
 
@@ -27,64 +28,64 @@ ht-degree: 0%
 <tr>
    <td>
     <a href="edit.md">
-      <img alt="Acrobat Web でのPDFの編集" src="../assets/60sec_Edit_1280.jpg" />
+      <img alt="Acrobat WebでPDFを編集" src="../assets/60sec_Edit_1280.jpg" />
     </a>
     <div>
-    <a href="edit.md"><strong>Acrobat Web でのPDFの編集</strong></a>
+    <a href="edit.md"><strong>Acrobat WebでPDFを編集</strong></a>
     </div>
-    <em>PDFをダウンロードしなくても、テキストや画像を簡単に編集できます</em>
+    <em>PDFをダウンロードすることなく、テキストや画像を簡単に編集</em>
     <br>
   </td>
   <td>
     <a href="textrecognition.md">
-      <img alt="スキャンした認識ファイルのテキストPDF" src="../assets/60sec_Textrecognition_1280.jpg" />
+      <img alt="スキャンしたPDFファイルのテキストを認識" src="../assets/60sec_Textrecognition_1280.jpg" />
     </a>
     <div>
-     <a href="textrecognition.md"><strong>スキャンした認識ファイルのテキストPDF</strong></a>
+     <a href="textrecognition.md"><strong>スキャンしたPDFファイルのテキストを認識</strong></a>
     </div>
-    <em>スキャンしたPDFを変換して、PDF</em>
+    <em>PDF内のテキストを検索できるようにスキャンしたPDFを変換する</em>
     <br>
   </td>
   <td>
     <a href="combine-to-one-pdf.md">
-      <img alt="ファイルを 1 つのPDFに" src="../assets/60sec_Combine_1280.jpg" />
+      <img alt="ファイルを1つのPDFに結合" src="../assets/60sec_Combine_1280.jpg" />
     </a>
     <div>
-    <a href="combine-to-one-pdf.md"><strong>ファイルを 1 つのPDFに</strong></a>
+    <a href="combine-to-one-pdf.md"><strong>ファイルを1つのPDFに結合</strong></a>
     </div>
-    <em>複数の異なる種類のファイルを 1 つのファイルに結合して、新規ドキュメントをすばやく作成するPDF</em>
+    <em>複数の異なる種類のファイルを1つのPDFにまとめて、新規ドキュメントをすばやく作成できます</em>
     <br>
   </td>
    <td>
     <a href="organize.md">
-      <img alt="ページを瞬時に整理" src="../assets/60sec_Organize_1280.jpg" />
+      <img alt="スナップでページを整理" src="../assets/60sec_Organize_1280.jpg" />
     </a>
     <div>
-    <a href="organize.md"><strong>ページを瞬時に整理</strong></a>
+    <a href="organize.md"><strong>スナップでページを整理</strong></a>
     </div>
-    <em>ページを整理ツールを使用して、PDFを俯瞰する方法を説明します</em>
+    <em>ページを整理ツールを使用して、PDFを鳥瞰図に表示する方法を説明します</em>
     <br>
   </td>
 </tr>
 <tr>
   <td>
     <a href="editphoto.md">
-      <img alt="PDFで写真を編集" src="../assets/60sec_Editphoto_1280.jpg" />
+      <img alt="PDF内の写真を編集" src="../assets/60sec_Editphoto_1280.jpg" />
     </a>
     <div>
-    <a href="editphoto.md"><strong>PDFで写真を編集</strong></a>
+    <a href="editphoto.md"><strong>PDF内の写真を編集</strong></a>
     </div>
-    <em>Photoshopを使用して、PDFの写真に高度な編集を加える方法について説明します</em>
+    <em>Photoshopを使用して、PDF内の写真に高度な編集を行う方法について説明します</em>
     <br>
   </td>
   <td>
     <a href="editgraphic.md">
-      <img alt="PDF" src="../assets/60sec_Editgraphic_1280.jpg" />
+      <img alt="PDF内のグラフィックの編集" src="../assets/60sec_Editgraphic_1280.jpg" />
     </a>
     <div>
-    <a href="editgraphic.md"><strong>PDF</strong></a>
+    <a href="editgraphic.md"><strong>PDF内のグラフィックの編集</strong></a>
     </div>
-    <em>Illustratorを使用して、PDFのグラフィックに高度な編集を加える方法について説明します</em>
+    <em>Illustratorを使用して、PDF内のグラフィックに高度な編集を行う方法について説明します</em>
     <br>
   </td>
   <td>
@@ -106,42 +107,42 @@ ht-degree: 0%
 <tr>
   <td>
     <a href="convert-pdf-word.md">
-      <img alt="PDFを Word に変換" src="../assets/60sec_convertword.png" />
+      <img alt="PDFをWordに変換" src="../assets/60sec_convertword.png" />
     </a>
     <div>
-    <a href="convert-pdf-word.md"><strong>PDFを Word に変換</strong></a>
+    <a href="convert-pdf-word.md"><strong>PDFをWordに変換</strong></a>
     </div>
-    <em>PDFファイルを完全に編集可能なMicrosoft Word 文書に変換</em>
+    <em>PDFファイルを完全に編集可能なMicrosoft Word文書に変換</em>
     <br>
   </td>
  <td>
     <a href="convert-pdf-excel.md">
-      <img alt="Excel へのPDFの変換" src="../assets/60sec_convertexcel.png" />
+      <img alt="PDFをExcelに変換" src="../assets/60sec_convertexcel.png" />
     </a>
     <div>
-    <a href="convert-pdf-excel.md"><strong>Excel へのPDFの変換</strong></a>
+    <a href="convert-pdf-excel.md"><strong>PDFをExcelに変換</strong></a>
     </div>
-    <em>PDFファイルを完全に編集可能なMicrosoft Excel ドキュメントに変換する</em>
+    <em>PDFファイルを完全に編集可能なMicrosoft Excel文書に変換</em>
     <br>
   </td>
   <td>
     <a href="convert-pdf-powerpoint.md">
-      <img alt="PowerPoint へのPDFの変換" src="../assets/60sec_convertppt.png" />
+      <img alt="PDFをPowerPointに変換" src="../assets/60sec_convertppt.png" />
     </a>
     <div>
-    <a href="convert-pdf-powerpoint.md"><strong>PowerPoint へのPDFの変換</strong></a>
+    <a href="convert-pdf-powerpoint.md"><strong>PDFをPowerPointに変換</strong></a>
     </div>
-    <em>PDFファイルを完全に編集可能なMicrosoft PowerPoint ドキュメントに変換する</em>
+    <em>PDFファイルを編集可能なMicrosoft PowerPoint文書に変換する</em>
     <br>
   </td>
   <td>
     <a href="exportwordphone.md">
-      <img alt="Export PDFから Word へ" src="../assets/60sec_Exportphone_1280.jpg" />
+      <img alt="携帯電話からWordにExport PDF" src="../assets/60sec_Exportphone_1280.jpg" />
     </a>
     <div>
-    <a href="exportwordphone.md"><strong>Export PDFから Word へ</strong></a>
+    <a href="exportwordphone.md"><strong>携帯電話からWordにExport PDF</strong></a>
     </div>
-    <em>Acrobatモバイル版アプリで、PDFファイルを編集可能なMicrosoft Word 文書に変換できます</em>
+    <em>Acrobatモバイルアプリを使用して、PDFファイルを完全に編集可能なMicrosoft Word文書に変換</em>
     <br>
   </td>
 </tr>
@@ -153,12 +154,12 @@ ht-degree: 0%
 <tr>
   <td>
     <a href="word-to-pdf.md">
-      <img alt="Microsoft Word からのPDFの作成" src="../assets/60sec_createfromword.png" />
+      <img alt="Microsoft WordからPDFを作成" src="../assets/60sec_createfromword.png" />
     </a>
     <div>
-     <a href="word-to-pdf.md"><strong>Microsoft Word からのPDFの作成</strong></a>
+     <a href="word-to-pdf.md"><strong>Microsoft WordからPDFを作成</strong></a>
     </div>
-    <em>Microsoft Word からのPDFの作成</em>
+    <em>Microsoft WordからPDFを作成</em>
     <br>
   </td>
   <td>
@@ -168,49 +169,49 @@ ht-degree: 0%
     <div>
      <a href="create-from-acrobat.md"><strong>AcrobatからのPDFの作成</strong></a>
     </div>
-    <em>AcrobatデスクトップPDF内で、Microsoft 365 ファイルからアプリケーションを作成できます</em>
+    <em>Acrobatデスクトップアプリ内でMicrosoft 365ファイルからPDFを作成</em>
     <br>
   </td>
   <td>
     <a href="wordform.md">
-      <img alt="フォームフィールドを含むPDFに Word を変換する" src="../assets/60sec_Wordform_1280.jpg" />
+      <img alt="フォームフィールドを含むPDFにWordを変換" src="../assets/60sec_Wordform_1280.jpg" />
     </a>
     <div>
-     <a href="wordform.md"><strong>フォームフィールドを含むPDFに Word を変換する</strong></a>
+     <a href="wordform.md"><strong>フォームフィールドを含むPDFにWordを変換</strong></a>
     </div>
-    <em>Word のファイルとフォームをPDFに変換し、フォームフィールドを自動的に作成</em>
+    <em>WordファイルおよびフォームをPDFに変換し、フォームフィールドを自動的に作成</em>
     <br>
   </td>
   <td>
       <a href="photo.md">
-        <img alt="写真のPDFを瞬時に作成" src="../assets/60sec_Photo_1280.jpg" />
+        <img alt="瞬時にPDFを作成" src="../assets/60sec_Photo_1280.jpg" />
       </a>
       <div>
-      <a href="photo.md"><strong>写真のPDFを瞬時に作成</strong></a>
+      <a href="photo.md"><strong>瞬時にPDFを作成</strong></a>
       </div>
-      <em>複数のJPGをAcrobatアイコンにドラッグ&amp;ドロップするだけでPDFを作成できます</em>
+      <em>多数のPDFをAcrobatアイコンにドラッグ&amp;ドロップするだけでJPGを作成する方法を説明します</em>
       <br>
   </td>
 </tr>
 <tr>
   <td>
     <a href="phone.md">
-      <img alt="スマートフォンで PPT ファイルをPDFに変換" src="../assets/60sec_Phone_1280.jpg" />
+      <img alt="スマートフォンでPPTファイルをPDFに変換" src="../assets/60sec_Phone_1280.jpg" />
     </a>
     <div>
-    <a href="phone.md"><strong>スマートフォンで PPT ファイルをPDFに変換</strong></a>
+    <a href="phone.md"><strong>スマートフォンでPPTファイルをPDFに変換</strong></a>
     </div>
-    <em>PowerPoint の電子メールの添付ファイルをスマートフォンのPDFに変換する方法</em>
+    <em>PowerPointの電子メール添付ファイルを携帯電話のPDFに変換する方法を説明します</em>
     <br>
   </td>
   <td>
       <a href="optimize.md">
-        <img alt="効率的なPDFファイルの簡単な作成" src="../assets/60sec_Optimize_1280.jpg" />
+        <img alt="より効率的なPDFファイルを簡単に作成" src="../assets/60sec_Optimize_1280.jpg" />
       </a>
       <div>
-      <a href="optimize.md"><strong>効率的なPDFファイルの簡単な作成</strong></a>
+      <a href="optimize.md"><strong>より効率的なPDFファイルを簡単に作成</strong></a>
       </div>
-      <em>Optimize PDFツールを使用して、PDFファイル</em>
+      <em>Optimize PDFツールを使用すると、PDFファイルのサイズを大幅に縮小できます</em>
       <br>
   </td>
   <td>
@@ -232,12 +233,12 @@ ht-degree: 0%
 <tr>
   <td>
     <a href="sign.md">
-      <img alt="紙の文書に電子サインする" src="../assets/60sec_Sign_1280.jpg" />
+      <img alt="紙の文書に電子サイン" src="../assets/60sec_Sign_1280.jpg" />
     </a>
     <div>
-    <a href="sign.md"><strong>紙の文書に電子サインする</strong></a>
+    <a href="sign.md"><strong>紙の文書に電子サイン</strong></a>
     </div>
-    <em>Adobe Scanを使用して印刷フォームに署名する方法について説明します。</em>
+    <em>Adobe Scanを使用して印刷されたフォームに署名する方法について説明します</em>
     <br>
   </td>
   <td>
@@ -264,22 +265,22 @@ ht-degree: 0%
 <tr>
   <td>
     <a href="protect.md">
-      <img alt="パスワードでPDFファイルをProtect" src="../assets/60sec_Protect_1280.jpg" />
+      <img alt="PDFファイルをパスワードでProtectする" src="../assets/60sec_Protect_1280.jpg" />
     </a>
     <div>
-    <a href="protect.md"><strong>パスワードでPDFファイルをProtect</strong></a>
+    <a href="protect.md"><strong>PDFファイルをパスワードでProtectする</strong></a>
     </div>
-    <em>PDFをProtectして、PDFを開くか編集するためにパスワードが必要となるようにする</em>
+    <em>PDFを開くまたは編集するためにPDFが必要となるように、パスワードをProtectします</em>
     <br>
   </td>
   <td>
     <a href="redaction.md">
-      <img alt="墨消し：正しい方法" src="../assets/60sec_redaction.png" />
+      <img alt="墨消し：適切な方法" src="../assets/60sec_redaction.png" />
     </a>
     <div>
-    <a href="redaction.md"><strong>墨消し：正しい方法</strong></a>
+    <a href="redaction.md"><strong>墨消し：適切な方法</strong></a>
     </div>
-    <em>PDFから機密情報を削除する適切な方法</em>
+    <em>PDFから機密情報を削除する正しい方法を学ぶ</em>
     <br>
   </td>
   <td>
@@ -301,42 +302,42 @@ ht-degree: 0%
 <tr>
   <td>
     <a href="share-comment.md">
-      <img alt="注釈用のPDFを共有" src="../assets/60sec_sharecomment.png" />
+      <img alt="コメント用のPDFを共有" src="../assets/60sec_sharecomment.png" />
     </a>
     <div>
-    <a href="share-comment.md"><strong>注釈用のPDFを共有</strong></a>
+    <a href="share-comment.md"><strong>コメント用のPDFを共有</strong></a>
     </div>
-    <em>ひとつのファイルで複数の人からPDFをすばやく収集し、フィードバックを共有する方法を説明します</em>
+    <em>PDFを共有して、1つのファイルで複数のユーザーからすばやくフィードバックを集める方法を説明します</em>
     <br>
   </td>
   <td>
     <a href="share-comment-teams.md">
-      <img alt="Teams でのPDFファイルの共有とコメント" src="../assets/60sec_shareteams.png" />
+      <img alt="TeamsでのPDFファイルの共有とコメント" src="../assets/60sec_shareteams.png" />
     </a>
     <div>
-    <a href="share-comment-teams.md"><strong>Teams でのPDFファイルの共有とコメント</strong></a>
+    <a href="share-comment-teams.md"><strong>TeamsでのPDFファイルの共有とコメント</strong></a>
     </div>
-    <em>Microsoft Teams</em>
+    <em>Microsoft TeamsーでPDFファイルをリアルタイムで共同作業する方法について説明します</em>
     <br>
   </td>
   <td>
     <a href="summarize-comments.md">
-      <img alt="概要によるPDFコメントの解決" src="../assets/60sec_summarize.png" />
+      <img alt="「要約」を使用したPDFのコメントの交換" src="../assets/60sec_summarize.png" />
     </a>
     <div>
-    <a href="summarize-comments.md"><strong>概要によるPDFコメントの解決</strong></a>
+    <a href="summarize-comments.md"><strong>「要約」を使用したPDFのコメントの交換</strong></a>
     </div>
-    <em>注釈ファイル内のすべての注釈とマークアップの概要を作成する方法についてPDFします</em>
+    <em>PDFファイル内のすべての注釈とマークアップの概要を作成する方法を説明します</em>
     <br>
   </td>
    <td>
     <a href="indesign.md">
-      <img alt="PDFコメントの読み込みInDesign" src="../assets/60sec_InDesign_1280.jpg" />
+      <img alt="PDFコメントのInDesignへの読み込み" src="../assets/60sec_InDesign_1280.jpg" />
     </a>
     <div>
-    <a href="indesign.md"><strong>PDFコメントの読み込みInDesign</strong></a>
+    <a href="indesign.md"><strong>PDFコメントのInDesignへの読み込み</strong></a>
     </div>
-    <em>Acrobatの共有レビューの後に、PDFのコメントをInDesignに読み込む方法について説明します。</em>
+    <em>Acrobatでレビューを共有した後に、PDFコメントをInDesignに読み込む方法について説明します</em>
     <br>
   </td>
 </tr>
@@ -348,22 +349,22 @@ ht-degree: 0%
 <tr>
   <td>
     <a href="accessible.md">
-      <img alt="AcrobatでアクセシブルなPDF" src="../assets/60sec_Accessible_1280.jpg" />
+      <img alt="アクセシブルなPDFを行う際にAcrobatを活用" src="../assets/60sec_Accessible_1280.jpg" />
     </a>
     <div>
-    <a href="accessible.md"><strong>AcrobatでアクセシブルなPDF</strong></a>
+    <a href="accessible.md"><strong>アクセシブルなPDFを行う際にAcrobatを活用</strong></a>
     </div>
-    <em>アクセス可能なPDFの確認</em>
+    <em>PDFがアクセス可能かどうかを確認する</em>
     <br>
   </td>
  <td>
     <a href="conform.md">
-      <img alt="標準形式にPDFを最適化する" src="../assets/60sec_standard.png" />
+      <img alt="PDFを標準書式に合わせる" src="../assets/60sec_standard.png" />
     </a>
     <div>
-    <a href="conform.md"><strong>標準形式にPDFを最適化する</strong></a>
+    <a href="conform.md"><strong>PDFを標準書式に合わせる</strong></a>
     </div>
-    <em>PDF/X、PDF/A、PDF/E など、PDFの標準的な基準に照らしてPDFの内容を検証する方法を説明します</em>
+    <em>PDF/X、PDF/A、PDF/EなどのPDFの標準基準に照らしてPDFコンテンツを検証する方法について説明します。</em>
     <br>
   </td>
   <td>
@@ -385,22 +386,22 @@ ht-degree: 0%
 <tr>
   <td>
     <a href="compare.md">
-      <img alt="PDF比較" src="../assets/60sec_compare.png" />
+      <img alt="PDF比較で相違点を見つける" src="../assets/60sec_compare.png" />
     </a>
     <div>
-     <a href="compare.md"><strong>PDF比較</strong></a>
+     <a href="compare.md"><strong>PDF比較で相違点を見つける</strong></a>
     </div>
-    <em>Acrobatでファイルを比較ツールを使用して、2 つのPDFファイルの違いを確認する方法を説明します</em>
+    <em>Acrobatのファイル比較ツールを使用して、2つのPDFファイルの違いを特定する方法を説明します</em>
     <br>
   </td>
  <td>
     <a href="search.md">
-      <img alt="複数のPDFファイルの一括検索" src="../assets/60sec_Search_1280.jpg" />
+      <img alt="一度に複数のPDFファイルを検索" src="../assets/60sec_Search_1280.jpg" />
     </a>
     <div>
-     <a href="search.md"><strong>複数のPDFファイルの一括検索</strong></a>
+     <a href="search.md"><strong>一度に複数のPDFファイルを検索</strong></a>
     </div>
-    <em>PDFファイルで検索を開始し、「詳細検索」を開いてフォルダーファイル全体をPDFします</em>
+    <em>PDFファイル内で検索を開始した後、詳細検索を開いてPDFファイルのフォルダー全体を検索する</em>
     <br>
   </td>
   <td>

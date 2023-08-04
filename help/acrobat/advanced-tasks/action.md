@@ -1,12 +1,13 @@
 ---
 title: Action Wizard
-description: アクションを使用して一連のコマンドを 1 つまたは複数のファイルに自動的に適用することで、時間とキーストロークを節約できます
+description: アクションを使用してコマンドのセットを1つまたは複数のファイルに自動的に適用することで、時間とキーストロークを節約できます
+feature: Action
 role: User
-level: Experienced
-thumbnail: KT-6803.jpg
+level: Intermediate
 jira: KT-6803
+thumbnail: KT-6803.jpg
 exl-id: d932f20e-7e7c-4087-8ccc-cba7253f1394
-source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
+source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
 workflow-type: tm+mt
 source-wordcount: '218'
 ht-degree: 0%
@@ -15,32 +16,32 @@ ht-degree: 0%
 
 # Action Wizard
 
-優れた顧客体験を提供するためには、コンテンツをかつてないほど迅速に作成する必要があります。 アクションを使用して一連のコマンドを 1 つまたは複数のファイルに自動的に適用することで、時間とキーストロークを節約できます。
+最高のカスタマーエクスペリエンスを提供するには、これまでになく高速にコンテンツを作成する必要があります。 アクションを使用してコマンドのセットを1つまたは複数のファイルに自動的に適用することで、時間とキーストロークを節約できます。
 
 >[!NOTE]
 >
->Acrobat Proでのみ使用できます。
+>Acrobat Proでのみ利用可能です。
 
-1. 選択 **[!UICONTROL Action Wizard]** 」を [!UICONTROL ツール] 中央または右側のパネル
+1. 選択 **[!UICONTROL Action Wizard]** から [!UICONTROL ツール] 中央または右側のペイン。
 
-   ![Action Wizard手順 1](../assets/ActionWizard_1.png)
+   ![Action Wizardステップ1](../assets/ActionWizard_1.png)
 
-   定義済みのアクションは、 **アクションリスト**&#x200B;を選択します。
+   事前定義されたアクションは、 **アクションリスト**.
 
-1. 選択 **[!UICONTROL 新規アクション]** をクリックして、カスタムアクションを作成します。
+1. 選択 **[!UICONTROL 新しいアクション]** をクリックして、カスタムアクションを作成します。
 
-   ![Action Wizard手順 2](../assets/ActionWizard_2.png)
+   ![Action Wizardステップ2](../assets/ActionWizard_2.png)
 
-1. 左側のリストからタスクを選択し、中央の矢印を選択して **[!UICONTROL 新規アクションを作成]** ダイアログボックス
+1. 左側のリストからタスクを選択し、中央矢印を選択して右側の列に追加します。 **[!UICONTROL 新規アクションを作成]** ダイアログボックスに表示されます。
 
-   *各タスクの設定は、このダイアログボックスで事前に決定されています。または、アクションの実行時に必要な決定をユーザーに求めることができます。*
+   *各タスクの設定は、このダイアログボックスで事前に決定されます。または、アクションの実行時に必要な決定を行うようにユーザーに求めることができます。*
 
-   ![Action Wizard手順 3](../assets/ActionWizard_3.png)
+   ![Action Wizardステップ3](../assets/ActionWizard_3.png)
 
-1. 選択 **[!UICONTROL 保存]** を選択し、 **[!UICONTROL アクションリスト]**&#x200B;を選択します。
+1. 選択 **[!UICONTROL 保存]** に表示されるように名前を付けます **[!UICONTROL アクションリスト]**.
 
-カスタムアクションは、1 つまたは複数のアクションファイルに対して特定の一連の手順を実行する必要がある場合に、いつでもPDFできます。
+1つまたは複数のPDFファイルに対して一連の手順を実行する必要がある場合に、いつでもカスタムアクションを実行できるようになりました。
 
 >[!TIP]
 >
->このビデオはコースの一部です [Acrobat DCとMicrosoft 365 でスマートに作業](https://experienceleague.adobe.com/?recommended=Acrobat-U-1-2021.microsoft365) それは無料で利用できますExperience League!
+>このビデオはコースの一部です [Acrobat DCとMicrosoft 365を使用して、よりスマートに作業](https://experienceleague.adobe.com/?recommended=Acrobat-U-1-2021.microsoft365) それはExperience Leagueで無料で入手できます！

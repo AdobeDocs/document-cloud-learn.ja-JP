@@ -1,21 +1,22 @@
 ---
-title: '[!DNL D-Trust] を使用した登録と署名'
-description: '[!DNL D-Trust] に ID を登録し、Acrobat Signの文書で [!DNL D-Trust] 電子署名を使用する方法を説明します'
+title: '[!DNL D-Trust]を使用して登録および署名'
+description: '[!DNL D-Trust]でIDを登録し、Acrobat Signで文書に[!DNL D-Trust]電子署名を使用する方法について説明します'
+feature: Digital ID
 role: User
 solution: Acrobat Sign
 level: Beginner
 jira: KT-11120
 thumbnail: KT-11120.jpg
 exl-id: 091ccb98-4db2-4ea9-8bf0-d585fcdfd9a0
-source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
+source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
 workflow-type: tm+mt
 source-wordcount: '52'
 ht-degree: 0%
 
 ---
 
-# 登録して署名するには、 [!DNL D-Trust]
+# を使用して登録して署名 [!DNL D-Trust]
 
-ID を登録する方法 [!DNL D-Trust]を選択し、 [!DNL D-Trust] Acrobat Signで文書に電子署名します。
+IDの登録方法を説明します [!DNL D-Trust]を選択し、 [!DNL D-Trust] Acrobat Signの文書に対する電子署名。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3410193?quality=12&learn=on&hidetitle=true)

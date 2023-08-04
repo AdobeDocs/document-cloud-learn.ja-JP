@@ -1,26 +1,27 @@
 ---
-title: Acrobat Sign Text Tagging
-description: Adobe Acrobatを使用した、テキストタグによるAcrobat Signフォームフィールドの作成方法について説明します。
+title: Acrobat Signテキストタグ付け
+description: Adobe Acrobatを使用してテキストタグ付けによりAcrobat Signフォームフィールドを構築する方法について説明します。
+feature: Workflow, Sign
 role: User, Admin
 level: Experienced
 jira: KT-6059
 thumbnail: KT-6402.jpg
 exl-id: 3a54925d-b713-487b-92b7-ec7160513696,c981c640-e50a-4952-ac39-2f90d6d0cf08
-source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
+source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
 workflow-type: tm+mt
 source-wordcount: '183'
 ht-degree: 0%
 
 ---
 
-# Acrobat Sign Text Tagging
+# Acrobat Signテキストタグ付け
 
-この録画オンラインセミナー（登録は不要）では、Adobe Acrobatを使用してテキストタグ付きのAcrobat Signフォームフィールドを作成する方法について説明します。 テキストタグを使用すると、多くのフォームフィールドを含む文書の作成や改訂にかかる時間が大幅に短縮されます。 文書の送信者は、各文書に個別のフィールドを配置する必要がありません。また、時間を大幅に節約できます。 その他の利点として、フォームフィールドの検証（正確でエラーのないデータ収集）やプロフェッショナルなフォームデザインの一貫性があります。 ウェビナーの期間中に Q&amp;A ポッドを通じて質問をお寄せください。 下の画像をクリックして、録画の視聴を開始します。
+このウェビナー（参加登録は不要）では、Adobe Acrobatを使用してテキストタグ付きのAcrobat Signフォームフィールドを作成する方法について説明します。 テキストタグ付けにより、多くのフォームフィールドを持つ文書の作成と修正にかかる時間が大幅に短縮されます。 文書の送信者は、すべての文書に個別のフィールドを配置する必要がないため、時間を大幅に節約できます。 その他の利点には、フォームフィールドの検証（正確でエラーのないデータ収集）やプロフェッショナルなフォームデザインの一貫性などがあります。 ウェビナーではQ&amp;Aポッドを使って質問をお送りください。 下の画像をクリックして、録画の視聴を開始します。
 
-[![セッションを見る](../assets/Text-Tagging.png)](https://event.on24.com/wcc/r/2338276/415BE4603F60A61A546C0A91528B444F)
+[![監視セッション](../assets/Text-Tagging.png)](https://event.on24.com/wcc/r/2338276/415BE4603F60A61A546C0A91528B444F)
 
-[Acrobat Sign Text Tagging のオンラインセミナーを視聴する](https://event.on24.com/wcc/r/2338276/415BE4603F60A61A546C0A91528B444F)
+[記録されたウェビナーでのAcrobat Signテキストタグ付けを見る](https://event.on24.com/wcc/r/2338276/415BE4603F60A61A546C0A91528B444F)
 
 >[!TIP]
 >
->このビデオは、 [ユーザー向けの高度なタスク](https://experienceleague.adobe.com/?recommended=Sign-U-1-2020.3) および [管理者の高度なタスク](https://experienceleague.adobe.com/?recommended=Sign-A-1-2020.1) コースは無料でExperience League!
+>このビデオは、 [ユーザー向けの高度なタスク](https://experienceleague.adobe.com/?recommended=Sign-U-1-2020.3) および [管理者の高度なタスク](https://experienceleague.adobe.com/?recommended=Sign-A-1-2020.1) Experience Leagueで無料で利用できるコース

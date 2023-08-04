@@ -1,19 +1,20 @@
 ---
-title: PDFを Word に変換
-description: PDFファイルを完全に編集可能なMicrosoft Word 文書に変換
+title: PDFをWordに変換
+description: PDFファイルを完全に編集可能なMicrosoft Word文書に変換
+feature: Convert PDF
 role: User
 level: Beginner
 jira: KT-13291
 exl-id: a4c8dc0e-920b-431c-bd74-eb27e2c4418b
-source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
+source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
 workflow-type: tm+mt
 source-wordcount: '45'
 ht-degree: 11%
 
 ---
 
-# PDFを Word に変換
+# PDFをWordに変換
 
-この 60 秒のビデオチュートリアルでは、 [PDFファイルを完全に編集可能なMicrosoft Word 文書に変換](https://www.adobe.com/jp/acrobat/online/pdf-to-word.html){target="_blank"}を選択します。
+この60秒のビデオチュートリアルでは、次の操作方法を学習します。 [PDFファイルを編集可能なMicrosoft Word文書に変換する](https://www.adobe.com/jp/acrobat/online/pdf-to-word.html){target="_blank"}.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3411376?quality=12&learn=on&hidetitle=true)

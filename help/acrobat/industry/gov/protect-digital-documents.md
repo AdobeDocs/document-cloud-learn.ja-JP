@@ -1,23 +1,24 @@
 ---
-title: Acrobatでどこでも作業できる環境を実現するための 5 つのヒント —Protect Digital Documents
-description: コピー、編集、印刷を防ぐためにパスワードをPDFに追加する方法について説明します
+title: Acrobatでどこでも作業するための5つのヒント – Protectデジタルドキュメント
+description: PDFにパスワードを設定して、コピー、編集、印刷ができないようにする方法を説明します
+feature: Security
 role: User
 level: Beginner
 thumbnail: 34510.jpg
 exl-id: 3115d182-671a-4d8b-8753-f8aba3c4807e
-source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
+source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
 workflow-type: tm+mt
 source-wordcount: '60'
 ht-degree: 8%
 
 ---
 
-# Acrobatでどこでも作業できる環境を実現するための 5 つのヒント —Protectデジタルドキュメント
+# Acrobatでどこでも作業するための5つのヒント – Protectデジタルドキュメント
 
-[パスワードのPDF](https://www.adobe.com/acrobat/online/password-protect-pdf.html){target="_blank"}  コピー、編集、印刷を防止します。
+[PDFにパスワードを入力](https://www.adobe.com/acrobat/online/password-protect-pdf.html){target="_blank"}  コピー、編集、印刷を禁止します。
 
-## ヒント#3 -Protectデジタル文書 (1:23)
+## ヒント#3 - Protectデジタルドキュメント(1:23)
 
 >[!VIDEO](https://video.tv.adobe.com/v/34510?quality=12&learn=on&hidetitle=true)
 
-[ヒント#4に移動 — フォームと署名の操作](work-with-forms-and-signatures.md)
+[ヒント#4 – フォームと署名の操作に移動します](work-with-forms-and-signatures.md)

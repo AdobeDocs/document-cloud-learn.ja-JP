@@ -1,24 +1,25 @@
 ---
-title: アクセスできないPDF
-description: このオンデマンドセッションでは、オンラインセミナーの概要で紹介するAcrobat Proツールを使用して、Word 文書を変換するワークフローと、基本的なタグ付けの問題を修正する方法について説明します
+title: アクセスできないPDFの修正
+description: このオンデマンドセッションでは、Word文書を変換するワークフロー、および概要ウェビナーで示されたAcrobat Proツールを使用して基本的なタグ付けの問題を修正するワークフローについて学習します
+feature: Accessibility
 role: User
 level: Experienced
-thumbnail: KT-8609.jpg
 jira: KT-8609
+thumbnail: KT-8609.jpg
 exl-id: 546c1bc7-28bb-447d-8b3f-66cc29498057
-source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
+source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
 workflow-type: tm+mt
 source-wordcount: '94'
 ht-degree: 0%
 
 ---
 
-# アクセスできないPDF
+# アクセスできないPDFの修復
 
-このオンデマンドセッションでは、オンラインセミナーの概要で紹介するAcrobat Proツールを使用して、Word 文書を変換するワークフローと、基本的なタグ付けの問題を修正する方法について説明します。
+このオンデマンドセッションでは、Word文書を変換するワークフロー、および概要ウェビナーで示されたAcrobat Proツールを使用して基本的なタグ付けの問題を修正するワークフローについて学習します。
 
-クリック [ここ](../assets/accessibilitysession2.zip) 実践セッションファイルの zip フォルダーをダウンロードします。
+クリック [こちら](../assets/accessibilitysession2.zip) ハンズオンセッションファイルのzipフォルダーをダウンロードします。
 
-画像を選択して、別のブラウザータブでビデオを表示します。
+画像を選択して、別のブラウザータブにビデオを表示します。
 
-[![セッション 2 のビデオ](../assets/Accessibilitysession2_YT.png)](https://youtu.be/eT2IFNszNuk){target="_blank"}
+[![セッション2のビデオ](../assets/Accessibilitysession2_YT.png)](https://youtu.be/eT2IFNszNuk){target="_blank"}

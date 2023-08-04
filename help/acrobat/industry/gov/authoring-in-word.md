@@ -1,24 +1,25 @@
 ---
-title: PDFのアクセシブル化 — オーサリング [!DNL Microsoft Word]
-description: アクセシブルな文書のオーサリング [!DNL Microsoft Word]
+title: PDFのアクセシブル化 – でのオーサリング [!DNL Microsoft Word]
+description: でアクセシブルな文書を作成する [!DNL Microsoft Word]
+feature: Accessibility
 role: User
 level: Experienced
 topic-revisit: Accessibility
 thumbnail: 34513.jpg
 exl-id: 6e1f2471-085f-4510-8f59-0f635367aa98
-source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
+source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
 workflow-type: tm+mt
 source-wordcount: '44'
 ht-degree: 0%
 
 ---
 
-# アクセス可能なPDFの作成：でのオーサリング [!DNL Microsoft Word]
+# PDFのアクセシブル化：オーサリング機能 [!DNL Microsoft Word]
 
-「PDFをアクセシブルにする」シリーズの 2 番目のビデオチュートリアルでは、で作成するPDFファイル作成のベストプラクティスを学習します [!DNL Microsoft Word]を選択します。
+「PDFをアクセス可能にする」シリーズの2番目のビデオチュートリアルでは、で作成したPDFファイルのベストプラクティスを紹介します [!DNL Microsoft Word].
 
-## パート 2 — オーサリング [!DNL Microsoft Word] (2:51)
+## パート2 – オーサリング機能 [!DNL Microsoft Word] (2:51)
 
 >[!VIDEO](https://video.tv.adobe.com/v/34513?quality=12&learn=on&hidetitle=true)
 
-[パート 3:Acrobatでの仕上げに進む](finishing-in-acrobat.md)
+[パート3 - Acrobatでの仕上げに進む](finishing-in-acrobat.md)

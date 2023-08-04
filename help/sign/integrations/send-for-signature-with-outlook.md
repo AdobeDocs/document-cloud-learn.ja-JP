@@ -1,6 +1,7 @@
 ---
-title: Send for Signature(Outlook)
-description: Microsoft Outlook 内から署名用に契約書を直接送信
+title: OutlookのSend for Signature
+description: Microsoft Outlook内から直接契約書を署名用に送信
+feature: Integrations
 role: User
 level: Intermediate
 topic: Integrations
@@ -8,7 +9,7 @@ jira: KT-6463
 topic-revisit: Integrations
 thumbnail: KT-6463.jpg
 exl-id: 06d8e6c5-6dbf-4d6c-bf49-b620da707b3c
-source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
+source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
 workflow-type: tm+mt
 source-wordcount: '57'
 ht-degree: 0%
@@ -17,10 +18,10 @@ ht-degree: 0%
 
 # 署名用に送信 [!DNL Outlook]
 
-署名用の文書を [!DNL Microsoft Outlook]を選択します。
+文書を署名用に直接送信することで、文書ワークフローを効率化する方法を説明します。 [!DNL Microsoft Outlook].
 
 >[!VIDEO](https://video.tv.adobe.com/v/37839?quality=12&learn=on&hidetitle=true)
 
 >[!TIP]
 >
->このビデオはコースの一部です [Microsoftアプリケーション内でのAcrobat Signの使用](https://experienceleague.adobe.com/?recommended=Sign-U-1-2020.2) それは無料で利用できますExperience League!
+>このビデオはコースの一部です [Microsoftアプリケーション内でのAcrobat Signの使用](https://experienceleague.adobe.com/?recommended=Sign-U-1-2020.2) それはExperience Leagueで無料で入手できます！

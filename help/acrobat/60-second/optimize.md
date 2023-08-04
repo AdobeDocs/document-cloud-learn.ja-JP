@@ -1,24 +1,25 @@
 ---
-title: 効率的なPDFファイルを簡単に作成
-description: Optimize PDFツールを使用して、PDFファイル
+title: より効率的なPDFファイルをスナップで作成
+description: Optimize PDFツールを使用すると、PDFファイルのサイズを大幅に縮小できます
+feature: Optimize PDF
 role: User
 level: Intermediate
-thumbnail: KT-9751.jpg
 jira: KT-9751
+thumbnail: KT-9751.jpg
 exl-id: 4b72b434-b3aa-47b3-8648-4a6568912862
-source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
+source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
 workflow-type: tm+mt
 source-wordcount: '57'
 ht-degree: 0%
 
 ---
 
-# 効率的なPDFファイルの簡単な作成
+# より効率的なPDFファイルを簡単に作成
 
 >[!NOTE]
 >
->Acrobat Proでのみ使用できます。
+>Acrobat Proでのみ利用可能です。
 
-この 60 秒のビデオチュートリアルでは、Optimize PDFツールを使用して写真ファイルのサイズを大幅に縮小する方法をPDFします。
+この60秒のビデオチュートリアルでは、Optimize PDFツールを使用してPDFファイルのサイズを大幅に縮小する方法について学習します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/340077?quality=12&learn=on&hidetitle=true)

@@ -1,20 +1,21 @@
 ---
-title: 教育 Web フォームインターンシップ応募
-description: 学生が web フォームを使用して、必要なフォームにアクセスしやすくなります。
+title: Education Webフォームインターンシップ申請
+description: Webフォームを使用して、学生が必要なフォームに簡単にアクセスできるようにする方法を説明します
+feature: Use Cases, Web Forms, Mobile
 role: User
 level: Intermediate
 jira: KT-13607
-source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
+source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
 workflow-type: tm+mt
 source-wordcount: '99'
 ht-degree: 0%
 
 ---
 
-# 教育 Web フォームインターンシップ応募
+# 教育機関webフォームインターンシップ申請
 
-web フォームを使用して、任意のデバイスや場所から送信できる必要なフォームへの学生のアクセスを改善し、教育用承認プロセスをスピードアップする方法について説明します。 この例では、すべての学生に対するワークフローが、学習コースに応じて固有になっています。これは、各学生が承認を得るために、独自の教員スーパーバイザーと部門長を追加する必要があるためです。
+ここでは、Webフォームを使用して、学生があらゆるデバイスや場所から提出できる必要なフォームに簡単にアクセスできるようにし、教育的な承認プロセスをスピードアップする方法について説明します。 この例では、各学生のワークフローは学習コースによって異なります。これは、各学生が承認を受けるために、それぞれの教員のスーパーバイザーと部門長を追加する必要があるためです。
 
-チェックアウト [教育 Web フォームインターンシップ応募の作成](usecase-edu-intern-create.md) 」を参照してください。
+チェックアウト [教育用Webフォームインターンシップ申請の作成](usecase-edu-intern-create.md) このwebフォームの作成方法を学びます。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3421773?quality=12&learn=on&hidetitle=true)

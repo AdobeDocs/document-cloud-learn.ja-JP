@@ -1,21 +1,22 @@
 ---
-title: 新しい管理者の基本
-description: この包括的なビデオガイドでは、Acrobat Signを導入するために必要なすべてのツールについて説明します
+title: 新しい管理者向け導入ガイド
+description: この包括的なビデオガイドでは、Acrobat Signを導入して稼働させるために必要なすべてのツールについて説明します
+feature: Administration, Deploy
 role: Admin
 level: Beginner
 jira: KT-11289
 thumbnail: KT-11289.jpg
 exl-id: 71a00fa1-2814-4f8b-87e1-61bbce752308
-source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
+source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
 workflow-type: tm+mt
 source-wordcount: '177'
 ht-degree: 0%
 
 ---
 
-# 新しい管理者の基本
+# 新しい管理者向け導入ガイド
 
-この包括的なビデオガイドは、特に新しいAcrobat Sign管理者向けに設計されています。 Acrobat Signを導入するために必要なすべてのツールについて説明します。 この詳細ガイドでは、次のトピックについて説明します。
+この包括的なビデオガイドは、新規のAcrobat Sign管理者向けに設計されています。 Acrobat Signを導入して稼働させるために必要なすべてのツールについて説明します。 この詳細なガイドでは、次のトピックについて説明します。
 
 <table style="table-layout:auto">
 <tr>
@@ -25,9 +26,9 @@ ht-degree: 0%
     </a>
   </td>
   <td>
-     <a href="https://video.tv.adobe.com/v/343565/?autoplay=true&t=60"><strong>Admin Console</strong></a>
+     <a href="https://video.tv.adobe.com/v/343565/?autoplay=true&t=60"><strong>Admin Consoleへのアクセス</strong></a>
          <br>
-        <em>1 時から</em>
+        <em>1時に開始</em>
     </td>
     <td>
     <a href="https://video.tv.adobe.com/v/343565/?autoplay=true&t=105">
@@ -35,9 +36,9 @@ ht-degree: 0%
     </a>
   </td>
   <td>
-     <a href="https://video.tv.adobe.com/v/343565/?autoplay=true&t=105"><strong>ユーザーに対するAcrobat Signの使用権限の付与</strong></a>
+     <a href="https://video.tv.adobe.com/v/343565/?autoplay=true&t=105"><strong>ユーザーにAcrobat Signの使用権限を付与</strong></a>
         <br>
-        <em>1 時 45 分開始</em>
+        <em>1:45から開始</em>
     </td>
     <td>
     <a href="https://video.tv.adobe.com/v/343565/?autoplay=true&t=191">
@@ -45,9 +46,9 @@ ht-degree: 0%
     </a>
   </td>
   <td>
-     <a href="https://video.tv.adobe.com/v/343565/?autoplay=true&t=191"><strong>Acrobat Sign web ポータルの概要</strong></a>
+     <a href="https://video.tv.adobe.com/v/343565/?autoplay=true&t=191"><strong>Acrobat Sign webポータルの概要</strong></a>
         <br>
-        <em>3 時 11 分開始</em>
+        <em>3:11から開始</em>
     </td>
     <td>
     <a href="https://video.tv.adobe.com/v/343565/?autoplay=true&t=358">
@@ -55,9 +56,9 @@ ht-degree: 0%
     </a>
   </td>
   <td>
-     <a href="https://video.tv.adobe.com/v/343565/?autoplay=true&t=358"><strong>グローバル設定と構成</strong></a>
+     <a href="https://video.tv.adobe.com/v/343565/?autoplay=true&t=358"><strong>グローバル設定と設定</strong></a>
         <br>
-        <em>5 時 58 分開始</em>
+        <em>5:58から開始</em>
     </td>
   </tr>
   <tr>
@@ -69,7 +70,7 @@ ht-degree: 0%
   <td>
      <a href="https://video.tv.adobe.com/v/343565/?autoplay=true&t=460"><strong>アカウントのブランディングと設定</strong></a>
          <br>
-        <em>7 時 40 分開始</em>
+        <em>7時40分に開始</em>
     </td>
     <td>
     <a href="https://video.tv.adobe.com/v/343565/?autoplay=true&t=502">
@@ -79,7 +80,7 @@ ht-degree: 0%
   <td>
      <a href="https://video.tv.adobe.com/v/343565/?autoplay=true&t=502"><strong>署名の環境設定</strong></a>
         <br>
-        <em>8 時 22 分開始</em>
+        <em>8:22から開始</em>
     </td>
     <td>
     <a href="https://video.tv.adobe.com/v/343565/?autoplay=true&t=543">
@@ -89,7 +90,7 @@ ht-degree: 0%
   <td>
      <a href="https://video.tv.adobe.com/v/343565/?autoplay=true&t=543"><strong>セキュリティ設定</strong></a>
         <br>
-        <em>9 時 03 分開始</em>
+        <em>9:03から開始</em>
     </td>
     <td>
     <a href="https://video.tv.adobe.com/v/343565/?autoplay=true&t=595">
@@ -99,7 +100,7 @@ ht-degree: 0%
   <td>
      <a href="https://video.tv.adobe.com/v/343565/?autoplay=true&t=595"><strong>送信設定</strong></a>
         <br>
-        <em>9 時 55 分開始</em>
+        <em>9:55から開始</em>
     </td>
   </tr>
   <tr>
@@ -111,7 +112,7 @@ ht-degree: 0%
   <td>
      <a href="https://video.tv.adobe.com/v/343565/?autoplay=true&t=720"><strong>メッセージテンプレート</strong></a>
          <br>
-        <em>12:00 から</em>
+        <em>12時から開始</em>
     </td>
     <td>
     <a href="https://video.tv.adobe.com/v/343565/?autoplay=true&t=755">
@@ -121,7 +122,7 @@ ht-degree: 0%
   <td>
      <a href="https://video.tv.adobe.com/v/343565/?autoplay=true&t=755"><strong>電子メール設定</strong></a>
         <br>
-        <em>12 時 35 分開始</em>
+        <em>12:35から開始</em>
     </td>
     <td>
     <a href="https://video.tv.adobe.com/v/343565/?autoplay=true&t=783">
@@ -131,7 +132,7 @@ ht-degree: 0%
   <td>
      <a href="https://video.tv.adobe.com/v/343565/?autoplay=true&t=783"><strong>ユーザーとグループの管理</strong></a>
         <br>
-        <em>13:03 から</em>
+        <em>13:03から開始</em>
     </td>
     <td>
     <a href="https://video.tv.adobe.com/v/343565/?autoplay=true&t=917">
@@ -139,9 +140,9 @@ ht-degree: 0%
     </a>
   </td>
   <td>
-     <a href="https://video.tv.adobe.com/v/343565/?autoplay=true&t=917"><strong>ワークフローの作成と有効化</strong></a>
+     <a href="https://video.tv.adobe.com/v/343565/?autoplay=true&t=917"><strong>ワークフローの作成とアクティブ化</strong></a>
         <br>
-        <em>15 時 17 分開始</em>
+        <em>15:17から開始</em>
   </td>
 </tr>
 <tr>
@@ -151,9 +152,9 @@ ht-degree: 0%
     </a>
     </td>
     <td>
-     <a href="https://video.tv.adobe.com/v/343565/?autoplay=true&t=1145"><strong>サポートおよび追加リソースへのアクセス</strong></a>
+     <a href="https://video.tv.adobe.com/v/343565/?autoplay=true&t=1145"><strong>サポートとその他のリソースへのアクセス</strong></a>
         <br>
-        <em>19:05 から</em>
+        <em>19:05から開始</em>
     </td>
   </tr>
   </table>

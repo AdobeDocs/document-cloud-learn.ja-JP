@@ -1,23 +1,24 @@
 ---
-title: 標準形式にPDFを最適化する
-description: PDF/X、PDF/A、PDF/E など、PDFの標準的な基準に照らしてPDFの内容を検証する方法を説明します
+title: PDFを標準書式に適合させる
+description: PDF/X、PDF/A、PDF/EなどのPDFの標準基準に照らしてPDFコンテンツを検証する方法について説明します。
+feature: Edit PDF
 role: User
 level: Intermediate
 jira: KT-13287
 exl-id: 19b0c869-cbbb-48a5-8d95-a2262bb83b12
-source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
+source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
 workflow-type: tm+mt
 source-wordcount: '62'
 ht-degree: 0%
 
 ---
 
-# 標準形式にPDFを最適化する
+# PDFを標準書式に合わせる
 
 >[!NOTE]
 >
->Acrobat Proでのみ使用できます。
+>Acrobat Proでのみ利用可能です。
 
-この 60 秒のビデオチュートリアルでは、PDFの標準的な基準 (PDF/X、PDF/A、PDF/E など ) に照らしてPDFコンテンツを検証する方法を説明します。
+この60秒のビデオチュートリアルでは、PDF/X、PDF/A、PDF/EなどのPDF基準に照らしてPDFコンテンツを検証する方法について学習します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3409906?quality=12&learn=on&hidetitle=true)

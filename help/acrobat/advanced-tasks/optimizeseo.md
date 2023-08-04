@@ -1,142 +1,143 @@
 ---
-title: SEO(Search Engine Optimization) のOptimize PDF
-description: Web 上での検索可能性と検索エンジンのランキングを向上させるためにPDFを最適化する方法について説明します
+title: SEO（検索エンジン最適化）のOptimize PDF
+description: PDFを最適化して、検出可能性と検索エンジンのランキングをweb上で向上させる方法を説明します
+feature: Edit PDF
 role: User
 level: Experienced
-thumbnail: KT-9347.jpg
 jira: KT-9347
+thumbnail: KT-9347.jpg
 exl-id: 2f24d745-762a-4631-8495-08b9e9d77af0
-source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
+source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
 workflow-type: tm+mt
 source-wordcount: '767'
 ht-degree: 1%
 
 ---
 
-# SEO(Search Engine Optimization) のOptimize PDF
+# SEO（検索エンジン最適化）のOptimize PDF
 
-Web 上での検索可能性と検索エンジンのランキングを向上させるために、PDFを最適化する方法について説明します。
+PDFを最適化して、web上での検出可能性と検索エンジンのランキングを向上させる方法について説明します。
 
-## 1.独自のコンテンツを作成する
+## 1.固有のコンテンツを作成する
 
-WebPDFとは異なる情報コンテンツを作成します。
+Webページとは異なるPDFコンテンツを作成します。
 
-+++ユニークなコンテンツの作成方法について詳しく見る
++++固有のコンテンツを作成する方法の詳細を表示
 
-PDFコンテンツは、一意で、次のような構造である必要があります。
+PDFコンテンツは一意であり、次のように構造化されている必要があります。
 
-* キーワードで始まる単一のメイン見出し/タイトルを使用する
-* 階層構造に整理されたキーワードの小見出しの使用
-* キーワードとリストを含む短い段落の使用
-* 内部および外部（Web サイトまたは他の Web サイト上のコンテンツ）ハイパーリンクの追加
-* 25 ページを超えるドキュメントのハイパーリンクされた目次を追加する
+* キーワードで始まる単一の主見出し/タイトルを使用する
+* 階層構造で編成されたキーワード小見出しを使用する
+* キーワードとリストを含む短い段落を使用する
+* 内部および外部（webサイトまたは他のwebサイトのコンテンツ）のハイパーリンクの追加
+* 25ページを超えるドキュメントのハイパーリンクされた目次の追加
 * 実行 [テキスト認識](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/getting-started/scan-and-ocr.html) すべてのスキャン文書
-* モバイル対応のPDFを作成するPDFのモバイル表示エクスペリエンスを確認するには、ブラウザーでファイルを開きます。 [Acrobat Reader mobile app](https://www.adobe.com/acrobat/mobile/acrobat-reader.html) Liquid Mode をオンにします。 必要に応じてサブヘッダーを追加し、ナビゲーションを改善します。
+* モバイル対応のPDFを作成するPDFのモバイル表示エクスペリエンスを確認するには、 [Acrobat Readerモバイルアプリ](https://www.adobe.com/acrobat/mobile/acrobat-reader.html) Liquid Modeをオンにします。 必要に応じて、ナビゲーションを向上させるために追加の小見出しを含めます。
 
-  ![Acrobat Readerモバイルアプリの Liquid Mode のスクリーンショット](../assets/optimizeseo1.png)
+  ![Acrobat ReaderモバイルアプリのLiquid Modeのスクリーンショット](../assets/optimizeseo1.png)
 
 +++
 
 <br> 
 
-## 2.文書のプロパティを追加
+## 2.ドキュメントプロパティを追加する
 
-PDFファイルには、Web ページと同じようにタイトルとメタ説明があります。
+PDFファイルには、webページと同様に、タイトルとメタ説明が含まれます。
 
 +++文書のプロパティを追加する方法の詳細を表示
 
-キーの追加 **[!UICONTROL 文書のプロパティ]** 次のように入力します。
+キーを追加 **[!UICONTROL 文書のプロパティ]** 次の手順に従います。
 
-1. 選択 **[!UICONTROL ファイル/プロパティ]** またはキーボードショートカットを使用します *Ctrl + D* Windows または *Cmd + D* 」をMacし、「 **[!UICONTROL 説明]** タブを選択します。
-1. キーワードに最適化されたタイトルを **[!UICONTROL タイトル：]** 」フィールドに入力します。
-1. 次の **[!UICONTROL 著者：]** フィールドでは、組織内の特定の個人は識別されません。
-1. 文書のキーワードに最適化された概要を **[!UICONTROL 件名：]** 」フィールドに入力します。
-学習、発見、探索などの動作動詞を使用して、概要を開始してみてください。
-1. 選択 **[!UICONTROL 追加メタデータ]** 著作権情報またはパブリックドメイン情報を追加します（該当する場合）。
+1. 選択 **[!UICONTROL ファイル/プロパティ]** またはキーボードショートカットを使用 *Ctrl + D* Windowsの場合または *Cmd + D* Macで、 **[!UICONTROL 説明]** タブをクリックします。
+1. キーワードに最適化されたタイトルを **[!UICONTROL タイトル:]** フィールドに入力します。
+1. 次のことを確認します。 **[!UICONTROL 作成者：]** フィールドでは、組織内の特定の個人を識別することはできません。
+1. 文書のキーワード用に最適化された概要を **[!UICONTROL 件名：]** フィールドに入力します。
+学習、発見、探索など、行動を明確に示す動詞を使用して、概要の作成を試みます。
+1. 選択 **[!UICONTROL 追加のメタデータ]** 著作権またはパブリックドメイン情報を追加します（該当する場合）。
 
-   ![文書のプロパティのスクリーンショット](../assets/optimizeseo2.png)
+   ![ドキュメントプロパティのスクリーンショット](../assets/optimizeseo2.png)
 
 +++
 
 <br> 
 
-## 3.タグをPDF
+## 3. PDFにタグを付ける
 
-ファイルを作成するだけでなく、PDF内のコンテンツにタグ付けします [アクセス可能](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/advanced-tasks/accessibility.html) 障害を持つ人には、SEO も向上します。
+PDF内のコンテンツにタグ付けすると、ファイルが作成されるだけではありません [アクセス可能](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/advanced-tasks/accessibility.html) 障害のある人にとっては、SEOも向上します。
 
-+++PDFのタグ付け方法の詳細を表示
++++PDFのタグ付けの詳細を表示する
 
-次のようにPDFにタグ付けします。
+次のようにPDFにタグを付けます。
 
-1. 選択 **[!UICONTROL アクセシビリティ]** 」を **[!UICONTROL ツール]** 中心：
-1. 選択 **[!UICONTROL 自動タグ文書]** をクリックします。
-1. 左側のパネルの修復のヒントに従います **[!UICONTROL 認識レポート]**&#x200B;を選択します。
-1. 実行 **[!UICONTROL 代替テキストの設定]** 必要に応じて
-1. キーワードを使用して、 **[!UICONTROL 代替テキスト]**&#x200B;を選択します。
+1. 選択 **[!UICONTROL アクセシビリティ]** を **[!UICONTROL ツール]** 中央：
+1. 選択 **[!UICONTROL 自動タグ文書]** 右側のパネルに表示されます。
+1. 左側のパネルの修復のヒントに従います **[!UICONTROL 承認レポート]**.
+1. 実行 **[!UICONTROL 代替テキストを設定]** 必要に応じて
+1. キーワードを使用して画像を **[!UICONTROL 代替テキスト]**.
 
-   ![設定の代替テキストのスクリーンショット (PDF)](../assets/optimizeseo3.png)
+   ![PDFに代替テキストを設定したスクリーンショット](../assets/optimizeseo3.png)
 
 +++
 
 >[!NOTE]
 >
->Acrobat Proでのみ使用できます。
+>Acrobat Proでのみ利用可能です。
 
 <br> 
 
-## 4. Web 用の準備
+## 4. Web用に準備する
 
-Web 表示用にPDFを準備し、 [ファイルサイズのPDFの縮小](https://www.adobe.com/jp/acrobat/online/compress-pdf.html){target="_blank"}を選択します。
+PDFをWeb表示用に準備して、操作の操作性を最適化します。 [PDFファイルのサイズを小さくする](https://www.adobe.com/jp/acrobat/online/compress-pdf.html){target="_blank"}.
 
-+++web 用にPDFを準備する方法
++++Web用にPDFを準備する方法の詳細を表示
 
-Web 用にPDFを次のように準備します。
+Web用にPDFを準備するには、次の手順を実行します。
 
-Web 用にPDFを準備するには、 **[!UICONTROL ファイル/その他の形式で保存/縮小PDF]**&#x200B;を選択します。
+Web用にPDFを準備するには、 **[!UICONTROL ファイル/その他の形式で保存/縮小サイズのPDF]**.
 
-![文書のプロパティのスクリーンショット](../assets/optimizeseo4.png)
+![ドキュメントプロパティのスクリーンショット](../assets/optimizeseo4.png)
 
-この手順により、ファイルサイズが小さくなり、 **Web 表示用に最適化** PDF **Web 表示用に最適化** ファイル全体がストリーミングまたはダウンロードされる前に、ファイルをすぐに開いて表示し、検索できます。これにより、エンドユーザーの操作性が最適化されます。 開く **[!UICONTROL 文書のプロパティ]** (*Ctrl + D* Windows または *Cmd + D* (Mac) で **Web 表示用に最適化** は有効です。
+この手順により、ファイルサイズが縮小され、 **Web表示用に最適化** をクリックしてPDFします。 **Web表示用に最適化** ファイル全体をストリーミングまたはダウンロードする前に、ファイルを即座に開き、表示し、検索することができます。これにより、エンドユーザーの操作性が最適化されます。 開く **[!UICONTROL 文書のプロパティ]** (*Ctrl + D* Windowsの場合または *Cmd + D* (Macの場合)次の点を確認します **Web表示用に最適化** が有効になっています。
 
-![文書のプロパティのスクリーンショット](../assets/optimizeseo5.png)
+![ドキュメントプロパティのスクリーンショット](../assets/optimizeseo5.png)
 
 >[!TIP]
 >
->Acrobat Proを使用している場合は、最適化ツールで「 Web およびモバイル用に最適化」をAction Wizardします。 このアクションは、色を sRGB に変換し、フォントを埋め込むことで、ブラウザーやモバイルデバイス間でPDFが一貫して表示されるようにします。
+>Acrobat Proを使用している場合は、Action Wizardツールの「 Webおよびモバイル用に最適化」を実行します。 この操作により、カラーがsRGBに変換され、フォントが埋め込まれ、ブラウザーやモバイルデバイス間でPDFの表示が統一されます。
 
 +++
 
 <br> 
 
-## 5.キーワードファイル名の作成
+## 5.キーワードファイル名を作成する
 
-+++キーワードファイル名の作成方法の詳細を表示
++++キーワードファイル名の作成方法の詳細を表示する
 
-キーワードファイル名を次のように作成します。
+次のように、キーワードファイル名を作成します。
 
-ファイル名は、Web に投稿されたPDFの一部になります。 キーワードに最適化したタイトルをファイル名と一致させることを推奨します。 検索に便利にするには、小文字を使用し、句読点やハッシュは使用せず、ストップワード (a、an、the、and、it、for、or、but、in、my、your、our、their、etc.) は使用しないようにします。 単語を分ける場合は、単語の間にハイフンまたはアンダースコアを追加します。
+PDFがWebに公開されると、ファイル名がURLの一部になります。 キーワードに最適化したタイトルをファイル名に一致させることをお勧めします。 検索に適した名前にするには、小文字を使用し、句読点やハッシュを使用せず、ストップワード（a、an、the、and、it、for、or、but、in、your、our、theyなど）を避けます。 別の単語を使用する場合は、単語間にハイフンまたはアンダースコアを追加します。
 
 +++
 
 <br> 
 
-## 6.セキュリティでPDF
+## 6. PDFの保護
 
-最後のステップは [PDF](https://www.adobe.com/acrobat/online/password-protect-pdf.html){target="_blank"} 権限のない変更を防ぐことができます。
+最後のステップは次のとおりです。 [PDFを保護](https://www.adobe.com/acrobat/online/password-protect-pdf.html){target="_blank"} 許可されていない変更を防ぐこと。
 
-+++PDFのセキュリティ保護方法の詳細を表示
++++PDFのセキュリティ保護の詳細を表示する
 
 次のようにPDFを保護します。
 
-1. 開く **[!UICONTROL 文書のプロパティ]** (*Ctrl + D* Windows または *Cmd + D* 」をクリックし、「 **[!UICONTROL セキュリティ]** タブを選択します。
-1. チェック **[!UICONTROL ドキュメントの印刷と編集 これらの設定を変更するには、パスワードが必要です。]**
-1. Under **[!UICONTROL 変更可能：]** select **[!UICONTROL なし]**&#x200B;を選択します。
-1. チェック **[!UICONTROL スクリーンリーダーデバイスのテキストアクセスを有効にします。]**
+1. 開く **[!UICONTROL 文書のプロパティ]** (*Ctrl + D* Windowsの場合または *Cmd + D* (Macの場合)を選択し、 **[!UICONTROL セキュリティ]** タブをクリックします。
+1. チェック **[!UICONTROL 文書の印刷、編集、印刷。 これらの設定を変更するにはパスワードが必要です。]**
+1. 未満 **[!UICONTROL 変更の許可：]** 選択 **[!UICONTROL なし]**.
+1. チェック **[!UICONTROL 視覚障害者のためのスクリーンリーダーデバイスのテキストアクセスを有効にします。]**
 1. 強力なパスワードを入力して確認します。
 1. 選択 **[!UICONTROL OK]** ファイルを保存します。
 
-   ![文書のプロパティのスクリーンショット](../assets/optimizeseo6.png)
+   ![ドキュメントプロパティのスクリーンショット](../assets/optimizeseo6.png)
 
 +++
 
-これで、PDFを Web に掲載する準備が整いました。最適なキーワードランキングが付き、エンドユーザーの操作が可能になります。
+これで、PDFをwebに公開する準備が整いました。キーワードのランキングが最適になり、エンドユーザーとのインタラクションが可能になります。

@@ -7,7 +7,8 @@ getting-started-title: Getting Started
 getting-started-url: https://helpx.adobe.com/acrobat/get-started.html
 tutorials-title: Tutorials
 tutorials-url: https://helpx.adobe.com/acrobat/tutorials.html
-source-git-commit: 47575efa552da55b3ebde308c182432ab29392db
+feature-set: Document Cloud
+source-git-commit: 3c7ffbf7f59fea5d4de87434931236322dfe3bce
 workflow-type: tm+mt
 source-wordcount: '49'
 ht-degree: 0%
@@ -17,9 +18,9 @@ ht-degree: 0%
 
 # Adobe Document Cloudでデジタルエクスペリエンスを解き放つ {#lab719}
 
-+ [ラボの概要と概要](overview.md)
++ [実習の概要と概要](overview.md)
 + Adobe Document Cloudでデジタルエクスペリエンスを解き放つ {#gsd}
    + [Adobe Document Cloudでデジタルエクスペリエンスを解き放つ](gsd.md)
-   + [例 1:あらゆるフォームをスキャン](scan.md)
-   + [例 2:任意のフォームで入力と署名を実行](fillsign.md)
-   + [例 3:オンラインでPDFファイルを共有してレビュー](review.md)
+   + [例1：任意のフォームをスキャン](scan.md)
+   + [例2：任意のフォームへの入力と署名](fillsign.md)
+   + [例3:PDFファイルの共有とオンラインでのレビュー](review.md)

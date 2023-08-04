@@ -1,24 +1,25 @@
 ---
-title: アクセス可能なPDFの作成
-description: アクセシブルなワークフローファイルを作成するための最適なワークフローについてPDFします
+title: PDFのアクセシブル化
+description: アクセシブルなPDFファイルを作成するための最適なワークフローについて説明します
+feature: Accessibility
 role: User
 level: Experienced
 topic-revisit: Accessibility
 thumbnail: 34291.jpg
 exl-id: 5b205e7c-d41f-452d-9a54-208a25d3fa5e
-source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
+source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
 workflow-type: tm+mt
 source-wordcount: '56'
 ht-degree: 0%
 
 ---
 
-# PDFのアクセシブル化（完全 14:11）
+# PDFのアクセシブル化（完了14:11）
 
-アクセシブルなワークフローファイルを作成するための最適なワークフローについてPDFしてください。 まず、アクセシビリティが非常に重要である理由を学習し、次に [!DNL Microsoft Word]を作成し、Acrobat Proのアクセシビリティツールで仕上げます。
+アクセシブルなPDFファイルを作成するための最適なワークフローについて説明します。 まず、アクセシビリティがなぜ重要なのかを説明し、次にから作成されたPDFの操作方法を説明します [!DNL Microsoft Word]Acrobat Proのアクセシビリティツールで作業を完了します。
 
 >[!NOTE]
 >
->Acrobat Proでのみ使用できます。
+>Acrobat Proでのみ利用可能です。
 
 >[!VIDEO](https://video.tv.adobe.com/v/34291?quality=12&learn=on&hidetitle=true)

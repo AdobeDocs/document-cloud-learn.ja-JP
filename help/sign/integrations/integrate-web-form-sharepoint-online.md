@@ -1,25 +1,26 @@
 ---
-title: Web フォームを [!DNL SharePoint Online]
-description: Web フォームから収集したデータを [!DNL SharePoint] list
+title: Webフォームの統合 [!DNL SharePoint Online]
+description: Webフォームから収集したデータを [!DNL SharePoint] list
+feature: Integrations, Web Forms
 role: User
 product: adobe sign
 topic: Integrations
 level: Intermediate
 jira: KT-13597
-source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
+source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
 workflow-type: tm+mt
 source-wordcount: '64'
 ht-degree: 0%
 
 ---
 
-# Web フォームを [!DNL SharePoint Online]
+# Webフォームの統合 [!DNL SharePoint Online]
 
-Web フォームから収集したデータを [!DNL SharePoint] リストを表示し、チーム間で収集したデータを共有できます。
+Webフォームから収集したデータを [!DNL SharePoint] リストで、チーム全体で収集したデータを共有できます。
 
 >[!NOTE]
 >
->Acrobat Sign Web フォームと [!DNL SharePoint] リストはオンラインインストールでのみ使用でき、オンプレミスインストールでは使用できません。
+>Acrobat Sign Webフォームと [!DNL SharePoint] リストは、オンラインインストールでのみ使用でき、オンプレミスインストールでは使用できません。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3421616?quality=12&learn=on&hidetitle=true)
 

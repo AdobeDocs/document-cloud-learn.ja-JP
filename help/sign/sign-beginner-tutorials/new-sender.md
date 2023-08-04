@@ -1,26 +1,27 @@
 ---
-title: Acrobat Sign入門
-description: この包括的なチュートリアルは、Adobe Signで新しい送信者を作成する場合に最適です
+title: Acrobat Signの概要
+description: この包括的なチュートリアルは、Adobe Signの新しい送信者を開始するのに最適な場所です
+feature: Workspace
 role: User
 level: Beginner
 jira: KT-8989
 thumbnail: KT-8989.jpg
 kt: 8989
 exl-id: d4309ad3-003a-4415-9845-8919006c7567
-source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
+source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
 workflow-type: tm+mt
 source-wordcount: '136'
 ht-degree: 0%
 
 ---
 
-# Acrobat Sign入門
+# Acrobat Signの概要
 
-Acrobat Signの使用は初めてですか？ Acrobat Signをすぐに使い始められるよう、基本的な事項を網羅したこの包括的なチュートリアルは、作業の開始に適しています。
+Acrobat Signを使うのは初めてですか？ この包括的なチュートリアルは、Acrobat Signをすばやく使い始めるための基本的な知識をすべて網羅しているため、初心者にはおすすめです。
 
 >[!NOTE]
 >
->このチュートリアルは、特にビジネスおよびエンタープライズレベルのプランを対象としています。
+>このチュートリアルは、特にビジネスレベルおよびエンタープライズレベルのプランを対象としています。
 
 この詳細なチュートリアルでは、次のトピックについて説明します。
 
@@ -34,7 +35,7 @@ Acrobat Signの使用は初めてですか？ Acrobat Signをすぐに使い始�
   <td>
      <a href="https://video.tv.adobe.com/v/337151?hidetitle=true"><strong>ログイン</strong></a>
          <br>
-        <em>0:00 から</em>
+        <em>0:00から開始</em>
     </td>
      <td>
     <a href="https://video.tv.adobe.com/v/337151/?autoplay=true&t=56">
@@ -44,7 +45,7 @@ Acrobat Signの使用は初めてですか？ Acrobat Signをすぐに使い始�
   <td>
      <a href="https://video.tv.adobe.com/v/337151/?autoplay=true&t=56"><strong>ホームページ</strong></a>
          <br>
-        <em>0:56 から</em>
+        <em>0:56から開始</em>
     </td>
     <td>
     <a href="https://video.tv.adobe.com/v/337151/?autoplay=true&t=153">
@@ -54,7 +55,7 @@ Acrobat Signの使用は初めてですか？ Acrobat Signをすぐに使い始�
   <td>
      <a href="https://video.tv.adobe.com/v/337151/?autoplay=true&t=153"><strong>プロファイルの設定</strong></a>
         <br>
-        <em>2 時半から</em>
+        <em>2:33から開始</em>
     </td>
     <td>
     <a href="https://video.tv.adobe.com/v/337151/?autoplay=true&t=272">
@@ -64,7 +65,7 @@ Acrobat Signの使用は初めてですか？ Acrobat Signをすぐに使い始�
   <td>
      <a href="https://video.tv.adobe.com/v/337151/?autoplay=true&t=272"><strong>送信設定</strong></a>
         <br>
-        <em>4 時半から</em>
+        <em>4:32から開始</em>
     </td>
   </tr>
   <tr>
@@ -74,9 +75,9 @@ Acrobat Signの使用は初めてですか？ Acrobat Signをすぐに使い始�
     </a>
   </td>
   <td>
-     <a href="https://video.tv.adobe.com/v/337151/?autoplay=true&t=551"><strong>入力可能なフィールドの追加</strong></a>
+     <a href="https://video.tv.adobe.com/v/337151/?autoplay=true&t=551"><strong>入力可能なフィールドを追加</strong></a>
          <br>
-        <em>9 時 11 分開始</em>
+        <em>9:11から開始</em>
     </td>
     <td>
     <a href="https://video.tv.adobe.com/v/337151/?autoplay=true&t=719">
@@ -86,7 +87,7 @@ Acrobat Signの使用は初めてですか？ Acrobat Signをすぐに使い始�
   <td>
      <a href="https://video.tv.adobe.com/v/337151/?autoplay=true&t=719"><strong>署名エクスペリエンス</strong></a>
         <br>
-        <em>11 時 59 分開始</em>
+        <em>11:59から開始</em>
     </td>
     <td>
     <a href="https://video.tv.adobe.com/v/337151/?autoplay=true&t=774">
@@ -94,9 +95,9 @@ Acrobat Signの使用は初めてですか？ Acrobat Signをすぐに使い始�
     </a>
   </td>
   <td>
-     <a href="https://video.tv.adobe.com/v/337151/?autoplay=true&t=774"><strong>ドキュメントの管理とトラック</strong></a>
+     <a href="https://video.tv.adobe.com/v/337151/?autoplay=true&t=774"><strong>ドキュメントの管理と追跡</strong></a>
         <br>
-        <em>12 時 54 分開始</em>
+        <em>12:54から開始</em>
     </td>
     <td>
     <a href="https://video.tv.adobe.com/v/337151/?autoplay=true&t=898">
@@ -104,9 +105,9 @@ Acrobat Signの使用は初めてですか？ Acrobat Signをすぐに使い始�
     </a>
   </td>
   <td>
-     <a href="https://video.tv.adobe.com/v/337151/?autoplay=true&t=898"><strong>サポートおよび関連情報</strong></a>
+     <a href="https://video.tv.adobe.com/v/337151/?autoplay=true&t=898"><strong>サポートとリソース</strong></a>
         <br>
-        <em>14 時 58 分開始</em>
+        <em>14:58から開始</em>
     </td>
   </tr>
   </table>

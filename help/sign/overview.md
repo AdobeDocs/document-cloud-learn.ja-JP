@@ -1,23 +1,24 @@
 ---
 title: Acrobat SignTutorials
-description: 初心者から管理者まですばやくAcrobat Signの最新情報を得られるように設計されたチュートリアル、Web セミナー、ユースケースのコレクションです
+description: Acrobat Signを使って初心者と管理者の両方に迅速に最新情報を提供できるように設計された、チュートリアル、ウェビナー、ユースケースのコレクションです
+feature: Use Cases, Web Forms, Workflow, Sign, Payments, Report, Workspace, Deadline, Administration, Digital ID, Form, Integrations, Mobile, Skill Builder
 role: User, Admin
 level: Beginner, Intermediate, Experienced
 jira: KT-6846
 thumbnail: KT-6846.jpg
 exl-id: 72762750-5764-4541-aedd-94230b56936b
-source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
+source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
 workflow-type: tm+mt
 source-wordcount: '91'
 ht-degree: 5%
 
 ---
 
-# Acrobat Sign tutorials
+# Acrobat Signチュートリアル
 
 ![Acrobat Sign Hero Image](assets/Hero_Sign.jpg)
 
-Adobe Document CloudソリューションであるAcrobat Signは、統合、API、高度な認証、追加の管理機能などを通じて、組織のニーズに合わせて拡張できます。 Acrobat Signには、初心者から管理者まですばやく使いこなせる様々な学習体験が用意されています。
+Adobe Document CloudソリューションであるAcrobat Signは、統合、API、高度な認証、追加の管理機能などを使用して、組織のニーズに合わせて拡張できます。 ここでは、Acrobat Signを使って初心者と管理者の両方に学習のスピードを速めるために設計された、幅広い学習体験を見つけることができます。
 
 <div id="recs-overview-body-1"></div>
 <div id="recs-overview-body-2"></div>
@@ -47,7 +48,7 @@ Adobe Document CloudソリューションであるAcrobat Signは、統合、API
   </td>
   <td>
     <a href="digitalid/digitalid-overview.md">
-      <img alt="デジタル ID" src="assets/AS_Title_DigitalID.png" />
+      <img alt="デジタルID" src="assets/AS_Title_DigitalID.png" />
     </a>
   </td>
 </tr>
@@ -59,12 +60,12 @@ Adobe Document CloudソリューションであるAcrobat Signは、統合、API
   </td>
   <td>
     <a href="sign-usecase/expand-inspire-overview.md">
-      <img alt="業種および部門" src="assets/AS_Title_Industry.png" />
+      <img alt="業界と部門" src="assets/AS_Title_Industry.png" />
     </a>
   </td>
   <td>
     <a href="develop/develop-overview.md">
-      <img alt="開発" src="assets/AS_Title_Develop.png" />
+      <img alt="現像" src="assets/AS_Title_Develop.png" />
     </a>
   </td>
    <td>
