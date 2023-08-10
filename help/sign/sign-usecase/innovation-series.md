@@ -8,9 +8,9 @@ jira: KT-8197
 thumbnail: KT-8197.jpg
 kt: 8197
 exl-id: 8b7f85b8-f499-4402-8c0b-8170e7159ba0
-source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
+source-git-commit: 9941cafa708906325fc7458aa29c63191f5a2a19
 workflow-type: tm+mt
-source-wordcount: '915'
+source-wordcount: '1049'
 ht-degree: 0%
 
 ---
@@ -23,26 +23,34 @@ Acrobat Sign Skill Buildersは、1日の作業を増やすことなく、電子�
 
 ## 月次セッション
 
-**[Microsoftアプリケーションでの電子サインの操作](https://teamwork.adobe.com/adobe-sign-skill-builder/attendease/networking/experience/7c88319e-04b7-4560-aad3-ba288d5cfc76/3bd16192-c4c9-4d66-9b1c-575ddcc3c6bb){target="_blank"}**
-日付： 2023年10月19日Adobe Acrobat Signを既存のワークフローに追加することで、Word、Outlook、SharepointなどのMicrosoftアプリケーションの使用方法を拡張できます。 このセッションでは、一般的なMicrosoftアプリケーションで文書プロセスを合理化する方法について説明します。コンテキストを切り替えて署名を取得したり、ステータスを確認したりする必要はありません。
-
-**[契約書を管理：契約書のステータスをリアルタイムで確認](https://teamwork.adobe.com/adobe-sign-skill-builder/attendease/networking/experience/d326c8ab-3173-4c95-9e5a-0afeff4ce006/4bae4b11-516b-4e50-8f10-d116538fd710){target="_blank"}**
-日付： 2023年9月21日契約書管理ツールの詳細とベストプラクティスについて説明します。これにより、いつでも契約書のステータスを確認できます。 このセッションの内容：
+**[契約書を管理：契約書のステータスをリアルタイムで確認](https://teamwork.adobe.com/adobe-sign-skill-builder/attendease/networking/experience/aad26d3c-699b-4d99-a272-30bcbfbc1bf2/e1b6dd21-c94a-4c1b-9eeb-abec464e3cbd){target="_blank"}**
+日付： 2023年11月9日契約書管理ツールの使い方と使い方、およびベストプラクティスについて説明します。これにより、いつでも契約書のステータスを確認できます。 このセッションの内容：
 
 * 「管理」タブから文書に対して実行できるアクション
 * Webフォームおよび一括送信のデータを処理および使用する方法
 * 必要な文書を検索してフィルターする方法
 
-**[署名用に文書を送信するための高度なヒント](https://teamwork.adobe.com/adobe-sign-skill-builder/attendease/networking/experience/4c4e8632-ba24-445f-a567-a9e76429bdf5/0a2f68ed-9a21-4911-9e38-15943c0e3f9a){target="_blank"}**
-日付：2023年8月17日(PT)：契約書を署名用に送信する際に使用できるすべてのオプションについて詳しく説明するため、ご参加ください。 このセッションでは、次について学習します。
+**[Microsoftアプリケーションでの電子サインの操作](https://teamwork.adobe.com/adobe-sign-skill-builder/attendease/networking/experience/7c88319e-04b7-4560-aad3-ba288d5cfc76/3bd16192-c4c9-4d66-9b1c-575ddcc3c6bb){target="_blank"}**
+日付： 2023年10月19日Adobe Acrobat Signを既存のワークフローに追加することで、Word、Outlook、SharepointなどのMicrosoftアプリケーションの使用方法を拡張できます。 このセッションでは、一般的なMicrosoftアプリケーションで文書プロセスを合理化する方法について説明します。コンテキストを切り替えて署名を取得したり、ステータスを確認したりする必要はありません。
+
+**[署名用に文書を送信するための高度なヒント](https://teamwork.adobe.com/adobe-sign-skill-builder/attendease/networking/experience/d326c8ab-3173-4c95-9e5a-0afeff4ce006/4bae4b11-516b-4e50-8f10-d116538fd710){target="_blank"}**
+日付：2023年9月21日契約書を署名用に送信する際に使用できるすべてのオプションについて詳しく説明するために、ご参加ください。 このセッションでは、次について学習します。
 
 * 複数の受信者への送信
 * 使用可能な受信者の役割（署名者、フォーム入力者、委任者など）
 * CCフィールドの追加
 * パスワード保護など
 
-**[Acrobat Signの統合：SalesforceおよびWorkday](https://teamwork.adobe.com/adobe-sign-skill-builder/attendease/networking/experience/8409ba8b-e4ee-4e99-80cc-33902027b80e/307d147e-4b85-4330-81af-5929f0dc5ae4){target="_blank"}**
-日付： 2023年7月20日SalesforceおよびWorkdayと連携する、最も一般的で強力なAcrobat Sign統合の一部をご確認いただき、ご参加ください。 このセッションでは、手動で非効率的なタスクを排除し、既に使用しているツール内で100%のデジタルワークフローと電子サインプロセスを作成することによって、ビジネストランザクションを加速する方法について説明します。
+**[SalesforceのAcrobat Sign用Document Builder](https://teamwork.adobe.com/adobe-sign-skill-builder/attendease/networking/experience/4c4e8632-ba24-445f-a567-a9e76429bdf5/0a2f68ed-9a21-4911-9e38-15943c0e3f9a){target="_blank"}**
+日付： 2023年8月17日Salesforceでデータ駆動型ドキュメントの準備などの日常的なタスクを自動化することで、事前に入力された提案、契約、請求書などでセールスチームを強化します。 Document Builderを使用すると、署名用に送信する前にSalesforceデータを使用して文書を動的に生成できるため、以前は煩雑だったプロセスがさらに簡素化、合理化されます。 時間と労力の節約に役立つプロセスを順を追って説明します。
+
+**[Microsoft Power Automateを利用したワークフローの自動化](https://teamwork.adobe.com/adobe-sign-skill-builder/attendease/networking/experience/8409ba8b-e4ee-4e99-80cc-33902027b80e/307d147e-4b85-4330-81af-5929f0dc5ae4){target="_blank"}**
+日付： 2023年7月20日Microsoftのローコード/ノーコードソリューションであるPower Automateで、すべての自動化機能をAdobe Acrobat Signで直接利用。 開発者以外のユーザーにも、次世代のワークフローを作成するための強力な機能と柔軟性が用意されています。 このセッションでは、次の方法を学習します。
+
+* ワークフロー統合を設定して開始します
+* あらかじめ用意されたテンプレートを使用して、ワークフローの作成をすぐに開始できます
+* コネクタの膨大なエコシステムを活用して、Acrobat Signをパッケージ化されたカスタムアプリケーションに統合します
+* Acrobat Signの生産性と機能を向上
 
 **[Adobe Acrobat Signの詳細レポート](https://adobe-sign-skill-builder.joinus.adobeevents.com/attendease/networking/experience/fa28b18d-ab38-47d4-8ae8-3e0161550bd3/60081eb2-f8a3-45b6-9d75-4f3a53b4c53a){target="_blank"}**
 日付：2023年6月22日Acrobat Signで利用できる分析とレポートについて説明し、事業を前進させるために必要なインサイトを提供するためにデータを表示する方法を確認します。
