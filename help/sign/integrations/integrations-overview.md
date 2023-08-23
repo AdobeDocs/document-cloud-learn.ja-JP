@@ -10,7 +10,7 @@ topic: Integrations
 topic-revisit: Integrations
 thumbnail: KT-6850.jpg
 exl-id: 2b1b9fae-7b4c-4092-aec7-c2025ef07cf4
-source-git-commit: 09999a6a30fd97b796f97a4ed8860162d5e93579
+source-git-commit: 1da6eaba52a01164c487f93a0b729cb2f8fc56bf
 workflow-type: tm+mt
 source-wordcount: '707'
 ht-degree: 0%
