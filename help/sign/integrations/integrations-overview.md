@@ -10,9 +10,9 @@ topic: Integrations
 topic-revisit: Integrations
 thumbnail: KT-6850.jpg
 exl-id: 2b1b9fae-7b4c-4092-aec7-c2025ef07cf4
-source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
+source-git-commit: 09999a6a30fd97b796f97a4ed8860162d5e93579
 workflow-type: tm+mt
-source-wordcount: '663'
+source-wordcount: '707'
 ht-degree: 0%
 
 ---
@@ -28,6 +28,8 @@ Acrobat Signは、Microsoft、Salesforce、Workday、Marketoなど、組織内�
 
 ## 新機能
 
+* [フィールドサービス用Microsoft Dynamics 365](dynamics-field-service.md)
+Acrobat Signの詳細 [!DNL Power Automate]、および [!DNL Microsoft Dynamics 365] フィールドサービスは、お客様のオンサイト作業を効率化するために使用されます。
 * [Microsoft Dynamics 365カスタマーサービス](dynamics-customer-service.md)
 Acrobat Signと [!DNL Microsoft Dynamics 365] カスタマーサービスは、セルフサービスの顧客webポータルで顧客満足度を向上させるために使用されます
 * [Webフォームの統合 [!DNL SharePoint] オンライン](integrate-web-form-sharepoint-online.md)
@@ -132,8 +134,13 @@ Webフォームから収集したデータを [!DNL SharePoint] list
     <br>
   </td>
   <td>
-    <img alt="スペーサー" src="../assets/Whitespacer.png" />
+    <a href="dynamics-field-service.md">
+      <img alt="フィールドサービス用Microsoft Dynamics 365" src="../assets/Dynamics-field-service.png" />
+    </a>
     <div>
+    <a href="dynamics-field-service.md"><strong>フィールドサービス用Microsoft Dynamics 365</strong></a>
+    </div>
+    <em>Acrobat Signの詳細 [!DNL Power Automate]、および [!DNL Microsoft Dynamics 365] フィールドサービスは、お客様のオンサイト作業を効率化するために使用されます。</em>
     <br>
   </td>
   <td>
