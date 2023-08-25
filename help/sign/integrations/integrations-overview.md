@@ -10,9 +10,9 @@ topic: Integrations
 topic-revisit: Integrations
 thumbnail: KT-6850.jpg
 exl-id: 2b1b9fae-7b4c-4092-aec7-c2025ef07cf4
-source-git-commit: 1da6eaba52a01164c487f93a0b729cb2f8fc56bf
+source-git-commit: 0838027300c9d15a20af03b7d49f190acb6256ec
 workflow-type: tm+mt
-source-wordcount: '707'
+source-wordcount: '750'
 ht-degree: 0%
 
 ---
@@ -28,6 +28,8 @@ Acrobat Signは、Microsoft、Salesforce、Workday、Marketoなど、組織内�
 
 ## 新機能
 
+* [Microsoft Dynamics 365 for Sales](dynamics-sales.md)
+Acrobat Signと [!DNL Microsoft Dynamics 365] for Salesは、販売見積の署名プロセスを自動化するために使用します。
 * [フィールドサービス用Microsoft Dynamics 365](dynamics-field-service.md)
 Acrobat Signの詳細 [!DNL Power Automate]、および [!DNL Microsoft Dynamics 365] フィールドサービスは、お客様のオンサイト作業を効率化するために使用されます。
 * [Microsoft Dynamics 365カスタマーサービス](dynamics-customer-service.md)
@@ -144,8 +146,13 @@ Webフォームから収集したデータを [!DNL SharePoint] list
     <br>
   </td>
   <td>
-    <img alt="スペーサー" src="../assets/Whitespacer.png" />
+    <a href="dynamics-sales.md">
+      <img alt="Microsoft Dynamics 365 for Sales" src="../assets/Dynamics-sales.png" />
+    </a>
     <div>
+    <a href="dynamics-sales.md"><strong>Microsoft Dynamics 365 for Sales</strong></a>
+    </div>
+    <em>Acrobat Signと [!DNL Microsoft Dynamics 365] for Salesは、販売見積の署名プロセスを自動化するために使用します。</em>
     <br>
   </td>
   <td>
