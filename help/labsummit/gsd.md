@@ -1,12 +1,12 @@
 ---
 title: Adobe Document Cloudでデジタルエクスペリエンスを解き放つ練習
 description: Adobe Document Cloudの使い方に関するコツとヒント
-featre: Form, Sign, Share, Collaboration
+feature: Form, Sign, Share, Collaboration
 solution: Acrobat
 role: User
 level: Beginner
 exl-id: 5fab3cd2-315e-4c5d-b435-2d1401bd172a
-source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
+source-git-commit: 5b02a6316890f5b322fba3f693ce1cbe322dc669
 workflow-type: tm+mt
 source-wordcount: '85'
 ht-degree: 1%
@@ -15,7 +15,7 @@ ht-degree: 1%
 
 # Adobe Document Cloudでデジタルエクスペリエンスを解き放つ練習
 
-[![image](assets/rebrand.png)](assets/Unleash_Digital_Experiences_with_Adobe_Document_Cloud.pdf)
+[![画像](assets/rebrand.png)](assets/Unleash_Digital_Experiences_with_Adobe_Document_Cloud.pdf)
 
 この配布資料には、さらに多くの演習と取り上げられているワークフローのレビューが含まれています。 次の実習で使用するデモファイルを以下に示します。 各練習では、次の内容も確認します。
 
