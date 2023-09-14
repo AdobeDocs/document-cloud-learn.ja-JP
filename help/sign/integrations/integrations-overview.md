@@ -10,9 +10,9 @@ topic: Integrations
 topic-revisit: Integrations
 thumbnail: KT-6850.jpg
 exl-id: 2b1b9fae-7b4c-4092-aec7-c2025ef07cf4
-source-git-commit: 5b02a6316890f5b322fba3f693ce1cbe322dc669
+source-git-commit: b9eff7f50025d984a829eb7999bb1cd229822dbc
 workflow-type: tm+mt
-source-wordcount: '750'
+source-wordcount: '742'
 ht-degree: 0%
 
 ---
@@ -28,14 +28,13 @@ Acrobat Signは、Microsoft、Salesforce、Workday、Marketoなど、組織内�
 
 ## 新機能
 
+* [簡単なワークフローを作成するには [!DNL Power Automate]](simple-workflow-power-automate.md)
+を使用して簡単なワークフローを作成する方法を説明します。 [!DNL Power Automate] コネクタ
 * [Microsoft Dynamics 365 for Sales](dynamics-sales.md)
 Acrobat Signと [!DNL Microsoft Dynamics 365] for Salesは、販売見積の署名プロセスを自動化するために使用します。
 * [フィールドサービス用Microsoft Dynamics 365](dynamics-field-service.md)
 Acrobat Signの詳細 [!DNL Power Automate]、および [!DNL Microsoft Dynamics 365] フィールドサービスは、お客様のオンサイト作業を効率化するために使用されます。
-* [Microsoft Dynamics 365カスタマーサービス](dynamics-customer-service.md)
-Acrobat Signと [!DNL Microsoft Dynamics 365] カスタマーサービスは、セルフサービスの顧客webポータルで顧客満足度を向上させるために使用されます
-* [Webフォームの統合 [!DNL SharePoint] オンライン](integrate-web-form-sharepoint-online.md)
-Webフォームから収集したデータを [!DNL SharePoint] list
+
 
 ## Microsoft統合チュートリアル
 
@@ -126,6 +125,16 @@ Webフォームから収集したデータを [!DNL SharePoint] list
 </tr>
 <tr>
   <td>
+    <a href="simple-workflow-power-automate.md">
+      <img alt="Power Automateを使用したシンプルなワークフローの作成" src="../assets/simple-workflow.png" />
+    </a>
+    <div>
+    <a href="simple-workflow-power-automate.md"><strong>Power Automateを使用したシンプルなワークフローの作成</strong></a>
+    </div>
+    <em>を使用して簡単なワークフローを作成する方法を説明します。 [!DNL Power Automate] コネクタ</em>
+    <br>
+  </td>
+  <td>
     <a href="dynamics-customer-service.md">
       <img alt="Microsoft Dynamics 365カスタマーサービス" src="../assets/Dynamics-customer-service.png" />
     </a>
@@ -153,11 +162,6 @@ Webフォームから収集したデータを [!DNL SharePoint] list
     <a href="dynamics-sales.md"><strong>Microsoft Dynamics 365 for Sales</strong></a>
     </div>
     <em>Acrobat Signと [!DNL Microsoft Dynamics 365] for Salesは、販売見積の署名プロセスを自動化するために使用します。</em>
-    <br>
-  </td>
-  <td>
-    <img alt="スペーサー" src="../assets/Whitespacer.png" />
-    <div>
     <br>
   </td>
 </tr>
