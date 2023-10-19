@@ -10,16 +10,14 @@ topic: Integrations
 topic-revisit: Integrations
 thumbnail: KT-6850.jpg
 exl-id: 2b1b9fae-7b4c-4092-aec7-c2025ef07cf4
-source-git-commit: b9eff7f50025d984a829eb7999bb1cd229822dbc
+source-git-commit: 05751444c0dab6eccd7076889e8735d58dfee82c
 workflow-type: tm+mt
-source-wordcount: '742'
+source-wordcount: '739'
 ht-degree: 0%
 
 ---
 
 # 統合の概要
-
-![Sign統合画像](../assets/Hero-Integrate.png)
 
 Acrobat Signは、Microsoft、Salesforce、Workday、Marketoなど、組織内で既に使用している他のアプリケーションの中で使用することができます。 これらの統合ガイドとチュートリアルで、電子サインワークフローを簡素化する方法について説明します。
 

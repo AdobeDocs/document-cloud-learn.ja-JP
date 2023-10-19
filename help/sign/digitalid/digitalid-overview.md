@@ -7,16 +7,14 @@ level: Beginner
 jira: KT-8990
 thumbnail: KT-8990.jpg
 exl-id: 753b7016-6331-40df-9003-5acee8be752a
-source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
+source-git-commit: 05751444c0dab6eccd7076889e8735d58dfee82c
 workflow-type: tm+mt
-source-wordcount: '299'
+source-wordcount: '295'
 ht-degree: 0%
 
 ---
 
 # デジタルIDの概要
-
-![SignデジタルID画像](../assets/Hero-DigitalID.png)
 
 電子形式のパスポートと同様に、デジタルIDを使用すると、自分の身元を確実に証明できます。 また、Acrobat SignでデジタルIDを使用して電子サインを行う場合、その文書で電子サインを承認したことをより確実に確認できます。 次のチュートリアルでは、Acrobat Signで世界中のデジタルIDを使用する方法を説明します。
 

@@ -8,16 +8,14 @@ jira: KT-6849
 topic-revisit: Administration
 thumbnail: KT-6849.jpg
 exl-id: 1b6ea9f0-6bbb-4ea5-aa22-bfa42f7cca18
-source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
+source-git-commit: 05751444c0dab6eccd7076889e8735d58dfee82c
 workflow-type: tm+mt
-source-wordcount: '489'
-ht-degree: 1%
+source-wordcount: '486'
+ht-degree: 2%
 
 ---
 
 # 管理者概要
-
-![Sign管理者の画像](../assets/Hero-Admin.png)
 
 アカウントへのユーザーの追加、グループの設定、アクセスの共有、ワークフロー、外部アーカイブ、共有イベントと警告の設定について説明します。 これらのチュートリアルは、インストール段階を過ぎ、Acrobat Signを使い始める準備が整った管理者向けです。 詳細タスクでは、管理者設定を超えて、グローバル設定、アカウントアクセスと共有、テキストタグの定義に進むトピックについて説明します。
 

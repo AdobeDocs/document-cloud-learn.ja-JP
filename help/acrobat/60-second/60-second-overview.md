@@ -7,16 +7,14 @@ level: Beginner, Intermediate
 jira: KT-8493
 thumbnail: KT-8493.jpg
 exl-id: 43750150-6e0d-4326-946d-61e1bae86f2a
-source-git-commit: 3c7ffbf7f59fea5d4de87434931236322dfe3bce
+source-git-commit: 05751444c0dab6eccd7076889e8735d58dfee82c
 workflow-type: tm+mt
-source-wordcount: '815'
+source-wordcount: '812'
 ht-degree: 0%
 
 ---
 
 # 60秒のAcrobatの概要
-
-![60秒のAcrobat画像](../assets/Hero-60sec.png)
 
 60秒のAcrobatには、Acrobatで新しいトリックを1分以内に学ぶのに役立つ一口サイズのチュートリアルが用意されています。 これらのタスクベースのヒントは、Acrobatの隠れた機能のロックを解除することで、PDFファイルを操作するための新しいスキルを身に付けるのに役立ちます。 回答を素早く得るには1つ、文書の生産性を向上させるには5つ見ることができます。それでも、休憩を楽しむ時間はあります。
 

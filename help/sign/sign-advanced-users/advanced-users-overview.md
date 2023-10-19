@@ -7,16 +7,14 @@ level: Experienced
 jira: KT-6848
 thumbnail: KT-6848.jpg
 exl-id: c4f0a953-e28b-4488-a27c-010b5adaf7ec
-source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
+source-git-commit: 05751444c0dab6eccd7076889e8735d58dfee82c
 workflow-type: tm+mt
-source-wordcount: '430'
+source-wordcount: '427'
 ht-degree: 3%
 
 ---
 
 # 高度なタスクの概要
-
-![署名詳細画像](../assets/Hero-Advanced.png)
 
 一度に100人の受信者に署名用の文書を送信する方法、webサイト用に署名用の文書を設定する方法、署名トランザクションを管理する方法、および文書テンプレートを作成および管理する方法について説明します。 これらのチュートリアルは、署名の送信とリクエストの基本を既に理解しており、Acrobat Signでどのような作業を行うことができるかを知りたい方を対象としています。
 

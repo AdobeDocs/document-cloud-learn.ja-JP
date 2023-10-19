@@ -7,16 +7,14 @@ level: Beginner
 jira: KT-6856
 thumbnail: KT-6856.jpg
 exl-id: 24660a17-a04e-4937-be94-0a42c4b2c2ca
-source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
+source-git-commit: 05751444c0dab6eccd7076889e8735d58dfee82c
 workflow-type: tm+mt
-source-wordcount: '540'
+source-wordcount: '536'
 ht-degree: 5%
 
 ---
 
 # はじめに/概要
-
-![Acrobat入門ガイドの画像](../assets/Hero-GettingStarted.png)
 
 Adobe Acrobatの使い方を説明する簡単なチュートリアルを利用してください。 ドキュメントの作成から保護または [PDFファイルの編集](https://www.adobe.com/jp/acrobat/online/pdf-editor.html){target="_blank"}、このコンテンツは、PDFワークフローに慣れやすくすることを目的としています。
 

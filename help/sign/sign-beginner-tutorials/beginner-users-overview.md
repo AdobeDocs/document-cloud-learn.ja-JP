@@ -7,16 +7,14 @@ level: Beginner
 jira: KT-6847
 thumbnail: KT-6847.jpg
 exl-id: e58ce43d-2e8e-4804-8f30-6591fa943607
-source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
+source-git-commit: 05751444c0dab6eccd7076889e8735d58dfee82c
 workflow-type: tm+mt
-source-wordcount: '469'
+source-wordcount: '465'
 ht-degree: 5%
 
 ---
 
 # はじめに/概要
-
-![「Sign入門」の画像](../assets/Hero-GettingStarted.png)
 
 手順を追った簡単なチュートリアルで、文書の送信、署名、追跡の方法を確認してください。 Acrobat Signのクイックツアーを視聴した後、他のユーザーに文書を送信します。 このコンテンツは、電子サインワークフローを容易にするように設計されています。
 

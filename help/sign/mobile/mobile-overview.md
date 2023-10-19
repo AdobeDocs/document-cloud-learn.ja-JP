@@ -8,16 +8,14 @@ jira: KT-6854
 topic-revisit: Mobile
 thumbnail: KT-6854.jpg
 exl-id: c52bf1c6-0821-4754-af7f-71f29b8a18c9
-source-git-commit: c3caf3df6418e079fdad9c6a0f766067f5b9c8fd
+source-git-commit: 05751444c0dab6eccd7076889e8735d58dfee82c
 workflow-type: tm+mt
-source-wordcount: '129'
-ht-degree: 27%
+source-wordcount: '126'
+ht-degree: 28%
 
 ---
 
 # モバイルの概要
-
-![Signモバイル画像](../assets/Hero-Mobile.png)
 
 モバイルデバイスを使用して、署名用に文書を送信したり、電子サインの進捗状況やリアルタイムの更新情報を取得したりすることができます。
 

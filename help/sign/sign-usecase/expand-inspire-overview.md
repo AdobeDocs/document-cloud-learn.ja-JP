@@ -8,16 +8,14 @@ jira: KT-6851
 thumbnail: KT-6851.jpg
 kt: 6851
 exl-id: 5207d19f-08c3-4fac-97a3-61467839748a
-source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
+source-git-commit: 05751444c0dab6eccd7076889e8735d58dfee82c
 workflow-type: tm+mt
-source-wordcount: '124'
+source-wordcount: '120'
 ht-degree: 0%
 
 ---
 
 # 業界と部門の概要
-
-![Acrobat Sign Industry Image](../assets/Hero-Industry.png)
 
 これらの実際の業界や部門のユースケース、レシピ、ウェビナーを調べて、組織の電子サイン体験を一変させる方法を説明します。
 

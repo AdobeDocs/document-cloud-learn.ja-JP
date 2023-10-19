@@ -7,16 +7,14 @@ level: Beginner, Intermediate, Experienced
 jira: KT-6846
 thumbnail: KT-6846.jpg
 exl-id: 72762750-5764-4541-aedd-94230b56936b
-source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
+source-git-commit: 05751444c0dab6eccd7076889e8735d58dfee82c
 workflow-type: tm+mt
-source-wordcount: '91'
+source-wordcount: '87'
 ht-degree: 5%
 
 ---
 
 # Acrobat Signチュートリアル
-
-![Acrobat Sign Hero Image](assets/Hero_Sign.jpg)
 
 Adobe Document CloudソリューションであるAcrobat Signは、統合、API、高度な認証、追加の管理機能などを使用して、組織のニーズに合わせて拡張できます。 ここでは、Acrobat Signを使って初心者と管理者の両方に学習のスピードを速めるために設計された、幅広い学習体験を見つけることができます。
 

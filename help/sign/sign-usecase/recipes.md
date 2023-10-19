@@ -8,16 +8,14 @@ team: DC Product Marketing Retention and Engagement
 thumbnail: 8200.jpg
 jira: KT-8200
 exl-id: 7f6edd52-c3fc-4cf0-af84-c956db3bd008
-source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
+source-git-commit: 05751444c0dab6eccd7076889e8735d58dfee82c
 workflow-type: tm+mt
-source-wordcount: '441'
+source-wordcount: '438'
 ht-degree: 0%
 
 ---
 
 # ユースケースのレシピ
-
-![ユースケースのバナー](../assets/Hero-Recipe.png)
 
 これらの官公庁および民間の電子サインの例を使用して、組織のデジタルワークフローをスピードアップできます。 クリックすると、これらの電子サインのユースケースを設定する方法に関するリソースや詳細を含むPDFが表示されます。
 
