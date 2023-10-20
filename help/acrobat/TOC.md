@@ -5,9 +5,9 @@ breadcrumb-title: AcrobatTutorials
 feature-set: Document Cloud
 role: User
 type: Tutorial
-source-git-commit: 05751444c0dab6eccd7076889e8735d58dfee82c
+source-git-commit: 3a755dc6c989e6f8890f626e9eaa824e059c2a9f
 workflow-type: tm+mt
-source-wordcount: '471'
+source-wordcount: '474'
 ht-degree: 6%
 
 ---
@@ -29,6 +29,7 @@ ht-degree: 6%
    + [ページを整理](getting-started/organize.md)
    + [カスタムページを追加](getting-started/add-custom-page.md)
    + [PDF を編集](getting-started/edit-pdf.md)
+   + [このPDFをスタイライズ](getting-started/stylize-this-PDF.md)
    + [自動調整レイアウト](getting-started/auto-adjust-layout.md)
    + [PDFを編集可能な形式に書き出す](getting-started/export-pdf.md)
    + [リアルタイムの共同作業](getting-started/collaborate.md)

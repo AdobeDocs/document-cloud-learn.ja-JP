@@ -7,9 +7,9 @@ level: Beginner
 jira: KT-6856
 thumbnail: KT-6856.jpg
 exl-id: 24660a17-a04e-4937-be94-0a42c4b2c2ca
-source-git-commit: 05751444c0dab6eccd7076889e8735d58dfee82c
+source-git-commit: 3a755dc6c989e6f8890f626e9eaa824e059c2a9f
 workflow-type: tm+mt
-source-wordcount: '536'
+source-wordcount: '543'
 ht-degree: 5%
 
 ---
@@ -20,10 +20,10 @@ Adobe Acrobatの使い方を説明する簡単なチュートリアルを利用�
 
 ## 新機能
 
+* [このPDFをスタイライズ](stylize-this-PDF.md)
+Adobe Expressの統合された使いやすいデザインツールを使用してプロのようなPDFを作成する方法を説明します
 * [Acrobat webでどこでも作業](acrobatweb.md)
 ブラウザーでAcrobat webツールを使用し、どこからでもビジネス文書の利用申請を処理する方法を説明します
-* [リアルタイムの共同作業](collaborate.md)
-どこからでもコメントを収集し、返答について共同作業を行い、文書の進捗状況をリアルタイムで追跡することで、プロジェクトを進めることができます
 
 ## 入門チュートリアル
 
@@ -166,6 +166,16 @@ Adobe Acrobatの使い方を説明する簡単なチュートリアルを利用�
       <br>
     </td>
     <td>
+      <a href="stylize-this-PDF.md">
+        <img alt="このPDFをスタイライズ" src="../assets/Stylize.png" />
+      </a>
+      <div>
+      <a href="stylize-this-PDF.md"><strong>このPDFをスタイライズ</strong></a>
+      </div>
+      <em>コンテンツを自動調整する新しい編集モードについて説明します</em>
+      <br>
+    </td>
+   <td>
       <a href="auto-adjust-layout.md">
         <img alt="自動調整レイアウト" src="../assets/Autoadjust.png" />
       </a>
@@ -183,11 +193,6 @@ Adobe Acrobatの使い方を説明する簡単なチュートリアルを利用�
       <a href="export-pdf.md"><strong>PDFを編集可能な形式に書き出す</strong></a>
       </div>
       <em>PDFファイルを編集可能な形式で書き出す方法を説明します</em>
-      <br>
-    </td>
-    <td>
-    <img alt="スペーサー" src="../assets/Whitespacer.png" />
-      <div>
       <br>
     </td>
   </tr>
