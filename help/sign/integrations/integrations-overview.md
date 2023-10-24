@@ -10,9 +10,9 @@ topic: Integrations
 topic-revisit: Integrations
 thumbnail: KT-6850.jpg
 exl-id: 2b1b9fae-7b4c-4092-aec7-c2025ef07cf4
-source-git-commit: 05751444c0dab6eccd7076889e8735d58dfee82c
+source-git-commit: 6d7d37621489f4799b619034b76c4751293ee654
 workflow-type: tm+mt
-source-wordcount: '739'
+source-wordcount: '759'
 ht-degree: 0%
 
 ---
@@ -26,12 +26,12 @@ Acrobat Signは、Microsoft、Salesforce、Workday、Marketoなど、組織内�
 
 ## 新機能
 
+* [高度なワークフローの作成 [!DNL Power Automate]](advanced-workflow-power-automate.md)
+以下を使用して高度なワークフローを作成する方法を学習します。 [!DNL Power Automate] コネクタ
 * [簡単なワークフローを作成するには [!DNL Power Automate]](simple-workflow-power-automate.md)
 を使用して簡単なワークフローを作成する方法を説明します。 [!DNL Power Automate] コネクタ
 * [Microsoft Dynamics 365 for Sales](dynamics-sales.md)
 Acrobat Signと [!DNL Microsoft Dynamics 365] for Salesは、販売見積の署名プロセスを自動化するために使用します。
-* [フィールドサービス用Microsoft Dynamics 365](dynamics-field-service.md)
-Acrobat Signの詳細 [!DNL Power Automate]、および [!DNL Microsoft Dynamics 365] フィールドサービスは、お客様のオンサイト作業を効率化するために使用されます。
 
 
 ## Microsoft統合チュートリアル
@@ -133,6 +133,16 @@ Acrobat Signの詳細 [!DNL Power Automate]、および [!DNL Microsoft Dynamics
     <br>
   </td>
   <td>
+    <a href="advanced-workflow-power-automate.md">
+      <img alt="Power Automateを使用した高度なワークフローの作成" src="../assets/advanced-workflow.png" />
+    </a>
+    <div>
+    <a href="advanced-workflow-power-automate.md"><strong>Power Automateを使用した高度なワークフローの作成</strong></a>
+    </div>
+    <em>以下を使用して高度なワークフローを作成する方法を説明します。 [!DNL Power Automate] コネクタ</em>
+    <br>
+  </td>
+  <td>
     <a href="dynamics-customer-service.md">
       <img alt="Microsoft Dynamics 365カスタマーサービス" src="../assets/Dynamics-customer-service.png" />
     </a>
@@ -152,6 +162,7 @@ Acrobat Signの詳細 [!DNL Power Automate]、および [!DNL Microsoft Dynamics
     <em>Acrobat Signの詳細 [!DNL Power Automate]、および [!DNL Microsoft Dynamics 365] フィールドサービスは、お客様のオンサイト作業を効率化するために使用されます。</em>
     <br>
   </td>
+<tr>  
   <td>
     <a href="dynamics-sales.md">
       <img alt="Microsoft Dynamics 365 for Sales" src="../assets/Dynamics-sales.png" />
@@ -160,6 +171,21 @@ Acrobat Signの詳細 [!DNL Power Automate]、および [!DNL Microsoft Dynamics
     <a href="dynamics-sales.md"><strong>Microsoft Dynamics 365 for Sales</strong></a>
     </div>
     <em>Acrobat Signと [!DNL Microsoft Dynamics 365] for Salesは、販売見積の署名プロセスを自動化するために使用します。</em>
+    <br>
+  </td>
+  <td>
+    <img alt="スペーサー" src="../assets/Grayspacer.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="スペーサー" src="../assets/Grayspacer.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="スペーサー" src="../assets/Grayspacer.png" />
+    <div>
     <br>
   </td>
 </tr>
