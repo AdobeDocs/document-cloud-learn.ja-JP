@@ -12,9 +12,9 @@ feature-set: Document Cloud
 feature: Use Cases, Web Forms, Workflow, Sign, Payments, Report, Workspace, Deadline, Administration, Digital ID, Form, Integrations, Mobile, Skill Builder
 type: Tutorial
 auto-video-transcripts: true
-source-git-commit: 6d7d37621489f4799b619034b76c4751293ee654
+source-git-commit: 8c7e4c3c0d8f1a7dd90da7f32c9766220d0b9235
 workflow-type: tm+mt
-source-wordcount: '537'
+source-wordcount: '540'
 ht-degree: 10%
 
 ---
@@ -108,6 +108,7 @@ ht-degree: 10%
       + [ファイルの自動アーカイブ [!DNL SharePoint] 使用する [!DNL Power Automate]](integrations/auto-archive-sharepoint-power-automate.md)
       + [Acrobat Signを使用した文書の自動処理 [!DNL Microsoft Power Platform]](integrations/documentautomation.md)
       + [署名用に送信 [!DNL Microsoft Teams]](integrations/adobe-sign-teams-mortgage.md)
+      + [のライブサイン [!DNL Microsoft Teams]](integrations/live-sign-microsoft-teams.md)
       + [で簡単なワークフローを作成 [!DNL Power Automate]](integrations/simple-workflow-power-automate.md)
       + [高度なワークフローの作成 [!DNL Power Automate]](integrations/advanced-workflow-power-automate.md)
       + [[!DNL Microsoft Dynamics 365] カスタマーサービス向け](integrations/dynamics-customer-service.md)
