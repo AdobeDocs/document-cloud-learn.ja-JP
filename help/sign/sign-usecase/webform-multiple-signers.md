@@ -5,9 +5,10 @@ feature: Use Cases, Web Forms
 role: User
 level: Intermediate
 jira: KT-13596
-source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
+exl-id: c3da976d-df41-4632-ab9b-c3be3e4a7ffc
+source-git-commit: cda31f3acd9215184ba88dcb7c5ffd3e0cd3ac05
 workflow-type: tm+mt
-source-wordcount: '127'
+source-wordcount: '171'
 ht-degree: 0%
 
 ---
@@ -16,9 +17,13 @@ ht-degree: 0%
 
 操作方法 [webフォーム](../sign-advanced-users/webform.md) 複数の不明な参加者を含む複雑な政府ローン申請ワークフローに使用されます。 これらのフォームは、webサイトに埋め込むことも、リンクとして電子メールで送信することもできます。 また、デバイスや場所を問わず入力できるため、プロセスやサービス提供の迅速化に役立ちます。
 
-次の実際のWebフォームの追加の使用例を確認してください。
+[!BADGE 使用事例]
 
-* [事業助成金及び貸付金](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/gov/usecasegovgrants.html?lang=en) ユースケース：
-* [再就職援助](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/gov/usecasegovreemployment.html?lang=en) ユースケース：
+* [教育機関webフォームインターンシップ申請](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/edu/usecase-edu-intern.html?lang=en)
+Webフォームを使用して、学生が必要なフォームに簡単にアクセスできるようにする方法を説明します
+* [教育用Webフォームインターンシップ申請の作成](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/edu/usecase-edu-intern-create.html?lang=en)
+インターンwebフォームの作成方法を学ぶ
+* [事業助成金及び貸付金](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/gov/usecasegovgrants.html?lang=en)
+* [再就職援助](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/gov/usecasegovreemployment.html?lang=en)
 
 >[!VIDEO](https://video.tv.adobe.com/v/3421619?quality=12&learn=on&hidetitle=true)

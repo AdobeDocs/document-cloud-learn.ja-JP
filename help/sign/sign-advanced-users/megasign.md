@@ -7,9 +7,9 @@ level: Intermediate
 jira: KT-4963
 thumbnail: 37839.jpg
 exl-id: f81f5ce8-26ad-4c73-934c-da580782bf84,71a748b0-48c9-4a1e-befe-d5f311d6c05e
-source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
+source-git-commit: cda31f3acd9215184ba88dcb7c5ffd3e0cd3ac05
 workflow-type: tm+mt
-source-wordcount: '188'
+source-wordcount: '196'
 ht-degree: 0%
 
 ---
@@ -18,7 +18,10 @@ ht-degree: 0%
 
 数百の署名をわずか数ステップで収集する方法を説明します。 この場合、全員が独自の責任放棄を取得して署名し、個々の放棄の進行状況を追跡できるため、誰が署名したかまたは署名していない人を正確に把握できます。 キャプチャした各オンライン署名は、安全で安全であり、法的に有効です。
 
-この追加の現実世界をご覧ください [テレワーク契約書](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/gov/usecasegovtelework.html?lang=en) ユースケース：
+[!BADGE 使用事例]
+
+* [テレワーク契約書](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/gov/usecasegovtelework.html?lang=en)
+* [ポリシーの合意](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/com/usecasecompolicy.html?lang=en)
 
 >[!NOTE]
 >

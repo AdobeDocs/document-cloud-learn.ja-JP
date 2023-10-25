@@ -7,9 +7,9 @@ level: Intermediate
 jira: KT-5297
 thumbnail: 33980.jpg
 exl-id: 44e3cf09-891c-4bdc-be58-3265adc53f10
-source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
+source-git-commit: cda31f3acd9215184ba88dcb7c5ffd3e0cd3ac05
 workflow-type: tm+mt
-source-wordcount: '62'
+source-wordcount: '65'
 ht-degree: 0%
 
 ---
@@ -20,6 +20,6 @@ ht-degree: 0%
 
 >[!VIDEO](https://video.tv.adobe.com/v/33980?quality=12&learn=on&hidetitle=true)
 
-クリックして、手順ごとの契約および購買依頼フォームのPDFレシピをダウンロードします。
+契約および購買依頼フォームのステップ・バイ・ステップのPDFレシピをダウンロードするか、オープンします。
 
 [![PDFレシピのダウンロード](../assets/acrobat_PDF_96.png)](../assets/adobe-sign_set_up_a_workflow_use_case.pdf)
