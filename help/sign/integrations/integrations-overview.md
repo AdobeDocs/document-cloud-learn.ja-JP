@@ -10,9 +10,9 @@ topic: Integrations
 topic-revisit: Integrations
 thumbnail: KT-6850.jpg
 exl-id: 2b1b9fae-7b4c-4092-aec7-c2025ef07cf4
-source-git-commit: 08ecfae16049ddc497beaea06c6213f5e6dd8a6d
+source-git-commit: 1af2db7abc73f889d71806a66d2debc2f6fbb334
 workflow-type: tm+mt
-source-wordcount: '777'
+source-wordcount: '789'
 ht-degree: 0%
 
 ---
@@ -26,7 +26,7 @@ Acrobat Signは、Microsoft、Salesforce、Workday、Marketoなど、組織内�
 
 ## 新機能
 
-* [のライブサイン [!DNL Microsoft Teams]](live-sign-microsoft-teams.md)
+* [Adobe Acrobat Signでの [!DNL Microsoft Teams]](live-sign-microsoft-teams.md)
 次の期間中に対面署名のようなオンライン署名エクスペリエンスを作成する方法を説明します [!DNL Microsoft Teams] 会議
 * [高度なワークフローの作成 [!DNL Power Automate]](advanced-workflow-power-automate.md)
 以下を使用して高度なワークフローを作成する方法を学習します。 [!DNL Power Automate] コネクタ
@@ -123,10 +123,10 @@ Acrobat Signは、Microsoft、Salesforce、Workday、Marketoなど、組織内�
 <tr>
   <td>
     <a href="live-sign-microsoft-teams.md">
-      <img alt="ライブログイン [!DNL Microsoft Teams]" src="../assets/live-sign.png" />
+      <img alt="Adobe Acrobat Signでの [!DNL Microsoft Teams]" src="../assets/live-sign.png" />
     </a>
     <div>
-    <a href="live-sign-microsoft-teams.md"><strong>ライブログイン [!DNL Microsoft Teams]</strong></a>
+    <a href="live-sign-microsoft-teams.md"><strong>Adobe Acrobat Signでの [!DNL Microsoft Teams]</strong></a>
     </div>
     <em>次の期間中に対面署名のようなオンライン署名エクスペリエンスを作成する方法を説明します [!DNL Microsoft Teams] 会議</em>
     <br>
