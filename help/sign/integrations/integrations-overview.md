@@ -10,9 +10,9 @@ topic: Integrations
 topic-revisit: Integrations
 thumbnail: KT-6850.jpg
 exl-id: 2b1b9fae-7b4c-4092-aec7-c2025ef07cf4
-source-git-commit: afca817b03c2d3748c21c4c110eebe44b0251c46
+source-git-commit: fa90a5ba08f7147e264bb7da0571b7838dcadf6d
 workflow-type: tm+mt
-source-wordcount: '811'
+source-wordcount: '815'
 ht-degree: 0%
 
 ---
@@ -26,12 +26,12 @@ Acrobat Signは、Microsoft、Salesforce、Workday、Marketoなど、組織内�
 
 ## 新機能
 
+* [の「文書」タブの統合 [!DNL Microsoft Teams]](acrobat-sign-teams-documents-tab.md)
+の「文書」タブから署名用に文書を直接送信する方法を説明します。 [!DNL Microsoft Teams]
 * [Adobe Acrobat Signでの [!DNL Microsoft Teams]](live-sign-microsoft-teams.md)
 次の期間中に対面署名のようなオンライン署名エクスペリエンスを作成する方法を説明します [!DNL Microsoft Teams] 会議
 * [高度なワークフローの作成 [!DNL Power Automate]](advanced-workflow-power-automate.md)
 以下を使用して高度なワークフローを作成する方法を学習します。 [!DNL Power Automate] コネクタ
-* [簡単なワークフローを作成するには [!DNL Power Automate]](simple-workflow-power-automate.md)
-を使用して簡単なワークフローを作成する方法を説明します。 [!DNL Power Automate] コネクタ
 
 ## Microsoft統合チュートリアル
 
