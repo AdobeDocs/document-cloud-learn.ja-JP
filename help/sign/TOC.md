@@ -12,10 +12,10 @@ feature-set: Document Cloud
 feature: Use Cases, Web Forms, Workflow, Sign, Payments, Report, Workspace, Deadline, Administration, Digital ID, Form, Integrations, Mobile, Skill Builder
 type: Tutorial
 auto-video-transcripts: true
-source-git-commit: afca817b03c2d3748c21c4c110eebe44b0251c46
+source-git-commit: d27cd14d332812292e2ed3414cd9bb3937141930
 workflow-type: tm+mt
-source-wordcount: '548'
-ht-degree: 10%
+source-wordcount: '544'
+ht-degree: 11%
 
 ---
 
@@ -25,7 +25,7 @@ ht-degree: 10%
 + [概要](overview.md)
 + はじめに {#getting-started}
    + [概要](sign-beginner-tutorials/beginner-users-overview.md)
-   + 送信 {#getting-started-sending}
+   + Send {#getting-started-sending}
       + [ワークスペースの基本](sign-beginner-tutorials/quick-tour.md)
       + [Acrobat Signの概要](sign-beginner-tutorials/new-sender.md)
       + [1人の受信者への送信](sign-beginner-tutorials/send-to-single-recipient.md)
@@ -47,14 +47,14 @@ ht-degree: 10%
       + [文書テンプレートの作成](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/create-a-template.html)
 + 高度なタスク {#advanced-tasks}
    + [概要](sign-advanced-users/advanced-users-overview.md)
-   + 送信 {#advanced-tasks-sending}
+   + Send {#advanced-tasks-sending}
       + [署名順序の設定](sign-advanced-users/setting-up-routing.md)
       + [委任者の役割の使用](sign-advanced-users/delegate-signature.md)
       + [承認者の役割の使用](sign-advanced-users/add-an-approver.md)
       + [Acrobat Signの認証方法](sign-advanced-users/authentication-methods.md)
       + [フォームデータを管理](sign-advanced-users/manage-form-data.md)
       + [オンライン決済の設定](sign-advanced-users/set-up-online-payments.md)
-      + [署名を一括で送信および収集](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/megasign.html)
+      + [一括送信](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/megasign.html)
       + [Webフォームの作成](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/webform.html)
       + [Acrobat Signテキストタグ付け](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/advanced-tasks-admins/adobe-sign-text-tagging.html)
       + [でテキストタグを使用する [!DNL Microsoft Word]](sign-advanced-users/text-tagging-word.md)
@@ -63,7 +63,7 @@ ht-degree: 10%
       + [文書テンプレートの管理](sign-advanced-users/edit-a-template.md)
       + [既存のwebフォームを変更](sign-advanced-users/modify-webform.md)
       + [Webフォームデータの管理](sign-advanced-users/manage-webform-data.md)
-+ 管理 {#admin-set-up}
++ 管理者 {#admin-set-up}
    + [概要](admin/intro-admin-overview.md)
    + はじめに {#getting-started-admin}
       + [新しい管理者向け導入ガイド](admin/get-started-admin.md)
@@ -77,7 +77,7 @@ ht-degree: 10%
       + [ユーザーのレポートオプション](admin/report-options.md)
       + [Webフォームの作成](sign-advanced-users/webform.md)
       + [既存のwebフォームを変更](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/advanced-tasks/advanced-tasks-managing/modify-webform.html)
-      + [署名を一括で送信および収集](sign-advanced-users/megasign.md)
+      + [一括送信](sign-advanced-users/megasign.md)
       + [カスタムワークフローの作成](admin/building-a-custom-workflow.md)
    + 高度なタスク {#advanced-tasks-admins}
       + [グローバル設定](admin/learn-about-global-settings.md)

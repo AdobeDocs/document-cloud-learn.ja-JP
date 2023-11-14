@@ -7,10 +7,10 @@ level: Experienced
 jira: KT-6848
 thumbnail: KT-6848.jpg
 exl-id: c4f0a953-e28b-4488-a27c-010b5adaf7ec
-source-git-commit: 05751444c0dab6eccd7076889e8735d58dfee82c
+source-git-commit: 158baff5fa152b74fa834162acfbf8b9e1cd0402
 workflow-type: tm+mt
-source-wordcount: '427'
-ht-degree: 3%
+source-wordcount: '428'
+ht-degree: 5%
 
 ---
 
@@ -20,12 +20,12 @@ ht-degree: 3%
 
 ## 新機能
 
+* [一括送信](megasign.md)
+簡単な手順で、あらゆる文書の何千もの署名を一度に収集する方法を説明します
 * [Acrobat Signの認証方法](authentication-methods.md)
 Acrobat Signで文書に署名するユーザーの身元を証明する様々な方法について説明します
-* [オンライン支払いの設定](set-up-online-payments.md)
-ドキュメントでオンライン支払いを設定して受け入れる方法について説明します
 
-## 送信
+## Send
 
 <table style="table-layout:fixed">
 <tr>
@@ -93,12 +93,12 @@ Acrobat Signで文書に署名するユーザーの身元を証明する様々�
   </td>
   <td>
       <a href="megasign.md">
-        <img alt="署名を一括で送信および収集" src="../assets/Megasign.png" />
+        <img alt="一括送信" src="../assets/send-in-bulk.png" />
       </a>
       <div>
-      <a href="megasign.md"><strong>署名を一括で送信および収集</strong></a>
+      <a href="megasign.md"><strong>一括送信</strong></a>
       </div>
-      <em>簡単な手順で、あらゆる文書の数百もの署名を一度に収集</em>
+      <em>簡単な手順で、あらゆる文書の何千もの署名を一度に収集できます</em>
       <br>
   </td>
  <td>

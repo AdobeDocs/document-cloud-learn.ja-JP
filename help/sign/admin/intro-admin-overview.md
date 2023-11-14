@@ -8,10 +8,10 @@ jira: KT-6849
 topic-revisit: Administration
 thumbnail: KT-6849.jpg
 exl-id: 1b6ea9f0-6bbb-4ea5-aa22-bfa42f7cca18
-source-git-commit: 05751444c0dab6eccd7076889e8735d58dfee82c
+source-git-commit: d27cd14d332812292e2ed3414cd9bb3937141930
 workflow-type: tm+mt
-source-wordcount: '486'
-ht-degree: 2%
+source-wordcount: '503'
+ht-degree: 3%
 
 ---
 
@@ -21,6 +21,8 @@ ht-degree: 2%
 
 ## 新機能
 
+* [一括送信](../sign-advanced-users/megasign.md)
+簡単な手順で、あらゆる文書の何千もの署名を一度に収集する方法を説明します
 * [レポートオプション](report-options.md)
 ユーザーのレポートオプションを設定する方法について説明します
 * [ユーザーの追加](add-users-to-your-account.md)
@@ -146,12 +148,12 @@ Acrobat Signのユーザーを追加および管理する方法について説�
   </td>
   <td>
     <a href="../sign-advanced-users/megasign.md">
-      <img alt="署名を一括で送信および収集" src="../assets/Megasign.png" />
+      <img alt="一括送信" src="../assets/send-in-bulk.png" />
     </a>
     <div>
-    <a href="../sign-advanced-users/megasign.md"><strong>署名を一括で送信および収集</strong></a>
+    <a href="../sign-advanced-users/megasign.md"><strong>一括送信</strong></a>
     </div>
-    <em>あらゆる文書に対して一度に数百の署名を収集</em>
+    <em>あらゆる文書に対して一度に数千もの署名を収集</em>
     <br>
   </td>
 </tr>
