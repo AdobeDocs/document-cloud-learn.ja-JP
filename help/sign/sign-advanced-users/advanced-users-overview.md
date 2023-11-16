@@ -7,7 +7,7 @@ level: Experienced
 jira: KT-6848
 thumbnail: KT-6848.jpg
 exl-id: c4f0a953-e28b-4488-a27c-010b5adaf7ec
-source-git-commit: 158baff5fa152b74fa834162acfbf8b9e1cd0402
+source-git-commit: b12425a4dd0f6cac45349e161f83cf1945519589
 workflow-type: tm+mt
 source-wordcount: '428'
 ht-degree: 5%
@@ -98,7 +98,7 @@ Acrobat Signで文書に署名するユーザーの身元を証明する様々�
       <div>
       <a href="megasign.md"><strong>一括送信</strong></a>
       </div>
-      <em>簡単な手順で、あらゆる文書の何千もの署名を一度に収集できます</em>
+      <em>簡単な手順で、あらゆる文書の数百もの署名を一度に収集</em>
       <br>
   </td>
  <td>
