@@ -8,10 +8,10 @@ jira: KT-6626
 topic-revisit: Integrations
 thumbnail: 328113.jpg
 exl-id: a59eab61-fe61-45c6-8137-f074e1f2b3ed
-source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
+source-git-commit: 84aa3c18e0da0d4e5c83130c4e3303407ebf784a
 workflow-type: tm+mt
-source-wordcount: '264'
-ht-degree: 5%
+source-wordcount: '244'
+ht-degree: 1%
 
 ---
 
@@ -23,7 +23,7 @@ Gigasignを使用すると、何千人もの人に同時に文書を送信、収
 
 ## GigaSignアプリをダウンロードしてインストールします
 
-[GigaSign Zipファイルをダウンロード](https://documentcloud.adobe.com/link/track?uri=urn:aaid:scds:US:8975dbca-98d5-4e66-9164-d21163c91c7f)
+[GigaSign Zipファイルをダウンロード](https://acrobat.adobe.com/link/track?uri=urn:aaid:scds:US:d1a3f4f2-0f7b-466f-9785-81dff2217776)
 
 [Java 1.8ダウンロードリンク（必要な場合のみ）](https://www.oracle.com/java/technologies/javase/javase8-archive-downloads.html) {target="_blank"}
 
@@ -31,7 +31,7 @@ Gigasignを使用すると、何千人もの人に同時に文書を送信、収
 
 ## 基本的なセットアップ手順
 
-1. Acrobat Sign アカウントにログインする.
+1. Acrobat Signアカウントにログインします。
 
 1. クリック **[!UICONTROL グループ]** または **[!UICONTROL アカウント]**&#x200B;上に見えるものはどちらでも構いません。
 
