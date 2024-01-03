@@ -1,5 +1,5 @@
 ---
-title: ユースケースのレシピ
+title: 使用事例
 description: 官公庁や民間企業による電子サインの例を使用して、組織のデジタルワークフローをスピードアップしましょう
 feature: Use Cases
 role: User
@@ -8,16 +8,16 @@ team: DC Product Marketing Retention and Engagement
 thumbnail: 8200.jpg
 jira: KT-8200
 exl-id: 7f6edd52-c3fc-4cf0-af84-c956db3bd008
-source-git-commit: 05751444c0dab6eccd7076889e8735d58dfee82c
+source-git-commit: 955918403f01fc722674a04f63613c8e266e9e9a
 workflow-type: tm+mt
-source-wordcount: '438'
+source-wordcount: '423'
 ht-degree: 0%
 
 ---
 
-# ユースケースのレシピ
+# 使用事例
 
-これらの官公庁および民間の電子サインの例を使用して、組織のデジタルワークフローをスピードアップできます。 クリックすると、これらの電子サインのユースケースを設定する方法に関するリソースや詳細を含むPDFが表示されます。
+様々な組織がAcrobat Signを使用して、これらの実際のユースケースで組織のデジタルワークフローを変革する方法について説明します。
 
 ## 新機能
 
