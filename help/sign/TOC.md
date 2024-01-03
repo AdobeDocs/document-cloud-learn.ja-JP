@@ -12,10 +12,10 @@ feature-set: Document Cloud
 feature: Use Cases, Web Forms, Workflow, Sign, Payments, Report, Workspace, Deadline, Administration, Digital ID, Form, Integrations, Mobile, Skill Builder
 type: Tutorial
 auto-video-transcripts: true
-source-git-commit: d27cd14d332812292e2ed3414cd9bb3937141930
+source-git-commit: cee496745a920f2ce06e02829aa9ecfec72f32c1
 workflow-type: tm+mt
-source-wordcount: '544'
-ht-degree: 11%
+source-wordcount: '508'
+ht-degree: 7%
 
 ---
 
@@ -25,7 +25,7 @@ ht-degree: 11%
 + [概要](overview.md)
 + はじめに {#getting-started}
    + [概要](sign-beginner-tutorials/beginner-users-overview.md)
-   + Send {#getting-started-sending}
+   + 送信 {#getting-started-sending}
       + [ワークスペースの基本](sign-beginner-tutorials/quick-tour.md)
       + [Acrobat Signの概要](sign-beginner-tutorials/new-sender.md)
       + [1人の受信者への送信](sign-beginner-tutorials/send-to-single-recipient.md)
@@ -47,7 +47,7 @@ ht-degree: 11%
       + [文書テンプレートの作成](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/create-a-template.html)
 + 高度なタスク {#advanced-tasks}
    + [概要](sign-advanced-users/advanced-users-overview.md)
-   + Send {#advanced-tasks-sending}
+   + 送信 {#advanced-tasks-sending}
       + [署名順序の設定](sign-advanced-users/setting-up-routing.md)
       + [委任者の役割の使用](sign-advanced-users/delegate-signature.md)
       + [承認者の役割の使用](sign-advanced-users/add-an-approver.md)
@@ -63,7 +63,7 @@ ht-degree: 11%
       + [文書テンプレートの管理](sign-advanced-users/edit-a-template.md)
       + [既存のwebフォームを変更](sign-advanced-users/modify-webform.md)
       + [Webフォームデータの管理](sign-advanced-users/manage-webform-data.md)
-+ 管理者 {#admin-set-up}
++ 管理 {#admin-set-up}
    + [概要](admin/intro-admin-overview.md)
    + はじめに {#getting-started-admin}
       + [新しい管理者向け導入ガイド](admin/get-started-admin.md)
@@ -135,9 +135,9 @@ ht-degree: 11%
    + [概要](sign-usecase/expand-inspire-overview.md)
    + スキルビルダー {#innovation}
       + [ウェビナー](sign-usecase/innovation-series.md)
-   + ユースケースのレシピ {#recipes}
+   + 使用事例 {#recipes}
       + [概要](sign-usecase/recipes.md)
-      + 中央省庁 {#gov}
+      + 官公庁 {#gov}
          + [複数の不明な署名者を含む政府からの融資申請](sign-usecase/webform-multiple-signers.md)
          + [事業助成金及び貸付金](sign-usecase/usecasegovgrants.md)
          + [テレワーク契約書](sign-usecase/usecasegovtelework.md)
@@ -145,11 +145,11 @@ ht-degree: 11%
          + [再就職援助](sign-usecase/usecasegovreemployment.md)
          + [支払いチェックの保護](sign-usecase/usecasegovpaycheck.md)
          + [リモートの令状要求](sign-usecase/usecasegovremote.md)
-      + 商業用 {#com}
+      + 商用 {#com}
          + [契約および請求フォーム](sign-usecase/usecasecomcontracts.md)
          + [ポリシーの契約書](sign-usecase/usecasecompolicy.md)
          + [テレワーク契約書](sign-usecase/usecasecomtelework.md)
-      + 教育機関 {#edu}
+      + 教育機関向け {#edu}
          + [教育機関webフォームインターンシップ申請](sign-usecase/usecase-edu-intern.md)
          + [教育用Webフォームインターンシップ申請の作成](sign-usecase/usecase-edu-intern-create.md)
          + [教育機関向けIEPプロセスのカスタムワークフロー](sign-usecase/usecase-edu-iep.md)
