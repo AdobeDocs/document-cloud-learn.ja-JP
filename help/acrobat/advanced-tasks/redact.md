@@ -7,9 +7,9 @@ level: Intermediate
 jira: KT-6804
 thumbnail: KT-6804.jpg
 exl-id: 39ba66c7-bc9a-4ecc-b337-f03d31257877
-source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
+source-git-commit: 77d0c2fafe7da12c9b21764bab72aa9e5c3f41f8
 workflow-type: tm+mt
-source-wordcount: '292'
+source-wordcount: '300'
 ht-degree: 0%
 
 ---
@@ -22,6 +22,9 @@ ht-degree: 0%
 >
 >Acrobat Proでのみ利用可能です。
 
+[!BADGE 組織への影響]
+お客様のデータ保護、リスク管理
+
 ## テキストと画像を墨消し
 
 1. 選択 **[!UICONTROL 墨消し]** から [!UICONTROL ツール] 中央または右側のペイン。
@@ -32,21 +35,21 @@ ht-degree: 0%
 
    ![手順2を墨消し](../assets/Redact_2.png)
 
-   情報を墨消しするには、最初に項目を削除対象としてマークしてから、墨消しを適用します。 ページ全体または選択したコンテンツを墨消しできます。
+情報を墨消しするには、最初に項目を削除対象としてマークしてから、墨消しを適用します。 ページ全体または選択したコンテンツを墨消しできます。
 
 1. 選択 **[!UICONTROL ページを墨消し]**&#x200B;次に、墨消しするページまたはページ範囲を選択して **[!UICONTROL OK]**.
 
    ![手順4を墨消し](../assets/Redact_3.png)
 
-   または、カーソルを使用して、墨消しするコンテンツを選択します。 選択したコンテンツの上にカーソルを置くと、墨消しのプレビューが表示されます。
+または、カーソルを使用して、墨消しするコンテンツを選択します。 選択したコンテンツの上にカーソルを置くと、墨消しのプレビューが表示されます。
 
    ![手順5aを墨消し](../assets/Redact_4.png)
 
 1. 選択 **[!UICONTROL テキストと画像を墨消し]** **>** **[!UICONTROL テキストを検索して墨消し]** 墨消しする特定のコンテンツを検索できます。
 
-   検索ボックスを使用して、特定の単語または語句を検索します。
+検索ボックスを使用して、特定の単語または語句を検索します。
 
-1. 選択 **[!UICONTROL パターン]** 特定の種類の情報を検索するには、チェックボックスをオンにして **[!UICONTROL テキストを検索して削除]**.
+1. 選択 **[!UICONTROL パターン]** 特定の種類を検索するには of 次に、チェックボックスをオンにして **[!UICONTROL テキストを検索して削除]**.
 
    ![墨消しステップ5b](../assets/Redact_5.png)
 
@@ -64,8 +67,8 @@ ht-degree: 0%
 
 >[!TIP]
 >
->墨消しプロセスを高速化するには、 [Action Wizard](../advanced-tasks/action.md).
+墨消しプロセスを高速化するには、 [Action Wizard](../advanced-tasks/action.md).
 
 >[!TIP]
 >
->このビデオはコースの一部です [Acrobat DCとMicrosoft 365を使用して、よりスマートに作業](https://experienceleague.adobe.com/?recommended=Acrobat-U-1-2021.microsoft365) それはExperience Leagueで無料で入手できます！
+このビデオはコースの一部です [Acrobat DCとMicrosoft 365を使用して、よりスマートに作業](https://experienceleague.adobe.com/?recommended=Acrobat-U-1-2021.microsoft365) それはExperience Leagueで無料で入手できます！
