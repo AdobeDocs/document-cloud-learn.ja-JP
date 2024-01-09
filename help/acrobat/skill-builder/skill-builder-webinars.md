@@ -7,9 +7,9 @@ role: User
 jira: KT-8199
 thumb: KT-8199.jpg
 exl-id: 56ef2120-1765-4ed4-bf80-b048cbabe805
-source-git-commit: ae50de493d898a6997df19b8069efb036c0cd0a4
+source-git-commit: ec5e2b5a185108c242b6a26d585a92624c380c78
 workflow-type: tm+mt
-source-wordcount: '1017'
+source-wordcount: '1015'
 ht-degree: 0%
 
 ---
@@ -22,17 +22,17 @@ Adobe Acrobat Skill Builderは、PDFワークフローを次のレベルに引�
 
 **[Adobe Acrobatの必須ツール6選](https://www.adobe.com/documentcloud/webinars/discover-6-essential-adobe-acrobat-tools.html){target="_blank"}**
 日付：2024年1月24日デジタルワーク業界のトップトレンドに関する業界レポートの記事と、Acrobatが文書ワークフローを簡単に統合して、すべてのチームの貴重な時間を節約する方法について説明します。
-その方法を説明します。
+以下の方法を学ぶことができます。
 
 * 複数のサーフェス間でAcrobatをスムーズに移動
 * ドキュメントの簡単な結合と編集
 * Microsoft Teams内でも簡単に共同作業を行えます
 * トップクラスのセキュリティを備えたProtect文書
-* 文書の直接送信と電子サイン
+* 文書をすばやく送信して電子サイン
 
 **[Adobe Acrobat入門](https://www.adobe.com/documentcloud/webinars/get-started-with-adobe-acrobat.html){target="_blank"}**
 日付：2024年1月18日Adobe Acrobatが、日常的な文書作業から解放され、スピーディで安全な業務をサポートする方法について説明します。
-以下の方法を学習します。
+以下の方法を学ぶことができます。
 
 * 複数のサーフェス間でAcrobatをスムーズに移動
 * ドキュメントをすばやく結合、編集
@@ -41,7 +41,7 @@ Adobe Acrobat Skill Builderは、PDFワークフローを次のレベルに引�
 * Adobe Acrobat Signで簡単に電子サインワークフローを作成
 
 **[Action Wizardによるシンプルな自動処理](https://teamwork.adobe.com/adobe-acrobat-skill-builder/attendease/networking/experience/41d505bb-252a-4e26-9576-6ae82293e6c9/97be1628-5cb6-44be-ac61-c0cc26fbb58d){target="_blank"}**
-日付： 2023年11月16日単純な手動タスクの繰り返しを停止します。 このセッションでは、Acrobat ProでAction Wizardを使用して、PDFファイルをバッチ処理し、文書のアクセス、保護、ファイルの最適化、アーカイブなど、一連の繰り返し作業を自動で実行する方法について説明します。 次の内容を学習します。
+日付： 2023年11月16日単純な手動タスクの繰り返しを停止します。 このセッションでは、Acrobat ProでAction Wizardを使用して、PDFファイルをバッチ処理し、文書のアクセス、保護、ファイルの最適化、アーカイブなど、一連の繰り返し作業を自動で実行する方法について説明します。 以下の方法を学ぶことができます。
 
 * アクションとは
 * 事前定義済みアクションの使用方法
