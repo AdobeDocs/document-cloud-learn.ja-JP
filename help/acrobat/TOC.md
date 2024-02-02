@@ -5,10 +5,11 @@ breadcrumb-title: AcrobatTutorials
 feature-set: Document Cloud
 role: User
 type: Tutorial
-source-git-commit: 3a755dc6c989e6f8890f626e9eaa824e059c2a9f
+auto-video-transcripts: true
+source-git-commit: 2cf300b9b6b73dcf76be74279cdee05afb4d52e3
 workflow-type: tm+mt
-source-wordcount: '474'
-ht-degree: 6%
+source-wordcount: '471'
+ht-degree: 4%
 
 ---
 
@@ -107,7 +108,7 @@ ht-degree: 6%
    + [からのファイルを操作 [!DNL Dropbox]](integrate/acrobat-dropbox.md)
 + 業界と部門 {#by-industry}
    + [概要](industry/industry-overview.md)
-   + 中央省庁 {#gov}
+   + 官公庁 {#gov}
       + [概要](industry/gov/gov-overview.md)
       + Acrobatでどこでも作業するための5つのヒント {#tips}
          + [Acrobatでどこでも作業するための5つのヒント](industry/gov/5-tips-for-working-anywhere-with-acrobat-dc-for-government.md)
