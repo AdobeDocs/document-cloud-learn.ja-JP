@@ -8,9 +8,9 @@ jira: KT-6626
 topic-revisit: Integrations
 thumbnail: 328113.jpg
 exl-id: a59eab61-fe61-45c6-8137-f074e1f2b3ed
-source-git-commit: 25aa2a1255431787b5db306781eba22707129111
+source-git-commit: 636119a247f7d891c6edaa16149fcc8083ccee7e
 workflow-type: tm+mt
-source-wordcount: '243'
+source-wordcount: '298'
 ht-degree: 1%
 
 ---
@@ -19,11 +19,15 @@ ht-degree: 1%
 
 Gigasignを使用すると、何千人もの人に同時に文書を送信、収集、および署名用のトラックできます。 これは、従業員や顧客との大量の通信に適しており、一括送信ごとに最大2,500人の受信者をサポートします。 GigaSignは、Acrobat Sign APIを使用してMegaSignと同じ機能を提供します。また、複数の署名者、受信者グループ、受信者の役割、契約書名、カーボンコピーなどのサポートも含まれています。
 
+>[!IMPORTANT]
+>
+>GigaSignは、JavaまたはAcrobat Signの最新バージョンには更新されず、サポート対象外になります。 GigaSignの機能は、 [一括送信](https://helpx.adobe.com/acrobat/using/send-in-bulk.html) 機能。 GigaSignの使用を明示的に必要としないユースケースには、すべて「一括送信」を使用してください。
+
 >[!VIDEO](https://video.tv.adobe.com/v/328113?quality=12&learn=on&hidetitle=true)
 
 ## GigaSignアプリをダウンロードしてインストールします
 
-[GigaSign Zipファイルをダウンロード](https://acrobat.adobe.com/id/urn:aaid:sc:US:f2046f79-b1bf-47d2-821d-546c8f2ed8b6)
+[GigaSign Zipファイルをダウンロード](https://acrobat.adobe.com/id/urn:aaid:sc:US:001cf62d-1cab-46c7-aa96-661ac8680206)
 
 [Java 1.8ダウンロードリンク（必要な場合のみ）](https://www.oracle.com/java/technologies/javase/javase8-archive-downloads.html) {target="_blank"}
 
