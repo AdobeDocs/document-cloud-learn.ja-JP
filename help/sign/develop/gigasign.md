@@ -8,7 +8,7 @@ jira: KT-6626
 topic-revisit: Integrations
 thumbnail: 328113.jpg
 exl-id: a59eab61-fe61-45c6-8137-f074e1f2b3ed
-source-git-commit: bde9c284fcec330c0ebee29c6146c97cf66f96aa
+source-git-commit: ba9931920ab3bfb6ea38a92cac4a35da1d0295cd
 workflow-type: tm+mt
 source-wordcount: '298'
 ht-degree: 1%
@@ -21,7 +21,7 @@ Gigasignを使用すると、何千人もの人に同時に文書を送信、収
 
 >[!IMPORTANT]
 >
->GigaSignは、JavaまたはAcrobat Signの最新バージョンには更新されず、サポート対象外になります。 GigaSignの機能は、 [一括送信](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/develop/custom/gigasign.html?) 機能。 GigaSignの使用を明示的に必要としないユースケースには、すべて「一括送信」を使用してください。
+>GigaSignは、JavaまたはAcrobat Signの最新バージョンには更新されず、サポート対象外になります。 GigaSignの機能は、 [一括送信](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/megasign.html?) 機能。 GigaSignの使用を明示的に必要としないユースケースには、すべて「一括送信」を使用してください。
 
 >[!VIDEO](https://video.tv.adobe.com/v/328113?quality=12&learn=on&hidetitle=true)
 
