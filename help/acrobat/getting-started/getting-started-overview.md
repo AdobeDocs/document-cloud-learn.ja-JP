@@ -7,10 +7,10 @@ level: Beginner
 jira: KT-6856
 thumbnail: KT-6856.jpg
 exl-id: 24660a17-a04e-4937-be94-0a42c4b2c2ca
-source-git-commit: 3a755dc6c989e6f8890f626e9eaa824e059c2a9f
+source-git-commit: 38f311470c6b30dc7c731a37025381fba3651001
 workflow-type: tm+mt
-source-wordcount: '543'
-ht-degree: 5%
+source-wordcount: '542'
+ht-degree: 2%
 
 ---
 
@@ -110,7 +110,7 @@ Adobe Expressの統合された使いやすいデザインツールを使用し�
   <tr>
     <td>
       <a href="create-pdf.md">
-        <img alt="PDF ファイルの作成" src="../assets/Create.jpg" />
+        <img alt="PDFファイルの作成" src="../assets/create.png" />
       </a>
       <div>
       <a href="create-pdf.md"><strong>PDFを作成</strong></a>
@@ -160,7 +160,7 @@ Adobe Expressの統合された使いやすいデザインツールを使用し�
         <img alt="PDF を編集" src="../assets/Edit.jpg" />
       </a>
       <div>
-      <a href="edit-pdf.md"><strong>PDF を編集</strong></a>
+      <a href="edit-pdf.md"><strong>PDFを編集</strong></a>
       </div>
       <em>PDFファイル内のテキストや画像を編集</em>
       <br>

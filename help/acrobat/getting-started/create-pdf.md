@@ -7,16 +7,16 @@ level: Beginner
 jira: KT-5526
 thumbnail: 35491.jpg
 exl-id: a480ca00-a1d6-4024-9d6e-54418b8a1a81
-source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
+source-git-commit: e17e2c1550578dac2b477943e31b46d603d62e44
 workflow-type: tm+mt
-source-wordcount: '77'
-ht-degree: 6%
+source-wordcount: '102'
+ht-degree: 0%
 
 ---
 
 # PDFを作成
 
-使い方 [あらゆる種類の文書からPDFを作成する](https://www.adobe.com/jp/acrobat/online/convert-pdf.html). Microsoft OfficeやCreative Cloudアプリで作成したファイルから始めるか、画像、スキャン、Webサイトを使用します。
+使い方 [あらゆる種類の文書からPDFを作成する](https://www.adobe.com/jp/acrobat/online/convert-pdf.html). Microsoft OfficeやCreative Cloudアプリで作成したファイルから始めるか、画像、スキャン、Webサイトを使用します。 コンテンツをPDFに変換することで、元の書式を維持したまま、文書を共有、保存、保護するための便利で信頼性の高い方法が提供されます。 このビデオチュートリアルでは、 [新しいワークスペースエクスペリエンス](new-workspace.md).
 
 >[!TIP]
 >
