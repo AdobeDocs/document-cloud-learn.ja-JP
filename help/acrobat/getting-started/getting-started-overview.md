@@ -7,9 +7,9 @@ level: Beginner
 jira: KT-6856
 thumbnail: KT-6856.jpg
 exl-id: 24660a17-a04e-4937-be94-0a42c4b2c2ca
-source-git-commit: 38f311470c6b30dc7c731a37025381fba3651001
+source-git-commit: 39294d60838d7e4b67485a80538f6ff1c523369f
 workflow-type: tm+mt
-source-wordcount: '542'
+source-wordcount: '534'
 ht-degree: 2%
 
 ---
@@ -20,10 +20,11 @@ Adobe Acrobatの使い方を説明する簡単なチュートリアルを利用�
 
 ## 新機能
 
+* [PDFを作成](create-pdf.md)
+すべての種類の文書からPDFを作成する方法を説明します。
+
 * [このPDFをスタイライズ](stylize-this-PDF.md)
 Adobe Expressの統合された使いやすいデザインツールを使用してプロのようなPDFを作成する方法を説明します
-* [Acrobat webでどこでも作業](acrobatweb.md)
-ブラウザーでAcrobat webツールを使用し、どこからでもビジネス文書の利用申請を処理する方法を説明します
 
 ## 入門チュートリアル
 
