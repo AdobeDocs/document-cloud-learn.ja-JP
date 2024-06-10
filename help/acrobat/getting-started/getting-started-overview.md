@@ -7,10 +7,10 @@ level: Beginner
 jira: KT-6856
 thumbnail: KT-6856.jpg
 exl-id: 24660a17-a04e-4937-be94-0a42c4b2c2ca
-source-git-commit: 39294d60838d7e4b67485a80538f6ff1c523369f
+source-git-commit: f188fb6e66899bf73422364a295b4a04c3d72f2a
 workflow-type: tm+mt
-source-wordcount: '534'
-ht-degree: 2%
+source-wordcount: '536'
+ht-degree: 1%
 
 ---
 
@@ -20,11 +20,11 @@ Adobe Acrobatの使い方を説明する簡単なチュートリアルを利用�
 
 ## 新機能
 
+* [PDF内のテキストの編集](edit-pdf.md)
+PDF内の単語、語句、またはページ全体を編集する方法について説明します
+
 * [PDFを作成](create-pdf.md)
 すべての種類の文書からPDFを作成する方法を説明します。
-
-* [このPDFをスタイライズ](stylize-this-PDF.md)
-Adobe Expressの統合された使いやすいデザインツールを使用してプロのようなPDFを作成する方法を説明します
 
 ## 入門チュートリアル
 
@@ -158,7 +158,7 @@ Adobe Expressの統合された使いやすいデザインツールを使用し�
   <tr>
     <td>
       <a href="edit-pdf.md">
-        <img alt="PDF を編集" src="../assets/Edit.jpg" />
+        <img alt="PDF内のテキストの編集" src="../assets/edit-text.png" />
       </a>
       <div>
       <a href="edit-pdf.md"><strong>PDFを編集</strong></a>
