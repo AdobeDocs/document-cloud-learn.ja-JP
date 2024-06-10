@@ -7,9 +7,9 @@ level: Beginner
 jira: KT-6856
 thumbnail: KT-6856.jpg
 exl-id: 24660a17-a04e-4937-be94-0a42c4b2c2ca
-source-git-commit: f188fb6e66899bf73422364a295b4a04c3d72f2a
+source-git-commit: 64302c2088c88610c4a855d3599bce3f9420a247
 workflow-type: tm+mt
-source-wordcount: '536'
+source-wordcount: '539'
 ht-degree: 1%
 
 ---
@@ -161,9 +161,9 @@ PDF内の単語、語句、またはページ全体を編集する方法につ�
         <img alt="PDF内のテキストの編集" src="../assets/edit-text.png" />
       </a>
       <div>
-      <a href="edit-pdf.md"><strong>PDFを編集</strong></a>
+      <a href="edit-pdf.md"><strong>PDF内のテキストの編集</strong></a>
       </div>
-      <em>PDFファイル内のテキストや画像を編集</em>
+      <em>PDF内のテキストを編集する方法を学ぶ</em>
       <br>
     </td>
     <td>
