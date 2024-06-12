@@ -6,7 +6,7 @@ feature-set: Document Cloud
 role: User
 type: Tutorial
 auto-video-transcripts: true
-source-git-commit: f188fb6e66899bf73422364a295b4a04c3d72f2a
+source-git-commit: 242b6bb8a1a24c6d7c42d8ad44cb43f0ab2f2497
 workflow-type: tm+mt
 source-wordcount: '473'
 ht-degree: 4%
@@ -32,7 +32,7 @@ ht-degree: 4%
    + [PDF内のテキストの編集](getting-started/edit-pdf.md)
    + [このPDFをスタイライズ](getting-started/stylize-this-PDF.md)
    + [自動調整レイアウト](getting-started/auto-adjust-layout.md)
-   + [PDFを編集可能な形式に書き出す](getting-started/export-pdf.md)
+   + [PDFを別のファイル形式に変換](getting-started/export-pdf.md)
    + [リアルタイムの共同作業](getting-started/collaborate.md)
    + [PDFに対するコメント](getting-started/comment-on-pdf-files.md)
    + [入力可能なフォームの作成](getting-started/create-fillable-forms.md)

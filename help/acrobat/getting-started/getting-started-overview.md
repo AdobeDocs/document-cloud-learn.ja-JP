@@ -7,9 +7,9 @@ level: Beginner
 jira: KT-6856
 thumbnail: KT-6856.jpg
 exl-id: 24660a17-a04e-4937-be94-0a42c4b2c2ca
-source-git-commit: e84363fee3a210b055396e9c524ee7080e1ef30f
+source-git-commit: 242b6bb8a1a24c6d7c42d8ad44cb43f0ab2f2497
 workflow-type: tm+mt
-source-wordcount: '539'
+source-wordcount: '567'
 ht-degree: 1%
 
 ---
@@ -19,6 +19,9 @@ ht-degree: 1%
 Adobe Acrobatの使い方を説明する簡単なチュートリアルを利用してください。 ドキュメントの作成から保護または [PDFファイルの編集](https://www.adobe.com/jp/acrobat/online/pdf-editor.html){target="_blank"}、このコンテンツは、PDFワークフローに慣れやすくすることを目的としています。
 
 ## 新機能
+
+* [PDFを別のファイル形式に変換](export-pdf.md)
+PDFファイルをMicrosoft Word、Excel、PowerPointなどの様々なファイル形式に変換する方法について説明します
 
 * [PDF内のテキストの編集](edit-pdf.md)
 PDF内の単語、語句、またはページ全体を編集する方法について説明します
@@ -188,12 +191,12 @@ PDF内の単語、語句、またはページ全体を編集する方法につ�
     </td>
     <td>
       <a href="export-pdf.md">
-        <img alt="PDFを編集可能な形式に書き出す" src="../assets/Export.jpg" />
+        <img alt="PDFを別のファイル形式に変換" src="../assets/convert.png" />
       </a>
       <div>
-      <a href="export-pdf.md"><strong>PDFを編集可能な形式に書き出す</strong></a>
+      <a href="export-pdf.md"><strong>PDFを別のファイル形式に変換</strong></a>
       </div>
-      <em>PDFファイルを編集可能な形式で書き出す方法を説明します</em>
+      <em>PDFファイルをMicrosoft Word、Excel、PowerPointなどの様々なファイル形式に変換する方法について説明します</em>
       <br>
     </td>
   </tr>
