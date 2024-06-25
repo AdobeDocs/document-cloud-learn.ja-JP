@@ -7,9 +7,9 @@ level: Beginner
 jira: KT-6856
 thumbnail: KT-6856.jpg
 exl-id: 24660a17-a04e-4937-be94-0a42c4b2c2ca
-source-git-commit: 242b6bb8a1a24c6d7c42d8ad44cb43f0ab2f2497
+source-git-commit: f6c34181b1e98e0da2929b7606c905b369f6f0e0
 workflow-type: tm+mt
-source-wordcount: '567'
+source-wordcount: '613'
 ht-degree: 1%
 
 ---
@@ -19,6 +19,9 @@ ht-degree: 1%
 Adobe Acrobatの使い方を説明する簡単なチュートリアルを利用してください。 ドキュメントの作成から保護または [PDFファイルの編集](https://www.adobe.com/jp/acrobat/online/pdf-editor.html){target="_blank"}、このコンテンツは、PDFワークフローに慣れやすくすることを目的としています。
 
 ## 新機能
+
+* [AIアシスタントでPDFのインサイトを見つける](ai-assistant.md)
+AIアシスタントを使用して、PDFファイルから洞察を得る方法について説明します
 
 * [PDFを別のファイル形式に変換](export-pdf.md)
 PDFファイルをMicrosoft Word、Excel、PowerPointなどの様々なファイル形式に変換する方法について説明します
@@ -54,6 +57,16 @@ PDF内の単語、語句、またはページ全体を編集する方法につ�
     <br>
   </td>
   <td>
+    <a href="ai-assistant.md">
+      <img alt="AIアシスタントでPDFのインサイトを見つける" src="../assets/ai-assistant.png" />
+    </a>
+    <div>
+    <a href="ai-assistant.md"><strong>AIアシスタントでPDFのインサイトを見つける</strong></a>
+    </div>
+    <em>AIアシスタントを使用して、PDFファイルから洞察を得る方法について説明します</em>
+    <br>
+  </td>
+  <td>
     <a href="acrobatweb.md">
       <img alt="Acrobat webでどこでも作業" src="../assets/Acrobatweb_1280.png" />
     </a>
@@ -63,6 +76,8 @@ PDF内の単語、語句、またはページ全体を編集する方法につ�
     <em>ブラウザーでAcrobat webツールを使用し、どこからでもビジネス文書の利用申請を処理する方法を説明します</em>
     <br>
   </td>
+</tr>
+<tr>
   <td>
     <a href="productivity.md">
       <img alt="外出先での生産性" src="../assets/Productivity_1280.png" />
@@ -73,8 +88,6 @@ PDF内の単語、語句、またはページ全体を編集する方法につ�
     <em>Acrobat Readerモバイルアプリを使用して、タブレットや携帯電話から直接さらに多くの作業を行うことができます</em>
     <br>
   </td>
-</tr>
-<tr>
     <td>
       <a href="../integrate/integrate-overview.md#microsoft">
         <img alt="Microsoft 365の使用" src="../assets/WorkMicrosoft365_1280.png" />
@@ -93,11 +106,6 @@ PDF内の単語、語句、またはページ全体を編集する方法につ�
       <a href="where-do-pdfs-come-from.md"><strong>PDFはどこから来るのですか。</strong></a>
       </div>
       <em>PDFの出所とその用途を理解する</em>
-      <br>
-    </td>
-    <td>
-    <img alt="スペーサー" src="../assets/Grayspacer.png" />
-      <div>
       <br>
     </td>
     <td>

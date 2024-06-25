@@ -6,10 +6,10 @@ feature-set: Document Cloud
 role: User
 type: Tutorial
 auto-video-transcripts: true
-source-git-commit: 242b6bb8a1a24c6d7c42d8ad44cb43f0ab2f2497
+source-git-commit: f6c34181b1e98e0da2929b7606c905b369f6f0e0
 workflow-type: tm+mt
-source-wordcount: '473'
-ht-degree: 4%
+source-wordcount: '480'
+ht-degree: 3%
 
 ---
 
@@ -21,6 +21,7 @@ ht-degree: 4%
    + [概要](getting-started/getting-started-overview.md)
    + [ワークスペースの基本](getting-started/get-to-know-the-acrobat-dc-interface.md)
    + [新しいワークスペースエクスペリエンス](getting-started/new-workspace.md)
+   + [AIアシスタントでPDFのインサイトを見つける](getting-started/ai-assistant.md)
    + [Acrobat webでどこでも作業](getting-started/acrobatweb.md)
    + [外出先での生産性](getting-started/productivity.md)
    + [操作 [!DNL Microsoft 365]](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/integrations/integrate-overview.html#microsoft)
