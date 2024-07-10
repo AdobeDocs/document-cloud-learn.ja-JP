@@ -7,9 +7,9 @@ level: Beginner
 jira: KT-6856
 thumbnail: KT-6856.jpg
 exl-id: 24660a17-a04e-4937-be94-0a42c4b2c2ca
-source-git-commit: f6c34181b1e98e0da2929b7606c905b369f6f0e0
+source-git-commit: 98e38a8e7ddf7c5ea051398d7cc77eb2dab7a0df
 workflow-type: tm+mt
-source-wordcount: '613'
+source-wordcount: '628'
 ht-degree: 1%
 
 ---
@@ -20,6 +20,9 @@ Adobe Acrobatの使い方を説明する簡単なチュートリアルを利用�
 
 ## 新機能
 
+* [新しいワークスペースエクスペリエンス](new-workspace.md)
+ツールをすばやく見つけてPDF作業を効率的に行うのに役立つ、Acrobatの新しいワークスペースについて説明します
+
 * [AIアシスタントでPDFのインサイトを見つける](ai-assistant.md)
 AIアシスタントを使用して、PDFファイルから洞察を得る方法について説明します
 
@@ -29,13 +32,21 @@ PDFファイルをMicrosoft Word、Excel、PowerPointなどの様々なファイ
 * [PDF内のテキストの編集](edit-pdf.md)
 PDF内の単語、語句、またはページ全体を編集する方法について説明します
 
-* [PDFを作成](create-pdf.md)
-すべての種類の文書からPDFを作成する方法を説明します。
 
 ## 入門チュートリアル
 
 <table style="table-layout:fixed">
 <tr>
+  <td>
+    <a href="new-workspace.md">
+      <img alt="新しいワークスペースエクスペリエンス" src="../assets/new-workspace.png" />
+    </a>
+    <div>
+    <a href="new-workspace.md"><strong>新しいワークスペースエクスペリエンス</strong></a>
+    </div>
+    <em>ツールをすばやく見つけてPDF作業を効率的に行うのに役立つ、Acrobatの新しいワークスペースについて説明します</em>
+    <br>
+  </td>
   <td>
     <a href="get-to-know-the-acrobat-dc-interface.md">
       <img alt="ワークスペースの基本" src="../assets/workspace_acrobat.png" />
@@ -44,16 +55,6 @@ PDF内の単語、語句、またはページ全体を編集する方法につ�
     <a href="get-to-know-the-acrobat-dc-interface.md"><strong>ワークスペースの基本</strong></a>
     </div>
     <em>Acrobatワークスペースを使用すると、デスクトップ、web、モバイルからファイルやツールに簡単にアクセスできます</em>
-    <br>
-  </td>
-  <td>
-    <a href="new-workspace.md">
-      <img alt="新しいワークスペースエクスペリエンス" src="../assets/NewWorkspace.png" />
-    </a>
-    <div>
-    <a href="new-workspace.md"><strong>新しいワークスペースエクスペリエンス</strong></a>
-    </div>
-    <em>Acrobatでアクティベートできる新しいワークスペースについて説明します</em>
     <br>
   </td>
   <td>
