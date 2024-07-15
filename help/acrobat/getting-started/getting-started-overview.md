@@ -7,10 +7,10 @@ level: Beginner
 jira: KT-6856
 thumbnail: KT-6856.jpg
 exl-id: 24660a17-a04e-4937-be94-0a42c4b2c2ca
-source-git-commit: 9db61d9c32ab7ac66f11835132e065bcafdf7964
+source-git-commit: 45f8a9e0886f0c7c4f0dfa1ef0a8b705d3674696
 workflow-type: tm+mt
-source-wordcount: '385'
-ht-degree: 2%
+source-wordcount: '248'
+ht-degree: 4%
 
 ---
 
@@ -135,23 +135,13 @@ PDF内の単語、語句、またはページ全体を編集する方法につ�
   <tr>
     <td>
       <a href="collaborate.md">
-        <img alt="リアルタイムの共同作業" src="../assets/Collaborate_1280.png" />
+        <img alt="リアルタイムの共同作業" src="../assets/collaborate.png" />
       </a>
-      <div>
-      <a href="collaborate.md"><strong>リアルタイムの共同作業</strong></a>
-      </div>
-      <em>どこからでもコメントを収集したり、返答について共同作業を行ったり、文書の進捗状況をリアルタイムで追跡したりして、プロジェクトを進めることができます。</em>
-      <br>
     </td>
     <td>
       <a href="comment-on-pdf-files.md">
-        <img alt="PDFに対するコメント" src="../assets/Comment.jpg" />
+        <img alt="PDFに対するコメント" src="../assets/comment.png" />
       </a>
-      <div>
-      <a href="comment-on-pdf-files.md"><strong>PDFに対するコメント</strong></a>
-      </div>
-      <em>PDFファイルにコメントを追加して、他のユーザーと共有する</em>
-      <br>
     </td>
     <td>
     <img alt="スペーサー" src="../assets/Whitespacer.png" />
@@ -172,65 +162,35 @@ PDF内の単語、語句、またはページ全体を編集する方法につ�
 <tr>
   <td>
     <a href="create-fillable-forms.md">
-      <img alt="入力可能なフォームの作成" src="../assets/Form_1280.png" />
+      <img alt="入力可能なフォームの作成" src="../assets/fillable-forms.png" />
     </a>
-    <div>
-    <a href="create-fillable-forms.md"><strong>入力可能なフォームの作成</strong></a>
-    </div>
-    <em>他のアプリケーションで作成された文書を入力可能なPDFフォームに変換</em>
-    <br>
   </td>
   <td>
     <a href="fill-and-sign.md">
-      <img alt="PDFフォームに入力して署名" src="../assets/FillSign_1280.png" />
+      <img alt="PDFフォームに入力して署名" src="../assets/fill-sign.png" />
     </a>
-    <div>
-    <a href="fill-and-sign.md"><strong>Fill &amp; Sign PDF forms</strong></a>
-    </div>
-    <em>PDFフォームにすばやく入力して署名する</em>
-    <br>
   </td>
   <td>
     <a href="scan-and-ocr.md">
-      <img alt="スキャンとOCR" src="../assets/Scan.jpg" />
+      <img alt="スキャンとOCR" src="../assets/scan.png" />
     </a>
-    <div>
-    <a href="scan-and-ocr.md"><strong>スキャンとOCR</strong></a>
-    </div>
-    <em>サイズの大きいファイルを減らし、共有、投稿、アーカイブの画質を損なうことなくPDFを最適化します</em>
-    <br>
   </td>
   <td>
     <a href="password-protect.md">
-      <img alt="PDFファイルをパスワードでProtectする" src="../assets/Protect.jpg" />
+      <img alt="PDFファイルをパスワードでProtectする" src="../assets/protect.png" />
     </a>
-    <div>
-    <a href="password-protect.md"><strong>PDFファイルをパスワードでProtectする</strong></a>
-    </div>
-    <em>他のユーザーがファイルを開いたり編集したりできないように、PDFにパスワードを設定してください</em>
-    <br>
   </td>
 </tr>
 <tr>
   <td>
     <a href="signatures.md">
-      <img alt="署名を取得" src="../assets/Signatures_1280.png" />
+      <img alt="署名を取得" src="../assets/signnatures.png" />
     </a>
-    <div>
-    <a href="signatures.md"><strong>署名を取得</strong></a>
-    </div>
-    <em>他のユーザーから法的拘束力のある電子サインを集めて、どこからでもビジネスを継続</em>
-    <br>
   </td>
   <td>
     <a href="track.md">
-      <img alt="ドキュメントのトラック" src="../assets/Track_1280.png" />
+      <img alt="ドキュメントのトラック" src="../assets/track.png" />
     </a>
-    <div>
-    <a href="track.md"><strong>ドキュメントのトラック</strong></a>
-    </div>
-    <em>署名を待っているファイルと署名されたファイルを常に把握する</em>
-    <br>
   </td>
   <td>
    <img alt="スペーサー" src="../assets/Grayspacer.png" />
