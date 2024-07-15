@@ -7,9 +7,9 @@ level: Beginner
 jira: KT-6856
 thumbnail: KT-6856.jpg
 exl-id: 24660a17-a04e-4937-be94-0a42c4b2c2ca
-source-git-commit: 45f8a9e0886f0c7c4f0dfa1ef0a8b705d3674696
+source-git-commit: 23ccd52c03d641ee945b7ba9a9356f5d4894a50b
 workflow-type: tm+mt
-source-wordcount: '248'
+source-wordcount: '232'
 ht-degree: 4%
 
 ---
@@ -20,14 +20,12 @@ Adobe Acrobatの使い方を説明する簡単なチュートリアルを利用�
 
 ## 新機能
 
+* [PDFのグラフィックを編集する](edit-graphics.md)
+PDFでグラフィックを作成、編集、拡張する方法を説明します。
 * [新しいワークスペースエクスペリエンス](new-workspace.md)
 ツールをすばやく見つけてPDF作業を効率的に行うのに役立つ、Acrobatの新しいワークスペースについて説明します
 * [AIアシスタントを使用して、PDFの情報を見つける](ai-assistant.md)
 AIアシスタントを使用して、PDFファイルから洞察を得る方法について説明します
-* [PDFを別のファイル形式に変換](export-pdf.md)
-PDFファイルをMicrosoft Word、Excel、PowerPointなどの様々なファイル形式に変換する方法について説明します
-* [PDFのテキストを編集する](edit-pdf.md)
-PDF内の単語、語句、またはページ全体を編集する方法について説明します
 
 ## 入門チュートリアル
 
@@ -112,6 +110,11 @@ PDF内の単語、語句、またはページ全体を編集する方法につ�
       </a>
     </td>
     <td>
+      <a href="edit-graphics.md">
+        <img alt="PDF内のグラフィックの編集" src="../assets/edit-graphics.png" />
+      </a>
+    </td>
+    <td>
       <a href="stylize-this-PDF.md">
         <img alt="このPDFをスタイライズ" src="../assets/stylize-pdf.png" />
       </a>
@@ -121,13 +124,29 @@ PDF内の単語、語句、またはページ全体を編集する方法につ�
         <img alt="自動調整レイアウト" src="../assets/auto-adjust.png" />
       </a>
     </td>
+  </tr>
     <td>
       <a href="export-pdf.md">
         <img alt="PDFを別のファイル形式に変換" src="../assets/convert.png" />
       </a>
     </td>
-  </tr>
-  </table>
+    <td>
+   <img alt="スペーサー" src="../assets/Grayspacer.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+   <img alt="スペーサー" src="../assets/Grayspacer.png" />
+    <div>
+    <br>
+  </td>
+   <td>
+   <img alt="スペーサー" src="../assets/Grayspacer.png" />
+    <div>
+    <br>
+  </td>
+</tr>
+</table>
 
 ## 共同作業チュートリアル
 
