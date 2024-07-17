@@ -9,94 +9,59 @@ topic-revisit: Integrations
 jira: KT-6859
 thumbnail: KT-6859.jpg
 exl-id: 76cb40b4-bbb4-4f50-b01d-4c5a74bf9f20
-source-git-commit: 05751444c0dab6eccd7076889e8735d58dfee82c
+source-git-commit: 8e53be07aa79d85b5157f4268252b9c1c71fa398
 workflow-type: tm+mt
-source-wordcount: '324'
-ht-degree: 1%
+source-wordcount: '146'
+ht-degree: 3%
 
 ---
 
 # 統合の概要
 
-Acrobatと [!DNL Box], [!DNL Dropbox], [!DNL Google Drive], [!DNL OneDrive]、および [!DNL Microsoft] アプリ。
+Acrobatを[!DNL Box]、[!DNL Dropbox]、[!DNL Google Drive]、[!DNL OneDrive]および[!DNL Microsoft]のアプリと連携します。
 
 ## Microsoft
 
-チームの全員がPDFファイルを内部で使用してシームレスに作業する方法を説明します [Microsoft 365](https://www.adobe.com/documentcloud/integrations/microsoft-office-365.html).
+[Microsoft 365](https://www.adobe.com/documentcloud/integrations/microsoft-office-365.html)内で、グループの全員がPDFファイルをシームレスに操作する方法について説明します。
 
 <table style="table-layout:fixed">
 <tr>
   <td>
     <a href="createfromword.md">
-      <img alt="Microsoft WordからのPDFファイルの作成" src="../assets/CreateWord.png" />
+      <img alt="Microsoft WordからのPDFファイルの作成" src="../assets/create-word.png" />
     </a>
-    <div>
-    <a href="createfromword.md"><strong>PDFファイルの作成元 [!DNL Microsoft Word]</strong></a>
-    </div>
-    <em>ハイパーリンクされた目次、相互参照、ブックマーク、さらには添付ファイルを使用して、豊富で堅牢なPDFファイルを作成できます。 [!DNL Microsoft Word]</em>
-    <br>
   </td>
   <td>
     <a href="createofficeweb.md">
-      <img alt="PDFの作成 [!DNL Office] Web用" src="../assets/Officeweb_1280.png" />
+      <img alt="Web用に[!DNL Office]でPDFを作成" src="../assets/office-web.png" />
     </a>
-    <div>
-    <a href="createofficeweb.md"><strong>PDFの作成 [!DNL Office] Web用</strong></a>
-    </div>
-    <em>を離れずにPDFファイルを作成する方法を説明します [!DNL Microsoft Office] Webアプリの場合</em>
-    <br>
   </td> 
   <td>
     <a href="acrobatandsp.md">
-      <img alt="アプリを使用する [!DNL SharePoint] ファイル" src="../assets/SharePoint.png" />
+      <img alt="[!DNL SharePoint]ファイルの操作" src="../assets/work-sharepoint.png" />
     </a>
-    <div>
-    <a href="acrobatandsp.md"><strong>アプリを使用する [!DNL SharePoint] ファイル</strong></a>
-    </div>
-    <em>次を使用した文書ワークフローの合理化 [!DNL SharePoint] およびAcrobat</em>
-    <br>
   </td>
   <td>
     <a href="acrobatandteams.md">
-      <img alt="～でのPDF協力 [!DNL Microsoft Teams]" src="../assets/MicrosoftTeams.png" />
+      <img alt="～でのPDF協力 [!DNL Microsoft Teams]" src="../assets/collaboration-teams.png" />
     </a>
-    <div>
-    <a href="acrobatandteams.md"><strong>～でのPDF協力 [!DNL Microsoft Teams]</strong></a>
-    </div>
-    <em>PDFを離れることなく表示、注釈、レビューして、共同作業や同僚との共同作業を行うことができます [!DNL Microsoft Teams]</em>
-    <br>
   </td>
 </tr>
 <tr>
   <td>
     <a href="outlook.md">
-      <img alt="Outlookでの電子メールメッセージと添付ファイルのPDFへの変換" src="../assets/Outlook.jpg" />
+      <img alt="Outlookでの電子メールメッセージと添付ファイルのPDFへの変換" src="../assets/outlook.png" />
     </a>
-    <div>
-    <a href="outlook.md"><strong>電子メールメッセージと添付ファイルをPDFに変換する [!DNL Outlook]</strong></a>
-    </div>
-    <em>よりプロフェッショナルで安全な方法で情報を提供する方法を説明します [!DNL Outlook]</em>
-    <br>
   </td>
   <td>
     <a href="edge.md">
-      <img alt="で参照中にPDFコンテンツを作成する [!DNL Microsoft Edge]" src="../assets/Edge_1280.png" />
+      <img alt="で参照中にPDFコンテンツを作成する [!DNL Microsoft Edge]" src="../assets/edge.png" />
     </a>
-    <div>
-    <a href="edge.md"><strong>で参照中にPDFコンテンツを作成する [!DNL Microsoft Edge]</strong></a>
-    </div>
-    <em>Adobe Acrobat拡張機能を使用して、webページをPDFにすぐにアーカイブする方法を説明します。 [!DNL Microsoft Edge]</em>
-    <br>
   </td>
   <td>
     <a href="microsoftsensitivitylabels.md">
-      <img alt="で参照中にPDFコンテンツを作成する [!DNL Microsoft Edge]" src="../assets/Purview_1280.png" />
+      <img alt="で参照中にPDFコンテンツを作成する [!DNL Microsoft Edge]" src="../assets/purview.png" />
     </a>
-    <div>
-    <a href="microsoftsensitivitylabels.md"><strong>使用するProtect PDF [!DNL Microsoft Purview Information] 秘密度ラベル</strong></a>
-    </div>
-    <em>PDFの追加、編集、カスタマイズ、および削除を行い、ユーザーを保護する方法を説明します [!DNL Microsoft Purview] Acrobatの秘密度ラベルの直接表示</em>
-    <br>
   </td>
   <td>
    <img alt="スペーサー" src="../assets/Grayspacer.png" />
@@ -108,19 +73,14 @@ Acrobatと [!DNL Box], [!DNL Dropbox], [!DNL Google Drive], [!DNL OneDrive]、�
 
 ## Google ドライブ
 
-内部に不可欠なPDFツールと電子サインツールを使用して、短時間でより多くの作業を行う方法を説明します [!DNL Google Drive].
+[!DNL Google Drive]内の重要なPDFツールと電子サインツールを使用して、短時間でより多くの作業を行う方法を説明します。
 
 <table style="table-layout:fixed">
 <tr>
   <td>
     <a href="acrobatandgoogle.md">
-      <img alt="Googleドライブ向けAdobe Acrobat" src="../assets/acrobatgoogle.jpg" />
+      <img alt="Googleドライブ向けAdobe Acrobat" src="../assets/google.png" />
     </a>
-    <div>
-    <a href="acrobatandgoogle.md"><strong>Adobe Acrobat [!DNL Google Drive]</strong></a>
-    </div>
-    <em>内部から直接時間を節約するPDFツールや電子サインワークフローにアクセス [!DNL Google Drive] app</em>
-    <br>
   </td>
   <td>
    <img alt="スペーサー" src="../assets/Whitespacer.png" />
@@ -142,19 +102,14 @@ Acrobatと [!DNL Box], [!DNL Dropbox], [!DNL Google Drive], [!DNL OneDrive]、�
 
 ## Dropbox
 
-に保存されているファイルへのアクセスと操作がいかに簡単かを説明します。 [!DNL Dropbox].
+[!DNL Dropbox]に保存されているファイルへのアクセスと操作がいかに簡単かを説明します。
 
 <table style="table-layout:fixed">
 <tr>
   <td>
     <a href="acrobat-dropbox.md">
-      <img alt="からのファイルを操作 [!DNL Dropbox]" src="../assets/Dropbox.png" />
+      <img alt="からのファイルを操作 [!DNL Dropbox]" src="../assets/work-dropbox.png" />
     </a>
-    <div>
-    <a href="acrobat-dropbox.md"><strong>からのファイルを操作 [!DNL Dropbox]</strong></a>
-    </div>
-    <em>開く、作成、編集、署名、変更の保存の方法について説明します [!DNL Dropbox] Acrobat内のファイル</em>
-    <br>
   </td>
   <td>
    <img alt="スペーサー" src="../assets/Whitespacer.png" />
@@ -176,4 +131,4 @@ Acrobatと [!DNL Box], [!DNL Dropbox], [!DNL Google Drive], [!DNL OneDrive]、�
 
 ## Box
 
-Acrobatと [ボックス](https://www.adobe.com/documentcloud/integrations/box.html){target="_blank"} 組織のすべてのユーザーが、ビジネスを継続して進められるようにシンプルにします。
+Acrobatと[Box](https://www.adobe.com/documentcloud/integrations/box.html){target="_blank"}を使用して、組織内の誰もが業務を継続しやすくする方法を説明します。
