@@ -9,7 +9,7 @@ thumbnail: 33657.jpg
 exl-id: 1e8603ee-fe16-4842-bf0b-1190b5a69d3b
 source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
 workflow-type: tm+mt
-source-wordcount: '80'
+source-wordcount: '77'
 ht-degree: 0%
 
 ---
@@ -26,4 +26,4 @@ Acrobat Signをすばやく導入して稼働させるために管理者が重�
 
 >[!TIP]
 >
->このビデオはコースの一部です [管理者向けAcrobat Signの概要](https://experienceleague.adobe.com/?recommended=Sign-A-1-2020.2) それはExperience Leagueで無料で入手できます！
+>このビデオは、Experience Leagueで無料で利用できる[管理者向けAcrobat Signの概要](https://experienceleague.adobe.com/?recommended=Sign-A-1-2020.2)のコースの一部です。

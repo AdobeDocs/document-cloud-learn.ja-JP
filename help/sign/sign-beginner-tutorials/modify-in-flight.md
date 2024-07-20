@@ -9,7 +9,7 @@ thumbnail: KT-5316.jpg
 exl-id: a6d353a5-823a-4637-8462-f3b8536f078c
 source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
 workflow-type: tm+mt
-source-wordcount: '144'
+source-wordcount: '141'
 ht-degree: 0%
 
 ---
@@ -25,10 +25,10 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->送信後の文書の変更は、エンタープライズレベルのプランでのみ利用できます。 Acrobat Sign管理者が有効にする必要があります **契約書を変更** を **送信設定** セクション **アカウント設定** この機能を使用します。
+>送信後の文書の変更は、エンタープライズレベルのプランでのみ利用できます。 この機能を使用するには、Acrobat Sign管理者が、**アカウント設定**&#x200B;の&#x200B;**送信設定**&#x200B;セクションで&#x200B;**契約書の変更**&#x200B;を有効にする必要があります。
 
 >[!VIDEO](https://video.tv.adobe.com/v/342299?quality=12&learn=on&hidetitle=true)
 
 >[!TIP]
 >
->このビデオはコースの一部です [ユーザー向けの高度なタスク](https://experienceleague.adobe.com/?recommended=Sign-U-1-2020.3) それはExperience Leagueで無料で入手できます！
+>このビデオは、Experience Leagueで無料で利用できるコース[ユーザー向けの高度なタスク](https://experienceleague.adobe.com/?recommended=Sign-U-1-2020.3)の一部です。

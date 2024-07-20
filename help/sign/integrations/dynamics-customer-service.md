@@ -1,20 +1,21 @@
 ---
 title: Microsoft Dynamics 365カスタマーサービス
-description: Acrobat Signと [!DNL Microsoft Dynamics 365] カスタマーサービスは、セルフサービスの顧客webポータルで顧客満足度を向上させるために使用されます
+description: Acrobat Signと [!DNL Microsoft Dynamics 365] カスタマーサービス版を使用して、セルフサービスのお客様のWebポータルでのお客様満足度を高める方法について説明します
 feature: Integrations
 role: Admin, User
 level: Intermediate
 topic: Integrations
 jira: KT-13232
-source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
+exl-id: d028dc18-51ca-4326-bccc-f42f1114f77a
+source-git-commit: 063268e985b7a64beffec8fa939a3d8b38d3d03a
 workflow-type: tm+mt
-source-wordcount: '48'
+source-wordcount: '49'
 ht-degree: 0%
 
 ---
 
-# [!DNL Microsoft Dynamics 365] カスタマーサービス向け
+# カスタマーサービスの[!DNL Microsoft Dynamics 365]
 
-Acrobat Signと [!DNL Microsoft Dynamics 365] カスタマーサービスは、セルフサービスの顧客webポータルで顧客満足度を向上させるために使用されます。
+Acrobat Signと[!DNL Microsoft Dynamics 365] for Customer Serviceを使用して、セルフサービスのお客様のWebポータルでのお客様満足度を向上させる方法について説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3422046?quality=12&learn=on&hidetitle=true)

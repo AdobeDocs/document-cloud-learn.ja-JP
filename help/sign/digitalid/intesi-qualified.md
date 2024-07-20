@@ -1,6 +1,6 @@
 ---
-title: デジタルIDを取得 [!DNL Intesi Group] （適格）
-description: 適格なデジタル署名証明書を取得する方法を説明します。 [!DNL Intesi Group]
+title: ' [!DNL Intesi Group]  （適格）からデジタルIDを取得'
+description: ' [!DNL Intesi Group]から適格なデジタル署名証明書を取得する方法について説明します'
 feature: Digital ID
 role: User
 level: Beginner
@@ -14,14 +14,14 @@ ht-degree: 1%
 
 ---
 
-# デジタルIDを取得 [!DNL Intesi Group] （適格）
+# [!DNL Intesi Group]からデジタルIDを取得（適格）
 
-以下では、様から適格なデジタル署名証明書を取得する方法について説明します [!DNL Intesi Group]. 登録が完了し、IDが確認されたら、 [!DNL Intesi Group] Acrobat Signクラウド署名の適用に使用されるデジタルIDに関する問題が発生します。
+[!DNL Intesi Group]から認定デジタル署名証明書を取得する方法について説明します。 登録が完了し、IDが確認されると、[!DNL Intesi Group]様からAcrobat Signクラウド署名の適用に使用するデジタルIDが発行されます。
 
 >[!VIDEO](https://video.tv.adobe.com/v/337064?quality=12&learn=on&hidetitle=true)
 
 <br> 
 
-**認定製品の使用方法については、以下の画像を選択してください [!DNL Intesi Group] Acrobat SignのデジタルID。**
+**以下の画像を選択して、Acrobat Signで適格な[!DNL Intesi Group]デジタルIDを使用する方法を確認してください。**
 
 [![image](assets/IntesiSign_400.png)](intesi-sign.md)

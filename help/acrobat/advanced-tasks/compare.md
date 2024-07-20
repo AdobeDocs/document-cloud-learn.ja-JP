@@ -28,7 +28,7 @@ ht-degree: 0%
 
 >[!TIP]
 >
-このビデオはコースの一部です [Acrobat DCとMicrosoft 365を使用して、よりスマートに作業](https://experienceleague.adobe.com/?recommended=Acrobat-U-1-2021.microsoft365) それはExperience Leagueで無料で入手できます！
+このビデオは、Experience Leagueで無料で利用できるコース[Acrobat DCとMicrosoft 365を使ってよりスマートに作業](https://experienceleague.adobe.com/?recommended=Acrobat-U-1-2021.microsoft365)の一部です。
 
 >[!NOTE]
 >

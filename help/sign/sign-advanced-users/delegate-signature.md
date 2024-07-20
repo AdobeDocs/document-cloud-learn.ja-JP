@@ -9,7 +9,7 @@ thumbnail: 17366.jpg
 exl-id: b9d7c6f4-a7fc-4cb8-a80d-91cc4c5b5298
 source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
 workflow-type: tm+mt
-source-wordcount: '110'
+source-wordcount: '107'
 ht-degree: 3%
 
 ---
@@ -20,10 +20,10 @@ ht-degree: 3%
 
 >[!NOTE]
 >
->委任者の役割は、エンタープライズレベルのプランでのみ使用できます。 Acrobat Sign管理者が有効にする必要がある場合があります **送信者が受信者を委任者としてマークすることを許可** 設定#セッテイ# **送信設定** セクション **アカウント設定** この機能を使用します。
+>委任者の役割は、エンタープライズレベルのプランでのみ使用できます。 この機能を使用するには、Acrobat Sign管理者が、**アカウント設定**&#x200B;の&#x200B;**送信設定**&#x200B;セクションで&#x200B;**送信者が一部の受信者を委任者としてマークすることを許可**&#x200B;設定を有効にする必要がある場合があります。
 
 >[!VIDEO](https://video.tv.adobe.com/v/343621?quality=12&learn=on&hidetitle=true)
 
 >[!TIP]
 >
->このビデオはコースの一部です [ユーザー向けの高度なタスク](https://experienceleague.adobe.com/?recommended=Sign-U-1-2020.3) それはExperience Leagueで無料で入手できます！
+>このビデオは、Experience Leagueで無料で利用できるコース[ユーザー向けの高度なタスク](https://experienceleague.adobe.com/?recommended=Sign-U-1-2020.3)の一部です。

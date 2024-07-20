@@ -10,8 +10,8 @@ thumbnail: KT-6849.jpg
 exl-id: 1b6ea9f0-6bbb-4ea5-aa22-bfa42f7cca18
 source-git-commit: d27cd14d332812292e2ed3414cd9bb3937141930
 workflow-type: tm+mt
-source-wordcount: '503'
-ht-degree: 3%
+source-wordcount: '506'
+ht-degree: 2%
 
 ---
 
@@ -37,9 +37,9 @@ Acrobat Signのユーザーを追加および管理する方法について説�
       <img alt="新しい管理者向け導入ガイド" src="../assets/Gettingstartedadmin_1280.png" />
     </a>
     <div>
-    <a href="get-started-admin.md"><strong>新しい管理者向け導入ガイド</strong></a>
+    <a href="get-started-admin.md"><strong>新しい管理者の基本を学ぶ</strong></a>
     </div>
-    <em>この包括的なビデオガイドでは、Acrobat Signを導入して稼働させるために必要なすべてのツールについて説明します</em>
+    <em>この包括的なビデオガイドでは、Acrobat Signを使用して組織を稼働させるために必要なすべてのツールについて説明します</em>
     <br>
   </td>
   <td>
@@ -47,9 +47,9 @@ Acrobat Signのユーザーを追加および管理する方法について説�
       <img alt="管理者の場合は稼働している" src="../assets/Up-Running.png" />
     </a>
     <div>
-    <a href="up-and-running-admin.md"><strong>管理者の場合は稼働している</strong></a>
+    <a href="up-and-running-admin.md"><strong>管理者の管理を開始しています</strong></a>
     </div>
-    <em>Acrobat Signを迅速に導入して運用するための7つの主要分野の概要</em>
+    <em>Acrobat Signで管理者が迅速に導入および導入するための7つの主要分野の概要</em>
     <br>
   </td>
   <td>
@@ -89,9 +89,9 @@ Acrobat Signのユーザーを追加および管理する方法について説�
       <img alt="外部アーカイブの設定" src="../assets/ExternalArchive.png" />
     </a>
     <div>
-    <a href="set-up-your-external-archive.md"><strong>外部アーカイブの設定</strong></a>
+    <a href="set-up-your-external-archive.md"><strong>外部アーカイブを設定しています</strong></a>
     </div>
-    <em>署名済みの契約書のバックアップコピーの外部アーカイブを作成</em>
+    <em>署名済みの契約書のバックアップコピーの外部アーカイブを作成する</em>
     <br>
   </td>
   <td>
@@ -99,9 +99,9 @@ Acrobat Signのユーザーを追加および管理する方法について説�
       <img alt="文書テンプレートの作成" src="../assets/Template.png" />
     </a>
     <div>
-    <a href="../sign-advanced-users/create-a-template.md"><strong>文書テンプレートの作成</strong></a>
+    <a href="../sign-advanced-users/create-a-template.md"><strong>ドキュメントテンプレートを作成しています</strong></a>
     </div>
-    <em>迅速かつ一貫性のある再利用可能な文書テンプレートを作成</em>
+    <em>スピードと一貫性を保つために再利用可能な文書テンプレートを作成</em>
     <br>
   </td>
   <td>
@@ -109,9 +109,9 @@ Acrobat Signのユーザーを追加および管理する方法について説�
       <img alt="レポートチャートの作成" src="../assets/Reportchart.png" />
     </a>
     <div>
-    <a href="create-a-report.md"><strong>レポートチャートの作成</strong></a>
+    <a href="create-a-report.md"><strong>レポートグラフを作成しています</strong></a>
     </div>
-    <em>独自のカスタムレポートやデータ書き出しを作成、保存、管理する方法について説明します</em>
+    <em>独自のカスタムレポートおよびデータエクスポートを作成、保存、および管理する方法を説明します</em>
     <br>
   </td>
 </tr>
@@ -123,7 +123,7 @@ Acrobat Signのユーザーを追加および管理する方法について説�
     <div>
     <a href="report-options.md"><strong>ユーザーのレポートオプション</strong></a>
     </div>
-    <em>ユーザーのレポートオプションを設定する方法について説明します</em>
+    <em>ユーザーのレポートオプションを設定する方法を説明します</em>
     <br>
   </td>
   <td>
@@ -131,9 +131,9 @@ Acrobat Signのユーザーを追加および管理する方法について説�
       <img alt="Webフォームの作成" src="../assets/Webform.png" />
     </a>
     <div>
-    <a href="../sign-advanced-users/webform.md"><strong>Webフォームの作成</strong></a>
+    <a href="../sign-advanced-users/webform.md"><strong>Webフォームを作成しています</strong></a>
     </div>
-    <em>Webサイトで直接電子署名できる文書を作成</em>
+    <em>Webサイトで直接電子サインできる文書を作成</em>
     <br>
   </td>
   <td>
@@ -141,9 +141,9 @@ Acrobat Signのユーザーを追加および管理する方法について説�
       <img alt="既存のwebフォームを変更" src="../assets/Modifywebform.png" />
     </a>
     <div>
-    <a href="../sign-advanced-users/modify-webform.md"><strong>既存のwebフォームを変更</strong></a>
+    <a href="../sign-advanced-users/modify-webform.md"><strong>既存のWebフォームを変更する</strong></a>
     </div>
-    <em>既存のwebフォームを無効にし、編集し、再度有効にする方法について説明します</em>
+    <em>既存のWebフォームを無効にし、編集し、再度有効にする方法を説明します</em>
     <br>
   </td>
   <td>
@@ -163,9 +163,9 @@ Acrobat Signのユーザーを追加および管理する方法について説�
       <img alt="ワークフローの設定" src="../assets/BuildingWorkflow.png" />
     </a>
     <div>
-    <a href="building-a-custom-workflow.md"><strong>ワークフローの設定</strong></a>
+    <a href="building-a-custom-workflow.md"><strong>ワークフローを設定しています</strong></a>
     </div>
-    <em>文書ワークフローを自動化して電子サインとデータをすばやく取得</em>
+    <em>文書ワークフローを自動化して、電子サインとデータをすばやく取得</em>
     <br>
   </td>
   <td>
@@ -196,7 +196,7 @@ Acrobat Signのユーザーを追加および管理する方法について説�
     <div>
     <a href="learn-about-global-settings.md"><strong>グローバル設定</strong></a>
     </div>
-    <em>組織全体または特定のグループの製品設定をグローバルに編集</em>
+    <em>組織全体または特定のグループの製品設定をグローバルに編集する</em>
     <br>
   </td>
   <td>
@@ -206,7 +206,7 @@ Acrobat Signのユーザーを追加および管理する方法について説�
     <div>
     <a href="share-account-access.md"><strong>アカウントアクセスの共有</strong></a>
     </div>
-    <em>別のユーザーのアカウントにあるトランザクションへの表示専用アクセスを設定</em>
+    <em>別のユーザーのアカウントのトランザクションへの表示専用アクセスを設定します</em>
     <br>
   </td>
   <td>
@@ -216,7 +216,7 @@ Acrobat Signのユーザーを追加および管理する方法について説�
     <div>
     <a href="advanced-account-sharing.md"><strong>高度なアカウント共有</strong></a>
     </div>
-    <em>アカウント共有を設定して、管理者とユーザーが送信、変更、および表示の権限を委任できるようにします</em>
+    <em>管理者とユーザーが送信、変更、および表示のアクセス許可を委任できるようにアカウント共有を設定する</em>
     <br>
   </td>
   <td>
@@ -224,9 +224,9 @@ Acrobat Signのユーザーを追加および管理する方法について説�
       <img alt="バイオ医薬業界標準対応の使用" src="../assets/Bio_1280.png" />
     </a>
     <div>
-    <a href="use-bio-pharma-settings.md"><strong>バイオ医薬業界標準対応の使用</strong></a>
+    <a href="use-bio-pharma-settings.md"><strong>バイオ医薬業界標準対応の使い方</strong></a>
     </div>
-    <em>FDA 21 CFR Part 11の要件を満たすことができるバイオ医薬業界標準対応の設定を行います。</em>
+    <em>FDA 21 CFR Part 11の要件を満たすことができるバイオ医薬業界標準対応の設定を行います</em>
     <br>
   </td> 
 </tr>
@@ -236,9 +236,9 @@ Acrobat Signのユーザーを追加および管理する方法について説�
       <img alt="Acrobat Signテキストタグ付け" src="../assets/Text-Tagging.png" />
     </a>
     <div>
-    <a href="../sign-advanced-users/adobe-sign-text-tagging.md"><strong>Acrobat Signテキストタグ付け</strong></a>
+    <a href="../sign-advanced-users/adobe-sign-text-tagging.md"><strong>Acrobat Signのテキストタグ付け</strong></a>
     <div>
-    <em>Adobe Acrobatを使用したテキストタグ付けによるAcrobat Signフォームフィールドの作成</em>
+    <em>Adobe Acrobatを使用してテキストタグ付けによりAcrobat Signフォームフィールドを作成する</em>
     <br>
   </td>
   <td>

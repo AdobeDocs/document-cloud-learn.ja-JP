@@ -10,7 +10,7 @@ kt: 8989
 exl-id: d4309ad3-003a-4415-9845-8919006c7567
 source-git-commit: 68305a58ae7f9d5844568f2195be734245b8846d
 workflow-type: tm+mt
-source-wordcount: '136'
+source-wordcount: '144'
 ht-degree: 0%
 
 ---
@@ -33,9 +33,9 @@ Acrobat Signを使うのは初めてですか？ この包括的なチュート�
     </a>
   </td>
   <td>
-     <a href="https://video.tv.adobe.com/v/337151?quality=12&learn=on&hidetitle=true"><strong>ログイン</strong></a>
+     <a href="https://video.tv.adobe.com/v/337151?quality=12&learn=on&hidetitle=true"><strong>サインイン</strong></a>
          <br>
-        <em>0:00から開始</em>
+        <em>0:00</em>から開始
     </td>
      <td>
     <a href="https://video.tv.adobe.com/v/337151?quality=12&learn=on&hidetitle=true&t=56">
@@ -45,7 +45,7 @@ Acrobat Signを使うのは初めてですか？ この包括的なチュート�
   <td>
      <a href="https://video.tv.adobe.com/v/337151?quality=12&learn=on&hidetitle=true&t=56"><strong>ホームページ</strong></a>
          <br>
-        <em>0:56から開始</em>
+        <em>0:56</em>から開始
     </td>
     <td>
     <a href="https://video.tv.adobe.com/v/337151?quality=12&learn=on&hidetitle=true&t=153">
@@ -55,7 +55,7 @@ Acrobat Signを使うのは初めてですか？ この包括的なチュート�
   <td>
      <a href="https://video.tv.adobe.com/v/337151/?quality=12&learn=on&hidetitle=true&t=153"><strong>プロファイルの設定</strong></a>
         <br>
-        <em>2:33から開始</em>
+        <em>2時33分に開始</em>
     </td>
     <td>
     <a href="https://video.tv.adobe.com/v/337151?quality=12&learn=on&hidetitle=true&t=272">
@@ -65,7 +65,7 @@ Acrobat Signを使うのは初めてですか？ この包括的なチュート�
   <td>
      <a href="https://video.tv.adobe.com/v/337151?quality=12&learn=on&hidetitle=true&t=272"><strong>送信設定</strong></a>
         <br>
-        <em>4:32から開始</em>
+        <em>4時32分に開始</em>
     </td>
   </tr>
   <tr>
@@ -75,9 +75,9 @@ Acrobat Signを使うのは初めてですか？ この包括的なチュート�
     </a>
   </td>
   <td>
-     <a href="https://video.tv.adobe.com/v/337151?quality=12&learn=on&hidetitle=true&t=551"><strong>入力可能なフィールドを追加</strong></a>
+     <a href="https://video.tv.adobe.com/v/337151?quality=12&learn=on&hidetitle=true&t=551"><strong>入力可能なフィールドの追加</strong></a>
          <br>
-        <em>9:11から開始</em>
+        <em>9時11分に開始</em>
     </td>
     <td>
     <a href="https://video.tv.adobe.com/v/337151?quality=12&learn=on&hidetitle=true&t=719">
@@ -87,7 +87,7 @@ Acrobat Signを使うのは初めてですか？ この包括的なチュート�
   <td>
      <a href="https://video.tv.adobe.com/v/337151?quality=12&learn=on&hidetitle=true&t=719"><strong>署名エクスペリエンス</strong></a>
         <br>
-        <em>11:59から開始</em>
+        <em>11:59に開始</em>
     </td>
     <td>
     <a href="https://video.tv.adobe.com/v/337151?quality=12&learn=on&hidetitle=true&t=774">
@@ -97,7 +97,7 @@ Acrobat Signを使うのは初めてですか？ この包括的なチュート�
   <td>
      <a href="https://video.tv.adobe.com/v/337151?quality=12&learn=on&hidetitle=true&t=774"><strong>ドキュメントの管理と追跡</strong></a>
         <br>
-        <em>12:54から開始</em>
+        <em>12:54</em>から開始
     </td>
     <td>
     <a href="https://video.tv.adobe.com/v/337151?quality=12&learn=on&hidetitle=true&t=898">
@@ -107,7 +107,7 @@ Acrobat Signを使うのは初めてですか？ この包括的なチュート�
   <td>
      <a href="https://video.tv.adobe.com/v/337151/?quality=12&learn=on&hidetitle=true&t=898"><strong>サポートとリソース</strong></a>
         <br>
-        <em>14:58から開始</em>
+        <em>14:58</em>から開始
     </td>
   </tr>
   </table>

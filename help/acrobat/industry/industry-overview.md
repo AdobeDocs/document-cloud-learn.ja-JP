@@ -27,7 +27,7 @@ ht-degree: 0%
       <img alt="Governmentチュートリアル" src="../assets/Government.png" />
     </a>
     <div>
-    <a href="gov/gov-overview.md"><strong>Governmentチュートリアル</strong></a>
+    <a href="gov/gov-overview.md"><strong>官公庁向けチュートリアル</strong></a>
     </div>
     <em>連邦、州、地方自治体に特化したAcrobatチュートリアルをご覧ください</em>
     <br>

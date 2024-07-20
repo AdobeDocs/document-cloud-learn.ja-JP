@@ -13,7 +13,7 @@ thumbnail: 332506.jpg
 exl-id: f2505944-82eb-4e41-929a-a9a0acc81194
 source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
 workflow-type: tm+mt
-source-wordcount: '141'
+source-wordcount: '125'
 ht-degree: 0%
 
 ---
@@ -26,15 +26,15 @@ ht-degree: 0%
 
 1. Marketo Salesforce Syncをインストールします。
 
-   情報およびSalesforce Syncの最新プラグインが利用可能です。 [はい。](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/salesforce-sync/understanding-the-salesforce-sync.html)
+   情報およびSalesforce Syncの最新プラグインは、[こちら](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/salesforce-sync/understanding-the-salesforce-sync.html)から入手できます。
 
 1. Salesforce用Acrobat Signをインストールします。
 
-   このプラグインに関する情報が利用可能です [はい。](https://helpx.adobe.com/ca/sign/using/salesforce-integration-installation-guide.html)
+   このプラグインに関する情報は、[こちら](https://helpx.adobe.com/ca/sign/using/salesforce-integration-installation-guide.html)から入手できます。
 
 >[!VIDEO](https://video.tv.adobe.com/v/332506?quality=12&learn=on&hidetitle=true)
 
 >[!TIP]
 >
->このビデオはコースの一部です [SalesforceおよびMarketo向けAcrobat Signで販売サイクルを加速](https://experienceleague.adobe.com/?recommended=Sign-U-1-2021.1) それはExperience Leagueで無料で入手できます！
+>このビデオは、Experience Leagueで無料で利用できる[SalesforceおよびMarketo向けAcrobat Signを使用して、販売サイクルを加速する](https://experienceleague.adobe.com/?recommended=Sign-U-1-2021.1)コースの一部です。
 

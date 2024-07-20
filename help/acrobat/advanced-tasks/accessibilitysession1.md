@@ -9,7 +9,7 @@ thumbnail: KT-8606.jpg
 exl-id: 3765673b-15fd-4071-bb31-e589feffa471
 source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
 workflow-type: tm+mt
-source-wordcount: '108'
+source-wordcount: '106'
 ht-degree: 0%
 
 ---
@@ -18,7 +18,7 @@ ht-degree: 0%
 
 このセッションでは、PDFをアクセシブルにする方法、アクセシビリティ対応のPDFを処理するようにAcrobat Proを設定する方法、ソース文書からPDFへの変換プロセスについて説明します。
 
-クリック [こちら](../assets/accessibilitysession1.zip) ハンズオンセッションファイルのzipフォルダーをダウンロードします。
+[ここ](../assets/accessibilitysession1.zip)をクリックして、ハンズオンセッションファイルのzipフォルダーをダウンロードします。
 
 画像を選択して、別のブラウザータブにビデオを表示します。
 

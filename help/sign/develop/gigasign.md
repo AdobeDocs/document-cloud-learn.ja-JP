@@ -21,23 +21,23 @@ Gigasignを使用すると、何千人もの人に同時に文書を送信、収
 
 >[!IMPORTANT]
 >
->GigaSignは、JavaまたはAcrobat Signの最新バージョンには更新されず、サポート対象外になります。 GigaSignの機能は、 [一括送信](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/megasign.html?) 機能。 GigaSignの使用を明示的に必要としないユースケースには、すべて「一括送信」を使用してください。
+>GigaSignは、JavaまたはAcrobat Signの最新バージョンには更新されず、サポート対象外になります。 GigaSignの機能は、[一括送信](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/megasign.html?)機能の下の製品に追加されます。 GigaSignの使用を明示的に必要としないユースケースには、すべて「一括送信」を使用してください。
 
 >[!VIDEO](https://video.tv.adobe.com/v/328113?quality=12&learn=on&hidetitle=true)
 
 ## GigaSignアプリをダウンロードしてインストールします
 
-[GigaSign Zipファイルをダウンロード](https://acrobat.adobe.com/id/urn:aaid:sc:US:001cf62d-1cab-46c7-aa96-661ac8680206)
+[GigaSign Zipファイルのダウンロード](https://acrobat.adobe.com/id/urn:aaid:sc:US:001cf62d-1cab-46c7-aa96-661ac8680206)
 
 [Java 1.8ダウンロードリンク（必要な場合のみ）](https://www.oracle.com/java/technologies/javase/javase8-archive-downloads.html) {target="_blank"}
 
-[ホワイトリストへのIPアドレス（必要な場合のみ）](https://helpx.adobe.com/jp/sign/system-requirements.html#IPs){target="_blank"}
+[IPアドレスをホワイトリストに追加（必要な場合のみ）](https://helpx.adobe.com/jp/sign/system-requirements.html#IPs){target="_blank"}
 
 ## 基本的なセットアップ手順
 
 1. Acrobat Signアカウントにログインします。
 
-1. クリック **[!UICONTROL グループ]** または **[!UICONTROL アカウント]**&#x200B;上に見えるものはどちらでも構いません。
+1. 上部に表示されている&#x200B;**[!UICONTROL グループ]**&#x200B;または&#x200B;**[!UICONTROL アカウント]**&#x200B;のいずれかをクリックします。
 
 1. 画面の左側にある検索フィールドに「アクセストークン」と入力します。
 
@@ -49,7 +49,7 @@ Gigasignを使用すると、何千人もの人に同時に文書を送信、収
 
 1. GigaSignを開きます。
 
-1. 「 **[!UICONTROL 設定]** アイコンが表示されます。
+1. 右上の&#x200B;**[!UICONTROL 設定]**&#x200B;アイコンをクリックします。
 
 1. 最初の行に統合キーを貼り付けます。
 

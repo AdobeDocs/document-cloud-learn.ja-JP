@@ -1,6 +1,6 @@
 ---
-title: からのファイルを操作 [!DNL Dropbox]
-description: 開く、作成、編集、署名、変更の保存の方法について説明します [!DNL Dropbox] Acrobat内のファイル
+title: ' [!DNL Dropbox]のファイルを使用する'
+description: Acrobat内から [!DNL Dropbox] ファイルを開く、作成する、編集する、署名する、変更内容を保存する方法について説明します
 feature: Integrations, Create PDF, Sign, Edit PDF
 role: User
 level: Beginner
@@ -16,8 +16,8 @@ ht-degree: 0%
 
 ---
 
-# からのファイルを操作 [!DNL Dropbox]
+# [!DNL Dropbox]のファイルを操作する
 
-開く、作成、編集、署名、変更の保存の方法について説明します [!DNL Dropbox] Acrobat内のファイル DropboxアカウントをAcrobatに連携させると、すべてのファイルをすぐに利用できるため、時間を節約できます。
+Acrobat内から[!DNL Dropbox]ファイルを開く、作成する、編集する、署名する、変更内容を保存する方法について説明します。 DropboxアカウントをAcrobatに連携させると、すべてのファイルをすぐに利用できるため、時間を節約できます。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3409411?quality=12&learn=on&hidetitle=true)

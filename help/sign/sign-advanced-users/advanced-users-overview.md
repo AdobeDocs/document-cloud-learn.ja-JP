@@ -10,7 +10,7 @@ exl-id: c4f0a953-e28b-4488-a27c-010b5adaf7ec
 source-git-commit: b12425a4dd0f6cac45349e161f83cf1945519589
 workflow-type: tm+mt
 source-wordcount: '428'
-ht-degree: 5%
+ht-degree: 2%
 
 ---
 
@@ -34,9 +34,9 @@ Acrobat Signで文書に署名するユーザーの身元を証明する様々�
       <img alt="署名順序の設定" src="../assets/Routing.png">
     </a>
     <div>
-    <a href="setting-up-routing.md"><strong>署名順序の設定</strong></a>
+    <a href="setting-up-routing.md"><strong>署名順序を設定しています</strong></a>
     </div>
-    <em>複数の署名者の署名順序の設定</em>
+    <em>複数の署名者の署名順序を設定する</em>
     <br>
   </td>
   <td>
@@ -44,9 +44,9 @@ Acrobat Signで文書に署名するユーザーの身元を証明する様々�
       <img alt="他のユーザーに委任しています" src="../assets/Delegating.png" />
     </a>  
     <div>
-    <a href="delegate-signature.md"><strong>委任者の役割の使用</strong></a>
+    <a href="delegate-signature.md"><strong>委任者の役割を使用する</strong></a>
     </div>
-    <em>委任者の役割を使用して、仲介者に文書を送信します。仲介者はその文書を署名用に回覧できます</em>
+    <em>委任者の役割を使用して文書を仲介者に送信し、仲介者がその文書を署名用に回覧できるようにします</em>
     <br>
   </td>
   <td>
@@ -54,9 +54,9 @@ Acrobat Signで文書に署名するユーザーの身元を証明する様々�
       <img alt="承認者の役割の使用" src="../assets/Approver.png" />
     </a>
     <div>
-    <a href="add-an-approver.md"><strong>承認者の役割の使用</strong></a>
+    <a href="add-an-approver.md"><strong>承認者の役割を使用しています</strong></a>
     </div>
-    <em>契約承認プロセスに承認者の役割を追加します。</em>
+    <em>承認者の役割を契約承認プロセスに追加します</em>
     <br>
   </td>
   <td>
@@ -76,9 +76,9 @@ Acrobat Signで文書に署名するユーザーの身元を証明する様々�
         <img alt="フォームデータを管理" src="../assets/manage-form-data.png" />
       </a>
       <div>
-      <a href="manage-form-data.md"><strong>フォームデータを管理</strong></a>
+      <a href="manage-form-data.md"><strong>フォームデータの管理</strong></a>
       </div>
-      <em>文書からフォームデータを統合する方法について説明します。</em>
+      <em>ドキュメントからフォームデータを統合する方法を説明します</em>
       <br>
     </td>
   <td>
@@ -86,9 +86,9 @@ Acrobat Signで文書に署名するユーザーの身元を証明する様々�
       <img alt="オンライン決済の設定" src="../assets/Payments.png" />
     </a>
     <div>
-    <a href="set-up-online-payments.md"><strong>オンライン決済の設定</strong></a>
+    <a href="set-up-online-payments.md"><strong>オンラインでの支払いを設定する</strong></a>
     </div>
-    <em>ドキュメントでオンライン支払いを設定して受け入れる方法について説明します</em>
+    <em>ドキュメントでオンラインでの支払いを設定して受け入れる方法を説明します</em>
     <br>
   </td>
   <td>
@@ -98,7 +98,7 @@ Acrobat Signで文書に署名するユーザーの身元を証明する様々�
       <div>
       <a href="megasign.md"><strong>一括送信</strong></a>
       </div>
-      <em>簡単な手順で、あらゆる文書の数百もの署名を一度に収集</em>
+      <em>簡単な手順で、数百の署名を一度に収集できます</em>
       <br>
   </td>
  <td>
@@ -106,9 +106,9 @@ Acrobat Signで文書に署名するユーザーの身元を証明する様々�
         <img alt="Webフォームの作成" src="../assets/Webform.png" />
     </a>
       <div>
-      <a href="webform.md"><strong>Webフォームの作成</strong></a>
+      <a href="webform.md"><strong>Webフォームを作成しています</strong></a>
       </div>
-      <em>Webサイトで直接電子署名できる文書を作成する方法について説明します</em>
+      <em>Webサイトで直接電子サインできる文書を作成する方法を説明します</em>
       <br>
   </td>
 </tr>
@@ -118,9 +118,9 @@ Acrobat Signで文書に署名するユーザーの身元を証明する様々�
         <img alt="Acrobat Signテキストタグ付け" src="../assets/Text-Tagging.png" />
     </a>
       <div>
-      <a href="adobe-sign-text-tagging.md"><strong>Acrobat Signテキストタグ付け</strong></a>
+      <a href="adobe-sign-text-tagging.md"><strong>Acrobat Signのテキストタグ付け</strong></a>
       </div>
-      <em>Adobe Acrobatを使用したテキストタグ付けによるAcrobat Signフォームフィールドの作成</em>
+      <em>Adobe Acrobatを使用してテキストタグ付けによりAcrobat Signフォームフィールドを作成する</em>
       <br>
     </td>
   <td>
@@ -128,9 +128,9 @@ Acrobat Signで文書に署名するユーザーの身元を証明する様々�
       <img alt="でテキストタグを使用する [!DNL Microsoft Word]" src="../assets/Wordtexttagging.png" />
   </a>
     <div>
-    <a href="text-tagging-word.md"><strong>でテキストタグを使用する [!DNL Microsoft Word]</strong></a>
+    <a href="text-tagging-word.md"><strong>[!DNL Microsoft Word]</strong></a>でのテキストタグの使用
     </div>
-    <em>でAcrobat Signテキストタグを追加して、再利用可能な文書テンプレートを作成する方法について説明します。 [!DNL Microsoft Word]</em>
+    <em>[!DNL Microsoft Word]</em>でAcrobat Signのテキストタグを追加して、再利用可能な文書テンプレートを作成する方法を学びます
     <br>
   </td>
   <td>
@@ -155,9 +155,9 @@ Acrobat Signで文書に署名するユーザーの身元を証明する様々�
       <img alt="レポートの作成" src="../assets/Report.png" />
     </a>
     <div>
-    <a href="creating-a-report.md"><strong>レポートの作成</strong></a>
+    <a href="creating-a-report.md"><strong>レポートを作成しています</strong></a>
     </div>
-    <em>独自のレポートを作成して、文書署名プロセスを可視化する方法について説明します</em>
+    <em>独自のレポートを作成して、文書の署名プロセスを可視化する方法を説明します</em>
     <br>
   </td>
   <td>
@@ -165,9 +165,9 @@ Acrobat Signで文書に署名するユーザーの身元を証明する様々�
       <img alt="文書テンプレートの管理" src="../assets/ManageTemplate.png" />
     </a>
     <div>
-    <a href="edit-a-template.md"><strong>文書テンプレートの管理</strong></a>
+    <a href="edit-a-template.md"><strong>ドキュメントテンプレートの管理</strong></a>
     </div>
-    <em>ライブラリのテンプレートを編集または削除</em>
+    <em>ライブラリのテンプレートを編集または削除する</em>
     <br>
   </td>
   <td>
@@ -175,9 +175,9 @@ Acrobat Signで文書に署名するユーザーの身元を証明する様々�
       <img alt="既存のwebフォームを変更" src="../assets/Modifywebform.png" />
     </a>
     <div>
-    <a href="modify-webform.md"><strong>既存のwebフォームを変更</strong></a>
+    <a href="modify-webform.md"><strong>既存のWebフォームを変更する</strong></a>
     </div>
-    <em>既存のwebフォームを無効にし、編集し、再度有効にする方法について説明します</em>
+    <em>既存のWebフォームを無効にし、編集し、再度有効にする方法を説明します</em>
     <br>
   </td>  
   <td>
@@ -185,9 +185,9 @@ Acrobat Signで文書に署名するユーザーの身元を証明する様々�
       <img alt="Webフォームデータの管理" src="../assets/Managewebform.png" />
     </a>
     <div>
-    <a href="manage-webform-data.md"><strong>Webフォームデータの管理</strong></a>
+    <a href="manage-webform-data.md"><strong>Webフォームデータを管理しています</strong></a>
     </div>
-    <em>Webフォームからデータをトラック、管理、および書き出す方法について説明します</em>
+    <em>Webフォームからデータを追跡、管理、およびエクスポートする方法を説明します</em>
     <br>
   </td>  
 </tr>

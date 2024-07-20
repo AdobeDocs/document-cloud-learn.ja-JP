@@ -22,26 +22,26 @@ ht-degree: 0%
 >
 >Acrobat Proでのみ利用可能です。
 
-1. 選択 **[!UICONTROL Action Wizard]** から [!UICONTROL ツール] 中央または右側のペイン。
+1. **[!UICONTROL Action Wizard]**&#x200B;を[!UICONTROL ツール]中央または右側のパネルから選択します。
 
    ![Action Wizardステップ1](../assets/ActionWizard_1.png)
 
-   事前定義されたアクションは、 **アクションリスト**.
+   定義済みのアクションが&#x200B;**アクションリスト**&#x200B;に表示されます。
 
-1. 選択 **[!UICONTROL 新しいアクション]** をクリックして、カスタムアクションを作成します。
+1. 上部のメニューの&#x200B;**[!UICONTROL 新しいアクション]**&#x200B;を選択して、カスタムアクションを作成します。
 
-   ![Action Wizardステップ2](../assets/ActionWizard_2.png)
+   ![Action Wizard手順2](../assets/ActionWizard_2.png)
 
-1. 左側のリストからタスクを選択し、中央矢印を選択して右側の列に追加します。 **[!UICONTROL 新規アクションを作成]** ダイアログボックスに表示されます。
+1. 左側の一覧からタスクを選択し、中央の矢印を選択して&#x200B;**[!UICONTROL 新しいアクションの作成]**&#x200B;ダイアログボックスの右側の列に追加します。
 
-   *各タスクの設定は、このダイアログボックスで事前に決定されます。または、アクションの実行時に必要な決定を行うようにユーザーに求めることができます。*
+   *各タスクの設定はこのダイアログボックスで事前に決定されています。または、アクションの実行中に必要な決定を行うようにユーザーに求めることができます。*
 
-   ![Action Wizardステップ3](../assets/ActionWizard_3.png)
+   ![Action Wizard手順3](../assets/ActionWizard_3.png)
 
-1. 選択 **[!UICONTROL 保存]** に表示されるように名前を付けます **[!UICONTROL アクションリスト]**.
+1. 「**[!UICONTROL 保存]**」を選択し、アクションに&#x200B;**[!UICONTROL アクションリスト]**&#x200B;に表示されるように名前を付けます。
 
 1つまたは複数のPDFファイルに対して一連の手順を実行する必要がある場合に、いつでもカスタムアクションを実行できるようになりました。
 
 >[!TIP]
 >
->このビデオはコースの一部です [Acrobat DCとMicrosoft 365を使用して、よりスマートに作業](https://experienceleague.adobe.com/?recommended=Acrobat-U-1-2021.microsoft365) それはExperience Leagueで無料で入手できます！
+>このビデオは、Experience Leagueで無料で利用できるコース[Acrobat DCとMicrosoft 365を使ってよりスマートに作業](https://experienceleague.adobe.com/?recommended=Acrobat-U-1-2021.microsoft365)の一部です。

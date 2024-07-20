@@ -1,6 +1,6 @@
 ---
-title: デジタルIDを取得 [!DNL Intesi Group] （上級）
-description: 様から高度なデジタル署名証明書を取得する方法について説明します。 [!DNL Intesi Group]
+title: ' [!DNL Intesi Group] からデジタルIDを取得（上級）'
+description: ' [!DNL Intesi Group]から高度なデジタル署名証明書を取得する方法について説明します'
 feature: Digital ID
 role: User
 level: Beginner
@@ -14,14 +14,14 @@ ht-degree: 1%
 
 ---
 
-# デジタルIDを取得 [!DNL Intesi Group] （上級）
+# [!DNL Intesi Group]からデジタルIDを取得（上級）
 
-様から高度なデジタル署名証明書を取得する方法について説明します。 [!DNL Intesi Group]. 登録が完了し、IDが確認されたら、 [!DNL Intesi Group] Acrobat Signクラウド署名の適用に使用されるデジタルIDに関する問題が発生します。
+[!DNL Intesi Group]から高度なデジタル署名証明書を取得する方法について説明します。 登録が完了し、IDが確認されると、[!DNL Intesi Group]様からAcrobat Signクラウド署名の適用に使用するデジタルIDが発行されます。
 
 >[!VIDEO](https://video.tv.adobe.com/v/337065?quality=12&learn=on&hidetitle=true)
 
 <br> 
 
-**下の画像を選択して、アドバンスドの使い方を学びましょう [!DNL Intesi Group] Acrobat SignのデジタルID。**
+**以下の画像を選択して、Acrobat Signで高度な[!DNL Intesi Group]デジタルIDを使用する方法を確認してください。**
 
 [![image](assets/IntesiSign_400.png)](intesi-sign.md)

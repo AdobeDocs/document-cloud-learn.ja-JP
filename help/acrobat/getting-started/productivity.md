@@ -20,7 +20,7 @@ ht-degree: 0%
 
 >[!TIP]
 >
->どこからでもアクセスできるAcrobatツールについて詳しく知りたいですか？ チェックアウト [Acrobat webでどこでも作業](acrobatweb.md).
+>どこからでもアクセスできるAcrobatツールについて詳しく知りたいですか？ [Acrobat webでどこでも作業](acrobatweb.md)を確認してください。
 
 <br> 
 

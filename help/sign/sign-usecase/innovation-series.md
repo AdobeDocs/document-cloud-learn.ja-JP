@@ -19,4 +19,4 @@ ht-degree: 0%
 
 Acrobat Sign Skill Buildersは、1日の作業を増やすことなく、電子サインを活用するための30分間のセッションです。 毎月新しいトピックがハイライト表示されます。
 
-すべてのオンデマンドウェビナーをチェックする [こちら](https://experienceleague.adobe.com/en/docs/events/acrobat-sign-webinars/overview).
+[こちら](https://experienceleague.adobe.com/en/docs/events/acrobat-sign-webinars/overview)で、すべてのオンデマンドウェビナーをご覧ください。

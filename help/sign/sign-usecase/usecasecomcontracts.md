@@ -16,7 +16,7 @@ ht-degree: 0%
 
 # 商用の契約書と請求フォーム
 
-監査レポートを備えた、コンプライアンスに準拠したデジタル・ワークフローにより、紙の処理を迅速に置き換えます。 詳細を見る [Acrobat Sign Workflow Designer](../admin/building-a-custom-workflow.md) プロセス全体を合理化するためのツール。
+監査レポートを備えた、コンプライアンスに準拠したデジタル・ワークフローにより、紙の処理を迅速に置き換えます。 プロセス全体を合理化するための[Acrobat SignワークフローDesigner](../admin/building-a-custom-workflow.md)ツールについて説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/33980?quality=12&learn=on&hidetitle=true)
 

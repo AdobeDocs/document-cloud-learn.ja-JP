@@ -10,8 +10,8 @@ thumbnail: 17367.jpg
 exl-id: e3d46b27-c30b-47eb-8d84-3d99813f3096
 source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
 workflow-type: tm+mt
-source-wordcount: '93'
-ht-degree: 22%
+source-wordcount: '90'
+ht-degree: 23%
 
 ---
 
@@ -23,6 +23,6 @@ ht-degree: 22%
 
 >[!TIP]
 >
->このビデオはコースの一部です [ユーザー向けの高度なタスク](https://experienceleague.adobe.com/?recommended=Sign-U-1-2020.3) それはExperience Leagueで無料で入手できます！
+>このビデオは、Experience Leagueで無料で利用できるコース[ユーザー向けの高度なタスク](https://experienceleague.adobe.com/?recommended=Sign-U-1-2020.3)の一部です。
 
 

@@ -25,9 +25,9 @@ ht-degree: 0%
 ## 新機能
 
 * [Digidentityを使用した登録と署名](digidentity-sign.md)
-の登録と使用方法を学ぶ [!DNL Digidentity] Acrobat SignでのデジタルID
-* [D-Trustを使用した登録と署名](d-trust.md)
-IDの登録方法を説明します [!DNL D-Trust]を選択し、 [!DNL D-Trust] Acrobat Signでの文書のデジタル署名
+Acrobat Signで[!DNL Digidentity]デジタルIDを登録して使用する方法を説明します
+* [D-Trustを使用して登録および署名](d-trust.md)
+[!DNL D-Trust]でIDを登録し、[!DNL D-Trust]のデジタル署名をAcrobat Signの文書で使用する方法について説明します
 
 ## [!DNL Aadhaar]
 
@@ -38,9 +38,9 @@ IDの登録方法を説明します [!DNL D-Trust]を選択し、 [!DNL D-Trust]
       <img alt="を使用した署名 [!DNL Aadhaar]" src="assets/Aadhaarsign_1280.png" />
     </a>
     <div>
-    <a href="aadhaar-sign.md"><strong>を使用した署名 [!DNL Aadhaar]</strong></a>
+    <a href="aadhaar-sign.md"><strong>[!DNL Aadhaar]</strong></a>を使用して署名しています
     </div>
-    <em>の使用方法を学ぶ [!DNL Aadhaar] Acrobat SignでのデジタルID</em>
+    <em>Acrobat Signで[!DNL Aadhaar]デジタルIDを使用する方法</em>を説明します
     <br>
   </td>
   <td>
@@ -67,12 +67,12 @@ IDの登録方法を説明します [!DNL D-Trust]を選択し、 [!DNL D-Trust]
 <tr>
   <td>
     <a href="digidentity-sign.md">
-      <img alt="を使用して登録および署名 [!DNL Digidentity] デジタルID" src="assets/Digidentitysign_1280.png" />
+      <img alt="[!DNL Digidentity]デジタルIDを使用して登録および署名" src="assets/Digidentitysign_1280.png" />
     </a>
     <div>
-    <a href="digidentity-sign.md"><strong>を使用して登録して署名 [!DNL Digidentity]</strong></a>
+    <a href="digidentity-sign.md"><strong>[!DNL Digidentity]</strong></a>を使用して登録および署名
     </div>
-    <em>の登録と使用方法を学ぶ [!DNL Digidentity] Acrobat SignでのデジタルID</em>
+    <em>Acrobat Signで[!DNL Digidentity]デジタルIDを登録して使用する方法</em>を説明します
     <br>
   </td>
   <td>
@@ -102,9 +102,9 @@ IDの登録方法を説明します [!DNL D-Trust]を選択し、 [!DNL D-Trust]
       <img alt="D-Trustを使用した登録と署名" src="assets/Dtrust.png" />
     </a>
     <div>
-    <a href="d-trust.md"><strong>D-Trustを使用した登録と署名</strong></a>
+    <a href="d-trust.md"><strong>D-Trustを使用して登録および署名</strong></a>
     </div>
-    <em>IDの登録方法を説明します [!DNL D-Trust]を選択し、 [!DNL D-Trust] Acrobat Signでの文書のデジタル署名</em>
+    <em>[!DNL D-Trust]でIDを登録し、[!DNL D-Trust]のデジタル署名をAcrobat Signの文書で使用する方法を説明します</em>
     <br>
   </td>
   <td>
@@ -134,19 +134,19 @@ IDの登録方法を説明します [!DNL D-Trust]を選択し、 [!DNL D-Trust]
       <img alt="Intesi Group (Advanced)からデジタルIDを取得" src="assets/IntesiAdvanced_1280.png" />
     </a>
     <div>
-    <a href="intesi-advanced.md"><strong>デジタルIDを取得 [!DNL Intesi Group] （上級）</strong></a>
+    <a href="intesi-advanced.md"><strong>[!DNL Intesi Group]からデジタルIDを取得（上級）</strong></a>
     </div>
-    <em>様から高度なデジタル署名証明書を取得する方法について説明します。 [!DNL Intesi Group]</em>
+    <em>[!DNL Intesi Group]</em>から高度なデジタル署名証明書を取得する方法を説明します
     <br>
   </td>
   <td>
     <a href="intesi-qualified.md">
-      <img alt="デジタルIDを取得 [!DNL Intesi Group] （適格）" src="assets/IntesiQualified_1280.png" />
+      <img alt="[!DNL Intesi Group]からデジタルIDを取得（適格）" src="assets/IntesiQualified_1280.png" />
     </a>
     <div>
-    <a href="intesi-qualified.md"><strong>デジタルIDを取得 [!DNL Intesi Group] （適格）</strong></a>
+    <a href="intesi-qualified.md"><strong>[!DNL Intesi Group] （適格）からデジタルIDを取得</strong></a>
     </div>
-    <em>適格なデジタル署名証明書を取得する方法を説明します。 [!DNL Intesi Group]</em>
+    <em>[!DNL Intesi Group]</em>から適格なデジタル署名証明書を取得する方法について説明します
     <br>
   </td>
   <td>
@@ -154,9 +154,9 @@ IDの登録方法を説明します [!DNL D-Trust]を選択し、 [!DNL D-Trust]
       <img alt="Intesi Groupを使用した署名" src="assets/IntesiSign_1280.png" />
     </a>
     <div>
-    <a href="intesi-sign.md"><strong>を使用した署名 [!DNL Intesi Group]</strong></a>
+    <a href="intesi-sign.md"><strong>[!DNL Intesi Group]</strong></a>を使用して署名しています
     </div>
-    <em>の使用方法を学ぶ [!DNL Intesi Group] Acrobat SignでのデジタルID</em>
+    <em>Acrobat Signで[!DNL Intesi Group]デジタルIDを使用する方法</em>を説明します
     <br>
   </td>
   <td>

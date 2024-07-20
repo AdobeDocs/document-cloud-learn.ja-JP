@@ -9,7 +9,7 @@ thumbnail: KT-4965.jpg
 exl-id: 39f698dc-9118-48c6-9eed-aacbaf500939
 source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
 workflow-type: tm+mt
-source-wordcount: '75'
+source-wordcount: '72'
 ht-degree: 0%
 
 ---
@@ -22,4 +22,4 @@ Acrobat Signの最も一般的なワークフローは、署名用に文書を�
 
 >[!TIP]
 >
->このビデオはコースの一部です [Acrobat Signの概要](https://experienceleague.adobe.com/?recommended=Sign-U-1-2020.1) それはExperience Leagueで無料で入手できます！
+>このビデオは、Experience Leagueで無料で利用できるコース[Acrobat Signの概要](https://experienceleague.adobe.com/?recommended=Sign-U-1-2020.1)の一部です。

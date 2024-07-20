@@ -9,8 +9,8 @@ thumbnail: KT-9347.jpg
 exl-id: 2f24d745-762a-4631-8495-08b9e9d77af0
 source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
 workflow-type: tm+mt
-source-wordcount: '767'
-ht-degree: 1%
+source-wordcount: '750'
+ht-degree: 0%
 
 ---
 
@@ -31,8 +31,9 @@ PDFコンテンツは一意であり、次のように構造化されている�
 * キーワードとリストを含む短い段落を使用する
 * 内部および外部（webサイトまたは他のwebサイトのコンテンツ）のハイパーリンクの追加
 * 25ページを超えるドキュメントのハイパーリンクされた目次の追加
-* 実行 [テキスト認識](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/getting-started/scan-and-ocr.html) すべてのスキャン文書
-* モバイル対応のPDFを作成するPDFのモバイル表示エクスペリエンスを確認するには、 [Acrobat Readerモバイルアプリ](https://www.adobe.com/acrobat/mobile/acrobat-reader.html) Liquid Modeをオンにします。 必要に応じて、ナビゲーションを向上させるために追加の小見出しを含めます。
+* スキャンしたすべての文書に対して[テキスト認識](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/getting-started/scan-and-ocr.html)を実行する
+* モバイル対応のPDFを構築
+PDFのモバイル表示エクスペリエンスを確認するには、[Acrobat Readerモバイルアプリ](https://www.adobe.com/acrobat/mobile/acrobat-reader.html)でファイルを開き、Liquid Modeをオンにします。 必要に応じて、ナビゲーションを向上させるために追加の小見出しを含めます。
 
   ![Acrobat ReaderモバイルアプリのLiquid Modeのスクリーンショット](../assets/optimizeseo1.png)
 
@@ -46,14 +47,14 @@ PDFファイルには、webページと同様に、タイトルとメタ説明�
 
 +++文書のプロパティを追加する方法の詳細を表示
 
-キーを追加 **[!UICONTROL 文書のプロパティ]** 次の手順に従います。
+キー&#x200B;**[!UICONTROL 文書のプロパティ]**&#x200B;を次のように追加します：
 
-1. 選択 **[!UICONTROL ファイル/プロパティ]** またはキーボードショートカットを使用 *Ctrl + D* Windowsの場合または *Cmd + D* Macで、 **[!UICONTROL 説明]** タブをクリックします。
-1. キーワードに最適化されたタイトルを **[!UICONTROL タイトル:]** フィールドに入力します。
-1. 次のことを確認します。 **[!UICONTROL 作成者：]** フィールドでは、組織内の特定の個人を識別することはできません。
-1. 文書のキーワード用に最適化された概要を **[!UICONTROL 件名：]** フィールドに入力します。
+1. **[!UICONTROL ファイル/プロパティ]**&#x200B;を選択するか、キーボードショートカット&#x200B;*Ctrl + D* (Windows)または&#x200B;*Cmd + D* (Mac)を使用して、「**[!UICONTROL 説明]**」タブを選択します。
+1. **[!UICONTROL タイトル：]**&#x200B;フィールドに、キーワードに最適化されたタイトルを入力します。
+1. **[!UICONTROL 作成者：]**&#x200B;フィールドで、組織内の特定の個人が識別されていないことを確認してください。
+1. ドキュメントのキーワードに最適化された概要を&#x200B;**[!UICONTROL 件名：]**フィールドに入力します。
 学習、発見、探索など、行動を明確に示す動詞を使用して、概要の作成を試みます。
-1. 選択 **[!UICONTROL 追加のメタデータ]** 著作権またはパブリックドメイン情報を追加します（該当する場合）。
+1. **[!UICONTROL 追加のメタデータ]**&#x200B;を選択し、必要に応じて著作権またはパブリックドメインの情報を追加します。
 
    ![ドキュメントプロパティのスクリーンショット](../assets/optimizeseo2.png)
 
@@ -63,19 +64,19 @@ PDFファイルには、webページと同様に、タイトルとメタ説明�
 
 ## 3. PDFにタグを付ける
 
-PDF内のコンテンツにタグ付けすると、ファイルが作成されるだけではありません [アクセス可能](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/advanced-tasks/accessibility.html) 障害のある人にとっては、SEOも向上します。
+PDF内のコンテンツをタグ付けすると、障害のあるユーザーがファイル[にアクセス可能](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/advanced-tasks/accessibility.html)になるだけでなく、SEOも向上します。
 
 +++PDFのタグ付けの詳細を表示する
 
 次のようにPDFにタグを付けます。
 
-1. 選択 **[!UICONTROL アクセシビリティ]** を **[!UICONTROL ツール]** 中央：
-1. 選択 **[!UICONTROL 自動タグ文書]** 右側のパネルに表示されます。
-1. 左側のパネルの修復のヒントに従います **[!UICONTROL 承認レポート]**.
-1. 実行 **[!UICONTROL 代替テキストを設定]** 必要に応じて
-1. キーワードを使用して画像を **[!UICONTROL 代替テキスト]**.
+1. **[!UICONTROL ツール]**&#x200B;センターで&#x200B;**[!UICONTROL アクセシビリティ]**&#x200B;を選択します。
+1. 右側のパネルで「**[!UICONTROL 文書に自動タグ付け]**」を選択します。
+1. 左側のペイン&#x200B;**[!UICONTROL 認識レポート]**&#x200B;で、修復のヒントに従います。
+1. 必要に応じて&#x200B;**[!UICONTROL 代替テキストの設定]**&#x200B;を実行します。
+1. キーワードを使用して、**[!UICONTROL 代替テキスト]**&#x200B;で画像を説明します。
 
-   ![PDFに代替テキストを設定したスクリーンショット](../assets/optimizeseo3.png)
+   ![PDFに代替テキストを設定するスクリーンショット](../assets/optimizeseo3.png)
 
 +++
 
@@ -87,17 +88,17 @@ PDF内のコンテンツにタグ付けすると、ファイルが作成され�
 
 ## 4. Web用に準備する
 
-PDFをWeb表示用に準備して、操作の操作性を最適化します。 [PDFファイルのサイズを小さくする](https://www.adobe.com/jp/acrobat/online/compress-pdf.html){target="_blank"}.
+PDFをWeb表示用に準備し、[PDFのファイルサイズを小さくして](https://www.adobe.com/jp/acrobat/online/compress-pdf.html){target="_blank"}操作を最適化します。
 
 +++Web用にPDFを準備する方法の詳細を表示
 
 Web用にPDFを準備するには、次の手順を実行します。
 
-Web用にPDFを準備するには、 **[!UICONTROL ファイル/その他の形式で保存/縮小サイズのPDF]**.
+Web用にPDFを準備するには、**[!UICONTROL ファイル/その他の形式で保存/PDFのサイズを縮小]**&#x200B;を選択します。
 
 ![ドキュメントプロパティのスクリーンショット](../assets/optimizeseo4.png)
 
-この手順により、ファイルサイズが縮小され、 **Web表示用に最適化** をクリックしてPDFします。 **Web表示用に最適化** ファイル全体をストリーミングまたはダウンロードする前に、ファイルを即座に開き、表示し、検索することができます。これにより、エンドユーザーの操作性が最適化されます。 開く **[!UICONTROL 文書のプロパティ]** (*Ctrl + D* Windowsの場合または *Cmd + D* (Macの場合)次の点を確認します **Web表示用に最適化** が有効になっています。
+この手順を実行すると、ファイルサイズが小さくなり、PDF内の&#x200B;**高速Webビュー**&#x200B;が有効になります。 **Web表示用に最適化**&#x200B;を使用すると、ファイル全体をストリーミングまたはダウンロードする前に、ファイルを直ちに開いて表示し、検索することができます。これにより、最適なエンドユーザーエクスペリエンスが実現します。 **[!UICONTROL 文書のプロパティ]**&#x200B;を開き(*WindowsではCtrl + D*、Macでは&#x200B;*Cmd + D*)、**高速Webビュー**&#x200B;が有効かどうかを確認します。
 
 ![ドキュメントプロパティのスクリーンショット](../assets/optimizeseo5.png)
 
@@ -123,18 +124,18 @@ PDFがWebに公開されると、ファイル名がURLの一部になります�
 
 ## 6. PDFの保護
 
-最後のステップは次のとおりです。 [PDFを保護](https://www.adobe.com/acrobat/online/password-protect-pdf.html){target="_blank"} 許可されていない変更を防ぐこと。
+最後の手順は、承認されていない変更を防ぐために、[PDFを保護する](https://www.adobe.com/jp/acrobat/online/password-protect-pdf.html){target="_blank"}ことです。
 
 +++PDFのセキュリティ保護の詳細を表示する
 
 次のようにPDFを保護します。
 
-1. 開く **[!UICONTROL 文書のプロパティ]** (*Ctrl + D* Windowsの場合または *Cmd + D* (Macの場合)を選択し、 **[!UICONTROL セキュリティ]** タブをクリックします。
-1. チェック **[!UICONTROL 文書の印刷、編集、印刷。 これらの設定を変更するにはパスワードが必要です。]**
-1. 未満 **[!UICONTROL 変更の許可：]** 選択 **[!UICONTROL なし]**.
-1. チェック **[!UICONTROL 視覚障害者のためのスクリーンリーダーデバイスのテキストアクセスを有効にします。]**
+1. **[!UICONTROL 文書のプロパティ]** (Windowsでは&#x200B;*Ctrl + D*、Macでは&#x200B;*Cmd + D*)を開き、「**[!UICONTROL セキュリティ]**」タブを選択します。
+1. **[!UICONTROL ドキュメントの印刷と編集を確認してください。 これらの設定を変更するには、パスワードが必要です。]**
+1. [**[!UICONTROL 許可された変更：]**]で、[**[!UICONTROL なし]**]を選択します。
+1. **[!UICONTROL 「スクリーンリーダーデバイスのテキストアクセスを有効にする」をオンにして、視覚障害者をサポートします。]**
 1. 強力なパスワードを入力して確認します。
-1. 選択 **[!UICONTROL OK]** ファイルを保存します。
+1. 「**[!UICONTROL OK]**」を選択し、ファイルを保存します。
 
    ![ドキュメントプロパティのスクリーンショット](../assets/optimizeseo6.png)
 

@@ -16,11 +16,11 @@ ht-degree: 0%
 
 # PDF内のテキストの編集
 
-PDF内の単語、語句、またはページ全体を編集する方法について説明します。 Acrobatでテキストを直接編集すると、アプリを切り替えることなく、正確かつプロフェッショナルな方法でコンテンツを更新できます。 このビデオチュートリアルでは、 [新しいワークスペースエクスペリエンス](new-workspace.md).
+PDF内の単語、語句、またはページ全体を編集する方法について説明します。 Acrobatでテキストを直接編集すると、アプリを切り替えることなく、正確かつプロフェッショナルな方法でコンテンツを更新できます。 このビデオチュートリアルでは、[新しいワークスペースエクスペリエンス](new-workspace.md)を使用します。
 
 >[!TIP]
 >
->という新しい編集モードについて説明します [コンテンツを自動調整](auto-adjust-layout.md).
+>[コンテンツを自動調整](auto-adjust-layout.md)する新しい編集モードについて説明します。
 
 <br> 
 
@@ -28,4 +28,4 @@ PDF内の単語、語句、またはページ全体を編集する方法につ�
 
 >[!TIP]
 >
->このビデオはコースの一部です [Acrobat DCとMicrosoft 365を使用して、よりスマートに作業](https://experienceleague.adobe.com/?recommended=Acrobat-U-1-2021.microsoft365) それはExperience Leagueで無料で入手できます！
+>このビデオは、Experience Leagueで無料で利用できるコース[Acrobat DCとMicrosoft 365を使ってよりスマートに作業](https://experienceleague.adobe.com/?recommended=Acrobat-U-1-2021.microsoft365)の一部です。

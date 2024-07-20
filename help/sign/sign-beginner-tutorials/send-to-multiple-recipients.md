@@ -9,8 +9,8 @@ thumbnail: KT-4966.jpg
 exl-id: da64949c-b8e0-4923-b3a4-43d2d6dbd4d5
 source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
 workflow-type: tm+mt
-source-wordcount: '83'
-ht-degree: 9%
+source-wordcount: '80'
+ht-degree: 10%
 
 ---
 
@@ -22,4 +22,4 @@ ht-degree: 9%
 
 >[!TIP]
 >
->このビデオはコースの一部です [Acrobat Signの概要](https://experienceleague.adobe.com/?recommended=Sign-U-1-2020.1) それはExperience Leagueで無料で入手できます！
+>このビデオは、Experience Leagueで無料で利用できるコース[Acrobat Signの概要](https://experienceleague.adobe.com/?recommended=Sign-U-1-2020.1)の一部です。

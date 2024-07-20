@@ -9,7 +9,7 @@ thumbnail: 17341.jpg
 exl-id: af5683ba-8376-4f0d-8985-b647f901d2c0
 source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
 workflow-type: tm+mt
-source-wordcount: '73'
+source-wordcount: '70'
 ht-degree: 0%
 
 ---
@@ -22,4 +22,4 @@ Acrobat Signで署名用に送信された文書を管理およびトラック�
 
 >[!TIP]
 >
->このビデオはコースの一部です [Acrobat Signの概要](https://experienceleague.adobe.com/?recommended=Sign-U-1-2020.1) それはExperience Leagueで無料で入手できます！
+>このビデオは、Experience Leagueで無料で利用できるコース[Acrobat Signの概要](https://experienceleague.adobe.com/?recommended=Sign-U-1-2020.1)の一部です。

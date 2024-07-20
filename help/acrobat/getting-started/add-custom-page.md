@@ -16,6 +16,6 @@ ht-degree: 5%
 
 # カスタムページを追加
 
-PDFにカスタムページを追加する方法を説明します。この統合されたAdobe Expressアプリは、数千ものテンプレートから選択できます。 このビデオチュートリアルでは、 [新しいワークスペースエクスペリエンス](new-workspace.md).
+PDFにカスタムページを追加する方法を説明します。この統合されたAdobe Expressアプリは、数千ものテンプレートから選択できます。 このビデオチュートリアルでは、[新しいワークスペースエクスペリエンス](new-workspace.md)を使用します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/347331?quality=12&learn=on&hidetitle=true)

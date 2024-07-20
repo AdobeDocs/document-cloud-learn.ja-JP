@@ -1,6 +1,6 @@
 ---
 title: データマッピングの設定
-description: Acrobat Signのデータマッピングを設定する方法を説明します。 [!DNL Salesforce]
+description: ' [!DNL Salesforce]でAcrobat Signのデータマッピングを設定する方法を説明します'
 feature: Integrations
 role: Admin
 topic: Integrations
@@ -16,8 +16,8 @@ ht-degree: 0%
 
 ---
 
-# でのデータマッピングの設定 [!DNL Salesforce]
+# [!DNL Salesforce]でデータマッピングを設定しています
 
-Acrobat Signのデータマッピングを設定する方法を説明します [!DNL Salesforce]. データマッピングを使用するとデータを取得できます _戻る_ に [!DNL Salesforce] 契約書が署名された後。
+[!DNL Salesforce]でAcrobat Signのデータマッピングを設定する方法を説明します。 データマッピングを使用すると、契約書が署名された後にデータ&#x200B;_戻る_&#x200B;を[!DNL Salesforce]に取り込むことができます。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3409073?quality=12&learn=on&hidetitle=true)

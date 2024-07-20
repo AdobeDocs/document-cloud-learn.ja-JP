@@ -10,8 +10,8 @@ thumbnail: KT-6854.jpg
 exl-id: c52bf1c6-0821-4754-af7f-71f29b8a18c9
 source-git-commit: 05751444c0dab6eccd7076889e8735d58dfee82c
 workflow-type: tm+mt
-source-wordcount: '126'
-ht-degree: 28%
+source-wordcount: '100'
+ht-degree: 10%
 
 ---
 
@@ -28,7 +28,7 @@ ht-degree: 28%
     <div>
     <a href="sign-mobile.md"><strong>外出先で文書に署名</strong></a>
     </div>
-    <em>Acrobat Signモバイルアプリを使用して文書に署名する方法について説明します。</em>
+    <em>Acrobat Signモバイルアプリを使用して文書に署名する方法の詳細</em>
     <br>
   </td>
   <td>
@@ -38,7 +38,7 @@ ht-degree: 28%
     <div>
     <a href="liquidmode.md"><strong>Acrobat SignのLiquid Mode</strong></a>
     </div>
-    <em>Liquid Modeによるモバイル署名エクスペリエンスの向上について説明します</em>
+    <em>Liquid Modeでモバイル署名エクスペリエンスがどのように向上するかを説明します</em>
     <br>
   </td>
   <td>
@@ -46,7 +46,7 @@ ht-degree: 28%
       <img alt="iOS 版のダウンロード" src="assets/Mobile_iOS.png" />
     </a>
     <div>
-    <a href="https://apps.apple.com/jp/app/adobe-sign/id481082197" target="_blank"><strong>iOS向けAcrobat Signモバイルアプリをダウンロード</strong></a>
+    <a href="https://apps.apple.com/jp/app/adobe-sign/id481082197" target="_blank"><strong>iOS用Acrobat Signモバイルアプリをダウンロード</strong></a>
     <br>
   </td>
   <td>

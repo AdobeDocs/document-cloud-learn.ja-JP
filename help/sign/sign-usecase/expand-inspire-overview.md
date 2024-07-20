@@ -28,7 +28,7 @@ ht-degree: 0%
     <div>
     <a href="innovation-series.md"><strong>スキルビルダー</strong></a>
     </div>
-    <em>30分間のスキルビルダーに参加して、1日の作業を増やすことなく電子サインを活用する方法を学びましょう</em>
+    <em>30分間のスキルビルダーにご参加いただき、1日の作業を増やすことなく電子サインを活用する方法をご確認ください</em>
     <br>
   </td>
   <td>
@@ -36,9 +36,9 @@ ht-degree: 0%
       <img alt="使用事例" src="../assets/Usecase.png" />
     </a>
     <div>
-    <a href="recipes.md"><strong>使用事例</strong></a>
+    <a href="recipes.md"><strong>ユースケース</strong></a>
     </div>
-    <em>様々な組織がこれらの実際のユースケースでAcrobat Signをどのように使用しているかを確認します</em>
+    <em>様々な組織がこれらの実際の使用例を使ってAcrobat Signをどのように使っているかを調べる</em>
     <br>
   </td>
   <td>
@@ -46,9 +46,9 @@ ht-degree: 0%
       <img alt="ユースケースの提示" src="../assets/UseCaseShowcaseR.png" />
     </a>
     <div>
-    <a href="use-case-showcase.md"><strong>ユースケースの提示</strong></a>
+    <a href="use-case-showcase.md"><strong>ユースケースショーケース</strong></a>
     </div>
-    <em>Acrobat Signの新しいユースケースとトレンドについて、ライブまたは記録済みのセッションでご紹介します</em>
+    <em>Acrobat Signの新しい使用例とトレンドを紹介するライブまたは記録済みのセッションを視聴する</em>
     <br>
   </td>
   <td>

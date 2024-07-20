@@ -12,7 +12,7 @@ thumbnail: KT-6850.jpg
 exl-id: 2b1b9fae-7b4c-4092-aec7-c2025ef07cf4
 source-git-commit: 25fd2a2d0d9f0cd2452a65761c298f5280809aee
 workflow-type: tm+mt
-source-wordcount: '812'
+source-wordcount: '818'
 ht-degree: 0%
 
 ---
@@ -26,12 +26,12 @@ Acrobat Signは、Microsoft、Salesforce、Workday、Marketoなど、組織内�
 
 ## 新機能
 
-* [の「文書」タブの統合 [!DNL Microsoft Teams]](acrobat-sign-teams-documents-tab.md)
-の「文書」タブから署名用に文書を直接送信する方法を説明します。 [!DNL Microsoft Teams]
-* [Adobe Acrobat Signでの [!DNL Microsoft Teams]](live-sign-microsoft-teams.md)
-次の期間中に対面署名のようなオンライン署名エクスペリエンスを作成する方法を説明します [!DNL Microsoft Teams] 会議
-* [高度なワークフローの作成 [!DNL Power Automate]](advanced-workflow-power-automate.md)
-以下を使用して高度なワークフローを作成する方法を学習します。 [!DNL Power Automate] コネクタ
+* [文書タブの統合 [!DNL Microsoft Teams]](acrobat-sign-teams-documents-tab.md)
+[!DNL Microsoft Teams]の「文書」タブから署名用に文書を直接送信する方法について説明します
+* [Adobe Acrobat Signでの [!DNL Microsoft Teams]](live-sign-microsoft-teams.md)のライブサイン
+[!DNL Microsoft Teams]会議中に対面署名のようなオンライン署名エクスペリエンスを作成する方法を説明します
+* [高度なワークフローを作成する [!DNL Power Automate]](advanced-workflow-power-automate.md)
+[!DNL Power Automate]コネクタを使用して高度なワークフローを作成する方法について説明します
 
 ## Microsoft統合チュートリアル
 
@@ -44,7 +44,7 @@ Acrobat Signは、Microsoft、Salesforce、Workday、Marketoなど、組織内�
     <div>
     <a href="fill-and-sign-doc-microsoft-outlook.md"><strong>Microsoft Outlookでの入力と署名</strong></a>
     </div>
-    <em>Microsoft Outlook内でフォームに直接入力して署名</em>
+    <em>Microsoft Outlook内から直接フォームに入力して署名</em>
     <br>
   </td>
   <td>
@@ -54,7 +54,7 @@ Acrobat Signは、Microsoft、Salesforce、Workday、Marketoなど、組織内�
     <div>
     <a href="send-for-signature-with-outlook.md"><strong>Outlookで署名用に送信</strong></a>
     </div>
-    <em>Microsoft Outlook内で署名用に文書を直接送信</em>
+    <em>Microsoft Outlook内で直接、署名用に文書を送信する</em>
     <br>
   </td>
   <td>
@@ -64,7 +64,7 @@ Acrobat Signは、Microsoft、Salesforce、Workday、Marketoなど、組織内�
     <div>
     <a href="send-for-signature-with-sharepoint-online.md"><strong>SharePoint Onlineで署名用に送信</strong></a>
     </div>
-    <em>Sharepoint Online内で署名用に文書を直接送信</em>
+    <em>Sharepoint Online内で直接、署名用に文書を送信する</em>
     <br>
   </td>
    <td>
@@ -74,7 +74,7 @@ Acrobat Signは、Microsoft、Salesforce、Workday、Marketoなど、組織内�
     <div>
     <a href="track-an-agreement-with-sharepoint-online.md"><strong>SharePoint Onlineでのトラッキング</strong></a>
     </div>
-    <em>Microsoft Sharepoint内で契約書の進行状況を直接追跡</em>
+    <em>Microsoft Sharepoint内で直接契約書の進捗状況をトラック</em>
     <br>
   </td>
 </tr>
@@ -84,19 +84,19 @@ Acrobat Signは、Microsoft、Salesforce、Workday、Marketoなど、組織内�
       <img alt="Webフォームの統合 [!DNL SharePoint Online]" src="../assets/Web-form-sp.png" />
     </a>
     <div>
-    <a href="integrate-web-form-sharepoint-online.md"><strong>Webフォームの統合 [!DNL SharePoint Online]</strong></a>
+    <a href="integrate-web-form-sharepoint-online.md"><strong>Webフォームを[!DNL SharePoint Online]</strong></a>と統合する
     </div>
-    <em>Webフォームから収集したデータを [!DNL SharePoint] list</em>
+    <em>Webフォームから収集したデータを[!DNL SharePoint]リストにマップする方法を説明します</em>
     <br>
   </td>
   <td>
     <a href="auto-archive-sharepoint-power-automate.md">
-      <img alt="ファイルの自動アーカイブ [!DNL SharePoint] 使用する [!DNL Power Automate]" src="../assets/Autoarchive.png" />
+      <img alt="[!DNL SharePoint]のファイルを次のアイテムで自動アーカイブ [!DNL Power Automate]" src="../assets/Autoarchive.png" />
     </a>
     <div>
-    <a href="auto-archive-sharepoint-power-automate.md"><strong>ファイルの自動アーカイブ [!DNL SharePoint] 使用する [!DNL Power Automate]</strong></a>
+    <a href="auto-archive-sharepoint-power-automate.md"><strong>[!DNL SharePoint]のファイルを[!DNL Power Automate]</strong></a>と自動アーカイブ
     </div>
-    <em>署名済み文書を次の場所に自動的にアーカイブする方法を説明します [!DNL SharePoint] ライブラリ使用 [!DNL Power Automate]</em>
+    <em>[!DNL Power Automate]</em>を使用して署名済み文書を自動的に[!DNL SharePoint]ライブラリにアーカイブする方法を説明します
     <br>
   </td>
   <td>
@@ -104,9 +104,9 @@ Acrobat Signは、Microsoft、Salesforce、Workday、Marketoなど、組織内�
       <img alt="次を使用した文書の自動処理 [!DNL Acrobat Sign for Microsoft Power Platform]" src="../assets/SF-Button.png" />
     </a>
     <div>
-    <a href="documentautomation.md"><strong>次を使用した文書の自動処理 [!DNL Acrobat Sign for Microsoft Power Platform]</strong></a>
+    <a href="documentautomation.md"><strong>[!DNL Acrobat Sign for Microsoft Power Platform]</strong></a>を使用したドキュメントの自動処理
     </div>
-    <em>ライセンス認証して [!DNL Acrobat Sign] および [!DNL Adobe PDF Tools] コネクタ [!DNL Microsoft Power] アプリ</em>
+    <em>[!DNL Microsoft Power]アプリの[!DNL Acrobat Sign]コネクタと[!DNL Adobe PDF Tools]コネクタをアクティブにして使用する方法を説明します</em>
     <br>
   </td>
    <td>
@@ -114,9 +114,9 @@ Acrobat Signは、Microsoft、Salesforce、Workday、Marketoなど、組織内�
       <img alt="文書を署名用に送信 [!DNL Microsoft Teams]" src="../assets/teamsmortgage.png" />
     </a>
     <div>
-    <a href="adobe-sign-teams-mortgage.md"><strong>署名用に送信 [!DNL Microsoft Teams]</strong></a>
+    <a href="adobe-sign-teams-mortgage.md"><strong>[!DNL Microsoft Teams]</strong></a>で署名用に送信
     </div>
-    <em>文書を署名用に直接送信 [!DNL Microsoft Teams]</em>
+    <em>[!DNL Microsoft Teams]</em>内で署名用に文書を直接送信
     <br>
   </td>
 </tr>
@@ -126,9 +126,9 @@ Acrobat Signは、Microsoft、Salesforce、Workday、Marketoなど、組織内�
       <img alt="Adobe Acrobat Signでの [!DNL Microsoft Teams]" src="../assets/live-sign.png" />
     </a>
     <div>
-    <a href="live-sign-microsoft-teams.md"><strong>Adobe Acrobat Signでの [!DNL Microsoft Teams]</strong></a>
+    [!DNL Microsoft Teams]</strong></a>様のAdobe Acrobat Signでの<a href="live-sign-microsoft-teams.md"><strong>ライブサインイン
     </div>
-    <em>次の期間中に対面署名のようなオンライン署名エクスペリエンスを作成する方法を説明します [!DNL Microsoft Teams] 会議</em>
+    <em>[!DNL Microsoft Teams]ミーティング中の対面署名のようなオンライン署名エクスペリエンスを作成する方法を説明します</em>
     <br>
   </td>
    <td>
@@ -136,9 +136,9 @@ Acrobat Signは、Microsoft、Salesforce、Workday、Marketoなど、組織内�
       <img alt="の「文書」タブの統合 [!DNL Microsoft Teams]" src="../assets/Documents-tab.png" />
     </a>
     <div>
-    <a href="acrobat-sign-teams-documents-tab.md"><strong>の「文書」タブの統合 [!DNL Microsoft Teams]</strong></a>
+    <a href="acrobat-sign-teams-documents-tab.md"><strong>[!DNL Microsoft Teams]</strong></a>の[ドキュメント]タブの統合
     </div>
-    <em>の「文書」タブから署名用に文書を直接送信する方法を説明します。 [!DNL Microsoft Teams]</em>
+    <em>[!DNL Microsoft Teams]</em>の「文書」タブから署名用に文書を直接送信する方法を説明します
     <br>
   </td>
  <td>
@@ -146,9 +146,9 @@ Acrobat Signは、Microsoft、Salesforce、Workday、Marketoなど、組織内�
       <img alt="Power Automateを使用したシンプルなワークフローの作成" src="../assets/simple-workflow.png" />
     </a>
     <div>
-    <a href="simple-workflow-power-automate.md"><strong>簡単なワークフローを作成するには [!DNL Power Automate]</strong></a>
+    <a href="simple-workflow-power-automate.md"><strong>[!DNL Power Automate]</strong></a>で簡単なワークフローを作成する
     </div>
-    <em>を使用して簡単なワークフローを作成する方法を説明します。 [!DNL Power Automate] コネクタ</em>
+    <em>[!DNL Power Automate]コネクタを使用して簡単なワークフローを作成する方法を説明します</em>
     <br>
   </td>
   <td>
@@ -156,9 +156,9 @@ Acrobat Signは、Microsoft、Salesforce、Workday、Marketoなど、組織内�
       <img alt="Power Automateを使用した高度なワークフローの作成" src="../assets/advanced-workflow.png" />
     </a>
     <div>
-    <a href="advanced-workflow-power-automate.md"><strong>Power Automateを使用した高度なワークフローの作成</strong></a>
+    <a href="advanced-workflow-power-automate.md"><strong>Power Automateを使用して高度なワークフローを作成する</strong></a>
     </div>
-    <em>以下を使用して高度なワークフローを作成する方法を説明します。 [!DNL Power Automate] コネクタ</em>
+    <em>[!DNL Power Automate]コネクタを使用して高度なワークフローを作成する方法</em>を説明します
     <br>
   </td>
 <tr>
@@ -167,9 +167,9 @@ Acrobat Signは、Microsoft、Salesforce、Workday、Marketoなど、組織内�
       <img alt="Microsoft Dynamics 365カスタマーサービス" src="../assets/Dynamics-customer-service.png" />
     </a>
     <div>
-    <a href="dynamics-customer-service.md"><strong>Microsoft Dynamics 365カスタマーサービス</strong></a>
+    <a href="dynamics-customer-service.md"><strong>Microsoft Dynamics 365 for Customer Service</strong></a>
     </div>
-    <em>Acrobat Signと [!DNL Microsoft Dynamics 365] カスタマーサービスは、セルフサービスの顧客webポータルで顧客満足度を向上させるために使用されます</em>
+    <em>Acrobat Signと[!DNL Microsoft Dynamics 365]カスタマーサービス版を使用して、セルフサービスのお客様のWebポータルでのお客様満足度を高める方法を説明します</em>
     <br>
   </td>
   <td>
@@ -179,7 +179,7 @@ Acrobat Signは、Microsoft、Salesforce、Workday、Marketoなど、組織内�
     <div>
     <a href="dynamics-field-service.md"><strong>フィールドサービス用Microsoft Dynamics 365</strong></a>
     </div>
-    <em>Acrobat Signの詳細 [!DNL Power Automate]、および [!DNL Microsoft Dynamics 365] フィールドサービスは、お客様のオンサイト作業を効率化するために使用されます。</em>
+    <em>Acrobat Sign、[!DNL Power Automate]、および[!DNL Microsoft Dynamics 365] for Field Serviceを使用して、お客様のオンサイト契約を効率化する方法を説明します</em>
     <br>
   </td>
   <td>
@@ -189,7 +189,7 @@ Acrobat Signは、Microsoft、Salesforce、Workday、Marketoなど、組織内�
     <div>
     <a href="dynamics-sales.md"><strong>Microsoft Dynamics 365 for Sales</strong></a>
     </div>
-    <em>Acrobat Signと [!DNL Microsoft Dynamics 365] for Salesは、販売見積の署名プロセスを自動化するために使用します。</em>
+    <em>Acrobat Signと[!DNL Microsoft Dynamics 365] for Salesを使用して、販売見積の署名プロセスを自動化する方法を説明します</em>
     <br>
   </td>
   <td>
@@ -200,7 +200,7 @@ Acrobat Signは、Microsoft、Salesforce、Workday、Marketoなど、組織内�
 </tr>
 </table>
 
-## [!DNL Notarize] 統合チュートリアル
+## [!DNL Notarize]統合チュートリアル
 
 <table style="table-layout:fixed">
 <tr>
@@ -211,7 +211,7 @@ Acrobat Signは、Microsoft、Salesforce、Workday、Marketoなど、組織内�
     <div>
     <a href="send-document-notarize.md"><strong>公証用に文書を送信</strong></a>
     </div>
-    <em>公証用に文書を送信する方法について</em>
+    <em>公証用に文書を送信する方法の詳細</em>
     <br>
   </td>
   <td>
@@ -241,9 +241,9 @@ Acrobat Signは、Microsoft、Salesforce、Workday、Marketoなど、組織内�
       <img alt="Document Builderの [!DNL Salesforce]" src="../assets/SF-Template.png" />
     </a>
     <div>
-    <a href="create-an-agreement-template.md"><strong>Document Builderの [!DNL Salesforce]</strong></a>
+    <a href="create-an-agreement-template.md"><strong>[!DNL Salesforce]</strong></a>のDocument Builder
     </div>
-    <em>Document Builderを使用して [!DNL Salesforce]</em>
+    <em>[!DNL Salesforce]</em>のDocument Builderを使用して再利用可能な文書テンプレートを作成する方法を説明します
     <br>
   </td>
   <td>
@@ -251,9 +251,9 @@ Acrobat Signは、Microsoft、Salesforce、Workday、Marketoなど、組織内�
       <img alt="データマッピングの設定" src="../assets/SF-DataMapping.png" />
     </a>
     <div>
-    <a href="set-up-data-mapping.md"><strong>データマッピングの設定</strong></a>
+    <a href="set-up-data-mapping.md"><strong>データマッピングを設定しています</strong></a>
     </div>
-    <em>契約書の署名後にSalesforceにデータをプル</em>
+    <em>契約書の署名後にSalesforceにデータをプルする</em>
     <br>
   </td>
   <td>
@@ -261,9 +261,9 @@ Acrobat Signは、Microsoft、Salesforce、Workday、Marketoなど、組織内�
       <img alt="Salesforceでの結合マッピングの設定" src="../assets/SF-MergeMapping.png" />
     </a>
     <div>
-    <a href="set-up-merging-map.md"><strong>Salesforceでの結合マッピングの設定</strong></a>
+    <a href="set-up-merging-map.md"><strong>Salesforceで結合マッピングを設定しています</strong></a>
     </div>
-    <em>Salesforceのデータを直接Acrobat Sign文書に結合する方法について説明します。</em>
+    <em>Salesforceのデータを直接Acrobat Sign文書に結合する方法</em>について
     <br>
   </td>
   <td>
@@ -271,9 +271,9 @@ Acrobat Signは、Microsoft、Salesforce、Workday、Marketoなど、組織内�
       <img alt="カスタムボタンの作成" src="../assets/SF-Button.png" />
     </a>
     <div>
-    <a href="create-a-custom-button.md"><strong>カスタムボタンの作成</strong></a>
+    <a href="create-a-custom-button.md"><strong>カスタムボタンを作成しています</strong></a>
     </div>
-    <em>送信プロセスを開始し、Salesforce内に契約書を自動入力するカスタムボタンを作成</em>
+    <em>送信プロセスを開始し、Salesforce内の契約書を自動的に入力するカスタムボタンを作成</em>
     <br>
   </td>
 </tr>
@@ -288,9 +288,9 @@ Acrobat Signは、Microsoft、Salesforce、Workday、Marketoなど、組織内�
       <img alt="Acrobat Sign + Workday新規採用オンボーディング" src="../assets/workday.png" />
     </a>
     <div>
-    <a href="acrobat-sign-workday-onboarding.md"><strong>Acrobat Sign + Workday新規採用オンボーディング</strong></a>
+    <a href="acrobat-sign-workday-onboarding.md"><strong>Acrobat Sign + Workday新入社員オンボーディング</strong></a>
     </div>
-    <em>Acrobat SignとWorkdayを使用して、オンボーディングワークフローを合理化する方法について説明します</em>
+    <em>Acrobat Sign + Workdayを使用してオンボーディングワークフローを合理化する方法</em>
     <br>
   </td>
  <td>
@@ -320,9 +320,9 @@ Acrobat Signは、Microsoft、Salesforce、Workday、Marketoなど、組織内�
       <img alt="SalesforceおよびMarketo向けAcrobat Signを使用した通知の送信" src="../assets/Integrate-Salesforce-SMS.jpg" />
     </a>
     <div>
-    <a href="marketo-salesforce-sms.md"><strong>SalesforceおよびMarketo向けAcrobat Signを使用した通知の送信</strong></a>
+    <a href="marketo-salesforce-sms.md"><strong>SalesforceおよびMarketo用Acrobat Signを使用して通知を送信する</strong></a>
     </div>
-    <em>テキストメッセージ、電子メール、またはプッシュ通知を送信して、契約書が処理中であることを署名者に知らせる方法について説明します。</em>
+    <em>テキストメッセージ、電子メール、またはプッシュ通知を送信して、契約書が処理中であることを署名者に知らせる方法について説明します</em>
     <br>
   </td>
   <td>
@@ -330,9 +330,9 @@ Acrobat Signは、Microsoft、Salesforce、Workday、Marketoなど、組織内�
       <img alt="Salesforce向けAcrobat SignおよびMarketoを使用したリマインダーの送信のビデオチュートリアル" src="../assets/Integrate-Salesforce-Reminder-Video.png" />
     </a>
     <div>
-    <a href="marketo-salesforce-reminder.md"><strong>Salesforce向けAdobe SignおよびMarketoを使用したリマインダーの送信のビデオチュートリアル</strong></a>
+    <a href="marketo-salesforce-reminder.md"><strong>Salesforce用Adobe SignおよびMarketoビデオチュートリアルを使用したリマインダーの送信</strong></a>
     </div>
-    <em>一定期間後に契約書が未署名のままになったときに、Marketoから電子メールでリマインダーを送信する方法について説明します</em>
+    <em>一定期間後に契約書が署名されないままの場合に、Marketoから電子メールでリマインダーを送信する方法について説明します</em>
     <br>
   </td>
   <td>
@@ -340,9 +340,9 @@ Acrobat Signは、Microsoft、Salesforce、Workday、Marketoなど、組織内�
       <img alt="Acrobat Sign（Salesforce向け）とMarketoの設定ガイドを使用してリマインダーを送信する" src="../assets/Integrate-Salesforce-Reminder.jpg" />
     </a>
     <div>
-    <a href="marketo-salesforce-reminder.md"><strong>Acrobat Sign（Salesforce向け）とMarketoの設定ガイドを使用してリマインダーを送信する</strong></a>
+    <a href="marketo-salesforce-reminder.md"><strong>Salesforce用Acrobat SignおよびMarketoの設定ガイドを使用してリマインダーを送信</strong></a>
     </div>
-    <em>一定期間後に契約書が署名されないままの場合に、Marketoから電子メールによるリマインダーを送信する方法について説明します。</em>
+    <em>一定時間経過後に契約書が署名されないままの場合に、Marketoから電子メールでリマインダーを送信する方法を確認</em>
     <br>
   </td>
    <td>
@@ -350,9 +350,9 @@ Acrobat Signは、Microsoft、Salesforce、Workday、Marketoなど、組織内�
       <img alt="Microsoft DynamicsおよびMarketo向けAcrobat Signを使用したリマインダーの送信" src="../assets/Integrate-Dynamics-Reminder.jpg" />
     </a>
     <div>
-    <a href="marketo-dynamics-reminder.md"><strong>Microsoft DynamicsおよびMarketo向けAcrobat Signを使用したリマインダーの送信</strong></a>
+    <a href="marketo-dynamics-reminder.md"><strong>Microsoft DynamicsおよびMarketo用Acrobat Signを使用してリマインダーを送信する</strong></a>
     </div>
-    <em>一定期間後に契約書が未署名のままになったときに電子メールでリマインダーを送信する方法について説明します</em>
+    <em>一定期間後に契約書が署名されないままの場合に電子メールでリマインダーを送信する方法を説明します</em>
     <br>
   </td>
 </tr>
@@ -362,9 +362,9 @@ Acrobat Signは、Microsoft、Salesforce、Workday、Marketoなど、組織内�
       <img alt="Microsoft DynamicsおよびMarketo向けAcrobat Signを使用した通知の送信" src="../assets/Integrate-Dynamics-SMS.jpg" />
     </a>
     <div>
-    <a href="marketo-dynamics-sms.md"><strong>Microsoft DynamicsおよびMarketo向けAcrobat Signを使用した通知の送信</strong></a>
+    <a href="marketo-dynamics-sms.md"><strong>Microsoft DynamicsおよびMarketo用のAcrobat Signを使用して通知を送信する</strong></a>
     </div>
-    <em>テキストメッセージ、電子メール、またはプッシュ通知を送信して、契約書が処理中であることを署名者に知らせる方法について説明します。</em>
+    <em>テキストメッセージ、電子メール、またはプッシュ通知を送信して、契約書が処理中であることを署名者に知らせる方法について説明します</em>
     <br>
   </td>
   <td>

@@ -16,8 +16,8 @@ ht-degree: 16%
 
 ---
 
-# Acrobat Signで以下のカスタムボタンを作成 [!DNL Salesforce]
+# Acrobat Signで[!DNL Salesforce]のカスタムボタンを作成する
 
-Salesforce.com で標準オブジェクトのカスタムボタンを作成する方法を紹介します。この例では、カスタムボタンを **連絡先** を [!DNL Salesforce]. ボタンをクリックすると送信プロセスが開始され、 **連絡先** 契約書に直接入力する。
+Salesforce.com で標準オブジェクトのカスタムボタンを作成する方法を紹介します。この例では、ユーザー設定のボタンを[!DNL Salesforce]の&#x200B;**取引先担当者**&#x200B;に追加します。 ボタンをクリックすると、送信プロセスが開始され、**取引先担当者**&#x200B;からの情報が契約書に直接入力されます。
 
 >[!VIDEO](https://video.tv.adobe.com/v/17352?quality=12&learn=on&hidetitle=true)

@@ -15,7 +15,7 @@ ht-degree: 1%
 
 # Adobe Document Cloudでデジタルエクスペリエンスを解き放つ練習
 
-[![画像](assets/rebrand.png)](assets/Unleash_Digital_Experiences_with_Adobe_Document_Cloud.pdf)
+[![image](assets/rebrand.png)](assets/Unleash_Digital_Experiences_with_Adobe_Document_Cloud.pdf)
 
 この配布資料には、さらに多くの演習と取り上げられているワークフローのレビューが含まれています。 次の実習で使用するデモファイルを以下に示します。 各練習では、次の内容も確認します。
 

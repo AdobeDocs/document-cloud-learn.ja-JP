@@ -1,6 +1,6 @@
 ---
-title: を使用した署名 [!DNL Aadhaar]
-description: の使用方法を学ぶ [!DNL Aadhaar] Acrobat Signで文書に対してIDを認証し、リモートデジタル署名（クラウド署名）を承認するデジタルID
+title: ' [!DNL Aadhaar]を使用して署名しています'
+description: Acrobat Signで [!DNL Aadhaar] デジタルIDを使用してIDを認証し、文書でリモート電子署名（クラウド署名）を承認する方法について説明します
 feature: Digital ID
 role: User
 level: Beginner
@@ -14,8 +14,8 @@ ht-degree: 0%
 
 ---
 
-# を使用した署名 [!DNL Aadhaar]
+# [!DNL Aadhaar]を使用して署名しています
 
-の使用方法を学ぶ [!DNL Aadhaar] Acrobat Signで文書に対してIDを認証し、リモートデジタル署名（クラウド署名）を承認するデジタルID。
+[!DNL Aadhaar]デジタルIDを使用してIDを認証し、Acrobat Signの文書でリモート電子署名（クラウド署名）を承認する方法について説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/338362?quality=12&learn=on&hidetitle=true)

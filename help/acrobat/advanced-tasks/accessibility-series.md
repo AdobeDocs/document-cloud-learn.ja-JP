@@ -16,7 +16,7 @@ ht-degree: 0%
 
 # Acrobatアクセシビリティシリーズ
 
-![Acrobat Accessibility Series Image](../assets/Hero_Accessibility.png)
+![Acrobatアクセシビリティシリーズの画像](../assets/Hero_Accessibility.png)
 
 この6つのパートで構成されるオンデマンドウェビナーシリーズでは、アクセシビリティの基本から、PDFファイルのタグ付けの詳細へと進みます。 各セッションには、練習用のファイルが用意されています。
 
@@ -29,7 +29,7 @@ ht-degree: 0%
     <div>
     <a href="accessibilitysession1.md"><strong>PDFのアクセシビリティの概要</strong></a>
     </div>
-    <em>このオンデマンドセッションでは、PDFをアクセス可能にすることの意味、アクセス可能なPDFで動作するようにAcrobat Proを設定する方法、ソース文書からPDFへの変換プロセスについて説明します</em>
+    <em>このオンデマンドセッションでは、PDFをアクセス可能にする方法、アクセス可能なPDFで動作するようにAcrobat Proを設定する方法、およびソース文書からPDFへの変換プロセスについて説明します</em>
     <br>
   </td>
   <td>
@@ -37,7 +37,7 @@ ht-degree: 0%
       <img alt="アクセスできないPDFの修復" src="../assets/Accessibilitysession2_1280.png" />
     </a>
     <div>
-    <a href="accessibilitysession2.md"><strong>アクセスできないPDFの修復</strong></a>
+    <a href="accessibilitysession2.md"><strong>アクセスできないPDFを修復しています</strong></a>
     </div>
     <em>このオンデマンドセッションでは、Word文書を変換するワークフロー、および概要ウェビナーで示されたAcrobat Proツールを使用して基本的なタグ付けの問題を修正するワークフローについて学習します</em>
     <br>
@@ -47,9 +47,9 @@ ht-degree: 0%
       <img alt="複雑な表" src="../assets/Accessibilitysession3_1280.png" />
     </a>
     <div>
-    <a href="accessibilitysession3.md"><strong>複雑な表</strong></a>
+    <a href="accessibilitysession3.md"><strong>複合テーブル</strong></a>
     </div>
-    <em>このオンデマンドセッションでは、アクセシビリティのPDFを修正する際に発生する、より一般的で困難な問題の1つ、複雑な表を扱います</em>
+    <em>このオンデマンドセッションでは、アクセシビリティのPDFを修正する際に発生する、より一般的で困難な問題の1つ、複雑なテーブルを扱います</em>
     <br>
   </td>
 </tr>
@@ -59,9 +59,9 @@ ht-degree: 0%
       <img alt="スキャンされた文書と複雑なリスト" src="../assets/Accessibilitysession4_1280.png" />
     </a>
     <div>
-    <a href="accessibilitysession4.md"><strong>スキャンした文書と複雑なリスト</strong></a>
+    <a href="accessibilitysession4.md"><strong>スキャンされた文書と複雑なリスト</strong></a>
     </div>
-    <em>このオンデマンドセッションは、スキャンされた文書や複雑なリストなど、頻繁に発生する、より複雑な問題に対処します</em>
+    <em>このオンデマンドセッションでは、スキャンされた文書や複雑なリストなど、頻繁に発生する、より複雑な問題が解決されます</em>
     <br>
   </td>
   <td>
@@ -69,9 +69,9 @@ ht-degree: 0%
       <img alt="タグ付きPDFへのフォームフィールドの追加" src="../assets/Accessibilitysession5_1280.png" />
     </a>
     <div>
-    <a href="accessibilitysession5.md"><strong>タグ付きPDFへのフォームフィールドの追加</strong></a>
+    <a href="accessibilitysession5.md"><strong>タグ付きPDFにフォームフィールドを追加しています</strong></a>
     </div>
-    <em>このオンデマンドセッションでは、以前にタグ付けされたPDFへのフォームフィールドの追加に焦点を当てます</em>
+    <em>このオンデマンドセッションでは、以前にタグ付けされたPDFにフォームフィールドを追加します</em>
     <br>
   </td>  
   <td>
@@ -79,9 +79,9 @@ ht-degree: 0%
       <img alt="タグなしPDFへのフォームフィールドの追加" src="../assets/Accessibilitysession6_1280.png" />
     </a>
     <div>
-    <a href="accessibilitysession6.md"><strong>タグなしPDFへのフォームフィールドの追加</strong></a>
+    <a href="accessibilitysession6.md"><strong>タグなしPDFにフォームフィールドを追加しています</strong></a>
     </div>
-    <em>このオンデマンドセッションでは、手動フォームフィールドの作成と追加フォームフィールドプロパティの作成について詳しく説明します</em>
+    <em>このオンデマンドセッションでは、手動フォームフィールドおよび追加のフォームフィールドプロパティの作成について詳しく説明します</em>
     <br>
   </td> 
 </tr>

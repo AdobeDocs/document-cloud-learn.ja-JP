@@ -1,6 +1,6 @@
 ---
-title: Adobe Acrobat [!DNL Google Drive]
-description: 内部から直接時間を節約するPDFツールや電子サインワークフローにアクセス [!DNL Google Drive] app
+title: ' [!DNL Google Drive]のAdobe Acrobat'
+description: ' [!DNL Google Drive] アプリ内から直接時間を節約するPDFツールや電子サインワークフローにアクセス'
 feature: Integrations, Sign
 role: User
 level: Beginner
@@ -16,8 +16,8 @@ ht-degree: 0%
 
 ---
 
-# Adobe Acrobat [!DNL Google Drive]
+# [!DNL Google Drive]のAdobe Acrobat
 
-内部から直接時間を節約するためのPDFツールや電子サインワークフローにアクセスする方法について説明します。 [!DNL Google Drive] アプリ。
+[!DNL Google Drive]アプリ内から直接時間を節約するためのPDFツールや電子サインのワークフローにアクセスする方法について説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/333600?quality=12&learn=on&hidetitle=true)

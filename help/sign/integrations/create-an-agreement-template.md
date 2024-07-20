@@ -1,5 +1,5 @@
 ---
-title: Document Builderの [!DNL Salesforce]
+title: ' [!DNL Salesforce]のDocument Builder'
 description: Salesforce用Document Builderを使用して再利用可能な文書テンプレートを作成する方法について説明します。
 feature: Integrations
 role: User, Admin
@@ -16,7 +16,7 @@ ht-degree: 0%
 
 ---
 
-# Document Builderの [!DNL Salesforce]
+# [!DNL Salesforce]のDocument Builder
 
 Salesforce向けDocument Builderを使用して再利用可能な文書テンプレートを作成する方法について説明します。 再利用可能な文書テンプレートを使用すると、署名トランザクションを迅速かつ一貫性のある状態で実行でき、文書のリビジョンや変更を管理できます。
 

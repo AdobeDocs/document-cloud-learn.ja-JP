@@ -1,6 +1,6 @@
 ---
-title: Adobe Acrobat Signでの [!DNL Microsoft Teams]
-description: 次の期間中に対面署名のようなオンライン署名エクスペリエンスを作成する方法を説明します [!DNL Microsoft Teams] 会議
+title: ' [!DNL Microsoft Teams]様のAdobe Acrobat Signでのライブサイン'
+description: ' [!DNL Microsoft Teams] 会議中に対面署名のようなオンライン署名エクスペリエンスを作成する方法を説明します'
 feature: Integrations
 role: User
 topic: Integrations
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 ---
 
-# Adobe Acrobat Signでの [!DNL Microsoft Teams]
+# [!DNL Microsoft Teams]様のAdobe Acrobat Signでのライブサイン
 
 Microsoft Teams会議での対面署名のようなオンライン署名エクスペリエンスを作成する方法について説明します。 Live Signを使用すると、どのデバイスからでも迅速かつ安全な個人的な署名体験をホストできます。
 

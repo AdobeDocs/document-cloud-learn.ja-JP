@@ -8,8 +8,8 @@ level: Beginner
 exl-id: 541f7a4d-d893-4768-9c91-638548845378
 source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
 workflow-type: tm+mt
-source-wordcount: '519'
-ht-degree: 10%
+source-wordcount: '534'
+ht-degree: 8%
 
 ---
 
@@ -22,45 +22,45 @@ Adobe Document Cloudレビューサービスを使用すると、Acrobatデス�
 * コメント用にパーソナライズされた招待状を送信
 * 電子メールで匿名またはパブリックリンクを送信する
 
-次のとおりです [デモファイル](assets/01_Review.zip) この演習のために
+この演習で使用する[デモファイル](assets/01_Review.zip)をご紹介します。
 
 ## コメント用にパーソナライズされた招待状を送信
 
-**手順1:** を開きます `localFoodTruckmenu_start.pdf` ファイルをAdobe Acrobatで開きます。
+**手順1:** Adobe Acrobatで`localFoodTruckmenu_start.pdf`ファイルを開きます。
 
-![手順1の画像](assets/Step1.png)
+![ステップ1の画像](assets/Step1.png)
 
-**手順2:** をクリック **[!UICONTROL Send for Comments]** 右側のパネルまたは **[!UICONTROL このファイルを他のユーザーと共有]** ![注釈記号](assets/sendforcommentsicon.png)  アイコンをクリックします。
+**手順2:**&#x200B;右側のパネルで&#x200B;**[!UICONTROL Send for Comments]**&#x200B;をクリックするか、右上隅にある&#x200B;**[!UICONTROL このファイルを他のユーザーと共有]** ![注釈アイコン](assets/sendforcommentsicon.png)アイコンをクリックします。
 
-**手順3:** 受信者の電子メールアドレスを入力します。 受信者へのメッセージを入力したり、レビューの期限を追加したりできます。
+**手順3:**&#x200B;受信者の電子メールアドレスを入力します。 受信者へのメッセージを入力したり、レビューの期限を追加したりできます。
 
 ![ステップ2Cイメージ](assets/Step2C.png)
 
 受信者がファイルを表示すると、メールで通知が届きます。
 
-![配信確認メッセージの画像](assets/deliveryReceipt_Track.png)
+![配信済みメッセージの画像](assets/deliveryReceipt_Track.png)
 
 ## レビュアーの経験
 
-レビュー担当者はレビュー用 PDF へのリンクを含む電子メールの招待を受信します。ユーザーがリンクまたは **[!UICONTROL レビュー]** ボタン：招待状のPDFがwebブラウザーで開きます。 注釈ツールを使用して、注釈を PDF に追加できます。また、Acrobat Reader または Acrobat デスクトップアプリケーションを使用して、注釈を追加することもできます。
+レビュー担当者はレビュー用 PDF へのリンクを含む電子メールの招待を受信します。招待状でリンクまたは「**[!UICONTROL レビュー]**」ボタンをクリックすると、WebブラウザーでPDFが開きます。 注釈ツールを使用して、注釈を PDF に追加できます。Acrobat ReaderまたはAcrobatデスクトップアプリケーションを使用してコメントを追加することもできます。
 
 ## 電子メールで匿名またはパブリックリンクを送信する
 
-**手順1:** を開きます `localFoodTruckmenu_start.pdf` ファイルをAdobe Acrobatで開きます。
+**手順1:** Adobe Acrobatで`localFoodTruckmenu_start.pdf`ファイルを開きます。
 
-**手順2:** クリック **[!UICONTROL リンクを共有]** ![linkicon](assets/sendlinkicon.png). 共有リンクは即座に生成され、ファイルがクラウドにアップロードされるのを待つ必要はありません。 デフォルトでは、 [!UICONTROL コメントを許可] スイッチはオンです。
+**手順2:** 「**[!UICONTROL リンクを共有]**![リンクアイコン](assets/sendlinkicon.png)」をクリックします。 共有リンクは即座に生成され、ファイルがクラウドにアップロードされるのを待つ必要はありません。 「[!UICONTROL コメントを許可]」スイッチは、デフォルトでオンになっています。
 
-![ステップ2L画像](assets/Step2L.png)
+![ステップ2Lイメージ](assets/Step2L.png)
 
-**手順3:** クリック **[!UICONTROL リンクをコピー]** 受信者とリンクを共有します。
+**手順3:** 「**[!UICONTROL リンクをコピー]**」をクリックし、受信者とリンクを共有します。
 
 ## コメントの作成
 
-**手順1:** 「 **[!UICONTROL コメント]** 右側のパネルに表示されます。
+**手順1:**&#x200B;右側のパネルの&#x200B;**[!UICONTROL コメント]**&#x200B;をクリックします。
 
-![クリック注釈](assets/Cselect.jpg)
+![注釈をクリック](assets/Cselect.jpg)
 
-**手順2:** 上のリボンツールを使用して、文書に注釈を追加したり、コメントを入力したりします。
+**手順2:**&#x200B;上のリボンツールを使用して、ドキュメントにコメントを追加したり、コメントを入力したりします。
 
 ![コメントui](assets/commentsui.png)
 
@@ -70,17 +70,17 @@ Adobe Document Cloudレビューサービスを使用すると、Acrobatデス�
 
 InDesign CC 2019では、PDFファイルから直接コメントを読み込むことができます。 ワンクリックで変更を読み込み、適用、適用できます。 新しいPDFコメントパネルでコメントを選択すると、InDesignファイルでそのコメントが見つかり、ハイライト表示されます。
 
-**手順1:** コメントを含むPDFファイルをダウンロードします。
+**手順1:**&#x200B;コメントを含むPDFファイルをダウンロードします。
 
 **手順2:** InDesignファイルを開きます。
 
-**手順3:** クリック **[!UICONTROL ファイル]** をクリックします。
+**手順3:**&#x200B;上部のメニューから[**[!UICONTROL ファイル]**]をクリックします。
 
 ![InddのPDFコメント](assets/inddpdf.png)
 
-**手順4:** クリック **[!UICONTROL PDFコメントの読み込み]** ドロップダウンから
+**手順4:**&#x200B;ドロップダウンから「**[!UICONTROL PDFコメントの読み込み]**」をクリックします。
 
-**手順5:** コメントを含むPDFを開きます。
+**手順5:**&#x200B;注釈を含むPDFを開きます。
 
 ![InddのPDFコメント](assets/inddpdfshown.png)
 

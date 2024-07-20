@@ -22,12 +22,12 @@ ht-degree: 0%
 ## 新機能
 
 * [教育機関向けIEPプロセスのカスタムワークフロー](usecase-edu-iep.md)
-カスタムワークフローデザイナーを使用して、個人化教育プログラム(IEP)プロセスをデジタル化する方法について説明します
-* [教育機関webフォームインターンシップ申請](usecase-edu-intern.md)
+カスタムワークフローDesignerを使用して、個人化教育プログラム(IEP)プロセスをデジタル化する方法について説明します
+* [教育機関向けWebフォームのインターンシップ申請](usecase-edu-intern.md)
 Webフォームを使用して、学生が必要なフォームに簡単にアクセスできるようにする方法を説明します
-* [教育用Webフォームインターンシップ申請の作成](usecase-edu-intern-create.md)
+* [教育用Webフォームインターンシップアプリケーションを作成する](usecase-edu-intern-create.md)
 インターンwebフォームの作成方法を学ぶ
-* [複数の不明な署名者を含む政府からの融資申請](webform-multiple-signers.md)
+* [複数の不明な署名者を伴う政府の融資申請](webform-multiple-signers.md)
 複数の不明な参加者を含む複雑な政府ローン申請ワークフローでWebフォームを使用する方法について説明します
 
 ## 官公庁のユースケース
@@ -39,9 +39,9 @@ Webフォームを使用して、学生が必要なフォームに簡単にア�
       <img alt="複数の不明な署名者を含む政府からの融資申請" src="../assets/Web-form-unknown.png" />
     </a>
     <div>
-    <a href="webform-multiple-signers.md"><strong>複数の不明な署名者を含む政府からの融資申請</strong></a>
+    <a href="webform-multiple-signers.md"><strong>複数の不明な署名者を伴う政府の融資申請</strong></a>
     </div>
-    <em>複数の不明な参加者を含む複雑な政府ローン申請ワークフローでWebフォームを使用する方法について説明します</em>
+    <em>複数の不明な参加者を含む複雑な政府融資申し込みワークフローでWebフォームがどのように使用されるかを説明します</em>
     <br>
   </td> 
   <td>
@@ -49,9 +49,9 @@ Webフォームを使用して、学生が必要なフォームに簡単にア�
       <img alt="事業助成金及び貸付金" src="../assets/UC_Business.png" />
     </a>
     <div>
-    <a href="usecasegovgrants.md"><strong>事業助成金及び貸付金</strong></a>
+    <a href="usecasegovgrants.md"><strong>事業上の助成金およびローン</strong></a>
     </div>
-    <em>助成金、ローン、および税金の繰延要求フォームへのセルフサービスアクセスを提供することで、企業を迅速に支援する</em>
+    <em>助成金、ローン、および税金の繰延要求フォームへのセルフサービスアクセスを提供して、企業を迅速に支援します</em>
     <br>
   </td> 
   <td>
@@ -61,7 +61,7 @@ Webフォームを使用して、学生が必要なフォームに簡単にア�
     <div>
     <a href="usecasegovtelework.md"><strong>テレワーク契約書</strong></a>
     </div>
-    <em>テレワーク契約書やポリシーの更新などに関して、すべての従業員から署名を効率的に収集</em>
+    <em>テレワーク契約、ポリシーの更新などですべての従業員から署名を効率的に収集します</em>
     <br>
   </td>
   <td>
@@ -69,9 +69,9 @@ Webフォームを使用して、学生が必要なフォームに簡単にア�
       <img alt="契約および請求フォーム" src="../assets/UC_WorkflowR.png" />
     </a>
     <div>
-    <a href="usecasegovcontracts.md"><strong>契約および請求フォーム</strong></a>
+    <a href="usecasegovcontracts.md"><strong>契約と要求フォーム</strong></a>
     </div>
-    <em>監査レポートを備えた、コンプライアンスに準拠したデジタル・ワークフローにより、紙の処理を迅速に置き換え</em>
+    <em>監査レポートを備えた、コンプライアンスに準拠したデジタルワークフローによる紙媒体の処理をすばやく置き換える</em>
     <br>
   </td>
 </tr>
@@ -81,9 +81,9 @@ Webフォームを使用して、学生が必要なフォームに簡単にア�
       <img alt="再就職援助" src="../assets/UC_WebformsR.png" />
     </a>
     <div>
-    <a href="usecasegovreemployment.md"><strong>再就職援助</strong></a>
+    <a href="usecasegovreemployment.md"><strong>再就職のサポート</strong></a>
     </div>
-    <em>市民が数日で使用可能なオールデジタルの申請用紙に従わなくても、必要な支援を受けられるように支援します。</em>
+    <em>数日で使用可能なオールデジタルの申請用紙に沿って市民が必要なサポートを受けられるように支援する</em>
     <br>
   </td>
   <td>
@@ -91,9 +91,9 @@ Webフォームを使用して、学生が必要なフォームに簡単にア�
       <img alt="支払いチェックの保護" src="../assets/UC_PaycheckProtectionR.png" />
     </a>
     <div>
-    <a href="usecasegovpaycheck.md"><strong>支払いチェックの保護</strong></a>
+    <a href="usecasegovpaycheck.md"><strong>給与チェックの保護</strong></a>
     </div>
-    <em>Acrobat Signを使用して、Payment Protection Programフォームをオンラインインタラクティブフォームに変換する方法について説明します。</em>
+    <em>Acrobat Signを使用して、Payment Protection Programフォームをオンラインインタラクティブフォームに変換する方法をご覧ください</em>
     <br>
   </td>
   <td>
@@ -101,9 +101,9 @@ Webフォームを使用して、学生が必要なフォームに簡単にア�
       <img alt="リモートの令状要求" src="../assets/UC_Remote_WarrantR.png" />
     </a>
     <div>
-    <a href="usecasegovremote.md"><strong>リモートの令状要求</strong></a>
+    <a href="usecasegovremote.md"><strong>リモート許可要求</strong></a>
     </div>
-    <em>電子サインとWeb会議を一緒に使用して、審査員からの令状の要求と保護にかかる時間を短縮</em>
+    <em>電子サインとWeb会議を一緒に使用して、審査員からの令状の要求とセキュリティ保護にかかる時間を短縮します</em>
     <br>
   </td>
   <td>
@@ -123,9 +123,9 @@ Webフォームを使用して、学生が必要なフォームに簡単にア�
       <img alt="契約および請求フォーム" src="../assets/UC_WorkflowR.png" />
     </a>
     <div>
-    <a href="usecasecomcontracts.md"><strong>契約および請求フォーム</strong></a>
+    <a href="usecasecomcontracts.md"><strong>契約と要求フォーム</strong></a>
     </div>
-    <em>監査レポートを備えた、コンプライアンスに準拠したデジタル・ワークフローにより、紙の処理を迅速に置き換え</em>
+    <em>監査レポートを備えた、コンプライアンスに準拠したデジタルワークフローによる紙媒体の処理をすばやく置き換える</em>
     <br>
   </td> 
   <td>
@@ -135,7 +135,7 @@ Webフォームを使用して、学生が必要なフォームに簡単にア�
     <div>
     <a href="usecasecompolicy.md"><strong>ポリシーの契約書</strong></a>
     </div>
-    <em>ポリシーの契約書や更新に関して、すべての従業員から署名を効率的に収集</em>
+    <em>ポリシーの契約と更新に関して、すべての従業員から署名を効率的に収集する</em>
     <br>
   </td>
   <td>
@@ -145,7 +145,7 @@ Webフォームを使用して、学生が必要なフォームに簡単にア�
     <div>
     <a href="usecasecomtelework.md"><strong>テレワーク契約書</strong></a>
     </div>
-    <em>テレワーク契約書ですべての従業員から署名を効率的に収集</em>
+    <em>テレワーク契約書ですべての従業員から署名を効率的に収集する</em>
     <br>
   </td>
   <td>
@@ -165,9 +165,9 @@ Webフォームを使用して、学生が必要なフォームに簡単にア�
       <img alt="教育機関webフォームインターンシップ申請" src="../assets/Webform-internship.png" />
     </a>
     <div>
-    <a href="usecase-edu-intern.md"><strong>教育機関webフォームインターンシップ申請</strong></a>
+    <a href="usecase-edu-intern.md"><strong>教育機関向けWebフォームのインターンシップ申請</strong></a>
     </div>
-    <em>Webフォームを使用して、学生が必要なフォームに簡単にアクセスできるようにする方法を説明します</em>
+    <em>Webフォームを使用して、学生の必須フォームへのアクセスを改善する方法を説明します</em>
     <br>
   </td> 
   <td>
@@ -175,9 +175,9 @@ Webフォームを使用して、学生が必要なフォームに簡単にア�
       <img alt="教育用Webフォームインターンシップ申請の作成" src="../assets/Webform-internship-create.png" />
     </a>
     <div>
-    <a href="usecase-edu-intern-create.md"><strong>教育用Webフォームインターンシップ申請の作成</strong></a>
+    <a href="usecase-edu-intern-create.md"><strong>教育用Webフォームインターンシップアプリケーションを作成する</strong></a>
     </div>
-    <em>インターンwebフォームの作成方法を学ぶ</em>
+    <em>インターン用Webフォームの作成方法</em>
     <br>
   </td> 
   <td>
@@ -187,7 +187,7 @@ Webフォームを使用して、学生が必要なフォームに簡単にア�
     <div>
     <a href="usecase-edu-iep.md"><strong>教育機関向けIEPプロセスのカスタムワークフロー</strong></a>
     </div>
-    <em>カスタムワークフローデザイナーを使用して、個人化教育プログラム(IEP)プロセスをデジタル化する方法について説明します</em>
+    <em>カスタムワークフローDesignerを使用して、個人化教育プログラム(IEP)プロセスをデジタル化する方法を説明します</em>
     <br>
   </td>
   <td>

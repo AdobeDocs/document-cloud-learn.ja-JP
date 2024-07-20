@@ -20,7 +20,7 @@ ht-degree: 0%
 # Adobe Document Cloudでデジタルエクスペリエンスを解き放つ {#lab719}
 
 + [実習の概要と概要](overview.md)
-+ Adobe Document Cloudでデジタルエクスペリエンスを解き放つ {#gsd}
++ Adobe Document Cloud {#gsd}でデジタルエクスペリエンスを解き放つ
    + [Adobe Document Cloudでデジタルエクスペリエンスを解き放つ](gsd.md)
    + [例1：任意のフォームをスキャン](scan.md)
    + [例2：任意のフォームへの入力と署名](fillsign.md)

@@ -1,6 +1,6 @@
 ---
-title: を使用した署名 [!DNL Intesi Group]
-description: の使用方法を学ぶ [!DNL Intesi Group] Acrobat SignでのデジタルID
+title: ' [!DNL Intesi Group]を使用して署名しています'
+description: Acrobat Signで [!DNL Intesi Group] デジタルIDを使用する方法を説明します
 feature: Digital ID
 role: User
 level: Beginner
@@ -14,8 +14,8 @@ ht-degree: 0%
 
 ---
 
-# を使用した署名 [!DNL Intesi Group]
+# [!DNL Intesi Group]を使用して署名しています
 
-の使用方法を学ぶ [!DNL Intesi Group] idを認証し、文書のリモートデジタル署名（クラウド署名）を承認するためのデジタルID。
+[!DNL Intesi Group]デジタルIDを使用してIDを認証し、文書のリモートデジタル署名（クラウド署名）を承認する方法について説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/336989?quality=12&learn=on&hidetitle=true)

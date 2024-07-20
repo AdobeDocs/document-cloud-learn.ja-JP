@@ -9,8 +9,8 @@ thumbnail: 17357.jpg
 exl-id: 337320ae-6e0c-45f9-8e1f-751a293375ad
 source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
 workflow-type: tm+mt
-source-wordcount: '97'
-ht-degree: 17%
+source-wordcount: '94'
+ht-degree: 18%
 
 ---
 
@@ -26,4 +26,4 @@ ht-degree: 17%
 
 >[!TIP]
 >
->このビデオはコースの一部です [管理者向けAcrobat Signの概要](https://experienceleague.adobe.com/?recommended=Sign-A-1-2020.2) それはExperience Leagueで無料で入手できます！
+>このビデオは、Experience Leagueで無料で利用できる[管理者向けAcrobat Signの概要](https://experienceleague.adobe.com/?recommended=Sign-A-1-2020.2)のコースの一部です。

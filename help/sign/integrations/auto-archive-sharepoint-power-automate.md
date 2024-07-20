@@ -1,6 +1,6 @@
 ---
-title: ファイルの自動アーカイブ [!DNL SharePoint] 使用する [!DNL Power Automate]
-description: 署名済み文書を次の場所に自動的にアーカイブする方法を説明します [!DNL SharePoint] ライブラリ使用 [!DNL Power Automate]
+title: ' [!DNL SharePoint] と [!DNL Power Automate]のファイルを自動アーカイブ'
+description: ' [!DNL Power Automate]を使用して、署名済み文書を [!DNL SharePoint] ライブラリに自動的にアーカイブする方法について説明します'
 feature: Integrations
 role: Admin, User
 level: Intermediate
@@ -15,8 +15,8 @@ ht-degree: 0%
 
 ---
 
-# ファイルの自動アーカイブ [!DNL SharePoint] 使用する [!DNL Power Automate]
+# [!DNL SharePoint]のファイルを[!DNL Power Automate]で自動アーカイブ
 
-署名済み文書を次の場所に自動的にアーカイブする方法を説明します [!DNL SharePoint] ライブラリ使用 [!DNL Power Automate].
+[!DNL Power Automate]を使用して、署名済み文書を[!DNL SharePoint]ライブラリに自動的にアーカイブする方法について説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3409121?quality=12&learn=on&hidetitle=true)

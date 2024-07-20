@@ -8,14 +8,14 @@ thumbnail: 34510.jpg
 exl-id: 3115d182-671a-4d8b-8753-f8aba3c4807e
 source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
 workflow-type: tm+mt
-source-wordcount: '60'
-ht-degree: 8%
+source-wordcount: '61'
+ht-degree: 1%
 
 ---
 
 # Acrobatでどこでも作業するための5つのヒント – Protectデジタルドキュメント
 
-[PDFにパスワードを入力](https://www.adobe.com/acrobat/online/password-protect-pdf.html){target="_blank"}  コピー、編集、印刷を禁止します。
+[PDFにパスワードを設定](https://www.adobe.com/jp/acrobat/online/password-protect-pdf.html){target="_blank"}して、コピー、編集、印刷ができないようにします。
 
 ## ヒント#3 - Protectデジタルドキュメント(1:23)
 

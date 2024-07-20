@@ -9,7 +9,7 @@ thumbnail: 37839.jpg
 exl-id: f81f5ce8-26ad-4c73-934c-da580782bf84,71a748b0-48c9-4a1e-befe-d5f311d6c05e
 source-git-commit: 580ab332226b408d735639342bd3f6b96323a9b3
 workflow-type: tm+mt
-source-wordcount: '182'
+source-wordcount: '152'
 ht-degree: 3%
 
 ---
@@ -21,12 +21,12 @@ ht-degree: 3%
 [!BADGE 使用事例]
 
 * [テレワーク契約書](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/gov/usecasegovtelework.html?lang=en)
-* [ポリシーの合意](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/com/usecasecompolicy.html?lang=en)
+* [ポリシーの契約書](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/com/usecasecompolicy.html?lang=en)
 
 >[!VIDEO](https://video.tv.adobe.com/v/33655?quality=12&learn=on&hidetitle=true)
 
-[サンプルCSVファイルをZIP形式でダウンロード](../assets/sendInBulkSample.zip). CSVファイルに設定できるすべての値について説明します [こちら](https://helpx.adobe.com/sign/adv-user/send-in-bulk/send-with-csv.html).
+[サンプルCSVファイルをZIP形式でダウンロードします](../assets/sendInBulkSample.zip)。 CSVファイル[ここ](https://helpx.adobe.com/sign/adv-user/send-in-bulk/send-with-csv.html)で設定できるすべての値について説明します。
 
 >[!TIP]
 >
-このビデオは、 [ユーザー向けの高度なタスク](https://experienceleague.adobe.com/?recommended=Sign-U-1-2020.3) および [管理者向けAcrobat Signの概要](https://experienceleague.adobe.com/?recommended=Sign-A-1-2020.2) Experience Leagueで無料で利用できるコース
+このビデオは、Experience Leagueで無料で利用できる[管理者向けの高度なタスク](https://experienceleague.adobe.com/?recommended=Sign-U-1-2020.3)と[管理者向けAcrobat Signの使用を開始](https://experienceleague.adobe.com/?recommended=Sign-A-1-2020.2)のコースの一部です。

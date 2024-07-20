@@ -15,8 +15,8 @@ ht-degree: 0%
 
 ---
 
-# を使用して登録して署名 [!DNL D-Trust]
+# [!DNL D-Trust]を使用して登録して署名
 
-IDの登録方法を説明します [!DNL D-Trust]を選択し、 [!DNL D-Trust] Acrobat Signの文書に対する電子署名。
+[!DNL D-Trust]でIDを登録し、Acrobat Signで文書に[!DNL D-Trust]デジタル署名を使用する方法について説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3410193?quality=12&learn=on&hidetitle=true)
