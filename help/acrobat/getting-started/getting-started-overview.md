@@ -7,10 +7,10 @@ level: Beginner
 jira: KT-6856
 thumbnail: KT-6856.jpg
 exl-id: 24660a17-a04e-4937-be94-0a42c4b2c2ca
-source-git-commit: 68b95d15285b0b11688a7f99c74086c60c36466e
+source-git-commit: f71746be00bd71ea2e7fb242705fd4ec3f273803
 workflow-type: tm+mt
-source-wordcount: '232'
-ht-degree: 4%
+source-wordcount: '582'
+ht-degree: 2%
 
 ---
 
@@ -35,36 +35,73 @@ AIアシスタントを使用して、PDFファイルから洞察を得る方法
     <a href="new-workspace.md">
       <img alt="新しいワークスペースエクスペリエンス" src="../assets/new-workspace.png" />
     </a>
+    <div>
+    <a href="new-workspace.md"><strong>新しいワークスペースエクスペリエンス</strong></a>
+    </div>
+    Acrobatの新しいワークスペースについて説明します
+    <br>
   </td>
   <td>
     <a href="get-to-know-the-acrobat-dc-interface.md">
       <img alt="ワークスペースの基本" src="../assets/workspace-basics.png" />
     </a>
+    <div>
+    <a href="get-to-know-the-acrobat-dc-interface.md"><strong>ワークスペースの基本</strong></a>
+    </div>
+    デスクトップ、web、モバイルからファイルやツールにアクセスする方法を説明します
+    <br>
   </td>
   <td>
     <a href="ai-assistant.md">
       <img alt="AIアシスタントでPDFのインサイトを見つける" src="../assets/ai-assistant.png" />
     </a>
+    <div>
+    <a href="ai-assistant.md"><strong>AIアシスタントを使用して、PDFの情報を見つける</strong></a>
+    </div>
+    AIアシスタントを使用して、PDFファイルから洞察を得る方法について説明します
+    <br>
   </td>
   <td>
     <a href="acrobatweb.md">
       <img alt="Acrobat webでどこでも作業" src="../assets/acrobat-web.png" />
     </a>
+    <div>
+    <a href="acrobatweb.md"><strong>Acrobat webでどこでも作業</strong></a>
+    </div>
+    どこからでもビジネス文書の要求を処理する方法を説明します
+    <br>
   </td>
 </tr>
 <tr>
   <td>
     <a href="productivity.md">
       <img alt="外出先での生産性" src="../assets/productivity.png" />
+    </a>
+    <div>
+    <a href="productivity.md"><strong>外出先での生産性</strong></a>
+    </div>
+    タブレットや携帯電話から直接その他の操作を行う方法について説明します
+    <br>
   </td>
     <td>
       <a href="../integrate/integrate-overview.md#microsoft">
         <img alt="Microsoft 365の使用" src="../assets/microsoft-365.png" />
+      </a>
+      <div>
+      <a href="../integrate/integrate-overview.md#microsoft"><strong>Microsoft 365の操作</strong></a>
+      </div>
+      Microsoft 365内でPDFファイルをシームレスに操作する方法を説明します
+      <br> 
     </td>
     <td>
       <a href="where-do-pdfs-come-from.md">
         <img alt="PDFはどこから来るのですか。" src="../assets/where-pdfs.png" />
       </a>
+      <div>
+      <a href="where-do-pdfs-come-from.md"><strong>PDFの提供元</strong></a>
+      </div>
+      PDFの送信元と、デジタルワークフローでテンプレートを使用する方法について説明します
+      <br>
     </td>
     <td>
     <img alt="スペーサー" src="../assets/Grayspacer.png" />
@@ -82,20 +119,41 @@ AIアシスタントを使用して、PDFファイルから洞察を得る方法
       <a href="create-pdf.md">
         <img alt="PDFファイルの作成" src="../assets/create.png" />
       </a>
+      <div>
+      <a href="create-pdf.md"><strong>PDF ファイルの作成</strong></a>
+      </div>
+      すべての種類の文書からPDFを作成する方法を説明します。
+      <br>
     </td>
     <td>
       <a href="combine-to-pdf.md">
-        <img alt="Combine FilesからPDF" src="../assets/combine.png" />
+        <img alt="ファイルを1つのPDFーに結合" src="../assets/combine.png" />
+      </a>
+      <div>
+      <a href="combine-to-pdf.md"><strong>ファイルを1つのPDFに結合</strong></a>
+      </div>
+      さまざまな種類のファイルを1つのPDFにシームレスに結合する方法を説明します
+      <br>
     </td>
     <td>
       <a href="organize.md">
         <img alt="ページを整理" src="../assets/organize-pages.png" />
       </a>
+      <div>
+      <a href="organize.md"><strong>ページを整理</strong></a>
+      </div>
+      好きなようにページを並べ替える方法を説明します
+      <br>
     </td>
     <td>
       <a href="add-custom-page.md">
         <img alt="カスタムページを追加" src="../assets/custom.png" />
       </a>
+      <div>
+      <a href="add-custom-page.md"><strong>カスタムページの追加</strong></a>
+      </div>
+      PDFにカスタムページを追加する方法を説明します
+      <br>
     </td>
   </tr>
   </table>
@@ -108,27 +166,52 @@ AIアシスタントを使用して、PDFファイルから洞察を得る方法
       <a href="edit-pdf.md">
         <img alt="PDF内のテキストの編集" src="../assets/edit-text.png" />
       </a>
+      <div>
+      <a href="edit-pdf.md"><strong>PDFのテキストを編集する</strong></a>
+      </div>
+      PDF内の単語、語句、またはページ全体を編集する方法について説明します
+      <br>
     </td>
     <td>
       <a href="edit-graphics.md">
         <img alt="PDF内のグラフィックの編集" src="../assets/edit-graphics.png" />
       </a>
+      <div>
+      <a href="edit-graphics.md"><strong>PDFのグラフィックを編集する</strong></a>
+      </div>
+      PDFでグラフィックを作成、編集、拡張する方法を説明します。
+      <br>
     </td>
     <td>
       <a href="stylize-this-PDF.md">
         <img alt="このPDFをスタイライズ" src="../assets/stylize-pdf.png" />
       </a>
+      <div>
+      <a href="stylize-this-PDF.md"><strong>このPDFのスタイルを設定する</strong></a>
+      </div>
+      プロのようなPDFを作成する方法を学ぶ
+      <br>
     </td>
    <td>
       <a href="auto-adjust-layout.md">
         <img alt="自動調整レイアウト" src="../assets/auto-adjust.png" />
       </a>
+      <div>
+      <a href="auto-adjust-layout.md"><strong>自動調整レイアウト</strong></a>
+      </div>
+      コンテンツをリフローする新しい編集モードについて説明します
+      <br>
     </td>
   </tr>
     <td>
       <a href="export-pdf.md">
         <img alt="PDFを別のファイル形式に変換" src="../assets/convert.png" />
       </a>
+      <div>
+      <a href="export-pdf.md"><strong>PDFを別のファイル形式に変換</strong></a>
+      </div>
+      PDFファイルを様々なファイル形式に変換する方法について説明します
+      <br>
     </td>
     <td>
    <img alt="スペーサー" src="../assets/Grayspacer.png" />
@@ -156,11 +239,20 @@ AIアシスタントを使用して、PDFファイルから洞察を得る方法
       <a href="collaborate.md">
         <img alt="リアルタイムの共同作業" src="../assets/collaborate.png" />
       </a>
+      <div>
+      <a href="collaborate.md"><strong>リアルタイムの共同作業</strong></a>
+      </div>
+      リアルタイムの共同作業でプロジェクトを進める
     </td>
     <td>
       <a href="comment-on-pdf-files.md">
         <img alt="PDFに対するコメント" src="../assets/comment.png" />
       </a>
+      <div>
+      <a href="comment-on-pdf-files.md"><strong>PDFに対するコメント</strong></a>
+      </div>
+      PDFファイルに注釈を付けて、他のユーザーと共有する方法を説明します
+      <br>
     </td>
     <td>
     <img alt="スペーサー" src="../assets/Whitespacer.png" />
@@ -183,21 +275,41 @@ AIアシスタントを使用して、PDFファイルから洞察を得る方法
     <a href="create-fillable-forms.md">
       <img alt="入力可能なフォームの作成" src="../assets/fillable-forms.png" />
     </a>
+    <div>
+      <a href="create-fillable-forms.md"><strong>入力可能なフォームの作成</strong></a>
+      </div>
+      スキャンした紙を入力可能な形に変換する
+      <br>
   </td>
   <td>
     <a href="fill-and-sign.md">
-      <img alt="PDFフォームに入力して署名" src="../assets/fill-sign.png" />
+      <img alt="PDFフォームをFill &amp; Sign" src="../assets/fill-sign.png" />
     </a>
+    <div>
+    <a href="fill-and-sign.md"><strong>PDFフォームをFill &amp; Signする</strong></a>
+    </div>
+    PDFフォームにすばやく簡単に入力および署名する方法について説明します。
+    <br>
   </td>
   <td>
     <a href="scan-and-ocr.md">
       <img alt="スキャンとOCR" src="../assets/scan.png" />
     </a>
+    <div>
+    <a href="scan-and-ocr.md"><strong>スキャンとOCR</strong></a>
+    </div>
+    文書のスキャンまたは画像を検索可能で編集可能なPDFファイルに変換
+    <br>
   </td>
   <td>
     <a href="password-protect.md">
       <img alt="PDFファイルをパスワードでProtectする" src="../assets/protect.png" />
     </a>
+    <div>
+    <a href="password-protect.md"><strong>PDFファイルをパスワードでProtectする</strong></a>
+    </div>
+    PDFにパスワードを追加する方法を説明します
+    <br>
   </td>
 </tr>
 <tr>
@@ -205,11 +317,21 @@ AIアシスタントを使用して、PDFファイルから洞察を得る方法
     <a href="signatures.md">
       <img alt="署名を取得" src="../assets/signatures.png" />
     </a>
+    <div>
+    <a href="signatures.md"><strong>署名を取得</strong></a>
+    </div>
+    法的拘束力のある電子サインを収集してビジネスを継続
+    <br>
   </td>
   <td>
     <a href="track.md">
       <img alt="ドキュメントのトラック" src="../assets/track.png" />
     </a>
+    <div>
+    <a href="track.md"><strong>ドキュメントのトラック</strong></a>
+    </div>
+    電子サインドキュメントをトラックおよび管理する方法について説明します
+    <br>
   </td>
   <td>
    <img alt="スペーサー" src="../assets/Grayspacer.png" />
