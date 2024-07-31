@@ -7,9 +7,9 @@ level: Beginner
 jira: KT-6856
 thumbnail: KT-6856.jpg
 exl-id: 24660a17-a04e-4937-be94-0a42c4b2c2ca
-source-git-commit: f71746be00bd71ea2e7fb242705fd4ec3f273803
+source-git-commit: d6f75802191d527f0371640f1c8a5913a0ee38e1
 workflow-type: tm+mt
-source-wordcount: '582'
+source-wordcount: '541'
 ht-degree: 2%
 
 ---
@@ -48,7 +48,7 @@ AIアシスタントを使用して、PDFファイルから洞察を得る方法
     <div>
     <a href="get-to-know-the-acrobat-dc-interface.md"><strong>ワークスペースの基本</strong></a>
     </div>
-    デスクトップ、web、モバイルからファイルやツールにアクセスする方法を説明します
+    Acrobatワークスペースの基本を学ぶ
     <br>
   </td>
   <td>
@@ -58,7 +58,7 @@ AIアシスタントを使用して、PDFファイルから洞察を得る方法
     <div>
     <a href="ai-assistant.md"><strong>AIアシスタントを使用して、PDFの情報を見つける</strong></a>
     </div>
-    AIアシスタントを使用して、PDFファイルから洞察を得る方法について説明します
+    AIアシスタントを使用して、PDFファイルから洞察を得ます
     <br>
   </td>
   <td>
@@ -68,7 +68,7 @@ AIアシスタントを使用して、PDFファイルから洞察を得る方法
     <div>
     <a href="acrobatweb.md"><strong>Acrobat webでどこでも作業</strong></a>
     </div>
-    どこからでもビジネス文書の要求を処理する方法を説明します
+    どこからでも作業する方法を学ぶ
     <br>
   </td>
 </tr>
@@ -80,7 +80,7 @@ AIアシスタントを使用して、PDFファイルから洞察を得る方法
     <div>
     <a href="productivity.md"><strong>外出先での生産性</strong></a>
     </div>
-    タブレットや携帯電話から直接その他の操作を行う方法について説明します
+    タブレットやスマートフォンを使用して様々な作業を行う方法を説明します
     <br>
   </td>
     <td>
@@ -90,7 +90,7 @@ AIアシスタントを使用して、PDFファイルから洞察を得る方法
       <div>
       <a href="../integrate/integrate-overview.md#microsoft"><strong>Microsoft 365の操作</strong></a>
       </div>
-      Microsoft 365内でPDFファイルをシームレスに操作する方法を説明します
+      Microsoft 365内でPDFファイルとシームレスに連携
       <br> 
     </td>
     <td>
@@ -100,7 +100,7 @@ AIアシスタントを使用して、PDFファイルから洞察を得る方法
       <div>
       <a href="where-do-pdfs-come-from.md"><strong>PDFの提供元</strong></a>
       </div>
-      PDFの送信元と、デジタルワークフローでテンプレートを使用する方法について説明します
+      PDFの提供元と使用方法について説明します
       <br>
     </td>
     <td>
@@ -122,7 +122,7 @@ AIアシスタントを使用して、PDFファイルから洞察を得る方法
       <div>
       <a href="create-pdf.md"><strong>PDF ファイルの作成</strong></a>
       </div>
-      すべての種類の文書からPDFを作成する方法を説明します。
+      あらゆる種類の文書からPDFを作成する
       <br>
     </td>
     <td>
@@ -132,7 +132,7 @@ AIアシスタントを使用して、PDFファイルから洞察を得る方法
       <div>
       <a href="combine-to-pdf.md"><strong>ファイルを1つのPDFに結合</strong></a>
       </div>
-      さまざまな種類のファイルを1つのPDFにシームレスに結合する方法を説明します
+      多種多様なファイルを1つのPDFにシームレスに結合
       <br>
     </td>
     <td>
@@ -169,7 +169,7 @@ AIアシスタントを使用して、PDFファイルから洞察を得る方法
       <div>
       <a href="edit-pdf.md"><strong>PDFのテキストを編集する</strong></a>
       </div>
-      PDF内の単語、語句、またはページ全体を編集する方法について説明します
+      PDF内の単語、語句、またはページ全体を編集
       <br>
     </td>
     <td>
@@ -210,7 +210,7 @@ AIアシスタントを使用して、PDFファイルから洞察を得る方法
       <div>
       <a href="export-pdf.md"><strong>PDFを別のファイル形式に変換</strong></a>
       </div>
-      PDFファイルを様々なファイル形式に変換する方法について説明します
+      PDFファイルを別のファイル形式に変換する
       <br>
     </td>
     <td>
@@ -251,7 +251,7 @@ AIアシスタントを使用して、PDFファイルから洞察を得る方法
       <div>
       <a href="comment-on-pdf-files.md"><strong>PDFに対するコメント</strong></a>
       </div>
-      PDFファイルに注釈を付けて、他のユーザーと共有する方法を説明します
+      注釈を追加して、他のユーザーとPDFを共有
       <br>
     </td>
     <td>
@@ -298,7 +298,7 @@ AIアシスタントを使用して、PDFファイルから洞察を得る方法
     <div>
     <a href="scan-and-ocr.md"><strong>スキャンとOCR</strong></a>
     </div>
-    文書のスキャンまたは画像を検索可能で編集可能なPDFファイルに変換
+    スキャンまたは画像を検索可能で編集可能なPDFファイルに変換
     <br>
   </td>
   <td>
@@ -320,7 +320,7 @@ AIアシスタントを使用して、PDFファイルから洞察を得る方法
     <div>
     <a href="signatures.md"><strong>署名を取得</strong></a>
     </div>
-    法的拘束力のある電子サインを収集してビジネスを継続
+    法的拘束力がある電子サインを収集する方法を学ぶ
     <br>
   </td>
   <td>
@@ -330,7 +330,7 @@ AIアシスタントを使用して、PDFファイルから洞察を得る方法
     <div>
     <a href="track.md"><strong>ドキュメントのトラック</strong></a>
     </div>
-    電子サインドキュメントをトラックおよび管理する方法について説明します
+    電子サイン文書のトラックと管理
     <br>
   </td>
   <td>
