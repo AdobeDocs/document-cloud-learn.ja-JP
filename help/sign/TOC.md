@@ -12,9 +12,9 @@ feature-set: Document Cloud
 feature: Use Cases, Web Forms, Workflow, Sign, Payments, Report, Workspace, Deadline, Administration, Digital ID, Form, Integrations, Mobile, Skill Builder
 type: Tutorial
 auto-video-transcripts: true
-source-git-commit: f188fb6e66899bf73422364a295b4a04c3d72f2a
+source-git-commit: e36b369cea4c8c27a7ccf058f0793bca9851178f
 workflow-type: tm+mt
-source-wordcount: '508'
+source-wordcount: '510'
 ht-degree: 7%
 
 ---
@@ -79,6 +79,7 @@ ht-degree: 7%
       + [既存のWebフォームを変更する](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/advanced-tasks/advanced-tasks-managing/modify-webform.html)
       + [一括送信](sign-advanced-users/megasign.md)
       + [カスタムワークフローの作成](admin/building-a-custom-workflow.md)
+      + [監査レポート](admin/audit-reports.md)
    + 高度なタスク{#advanced-tasks-admins}
       + [グローバル設定](admin/learn-about-global-settings.md)
       + [アカウントアクセスの共有](admin/share-account-access.md)

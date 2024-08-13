@@ -8,9 +8,9 @@ jira: KT-6849
 topic-revisit: Administration
 thumbnail: KT-6849.jpg
 exl-id: 1b6ea9f0-6bbb-4ea5-aa22-bfa42f7cca18
-source-git-commit: d27cd14d332812292e2ed3414cd9bb3937141930
+source-git-commit: c37964c029dd0b068cb30d35c7e666a3122e16cc
 workflow-type: tm+mt
-source-wordcount: '506'
+source-wordcount: '522'
 ht-degree: 2%
 
 ---
@@ -21,12 +21,12 @@ ht-degree: 2%
 
 ## 新機能
 
+* [監査レポート](audit-reports.md)
+組織のニーズに合わせて監査レポートにアクセスし、利用し、設定する方法について説明します
 * [一括送信](../sign-advanced-users/megasign.md)
 簡単な手順で、あらゆる文書の何千もの署名を一度に収集する方法を説明します
 * [レポートオプション](report-options.md)
 ユーザーのレポートオプションを設定する方法について説明します
-* [ユーザーの追加](add-users-to-your-account.md)
-Acrobat Signのユーザーを追加および管理する方法について説明します
 
 ## はじめに
 
@@ -169,8 +169,13 @@ Acrobat Signのユーザーを追加および管理する方法について説�
     <br>
   </td>
   <td>
-    <img alt="スペーサー" src="../assets/Grayspacer.png" />
+    <a href="audit-reports.md">
+      <img alt="監査レポート" src="../assets/audit-reports-configure.png" />
+    </a>
     <div>
+    <a href="audit-reports.md"><strong>監査レポート</strong></a>
+    </div>
+    <em>監査レポートにアクセスし、利用し、構成する方法の詳細</em>
     <br>
   </td>
   <td>
