@@ -12,9 +12,9 @@ feature-set: Document Cloud
 feature: Use Cases, Web Forms, Workflow, Sign, Payments, Report, Workspace, Deadline, Administration, Digital ID, Form, Integrations, Mobile, Skill Builder
 type: Tutorial
 auto-video-transcripts: true
-source-git-commit: e36b369cea4c8c27a7ccf058f0793bca9851178f
+source-git-commit: 6eea40485b9482dd22f7177ede0748bf3a0c5cc6
 workflow-type: tm+mt
-source-wordcount: '510'
+source-wordcount: '525'
 ht-degree: 7%
 
 ---
@@ -84,8 +84,10 @@ ht-degree: 7%
       + [グローバル設定](admin/learn-about-global-settings.md)
       + [アカウントアクセスの共有](admin/share-account-access.md)
       + [高度なアカウント共有](admin/advanced-account-sharing.md)
-      + [バイオ医薬業界標準対応の使用](admin/use-bio-pharma-settings.md)
+      + [一括ダウンロードツール](admin/bulk-download-tool.md)
       + [Acrobat Signテキストタグ付け](sign-advanced-users/adobe-sign-text-tagging.md)
+      + [バイオ医薬業界標準対応の使用](admin/use-bio-pharma-settings.md)
+      + [プライバシー管理者の設定方法](admin/privacy.md)
 + デジタルID {#digital-id}
    + [概要](digitalid/digitalid-overview.md)
    + Aadhaar {#aadhaar}
@@ -158,9 +160,10 @@ ht-degree: 7%
       + [Showcase](sign-usecase/use-case-showcase.md)
 + {#develop}の開発
    + [概要](develop/develop-overview.md)
-   + カスタムAPI {#custom}
+   + APIとWebhook {#custom}
       + [GigaSignを使用した大量の文書の収集](develop/gigasign.md)
       + [埋め込まれた電子サインおよび文書エクスペリエンスの作成](develop/embeddedesignature.md)
+      + [Webhookの設定方法](develop/webhooks.md)
 + {#deploy}の展開
    + [概要](deploy-overview.md)
 + モバイル{#mobile}

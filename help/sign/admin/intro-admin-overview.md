@@ -8,9 +8,9 @@ jira: KT-6849
 topic-revisit: Administration
 thumbnail: KT-6849.jpg
 exl-id: 1b6ea9f0-6bbb-4ea5-aa22-bfa42f7cca18
-source-git-commit: c37964c029dd0b068cb30d35c7e666a3122e16cc
+source-git-commit: 6eea40485b9482dd22f7177ede0748bf3a0c5cc6
 workflow-type: tm+mt
-source-wordcount: '522'
+source-wordcount: '563'
 ht-degree: 2%
 
 ---
@@ -21,12 +21,13 @@ ht-degree: 2%
 
 ## 新機能
 
+* [プライバシー管理者を設定する方法](privacy.md)
+プライバシー管理者を設定および使用する方法について説明します
+* [一括ダウンロードツール](bulk-download-tool.md)
+一括ダウンロードツールを使用して、署名済みのすべての契約書をすばやくダウンロードする方法について説明します
 * [監査レポート](audit-reports.md)
 組織のニーズに合わせて監査レポートにアクセスし、利用し、設定する方法について説明します
-* [一括送信](../sign-advanced-users/megasign.md)
-簡単な手順で、あらゆる文書の何千もの署名を一度に収集する方法を説明します
-* [レポートオプション](report-options.md)
-ユーザーのレポートオプションを設定する方法について説明します
+
 
 ## はじめに
 
@@ -225,13 +226,13 @@ ht-degree: 2%
     <br>
   </td>
   <td>
-    <a href="use-bio-pharma-settings.md">
-      <img alt="バイオ医薬業界標準対応の使用" src="../assets/Bio_1280.png" />
+    <a href="bulk-download-tool.md">
+      <img alt="一括ダウンロードツール" src="../assets/bulk-download-tool.png" />
     </a>
     <div>
-    <a href="use-bio-pharma-settings.md"><strong>バイオ医薬業界標準対応の使い方</strong></a>
+    <a href="bulk-download-tool.md"><strong>一括ダウンロードツール</strong></a>
     </div>
-    <em>FDA 21 CFR Part 11の要件を満たすことができるバイオ医薬業界標準対応の設定を行います</em>
+    <em>一括ダウンロードツールを使用して、署名済みのすべての契約書をすばやくダウンロードする方法を説明します</em>
     <br>
   </td> 
 </tr>
@@ -247,13 +248,23 @@ ht-degree: 2%
     <br>
   </td>
   <td>
-    <img alt="スペーサー" src="../assets/Grayspacer.png" />
+    <a href="use-bio-pharma-settings.md">
+      <img alt="バイオ医薬業界標準対応の使用" src="../assets/Bio_1280.png" />
+    </a>
     <div>
+    <a href="use-bio-pharma-settings.md"><strong>バイオ医薬業界標準対応の使い方</strong></a>
+    </div>
+    <em>FDA 21 CFR Part 11の要件を満たすことができるバイオ医薬業界標準対応の設定を行います</em>
     <br>
   </td>
   <td>
-    <img alt="スペーサー" src="../assets/Grayspacer.png" />
+    <a href="privacy.md">
+      <img alt="プライバシー管理者の設定方法" src="../assets/privacy.png" />
+    </a>
     <div>
+    <a href="privacy.md"><strong>プライバシー管理者を設定する方法</strong></a>
+    </div>
+    <em>プライバシー管理者を設定して使用する方法を説明します</em>
     <br>
   </td>
   <td>
