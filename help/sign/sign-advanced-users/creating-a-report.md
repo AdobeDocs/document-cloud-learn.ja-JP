@@ -1,22 +1,22 @@
 ---
-title: レポートの作成
-description: 独自のレポートを作成して、文書署名プロセスを可視化する方法について説明します
+title: レポートとトランザクションの使用状況
+description: レポートを生成し、トランザクションの使用状況を追跡する方法を学ぶ
 feature: Report
 role: User, Admin
 level: Intermediate
 jira: KT-11027
 thumbnail: KT-11027.jpg
 exl-id: f30d174d-7990-499b-a6a6-3e68ab2a8e50
-source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
+source-git-commit: 29f3dfa773325594787ca5a37838625e314212f6
 workflow-type: tm+mt
-source-wordcount: '54'
+source-wordcount: '71'
 ht-degree: 0%
 
 ---
 
-# レポートの作成
+# レポートとトランザクションの使用状況
 
-独自のレポートを作成して文書署名プロセスを可視化する方法や、個々のグループまたはユーザーの行動を確認する方法について説明します。
+レポートを生成し、トランザクションの使用状況を追跡する方法について説明します。 これらのレポートには、署名済みの契約書の割合や、署名にかかる平均時間などの情報が含まれます。 レポートを生成して使用状況を追跡することで、文書署名プロセスを可視化できます。
 
 >[!NOTE]
 >

@@ -12,9 +12,9 @@ feature-set: Document Cloud
 feature: Use Cases, Web Forms, Workflow, Sign, Payments, Report, Workspace, Deadline, Administration, Digital ID, Form, Integrations, Mobile, Skill Builder
 type: Tutorial
 auto-video-transcripts: true
-source-git-commit: 6eea40485b9482dd22f7177ede0748bf3a0c5cc6
+source-git-commit: c117d305ad61a734db69884a49f8cf5e5ebd3df0
 workflow-type: tm+mt
-source-wordcount: '525'
+source-wordcount: '538'
 ht-degree: 7%
 
 ---
@@ -59,7 +59,7 @@ ht-degree: 7%
       + [Acrobat Signのテキストタグ付け](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/advanced-tasks-admins/adobe-sign-text-tagging.html)
       + [ [!DNL Microsoft Word]でテキストタグを使用しています](sign-advanced-users/text-tagging-word.md)
    + {#advanced-tasks-managing}の管理
-      + [レポートの作成](sign-advanced-users/creating-a-report.md)
+      + [レポートとトランザクションの使用状況](sign-advanced-users/creating-a-report.md)
       + [文書テンプレートの管理](sign-advanced-users/edit-a-template.md)
       + [既存のwebフォームを変更](sign-advanced-users/modify-webform.md)
       + [Webフォームデータの管理](sign-advanced-users/manage-webform-data.md)
@@ -73,7 +73,7 @@ ht-degree: 7%
       + [グループの作成と管理](admin/create-and-manage-groups.md)
       + [外部アーカイブの設定](admin/set-up-your-external-archive.md)
       + [テンプレートの作成](sign-advanced-users/create-a-template.md)
-      + [レポートチャートの作成](admin/create-a-report.md)
+      + [レポートとトランザクションの使用状況](https://experienceleague.adobe.com/en/docs/document-cloud-learn/sign-learning-hub/advanced-tasks/advanced-tasks-managing/creating-a-report)
       + [ユーザーのレポートオプション](admin/report-options.md)
       + [Webフォームの作成](sign-advanced-users/webform.md)
       + [既存のWebフォームを変更する](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/advanced-tasks/advanced-tasks-managing/modify-webform.html)
@@ -125,6 +125,8 @@ ht-degree: 7%
       + [データマッピングの設定](integrations/set-up-data-mapping.md)
       + [結合マッピングの設定](integrations/set-up-merging-map.md)
       + [カスタムボタンの作成](integrations/create-a-custom-button.md)
+      + [自動更新を設定する](integrations/salesforce-automatic-updates.md)
+      + [大きなファイルとプッシュマッピングの設定](integrations/salesforce-large-files.md)
    + Workday {#workday}
       + [ [!DNL Workday]を使用してAcrobat Signを構成しています](integrations/workday.md)
       + [Acrobat Sign + Workday新規採用オンボーディング](integrations/acrobat-sign-workday-onboarding.md)

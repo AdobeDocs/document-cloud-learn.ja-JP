@@ -8,9 +8,9 @@ jira: KT-6849
 topic-revisit: Administration
 thumbnail: KT-6849.jpg
 exl-id: 1b6ea9f0-6bbb-4ea5-aa22-bfa42f7cca18
-source-git-commit: 6eea40485b9482dd22f7177ede0748bf3a0c5cc6
+source-git-commit: 1df07fcfd6321e360118e7ffd9f7a8904e51033d
 workflow-type: tm+mt
-source-wordcount: '563'
+source-wordcount: '558'
 ht-degree: 2%
 
 ---
@@ -106,13 +106,13 @@ ht-degree: 2%
     <br>
   </td>
   <td>
-    <a href="create-a-report.md">
-      <img alt="レポートチャートの作成" src="../assets/Reportchart.png" />
+    <a href="../sign-advanced-users/creating-a-report.md">
+      <img alt="レポートとトランザクションの使用状況" src="../assets/reporting.png" />
     </a>
     <div>
-    <a href="create-a-report.md"><strong>レポートグラフを作成しています</strong></a>
+    <a href="../sign-advanced-users/creating-a-report.md"><strong>レポートとトランザクションの使用状況</strong></a>
     </div>
-    <em>独自のカスタムレポートおよびデータエクスポートを作成、保存、および管理する方法を説明します</em>
+    <em>レポートを生成し、トランザクションの使用状況を追跡する方法を学ぶ</em>
     <br>
   </td>
 </tr>

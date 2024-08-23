@@ -10,9 +10,9 @@ topic: Integrations
 topic-revisit: Integrations
 thumbnail: KT-6850.jpg
 exl-id: 2b1b9fae-7b4c-4092-aec7-c2025ef07cf4
-source-git-commit: 25fd2a2d0d9f0cd2452a65761c298f5280809aee
+source-git-commit: c117d305ad61a734db69884a49f8cf5e5ebd3df0
 workflow-type: tm+mt
-source-wordcount: '818'
+source-wordcount: '869'
 ht-degree: 0%
 
 ---
@@ -26,12 +26,12 @@ Acrobat Signは、Microsoft、Salesforce、Workday、Marketoなど、組織内�
 
 ## 新機能
 
+* [大きなファイルを設定してマッピングをプッシュする](salesforce-large-files.md)
+Salesforceで大きな文書を設定し、契約書サービスを転送する方法について説明します。
+* [自動更新を設定する](salesforce-automatic-updates.md)
+アカウントを簡単にSalesforceにリンクして自動更新を取得する方法について説明します
 * [文書タブの統合 [!DNL Microsoft Teams]](acrobat-sign-teams-documents-tab.md)
 [!DNL Microsoft Teams]の「文書」タブから署名用に文書を直接送信する方法について説明します
-* [Adobe Acrobat Signでの [!DNL Microsoft Teams]](live-sign-microsoft-teams.md)のライブサイン
-[!DNL Microsoft Teams]会議中に対面署名のようなオンライン署名エクスペリエンスを作成する方法を説明します
-* [高度なワークフローを作成する [!DNL Power Automate]](advanced-workflow-power-automate.md)
-[!DNL Power Automate]コネクタを使用して高度なワークフローを作成する方法について説明します
 
 ## Microsoft統合チュートリアル
 
@@ -275,6 +275,38 @@ Acrobat Signは、Microsoft、Salesforce、Workday、Marketoなど、組織内�
     </div>
     <em>送信プロセスを開始し、Salesforce内の契約書を自動的に入力するカスタムボタンを作成</em>
     <br>
+  </td>
+</tr>
+<tr>
+  <td>
+    <a href="salesforce-automatic-updates.md">
+      <img alt="自動更新を設定する" src="../assets/status-updates.png" />
+    </a>
+    <div>
+    <a href="salesforce-automatic-updates.md"><strong>自動更新を設定する</strong></a>
+    </div>
+    <em>アカウントを簡単にSalesforceにリンクして、自動更新を取得する方法を説明します</em>
+    <br>
+  </td>
+ <td>
+    <a href="salesforce-large-files.md">
+      <img alt="大きなファイルとプッシュマッピングの設定" src="../assets/large-files.png" />
+    </a>
+    <div>
+    <a href="salesforce-large-files.md"><strong>大きなファイルを設定してマッピングをプッシュする</strong></a>
+    </div>
+    <em>Salesforceで大きな文書を設定し、契約サービスを転送する方法を説明します</em>
+    <br>
+  </td>
+  <td>
+      <img alt="スペーサー" src="../assets/Grayspacer.png" />
+      <div>
+      <br>
+  </td>
+  <td>
+      <img alt="スペーサー" src="../assets/Grayspacer.png" />
+      <div>
+      <br>
   </td>
 </tr>
 </table>
