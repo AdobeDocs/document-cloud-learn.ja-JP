@@ -6,7 +6,7 @@ feature-set: Document Cloud
 role: User
 type: Tutorial
 auto-video-transcripts: true
-source-git-commit: 91017fe122eae4de793037372f249aba9308350b
+source-git-commit: 8ed26f6fb71956920520d500859d05c1b2f2c622
 workflow-type: tm+mt
 source-wordcount: '488'
 ht-degree: 3%
@@ -53,7 +53,7 @@ ht-degree: 3%
    + [フォームフィールドの操作](advanced-tasks/workforms.md)
    + [PDFを向上させる](advanced-tasks/enhance.md)
    + [2つのPDFの違いを検出する](advanced-tasks/compare.md)
-   + [Action Wizard](advanced-tasks/action.md)
+   + [ガイド付きアクション](advanced-tasks/action.md)
    + [墨消しと非表示情報](advanced-tasks/redact.md)
    + [ファイルサイズを縮小して最適化](advanced-tasks/reduce.md)
    + [フォームデータの操作](advanced-tasks/formdata.md)

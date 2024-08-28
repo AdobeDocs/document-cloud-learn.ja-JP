@@ -7,9 +7,9 @@ level: Intermediate, Experienced
 thumbnail: KT-6857.jpg
 jira: KT-6857
 exl-id: 2e2dc54d-23e1-4bd8-81de-62131aa5c966
-source-git-commit: d6f75802191d527f0371640f1c8a5913a0ee38e1
+source-git-commit: 8ed26f6fb71956920520d500859d05c1b2f2c622
 workflow-type: tm+mt
-source-wordcount: '283'
+source-wordcount: '294'
 ht-degree: 1%
 
 ---
@@ -19,6 +19,9 @@ ht-degree: 1%
 Acrobatの高度なツールで基本を超えることができます。 日常的な作業の繰り返し、機密情報の削除、大きなファイルの削減と最適化、フォームデータの迅速な収集、ユニバーサルアクセスが可能なPDFファイルの作成などを行うアクションを作成する方法について説明します。
 
 ## 新機能
+
+* [ガイド付きアクション](action.md)
+ガイド付きアクションを使用して効率を向上させる方法を説明します
 
 * [SEO （検索エンジン最適化）のOptimize PDF](optimizeseo.md)
 PDFを最適化して、検出可能性と検索エンジンのランキングをweb上で向上させる方法を説明します
@@ -105,12 +108,12 @@ PDFを最適化して、検出可能性と検索エンジンのランキング�
 <tr>
   <td>
     <a href="action.md">
-      <img alt="Action Wizard" src="../assets/action.png" />
+      <img alt="ガイド付きアクション" src="../assets/action.png" />
     </a>
     <div>
-      <a href="action.md"><strong>Action Wizard</strong></a>
+      <a href="action.md"><strong>ガイド付きアクション</strong></a>
       </div>
-      アクションを使用して効率を向上させる方法を学ぶ
+      ガイド付きアクションを使用して効率を向上させる方法を説明します
   </td>
   <td>
     <a href="redact.md">
