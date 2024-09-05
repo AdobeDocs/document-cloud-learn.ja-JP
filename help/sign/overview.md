@@ -7,7 +7,7 @@ level: Beginner, Intermediate, Experienced
 jira: KT-6846
 thumbnail: KT-6846.jpg
 exl-id: 72762750-5764-4541-aedd-94230b56936b
-source-git-commit: 3aabfd79a135f925fcc500d8ac42356b3437dfaa
+source-git-commit: 9e46f85c7c7d7ae9dbe190f30ef66a9944c5d8b1
 workflow-type: tm+mt
 source-wordcount: '188'
 ht-degree: 4%
@@ -36,7 +36,7 @@ Adobe Document CloudソリューションであるAcrobat Signは、統合、API
     <div>
       <a href="sign-beginner-tutorials/beginner-users-overview.md"><strong>はじめに</strong></a>
       </div>
-      <em>文書の送信、署名、追跡の方法を把握する</em>
+      文書の送信、署名、トラックの方法を把握する
       <br>
   </td>
   <td>
@@ -46,7 +46,7 @@ Adobe Document CloudソリューションであるAcrobat Signは、統合、API
     <div>
       <a href="sign-advanced-users/advanced-users-overview.md"><strong>高度なタスク</strong></a>
       </div>
-      <em>特定のタスクと自動化を使用して基本を超える作業を行う</em>
+      特定のタスクと自動化で基本を超える
       <br>
   </td>  
   <td>
@@ -56,7 +56,7 @@ Adobe Document CloudソリューションであるAcrobat Signは、統合、API
     <div>
       <a href="admin/intro-admin-overview.md"><strong>管理</strong></a>
       </div>
-      <em>組織の基本から高度なセットアップのヒント</em>
+      組織での基本的な設定から高度な設定のヒント
       <br>
   </td>
   <td>
@@ -66,7 +66,7 @@ Adobe Document CloudソリューションであるAcrobat Signは、統合、API
      <div>
       <a href="digitalid/digitalid-overview.md"><strong>デジタルID</strong></a>
       </div>
-      <em>Acrobat Signで広く使用されているデジタルIDの使用方法を学ぶ</em>
+      Acrobat Signで様々なデジタルIDを使用する方法を説明します。
       <br>
   </td>
 </tr>
@@ -78,7 +78,7 @@ Adobe Document CloudソリューションであるAcrobat Signは、統合、API
     <div>
       <a href="integrations/integrations-overview.md"><strong>統合</strong></a>
       </div>
-      <em>組織内で既に使用している他のアプリケーション内に直接Acrobat Signを追加する</em>
+      お客様の組織で既に使用している他のアプリケーション内に直接Acrobat Signを追加する
       <br>
   </td>
   <td>
@@ -88,7 +88,7 @@ Adobe Document CloudソリューションであるAcrobat Signは、統合、API
     <div>
       <a href="sign-usecase/expand-inspire-overview.md"><strong>業界と部門</strong></a>
       </div>
-      <em>実際の業界および部門のユースケースを探る</em>
+      実際の業界および部門のユースケースを探る
       <br>
   </td>
   <td>
@@ -98,7 +98,7 @@ Adobe Document CloudソリューションであるAcrobat Signは、統合、API
     <div>
       <a href="develop/develop-overview.md"><strong>開発</strong></a>
       </div>
-      <em>Acrobat Sign I/Oの開発用リソースを入手する</em>
+      Acrobat Sign I/Oの開発資料を入手する
       <br>
   </td>
    <td>
@@ -108,7 +108,7 @@ Adobe Document CloudソリューションであるAcrobat Signは、統合、API
     <div>
       <a href="deploy-overview.md"><strong>デプロイ</strong></a>
       </div>
-      <em>組織内にAcrobat Signをデプロイするための洞察とベストプラクティス</em>
+      組織内にAcrobat Signをデプロイするための洞察とベストプラクティス
       <br>
   </td>
 </tr>
@@ -120,7 +120,7 @@ Adobe Document CloudソリューションであるAcrobat Signは、統合、API
     <div>
       <a href="mobile/mobile-overview.md"><strong>モバイル</strong></a>
       </div>
-      <em>モバイルデバイスでリアルタイムの更新を送信、署名、および取得する</em>
+      モバイルデバイスでリアルタイムの送信、署名、更新を行う
       <br>
   </td>  
 </tr>
