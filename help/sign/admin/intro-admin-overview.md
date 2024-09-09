@@ -8,10 +8,10 @@ jira: KT-6849
 topic-revisit: Administration
 thumbnail: KT-6849.jpg
 exl-id: 1b6ea9f0-6bbb-4ea5-aa22-bfa42f7cca18
-source-git-commit: 59143ff41832f74df4012ce576b96482a4c6dcfa
+source-git-commit: 8fa83a1a43067e65eb496becd5ac543845f2f1c3
 workflow-type: tm+mt
-source-wordcount: '584'
-ht-degree: 2%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -21,6 +21,8 @@ ht-degree: 2%
 
 ## 新機能
 
+* [ユーザーを管理者ロールに昇格させる方法](promote-admin.md)
+Admin Consoleを使用して、ユーザーをAcrobat Sign管理者ロールに昇格させる方法について説明します。
 * [複数のプロファイルを使用する方法](multiple-profiles.md)
 プロファイルピッカーを使用して複数のAcrobat Signアカウントを操作する方法について説明します
 * [プライバシー管理者を設定する方法](privacy.md)
@@ -189,8 +191,13 @@ ht-degree: 2%
     <br>
   </td>
   <td>
-    <img alt="スペーサー" src="../assets/Grayspacer.png" />
+    <a href="promote-admin.md">
+      <img alt="ユーザーを管理者ロールに昇格させる方法" src="../assets/promote-admin.png" />
+    </a>
     <div>
+    <a href="promote-admin.md"><strong>ユーザーを管理者ロールに昇格させる方法</strong></a>
+    </div>
+    <em>Admin Consoleを使って、ユーザーをAcrobat Sign管理者ロールに昇格させる方法</em>を説明します
     <br>
   </td>
 </table>
