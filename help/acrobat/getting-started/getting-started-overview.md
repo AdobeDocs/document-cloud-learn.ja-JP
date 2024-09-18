@@ -7,9 +7,9 @@ level: Beginner
 jira: KT-6856
 thumbnail: KT-6856.jpg
 exl-id: 24660a17-a04e-4937-be94-0a42c4b2c2ca
-source-git-commit: fe13a7b01c0eab2ac4931396097d5114ec3104be
+source-git-commit: 34fb3cbe888dc5eb81b9ce48b05a9c71aa35ba03
 workflow-type: tm+mt
-source-wordcount: '544'
+source-wordcount: '561'
 ht-degree: 1%
 
 ---
@@ -20,6 +20,8 @@ Adobe Acrobatの使い方を説明する簡単なチュートリアルを利用�
 
 ## 新機能
 
+* [新しいページをデザインする](add-custom-page.md)
+Adobe Expressを使用して、PDFにプロフェッショナルな見映えの新しいページを作成する方法を説明します
 * [PDFのグラフィックを編集する](edit-graphics.md)
 PDFでグラフィックを作成、編集、拡張する方法を説明します。
 * [新しいワークスペースエクスペリエンス](new-workspace.md)
