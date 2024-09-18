@@ -7,9 +7,9 @@ level: Beginner
 jira: KT-6856
 thumbnail: KT-6856.jpg
 exl-id: 24660a17-a04e-4937-be94-0a42c4b2c2ca
-source-git-commit: 34fb3cbe888dc5eb81b9ce48b05a9c71aa35ba03
+source-git-commit: dc2026b6bcee8369f244c9bd410622c55e3c96c8
 workflow-type: tm+mt
-source-wordcount: '561'
+source-wordcount: '562'
 ht-degree: 1%
 
 ---
@@ -20,14 +20,25 @@ Adobe Acrobatの使い方を説明する簡単なチュートリアルを利用�
 
 ## 新機能
 
-* [新しいページをデザインする](add-custom-page.md)
-Adobe Expressを使用して、PDFにプロフェッショナルな見映えの新しいページを作成する方法を説明します
-* [PDFのグラフィックを編集する](edit-graphics.md)
-PDFでグラフィックを作成、編集、拡張する方法を説明します。
-* [新しいワークスペースエクスペリエンス](new-workspace.md)
-ツールをすばやく見つけてPDF作業を効率的に行うのに役立つ、Acrobatの新しいワークスペースについて説明します
-* [AIアシスタントを使用して、PDFの情報を見つける](ai-assistant.md)
-AIアシスタントを使用して、PDFファイルから洞察を得る方法について説明します
+>[!BEGINTABS]
+
+>[!TAB 新しいページをデザインする]
+
+Adobe Expressを使用して、PDFーで[新しいページをデザイン](add-custom-page.md)する方法を説明します。
+
+>[!TAB PDFのグラフィックを編集する]
+
+PDFで[グラフィックを作成、編集、拡張](edit-graphics.md)する方法を説明します。
+
+>[!TAB 新しいワークスペースエクスペリエンス]
+
+Acrobatの[新しいワークスペース](new-workspace.md)について説明します。このワークスペースを使用すると、ツールをすばやく見つけて、PDF作業を効率的に行うことができます。
+
+>[!TAB AIアシスタントを使用して、PDFの情報を見つける]
+
+AIアシスタントを使用して、PDFファイルから洞察を得る方法について説明します。
+
+>[!ENDTABS]
 
 ## 入門チュートリアル
 
