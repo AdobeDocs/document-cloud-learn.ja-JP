@@ -1,21 +1,21 @@
 ---
-title: カスタムページを追加
-description: 統合Adobe Expressアプリを使用して、カスタムページをPDFに追加する方法を説明します
+title: 新しいページをデザインする
+description: Adobe Expressを使用して、PDFにプロフェッショナルな見映えの新しいページを作成する方法を説明します
 feature: Create PDF
 role: User
 level: Beginner
 jira: KT-10836
 thumbnail: KT-10836.jpg
 exl-id: 900815b4-6242-457e-86cf-7aa995016f29
-source-git-commit: 05751444c0dab6eccd7076889e8735d58dfee82c
+source-git-commit: fe13a7b01c0eab2ac4931396097d5114ec3104be
 workflow-type: tm+mt
-source-wordcount: '52'
-ht-degree: 5%
+source-wordcount: '65'
+ht-degree: 0%
 
 ---
 
-# カスタムページを追加
+# 新しいページをデザインする
 
-PDFにカスタムページを追加する方法を説明します。この統合されたAdobe Expressアプリは、数千ものテンプレートから選択できます。 このビデオチュートリアルでは、[新しいワークスペースエクスペリエンス](new-workspace.md)を使用します。
+Adobe Expressを使用して、PDFにプロフェッショナルな見映えの新しいページを作成する方法を説明します。 新しいページをデザインすると、プロフェッショナルなブランドのカスタムコンテンツを数分で作成できます。 このビデオチュートリアルでは、[新しいワークスペースエクスペリエンス](new-workspace.md)を使用します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/347331?quality=12&learn=on&hidetitle=true)

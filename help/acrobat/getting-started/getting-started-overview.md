@@ -7,10 +7,10 @@ level: Beginner
 jira: KT-6856
 thumbnail: KT-6856.jpg
 exl-id: 24660a17-a04e-4937-be94-0a42c4b2c2ca
-source-git-commit: d6f75802191d527f0371640f1c8a5913a0ee38e1
+source-git-commit: fe13a7b01c0eab2ac4931396097d5114ec3104be
 workflow-type: tm+mt
-source-wordcount: '541'
-ht-degree: 2%
+source-wordcount: '544'
+ht-degree: 1%
 
 ---
 
@@ -147,12 +147,12 @@ AIアシスタントを使用して、PDFファイルから洞察を得る方法
     </td>
     <td>
       <a href="add-custom-page.md">
-        <img alt="カスタムページを追加" src="../assets/custom.png" />
+        <img alt="新しいページをデザインする" src="../assets/design.png" />
       </a>
       <div>
-      <a href="add-custom-page.md"><strong>カスタムページの追加</strong></a>
+      <a href="add-custom-page.md"><strong>新しいページをデザインする</strong></a>
       </div>
-      PDFにカスタムページを追加する方法を説明します
+     PDFにプロフェッショナルな見映えの新しいページを作成する方法を説明します
       <br>
     </td>
   </tr>

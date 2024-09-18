@@ -6,9 +6,9 @@ feature-set: Document Cloud
 role: User
 type: Tutorial
 auto-video-transcripts: true
-source-git-commit: 8ed26f6fb71956920520d500859d05c1b2f2c622
+source-git-commit: fe13a7b01c0eab2ac4931396097d5114ec3104be
 workflow-type: tm+mt
-source-wordcount: '488'
+source-wordcount: '489'
 ht-degree: 3%
 
 ---
@@ -29,7 +29,7 @@ ht-degree: 3%
    + [PDFを作成](getting-started/create-pdf.md)
    + [ファイルを1つのPDFに結合](getting-started/combine-to-pdf.md)
    + [ページを整理](getting-started/organize.md)
-   + [カスタムページを追加](getting-started/add-custom-page.md)
+   + [新しいページをデザインする](getting-started/add-custom-page.md)
    + [PDF内のテキストの編集](getting-started/edit-pdf.md)
    + [PDF内のグラフィックの編集](getting-started/edit-graphics.md)
    + [このPDFをスタイライズ](getting-started/stylize-this-PDF.md)
