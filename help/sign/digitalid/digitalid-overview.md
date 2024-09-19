@@ -7,7 +7,7 @@ level: Beginner
 jira: KT-8990
 thumbnail: KT-8990.jpg
 exl-id: 753b7016-6331-40df-9003-5acee8be752a
-source-git-commit: 05751444c0dab6eccd7076889e8735d58dfee82c
+source-git-commit: 3b6aefd36b5fa77a11e2cd61032f11e6d4ca862c
 workflow-type: tm+mt
 source-wordcount: '295'
 ht-degree: 0%
@@ -24,10 +24,17 @@ ht-degree: 0%
 
 ## 新機能
 
-* [Digidentityを使用した登録と署名](digidentity-sign.md)
-Acrobat Signで[!DNL Digidentity]デジタルIDを登録して使用する方法を説明します
-* [D-Trustを使用して登録および署名](d-trust.md)
-[!DNL D-Trust]でIDを登録し、[!DNL D-Trust]のデジタル署名をAcrobat Signの文書で使用する方法について説明します
+>[!BEGINTABS]
+
+>[!TAB Digidentityを使用した登録と署名]
+
+Acrobat Signで[[!DNL Digidentity]](digidentity-sign.md)デジタルIDを登録して使用する方法について説明します。
+
+>[!TAB D-Trustを使用して登録および署名]
+
+[[!DNL D-Trust]](d-trust.md)でIDを登録し、Acrobat Signで文書に[!DNL D-Trust]デジタル署名を使用する方法について説明します。
+
+>[!ENDTABS]
 
 ## [!DNL Aadhaar]
 

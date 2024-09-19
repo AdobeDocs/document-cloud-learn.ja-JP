@@ -8,7 +8,7 @@ team: DC Product Marketing Retention and Engagement
 thumbnail: 8200.jpg
 jira: KT-8200
 exl-id: 7f6edd52-c3fc-4cf0-af84-c956db3bd008
-source-git-commit: 955918403f01fc722674a04f63613c8e266e9e9a
+source-git-commit: 3b6aefd36b5fa77a11e2cd61032f11e6d4ca862c
 workflow-type: tm+mt
 source-wordcount: '423'
 ht-degree: 0%
@@ -21,14 +21,25 @@ ht-degree: 0%
 
 ## 新機能
 
-* [教育機関向けIEPプロセスのカスタムワークフロー](usecase-edu-iep.md)
-カスタムワークフローDesignerを使用して、個人化教育プログラム(IEP)プロセスをデジタル化する方法について説明します
-* [教育機関向けWebフォームのインターンシップ申請](usecase-edu-intern.md)
-Webフォームを使用して、学生が必要なフォームに簡単にアクセスできるようにする方法を説明します
-* [教育用Webフォームインターンシップアプリケーションを作成する](usecase-edu-intern-create.md)
-インターンwebフォームの作成方法を学ぶ
-* [複数の不明な署名者を伴う政府の融資申請](webform-multiple-signers.md)
-複数の不明な参加者を含む複雑な政府ローン申請ワークフローでWebフォームを使用する方法について説明します
+>[!BEGINTABS]
+
+>[!TAB 教育機関向けIEPプロセスのカスタムワークフロー]
+
+[カスタムワークフローDesigner](usecase-edu-iep.md)を使用して、個人教育プログラム(IEP)プロセスをデジタル化する方法について説明します。
+
+>[!TAB 教育機関向けWebフォームのインターンシップ申請]
+
+[webフォーム](usecase-edu-intern.md)を使用して、学生が必要なフォームにアクセスしやすくする方法について説明します。
+
+>[!TAB 教育用Webフォームインターンシップアプリケーションを作成する]
+
+インターンシップ[Webフォーム](usecase-edu-intern-create.md)の作成方法について説明します。
+
+>[!TAB 複数の不明な署名者を伴う政府の融資申請]
+
+[Webフォーム](webform-multiple-signers.md)を、複数の不明な参加者を含む複雑な政府融資申し込みワークフローで使用する方法について説明します。
+
+>[!ENDTABS]
 
 ## 官公庁のユースケース
 

@@ -7,7 +7,7 @@ level: Intermediate, Experienced
 thumbnail: KT-6857.jpg
 jira: KT-6857
 exl-id: 2e2dc54d-23e1-4bd8-81de-62131aa5c966
-source-git-commit: 8ed26f6fb71956920520d500859d05c1b2f2c622
+source-git-commit: 3b6aefd36b5fa77a11e2cd61032f11e6d4ca862c
 workflow-type: tm+mt
 source-wordcount: '294'
 ht-degree: 1%
@@ -20,11 +20,17 @@ Acrobatの高度なツールで基本を超えることができます。 日常
 
 ## 新機能
 
-* [ガイド付きアクション](action.md)
-ガイド付きアクションを使用して効率を向上させる方法を説明します
+>[!BEGINTABS]
 
-* [SEO （検索エンジン最適化）のOptimize PDF](optimizeseo.md)
-PDFを最適化して、検出可能性と検索エンジンのランキングをweb上で向上させる方法を説明します
+>[!TAB ガイド付きアクション]
+
+[ガイド付きアクション](action.md)を使用して効率を向上させる方法を説明します。
+
+>[!TAB SEO （検索エンジン最適化）のOptimize PDF]
+
+Web上での見つけやすさと検索エンジンのランク付けを向上させるために、[PDFを最適化する](optimizeseo.md)方法について説明します。
+
+>[!ENDTABS]
 
 ## 高度なタスクチュートリアル
 

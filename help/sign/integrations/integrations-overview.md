@@ -10,9 +10,9 @@ topic: Integrations
 topic-revisit: Integrations
 thumbnail: KT-6850.jpg
 exl-id: 2b1b9fae-7b4c-4092-aec7-c2025ef07cf4
-source-git-commit: c117d305ad61a734db69884a49f8cf5e5ebd3df0
+source-git-commit: 99711e49e9d08b6a620da92139f9afe17579d987
 workflow-type: tm+mt
-source-wordcount: '869'
+source-wordcount: '871'
 ht-degree: 0%
 
 ---
@@ -26,12 +26,21 @@ Acrobat Signは、Microsoft、Salesforce、Workday、Marketoなど、組織内�
 
 ## 新機能
 
-* [大きなファイルを設定してマッピングをプッシュする](salesforce-large-files.md)
-Salesforceで大きな文書を設定し、契約書サービスを転送する方法について説明します。
-* [自動更新を設定する](salesforce-automatic-updates.md)
-アカウントを簡単にSalesforceにリンクして自動更新を取得する方法について説明します
-* [文書タブの統合 [!DNL Microsoft Teams]](acrobat-sign-teams-documents-tab.md)
-[!DNL Microsoft Teams]の「文書」タブから署名用に文書を直接送信する方法について説明します
+>[!BEGINTABS]
+
+>[!TAB 大きなファイルを設定してマッピングをプッシュする]
+
+Salesforceで[大きな文書を設定し、契約書サービスを転送](salesforce-large-files.md)する方法について説明します。
+
+>[!TAB 自動更新を設定する]
+
+アカウントをSalesforceに簡単にリンクして、[自動更新](salesforce-automatic-updates.md)する方法を説明します。
+
+>[!TAB Microsoft Teamsの[ドキュメント]タブの統合]
+
+[!DNL Microsoft Teams]の[文書タブ](acrobat-sign-teams-documents-tab.md)から署名用に文書を直接送信する方法について説明します。
+
+>[!ENDTABS]
 
 ## Microsoft統合チュートリアル
 

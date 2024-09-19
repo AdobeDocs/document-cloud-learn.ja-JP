@@ -8,10 +8,10 @@ jira: KT-6849
 topic-revisit: Administration
 thumbnail: KT-6849.jpg
 exl-id: 1b6ea9f0-6bbb-4ea5-aa22-bfa42f7cca18
-source-git-commit: 8fa83a1a43067e65eb496becd5ac543845f2f1c3
+source-git-commit: 3b6aefd36b5fa77a11e2cd61032f11e6d4ca862c
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '642'
+ht-degree: 1%
 
 ---
 
@@ -21,14 +21,25 @@ ht-degree: 0%
 
 ## 新機能
 
-* [ユーザーを管理者ロールに昇格させる方法](promote-admin.md)
-Admin Consoleを使用して、ユーザーをAcrobat Sign管理者ロールに昇格させる方法について説明します。
-* [複数のプロファイルを使用する方法](multiple-profiles.md)
-プロファイルピッカーを使用して複数のAcrobat Signアカウントを操作する方法について説明します
-* [プライバシー管理者を設定する方法](privacy.md)
-プライバシー管理者を設定および使用する方法について説明します
-* [一括ダウンロードツール](bulk-download-tool.md)
-一括ダウンロードツールを使用して、署名済みのすべての契約書をすばやくダウンロードする方法について説明します
+>[!BEGINTABS]
+
+>[!TAB ユーザーを管理者ロールに昇格させる方法]
+
+Admin Consoleを使用して、ユーザーを[Acrobat Sign管理者ロールに昇格](promote-admin.md)する方法について説明します。
+
+>[!TAB 複数のプロファイルを使用する方法]
+
+[プロファイルピッカー](multiple-profiles.md)を使用して複数のAcrobat Signアカウントを操作する方法について説明します。
+
+>[!TAB プライバシー管理者を設定する方法]
+
+[プライバシー管理者](privacy.md)を設定および使用する方法について説明します。
+
+>[!TAB 一括ダウンロードツール]
+
+[一括ダウンロードツール](bulk-download-tool.md)を使用して、署名済みのすべての契約書をすばやくダウンロードする方法について説明します。
+
+>[!ENDTABS]
 
 ## はじめに
 

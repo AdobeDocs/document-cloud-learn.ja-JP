@@ -7,7 +7,7 @@ level: Beginner
 jira: KT-6847
 thumbnail: KT-6847.jpg
 exl-id: e58ce43d-2e8e-4804-8f30-6591fa943607
-source-git-commit: 158baff5fa152b74fa834162acfbf8b9e1cd0402
+source-git-commit: 3b6aefd36b5fa77a11e2cd61032f11e6d4ca862c
 workflow-type: tm+mt
 source-wordcount: '465'
 ht-degree: 3%
@@ -20,10 +20,17 @@ ht-degree: 3%
 
 ## 新機能
 
-* [Acrobat Signの概要](new-sender.md)
-Acrobat Signを使うのは初めてですか？ このチュートリアルは、チュートリアルを開始するのに最適な場所です。
-* [期限とリマインダーの設定](set-deadlines-reminders.md)
-定期的に電子メールのリマインダーを送信して、文書にすばやく署名してもらう方法について説明します
+>[!BEGINTABS]
+
+>[!TAB Acrobat Signの概要]
+
+Acrobat Signを使うのは初めてですか？ この[チュートリアル](new-sender.md))は、始めるのに最適な場所です。
+
+>[!TAB 期限とリマインダーの設定]
+
+定期的に[リマインダーと期限](set-deadlines-reminders.md)の電子メールを送信して、文書にすばやく署名してもらう方法について説明します。
+
+>[!ENDTABS]
 
 ## Send
 
