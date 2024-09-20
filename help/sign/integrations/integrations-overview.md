@@ -36,7 +36,7 @@ Salesforceで[大きな文書を設定し、契約書サービスを転送](sale
 
 アカウントをSalesforceに簡単にリンクして、[自動更新](salesforce-automatic-updates.md)する方法を説明します。
 
->[!TAB Microsoft Teamsの[ドキュメント]タブの統合]
+>[!TAB Microsoft Teamsの&lbrack;ドキュメント&rbrack;タブの統合]
 
 [!DNL Microsoft Teams]の[文書タブ](acrobat-sign-teams-documents-tab.md)から署名用に文書を直接送信する方法について説明します。
 
