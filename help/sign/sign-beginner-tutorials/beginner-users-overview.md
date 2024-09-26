@@ -7,7 +7,7 @@ level: Beginner
 jira: KT-6847
 thumbnail: KT-6847.jpg
 exl-id: e58ce43d-2e8e-4804-8f30-6591fa943607
-source-git-commit: 02e877aaf618c29208da2eb971524baf80e76678
+source-git-commit: 06d3049acc900a52e1eab23a8aac9906ad40d3ea
 workflow-type: tm+mt
 source-wordcount: '465'
 ht-degree: 3%
@@ -43,7 +43,7 @@ Acrobat Signを使うのは初めてですか？ この[チュートリアル](n
     <div>
     <a href="quick-tour.md"><strong>ワークスペースの基本</strong></a>
     </div>
-    <em>Acrobat Signワークスペースのクイックツアーを開始して、使い方を学習しましょう</em>
+    Acrobat Signワークスペースのクイックツアーで基本を学習しましょう
     <br>
   </td>
   <td>
@@ -53,7 +53,7 @@ Acrobat Signを使うのは初めてですか？ この[チュートリアル](n
     <div>
     <a href="new-sender.md"><strong>Acrobat Signの概要</strong></a>
     </div>
-    <em>この包括的なチュートリアルは、Acrobat Signの新しい送信者を開始するのに最適な場所です</em>
+    この包括的なチュートリアルは、Acrobat Signの新しい送信者を開始するのに最適な場所です
     <br>
   </td>
   <td>
@@ -63,7 +63,7 @@ Acrobat Signを使うのは初めてですか？ この[チュートリアル](n
     <div>
     <a href="send-to-single-recipient.md"><strong>1人の受信者に送信しています</strong></a>
     </div>
-    <em>署名用に文書を送信する簡単さを学ぶ</em>
+    署名用に文書を送信する簡単な方法を学びましょう
     <br>
   </td>
   <td>
@@ -73,7 +73,7 @@ Acrobat Signを使うのは初めてですか？ この[チュートリアル](n
     <div>
     <a href="send-to-multiple-recipients.md"><strong>複数の受信者への送信</strong></a>
     </div>
-    <em>電子サイン用の文書を複数の人に正確に希望する順序で送信します</em>
+    電子サイン用の文書を複数の宛先に正確に希望の順序で送信します
     <br>
   </td>
 </tr>
@@ -85,7 +85,7 @@ Acrobat Signを使うのは初めてですか？ この[チュートリアル](n
     <div>
     <a href="sending-options.md"><strong>送信オプションの構成</strong></a>
     </div>
-    <em>署名用に文書を送信する際のさまざまなオプションを設定する方法を説明します</em>
+    署名用に文書を送信する際の各種オプションの設定方法について説明します
     <br>
   </td>
   <td>
@@ -95,7 +95,7 @@ Acrobat Signを使うのは初めてですか？ この[チュートリアル](n
     <div>
     <a href="adding-fields.md"><strong>文書にフィールドを追加しています</strong></a>
     </div>
-    <em>文書に各種フィールドを追加する方法を説明します</em>
+    文書に各種フィールドを追加する方法について説明します
     <br>
   </td>
   <td>
@@ -105,7 +105,7 @@ Acrobat Signを使うのは初めてですか？ この[チュートリアル](n
     <div>
     <a href="modify-in-flight.md"><strong>送信後の文書の変更</strong></a>
     </div>
-    <em>既に進行中のドキュメントを変更する</em>
+    既に処理中の文書を変更する
     <br>
   </td>
   <td>
@@ -115,7 +115,7 @@ Acrobat Signを使うのは初めてですか？ この[チュートリアル](n
     <div>
     <a href="replace-signer.md"><strong>署名者を置き換えています</strong></a>
     </div>
-    <em>既に処理中の文書の署名者を変更する方法を説明します</em>
+    既に処理中の文書の署名者を変更する方法について説明します
      <br>
   </td>
 </tr>
@@ -127,7 +127,7 @@ Acrobat Signを使うのは初めてですか？ この[チュートリアル](n
       <div>
       <a href="set-deadlines-reminders.md"><strong>期限とリマインダーの設定</strong></a>
       </div>
-      <em>定期的に電子メールのリマインダーや期限を送信して、文書にすばやく署名する方法について説明します</em>
+      定期的に電子メールのリマインダーを送信して、文書にすばやく署名してもらう方法について説明します
       <br>
     </td> 
   <td>
@@ -159,7 +159,7 @@ Acrobat Signを使うのは初めてですか？ この[チュートリアル](n
     <div>
     <a href="electronically-sign-a-document.md"><strong>文書に電子サインを行っています</strong></a>
     </div>
-    <em>Acrobat Signで送信された文書に簡単に署名する方法を説明します</em>
+    Acrobat Signで送信された文書に簡単に署名する方法を説明します。
     <br>
   </td>
   <td>
@@ -169,7 +169,7 @@ Acrobat Signを使うのは初めてですか？ この[チュートリアル](n
     <div>
     <a href="fill-and-sign.md"><strong>文書への入力と署名</strong></a>
     </div>
-    <em>フォームに入力して文書に電子サインを追加</em>
+    フォームに入力し、文書に電子サインを追加
     <br>
   </td>
   <td>
@@ -179,7 +179,7 @@ Acrobat Signを使うのは初めてですか？ この[チュートリアル](n
     <div>
     <a href="sign-in-person.md"><strong>署名者を取得しています</strong></a>
     </div>
-    <em>Acrobat Signモバイルアプリを使用して、他のユーザーの署名を直接取得する</em>
+    Acrobat Signモバイルアプリを使用して他のユーザーの署名を対面で取得
     <br>
   </td>
   <td>
@@ -189,7 +189,7 @@ Acrobat Signを使うのは初めてですか？ この[チュートリアル](n
     <div>
     <a href="delegate-signing.md"><strong>他のユーザーに署名を委任する</strong></a>
     </div>
-    <em>文書の署名を他のユーザーに委任する方法を学ぶ</em>
+    文書の署名を他のユーザーに委任する方法を学ぶ
     <br>
   </td>
 </tr>
@@ -201,7 +201,7 @@ Acrobat Signを使うのは初めてですか？ この[チュートリアル](n
     <div>
     <a href="sign-with-a-digital-signature.md"><strong>デジタル署名とは</strong></a>
     </div>
-    <em>証明書ベースのデジタル署名の詳細</em>
+    証明書ベースの電子署名の詳細
     <br>
   </td>
   <td>
@@ -211,7 +211,7 @@ Acrobat Signを使うのは初めてですか？ この[チュートリアル](n
     <div>
     <a href="sign-with-a-stamp.md"><strong>スタンプを使用して署名</strong></a>
     </div>
-    <em>スタンプを使用して、ドキュメントを承認または完了にマークする</em>
+    スタンプを使用して、文書を承認または完了としてマーク
      <br>
   </td> 
  <td>
@@ -238,7 +238,7 @@ Acrobat Signを使うのは初めてですか？ この[チュートリアル](n
     <div>
     <a href="manage-and-track.md"><strong>契約書を管理およびトラック</strong></a>
     </div>
-    <em>署名用に送信された契約書を管理およびトラックする方法について説明します</em>
+    署名用に送信された契約書を管理およびトラックする方法について説明します
     <br>
   </td>
   <td>
@@ -248,7 +248,7 @@ Acrobat Signを使うのは初めてですか？ この[チュートリアル](n
     <div>
     <a href="../sign-advanced-users/create-a-template.md"><strong>ドキュメントテンプレートを作成しています</strong></a>
     </div>
-    <em>再利用可能な文書テンプレートを作成して、組織のスピードと一貫性を確保します</em>
+    再利用可能な文書テンプレートを作成して、組織の速度と一貫性を確保できます
     <br>
   </td>
   <td>
