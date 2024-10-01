@@ -7,7 +7,7 @@ level: Intermediate
 jira: KT-4963
 thumbnail: 37839.jpg
 exl-id: f81f5ce8-26ad-4c73-934c-da580782bf84,71a748b0-48c9-4a1e-befe-d5f311d6c05e
-source-git-commit: 580ab332226b408d735639342bd3f6b96323a9b3
+source-git-commit: 51d1a59999a7132cb6e47351cc39a93d9a38eaeb
 workflow-type: tm+mt
 source-wordcount: '152'
 ht-degree: 3%
@@ -29,4 +29,4 @@ ht-degree: 3%
 
 >[!TIP]
 >
-このビデオは、Experience Leagueで無料で利用できる[管理者向けの高度なタスク](https://experienceleague.adobe.com/?recommended=Sign-U-1-2020.3)と[管理者向けAcrobat Signの使用を開始](https://experienceleague.adobe.com/?recommended=Sign-A-1-2020.2)のコースの一部です。
+このビデオは、Experience Leagueで無料で利用できる[管理者向けの高度なタスク](https://experienceleague.adobe.com/en/playlists/acrobat-sign-perform-advanced-tasks-business-users)と[Acrobat Sign管理者向けの概要](https://experienceleague.adobe.com/en/playlists/acrobat-sign-get-started-administrators)のプレイリストの一部です。

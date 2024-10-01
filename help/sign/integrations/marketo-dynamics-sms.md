@@ -10,30 +10,30 @@ topic-revisit: Integrations
 jira: KT-7249
 thumbnail: KT-7249.jpg
 exl-id: 2e0de48c-70bf-4dc5-8251-88e7399f588a
-source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
+source-git-commit: 51d1a59999a7132cb6e47351cc39a93d9a38eaeb
 workflow-type: tm+mt
-source-wordcount: '679'
+source-wordcount: '652'
 ht-degree: 0%
 
 ---
 
 # Microsoft Dynamics 365およびMarketo向けAcrobat Signを使用した通知の送信
 
-Acrobat Signテキストメッセージ、電子メール、またはプッシュ通知を送信して、Microsoft向けAcrobat Sign Dynamic、Marketo、Marketo Microsoft Dynamics Syncを使用して契約書が処理中であることを署名者に知らせる方法について説明します。 Marketoから通知を送信するには、まずMarketo SMS管理機能を購入または設定する必要があります。 このチュートリアルでは[Twilio SMS](https://launchpoint.marketo.com/twilio/twilio-sms-for-marketo/)を使用しますが、他のMarketo SMSソリューションも利用できます。
+テキストメッセージ、電子メール、またはプッシュ通知を送信して、Microsoft向けAcrobat Sign Dynamic、Marketo Marketo、およびAcrobat Sign Microsoft Dynamics Syncを使用して契約書が処理中であることを署名者に知らせる方法について説明します。 Marketoから通知を送信するには、まずMarketo SMS管理機能を購入または設定する必要があります。 このチュートリアルでは[Twilio SMS](https://launchpoint.marketo.com/twilio/twilio-sms-for-marketo/)を使用しますが、他のMarketo SMSソリューションも利用できます。
 
 ## 前提条件
 
 1. Marketo Microsoft Dynamics Syncをインストールします。
 
-   Microsoft Dynamics Syncに関する情報と最新のプラグインは、[こちら](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/microsoft-dynamics/marketo-plugin-releases-for-microsoft-dynamics.html)から入手できます。
+   Microsoft Dynamics Syncの情報と最新のプラグインは、[こちら](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/microsoft-dynamics/marketo-plugin-releases-for-microsoft-dynamics.html)から入手できます。
 
-1. Microsoft Dynamics向けAcrobat Signをインストールします。
+1. Microsoft Dynamics用Acrobat Signをインストールします。
 
    このプラグインに関する情報は、[こちら](https://helpx.adobe.com/ca/sign/using/microsoft-dynamics-integration-installation-guide.html)から入手できます。
 
 ## カスタムオブジェクトの検索
 
-Marketo Microsoft Dynamics SyncとAcrobat Sign for Dynamicsの設定が完了すると、Marketo管理ターミナルに2つの新しいオプションが表示されます。
+Microsoft Dynamics SyncとDynamics用Acrobat SignのMarketoの設定が完了すると、Marketo管理ターミナルに2つの新しいオプションが表示されます。
 
 ![管理者](assets/adminTerminal.png)
 
@@ -152,6 +152,3 @@ Marketoを設定しています – [!DNL Twilio] SMS webhookには、アカウ�
    ![Webhookの呼び出し](assets/callWebhook.png)
 
 1. 契約書に追加されたリードのSMS通知キャンペーンが設定されました。
->[!TIP]
->
->このチュートリアルは、[Microsoft DynamicsおよびMarketo向けのAcrobat Signを使用してセールスサイクルを加速する](https://experienceleague.adobe.com/?recommended=Sign-U-1-2021.1)のコースの一部です。このコースはExperience Leagueで無料で利用できます。

@@ -8,7 +8,7 @@ level: Intermediate
 jira: KT-5324
 thumbnail: 17367.jpg
 exl-id: e3d46b27-c30b-47eb-8d84-3d99813f3096
-source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
+source-git-commit: 51d1a59999a7132cb6e47351cc39a93d9a38eaeb
 workflow-type: tm+mt
 source-wordcount: '90'
 ht-degree: 23%
@@ -23,6 +23,6 @@ ht-degree: 23%
 
 >[!TIP]
 >
->このビデオは、Experience Leagueで無料で利用できるコース[ユーザー向けの高度なタスク](https://experienceleague.adobe.com/?recommended=Sign-U-1-2020.3)の一部です。
+>このビデオは、Experience Leagueで無料で利用できる再生リスト[ユーザー向けの高度なタスク](https://experienceleague.adobe.com/en/playlists/acrobat-sign-get-started-business-users)の一部です。
 
 

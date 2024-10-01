@@ -7,9 +7,9 @@ level: Beginner
 jira: KT-8498
 thumbnail: KT-8498.jpg
 exl-id: 8c611578-59e9-4438-ac99-3bb22e661d17
-source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
+source-git-commit: 51d1a59999a7132cb6e47351cc39a93d9a38eaeb
 workflow-type: tm+mt
-source-wordcount: '99'
+source-wordcount: '96'
 ht-degree: 1%
 
 ---
@@ -28,4 +28,4 @@ ht-degree: 1%
 
 >[!TIP]
 >
->このビデオは、Experience Leagueで無料で利用できるコース[Acrobat DCとMicrosoft 365を使ってよりスマートに作業](https://experienceleague.adobe.com/?recommended=Acrobat-U-1-2021.microsoft365)の一部です。
+>このビデオは、Experience Leagueで無料で提供されている再生リスト[Adobe Acrobatの使用を開始](https://experienceleague.adobe.com/en/playlists/acrobat-get-started-business-users)の一部です。

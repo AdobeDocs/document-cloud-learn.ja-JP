@@ -9,7 +9,7 @@ jira: KT-6464
 topic-revisit: Integrations
 thumbnail: 41263.jpg
 exl-id: a9a112e8-b599-4578-86da-8a8c6f22059e
-source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
+source-git-commit: 51d1a59999a7132cb6e47351cc39a93d9a38eaeb
 workflow-type: tm+mt
 source-wordcount: '57'
 ht-degree: 0%
@@ -24,4 +24,4 @@ ht-degree: 0%
 
 >[!TIP]
 >
->このビデオは、Experience Leagueで無料で利用できるコース「[Microsoftアプリケーション内でAcrobat Signを使用する](https://experienceleague.adobe.com/?recommended=Sign-U-1-2020.2)」の一部です。
+>このビデオは、Experience Leagueで無料で提供されている再生リスト[「Microsoftアプリケーション内でAcrobat Signを使用する」](https://experienceleague.adobe.com/en/playlists/acrobat-sign-integrate-microsoft-apps)の一部です。

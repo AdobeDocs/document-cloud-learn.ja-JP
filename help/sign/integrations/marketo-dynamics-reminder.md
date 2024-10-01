@@ -10,9 +10,9 @@ topic-revisit: Integrations
 jira: KT-7250
 thumbnail: KT-7250.jpg
 exl-id: 5a97fade-18a3-448a-8504-efb9e38e9187
-source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
+source-git-commit: 51d1a59999a7132cb6e47351cc39a93d9a38eaeb
 workflow-type: tm+mt
-source-wordcount: '891'
+source-wordcount: '864'
 ht-degree: 0%
 
 ---
@@ -25,7 +25,7 @@ ht-degree: 0%
 
 1. Marketo Microsoft Dynamics Syncをインストールします。
 
-   Microsoft Dynamics Syncに関する情報と最新のプラグインは、[こちら](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/microsoft-dynamics/marketo-plugin-releases-for-microsoft-dynamics.html)から入手できます。
+   Microsoft Dynamics Syncの情報と最新のプラグインは、[こちら](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/microsoft-dynamics/marketo-plugin-releases-for-microsoft-dynamics.html)から入手できます。
 
 1. [Microsoft Dynamics用Acrobat Sign](https://appsource.microsoft.com/ja-jp/product/dynamics-365/adobesign.f3b856fc-a427-4d47-ad4b-d5d1baba6f86)をインストールします。
 
@@ -33,7 +33,7 @@ ht-degree: 0%
 
 ## カスタムオブジェクトの検索
 
-Marketo Microsoft Dynamics SyncとAcrobat Sign for Dynamicsの設定が完了すると、Marketo管理ターミナルに2つの新しいオプションが表示されます。
+Microsoft Dynamics SyncとDynamics用Acrobat SignのMarketoの設定が完了すると、Marketo管理ターミナルに2つの新しいオプションが表示されます。
 
 ![管理者](assets/adminTerminal.png)
 
@@ -65,7 +65,7 @@ Marketo Microsoft Dynamics SyncとAcrobat Sign for Dynamicsの設定が完了す
 
 1. カスタムオブジェクトで同期を有効にした後、同期を再アクティベートします。
 
-   管理ターミナルに戻り、**Microsoft Dynamics**&#x200B;をクリックしてから、**Enable Sync**&#x200B;をクリックします。
+   管理ターミナルに戻り、**Microsoft Dynamics**&#x200B;をクリックしてから、**同期を有効にする**&#x200B;をクリックしてください。
 
    ![Microsoft Dynamics](assets/microsoftDynamics.png)
 
@@ -204,7 +204,3 @@ Marketo Microsoft Dynamics SyncとAcrobat Sign for Dynamicsの設定が完了す
 1. **スケジュール**&#x200B;を&#x200B;_毎日_&#x200B;に設定します。 必要に応じて、キャンペーンの開始日時および終了日を選択します。
 
    ![スケジュールの設定](assets/scheduleSettings.png)
-
->[!TIP]
->
->このチュートリアルは、[Microsoft DynamicsおよびMarketo向けのAcrobat Signを使用してセールスサイクルを加速する](https://experienceleague.adobe.com/?recommended=Sign-U-1-2021.1)のコースの一部です。このコースはExperience Leagueで無料で利用できます。
