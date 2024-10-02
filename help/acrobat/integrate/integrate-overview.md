@@ -9,9 +9,9 @@ topic-revisit: Integrations
 jira: KT-6859
 thumbnail: KT-6859.jpg
 exl-id: 76cb40b4-bbb4-4f50-b01d-4c5a74bf9f20
-source-git-commit: 2944661b9d10624b95c25979b7f653348b4c0f52
+source-git-commit: ab26a4e6ead996f8b49aa5595b9cdd6585eb0615
 workflow-type: tm+mt
-source-wordcount: '322'
+source-wordcount: '319'
 ht-degree: 1%
 
 ---
@@ -63,7 +63,7 @@ Acrobatを[!DNL Box]、[!DNL Dropbox]、[!DNL Google Drive]、[!DNL OneDrive]お
     <div>
     <a href="acrobatandteams.md"><strong>[!DNL Microsoft Teams]</strong></a>でのPDFの共同作業
     </div>
-    [!DNL Microsoft Teams]を離れずにPDFの共同作業とレビューを行うことができます
+    [!DNL Microsoft Teams]を離れずに共同作業とPDFのレビューを行うことができます
     <br>
   </td>
 </tr>
@@ -85,7 +85,7 @@ Acrobatを[!DNL Box]、[!DNL Dropbox]、[!DNL Google Drive]、[!DNL OneDrive]お
     <div>
     <a href="edge.md"><strong>[!DNL Microsoft Edge]</strong></a>で参照中にPDFコンテンツを作成する
     </div>
-    [!DNL Microsoft Edge]のAdobe Acrobat拡張機能を使用して、Webページをその場でPDFにする方法を説明します
+    [!DNL Microsoft Edge]のAdobe Acrobat拡張機能を使用してWebページをPDFにする方法を説明します
     <br>
   </td>
   <td>
