@@ -9,9 +9,9 @@ topic-revisit: Integrations
 jira: KT-6859
 thumbnail: KT-6859.jpg
 exl-id: 76cb40b4-bbb4-4f50-b01d-4c5a74bf9f20
-source-git-commit: 38c5bc7ac76bfc5c64201a52ea7f06386ce43eb9
+source-git-commit: 2944661b9d10624b95c25979b7f653348b4c0f52
 workflow-type: tm+mt
-source-wordcount: '334'
+source-wordcount: '322'
 ht-degree: 1%
 
 ---
@@ -43,7 +43,7 @@ Acrobatを[!DNL Box]、[!DNL Dropbox]、[!DNL Google Drive]、[!DNL OneDrive]お
     <div>
     <a href="createofficeweb.md"><strong>Web用の[!DNL Office]でPDFを作成する</strong></a>
     </div>
-    Microsoft Wordから直接、堅牢でリッチなPDFファイルを作成する方法を説明します
+    Webアプリの[!DNL Microsoft Office]から移動せずにPDFファイルを作成する方法を説明します
     <br>
   </td> 
   <td>
@@ -63,7 +63,7 @@ Acrobatを[!DNL Box]、[!DNL Dropbox]、[!DNL Google Drive]、[!DNL OneDrive]お
     <div>
     <a href="acrobatandteams.md"><strong>[!DNL Microsoft Teams]</strong></a>でのPDFの共同作業
     </div>
-    [!DNL Microsoft Teams]を離れることなく、PDFを表示、注釈、およびレビューして、共同作業や同僚との共同作業を行うことができます
+    [!DNL Microsoft Teams]を離れずにPDFの共同作業とレビューを行うことができます
     <br>
   </td>
 </tr>
@@ -95,7 +95,7 @@ Acrobatを[!DNL Box]、[!DNL Dropbox]、[!DNL Google Drive]、[!DNL OneDrive]お
     <div>
     <a href="microsoftsensitivitylabels.md"><strong>[!DNL Microsoft Purview Information]の秘密度ラベルを使用したProtectのPDF</strong></a>
     </div>
-    AcrobatでMicrosoft Purview Informationの機密ラベルを直接追加、編集、カスタマイズ、削除することでPDFを保護する方法について説明します
+    AcrobatでMicrosoft Purviewの情報秘密度ラベルを使用してPDFを直接保護する方法について説明します
     <br>
   </td>
   <td>
