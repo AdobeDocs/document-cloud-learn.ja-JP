@@ -7,16 +7,16 @@ level: Beginner
 jira: KT-6856
 thumbnail: KT-6856.jpg
 exl-id: 24660a17-a04e-4937-be94-0a42c4b2c2ca
-source-git-commit: c6058f76f43e271341f1418051921edef1403d6e
+source-git-commit: 38c5bc7ac76bfc5c64201a52ea7f06386ce43eb9
 workflow-type: tm+mt
-source-wordcount: '562'
+source-wordcount: '574'
 ht-degree: 1%
 
 ---
 
 # はじめに/概要
 
-Adobe Acrobatの使い方を説明する簡単なチュートリアルを利用してください。 文書の作成からPDFファイルの保護または[編集](https://www.adobe.com/jp/acrobat/online/pdf-editor.html){target="_blank"}まで、このコンテンツはPDFのワークフローを容易にするためのものです。
+Adobe Acrobatの使い方を説明する簡単なチュートリアルを利用してください。 文書の作成からPDFファイルの保護または[編集](https://www.adobe.com/jp/acrobat/online/pdf-editor.html){target="_blank"}まで、このコンテンツはPDFのワークフローを容易にするためのものです。 Acrobatの使用を開始するには、厳選されたこの[再生リスト](https://experienceleague.adobe.com/en/playlists/acrobat-get-started-business-users)を参照してください。
 
 ## 新機能
 

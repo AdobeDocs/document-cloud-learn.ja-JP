@@ -7,16 +7,16 @@ level: Intermediate, Experienced
 thumbnail: KT-6857.jpg
 jira: KT-6857
 exl-id: 2e2dc54d-23e1-4bd8-81de-62131aa5c966
-source-git-commit: 3b6aefd36b5fa77a11e2cd61032f11e6d4ca862c
+source-git-commit: 38c5bc7ac76bfc5c64201a52ea7f06386ce43eb9
 workflow-type: tm+mt
-source-wordcount: '294'
+source-wordcount: '307'
 ht-degree: 1%
 
 ---
 
 # 高度なタスクの概要
 
-Acrobatの高度なツールで基本を超えることができます。 日常的な作業の繰り返し、機密情報の削除、大きなファイルの削減と最適化、フォームデータの迅速な収集、ユニバーサルアクセスが可能なPDFファイルの作成などを行うアクションを作成する方法について説明します。
+Acrobatの高度なツールで基本を超えることができます。 日常的な作業の繰り返し、機密情報の削除、大きなファイルの削減と最適化、フォームデータの迅速な収集、ユニバーサルアクセスが可能なPDFファイルの作成などを行うアクションを作成する方法について説明します。 Acrobatで高度な作業を行うために厳選されたこの[再生リスト](https://experienceleague.adobe.com/en/playlists/acrobat-peform-advanced-tasks)をご覧ください。
 
 ## 新機能
 

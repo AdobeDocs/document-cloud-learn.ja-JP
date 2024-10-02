@@ -8,9 +8,9 @@ topic-revisit: mobile
 jira: KT-6863
 thumbnail: KT-6863.jpg
 exl-id: d9fe154b-adf9-49da-ab15-6806a0f10edc
-source-git-commit: 9e9ca31d5cbf12057da850ae223742c4c9b431bd
+source-git-commit: 38c5bc7ac76bfc5c64201a52ea7f06386ce43eb9
 workflow-type: tm+mt
-source-wordcount: '166'
+source-wordcount: '184'
 ht-degree: 1%
 
 ---
@@ -27,6 +27,9 @@ ht-degree: 1%
     <a href="../getting-started/productivity.md">
       <img alt="外出先での生産性" src="../assets/productivity.png" />
     </a>
+    </div>
+    <em>Acrobat Readerモバイルアプリを使用して、タブレットや携帯電話から直接その他の操作を行う方法を説明します</em>
+    <br>
   </td>
   <td>
    <img alt="スペーサー" src="../assets/Whitespacer.png" />
