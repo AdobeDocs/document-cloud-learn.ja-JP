@@ -12,10 +12,10 @@ feature-set: Document Cloud
 feature: Use Cases, Web Forms, Workflow, Sign, Payments, Report, Workspace, Deadline, Administration, Digital ID, Form, Integrations, Mobile, Skill Builder
 type: Tutorial
 auto-video-transcripts: true
-source-git-commit: 8fa83a1a43067e65eb496becd5ac543845f2f1c3
+source-git-commit: 59400129df861a6a92e69609b965b2fd82371640
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '547'
+ht-degree: 6%
 
 ---
 
@@ -80,7 +80,6 @@ ht-degree: 0%
       + [一括送信](sign-advanced-users/megasign.md)
       + [カスタムワークフローの作成](admin/building-a-custom-workflow.md)
       + [監査レポート](admin/audit-reports.md)
-      + [複数のプロファイルを使用する方法](admin/multiple-profiles.md)
       + [ユーザーを管理者ロールに昇格させる方法](admin/promote-admin.md)
    + 高度なタスク{#advanced-tasks-admins}
       + [グローバル設定](admin/learn-about-global-settings.md)
