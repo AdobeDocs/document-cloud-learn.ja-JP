@@ -7,10 +7,10 @@ level: Beginner
 jira: KT-6856
 thumbnail: KT-6856.jpg
 exl-id: 24660a17-a04e-4937-be94-0a42c4b2c2ca
-source-git-commit: 527eb69a9444db7dea38d41d7240cecc5cc62677
+source-git-commit: 229342b0b960e8f170481b24101a4f2c8e859a71
 workflow-type: tm+mt
-source-wordcount: '613'
-ht-degree: 2%
+source-wordcount: '566'
+ht-degree: 1%
 
 ---
 
@@ -42,14 +42,35 @@ Acrobatの[新しいワークスペース](new-workspace.md)について説明�
 
 ## 入門チュートリアル
 
+
+
+<!-- CARDS
+
+* https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/acrobatweb
+  {title = Work anywhere with Acrobat web}
+  {description = Learn how to work from anywhere}
+  {image = https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/media_1bfcf9b6746a553be3bae3718499df7f83847b637.png?width=400&format=webply&optimize=medium}
+  {cta = Watch}
+* https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/productivity
+  {title = Productivity on the go}
+  {description = Learn how to do more from your tablet or mobile phone}
+  {image = https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/media_1baac857c8ccc7eb8f0af7c27bd123772b2d5cac4.png?width=400&format=webply&optimize=medium}
+  {cta = Watch}
+* https://experienceleague.adobe.com/en/docs/journey-optimizer/using/get-started/user-interface
+  {title = Work with Microsoft 365}
+  {description = Work seamlessly with PDF files, right inside Microsoft 365}
+  {image = https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/media_1e715d1ec959dc755a27cab94e21039372673afac.png?width=400&format=webply&optimize=medium}
+  {cta = View tutorials}
+
+-->
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
 <div class="columns">
-    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="New workspace experience">
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Work anywhere with Acrobat web">
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/new-workspace" title="新しいワークスペースエクスペリエンス" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/media_1fd7846c8083ccd0da406c6abf96fe746d9b4539e.png?width=400&format=webply&optimize=medium" alt="新しいワークスペースエクスペリエンス"
+                    <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/acrobatweb" title="Acrobat webでどこでも作業" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/media_1bfcf9b6746a553be3bae3718499df7f83847b637.png?width=400&format=webply&optimize=medium" alt="Acrobat webでどこでも作業"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -57,22 +78,22 @@ Acrobatの[新しいワークスペース](new-workspace.md)について説明�
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/new-workspace" target="_blank" rel="referrer" title="新しいワークスペースエクスペリエンス">新しいワークスペースエクスペリエンス</a>
+                        <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/acrobatweb" target="_blank" rel="referrer" title="Acrobat webでどこでも作業">Acrobat webでどこでも作業</a>
                     </p>
-                    <p class="is-size-6">Acrobatの新しいワークスペースについて説明します</p>
+                    <p class="is-size-6">どこからでも作業する方法を学ぶ</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/new-workspace" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/acrobatweb" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">視聴</span>
                 </a>
             </div>
         </div>
     </div>
-    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Workspace basics">
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Productivity on the go">
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/get-to-know-the-acrobat-dc-interface" title="ワークスペースの基本" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/media_1829b23b3d26ba9ab2687a87be27ecf1b2adde71e.png?width=400&format=webply&optimize=medium" alt="ワークスペースの基本"
+                    <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/productivity" title="外出先での生産性" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/media_1baac857c8ccc7eb8f0af7c27bd123772b2d5cac4.png?width=400&format=webply&optimize=medium" alt="外出先での生産性"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -80,22 +101,22 @@ Acrobatの[新しいワークスペース](new-workspace.md)について説明�
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/get-to-know-the-acrobat-dc-interface" target="_blank" rel="referrer" title="ワークスペースの基本">ワークスペースの基本</a>
+                        <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/productivity" target="_blank" rel="referrer" title="外出先での生産性">外出先での生産性</a>
                     </p>
-                    <p class="is-size-6">Acrobatワークスペースの基本を学ぶ</p>
+                    <p class="is-size-6">タブレットやスマートフォンを使用して様々な作業を行う方法を説明します</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/get-to-know-the-acrobat-dc-interface" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/productivity" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">視聴</span>
                 </a>
             </div>
         </div>
     </div>
-    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Discover PDF insights with the AI Assistant">
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Work with Microsoft 365">
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/ai-assistant" title="AIアシスタントでPDFのインサイトを見つける" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/media_12db4e53771239c4c355e54868bb8c2d72912cf58.png?width=400&format=webply&optimize=medium" alt="AIアシスタントでPDFのインサイトを見つける"
+                    <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer/using/get-started/user-interface" title="Microsoft 365の使用" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/media_1e715d1ec959dc755a27cab94e21039372673afac.png?width=400&format=webply&optimize=medium" alt="Microsoft 365の使用"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -103,68 +124,18 @@ Acrobatの[新しいワークスペース](new-workspace.md)について説明�
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/ai-assistant" target="_blank" rel="referrer" title="AIアシスタントでPDFのインサイトを見つける">AIアシスタントを使用して、PDFの情報を見つける</a>
+                        <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer/using/get-started/user-interface" target="_blank" rel="referrer" title="Microsoft 365の使用">Microsoft 365の操作</a>
                     </p>
-                    <p class="is-size-6">AIアシスタントを使用して、PDFファイルから洞察を得ます</p>
+                    <p class="is-size-6">Microsoft 365内でPDFファイルとシームレスに連携</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/ai-assistant" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">視聴</span>
+                <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer/using/get-started/user-interface" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">チュートリアルを表示</span>
                 </a>
             </div>
         </div>
     </div>
 </div>
 <!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
-
-<table style="table-layout:fixed">
-<tr>
-  <td>
-    <a href="acrobatweb.md">
-      <img alt="Acrobat webでどこでも作業" src="../assets/acrobat-web.png" />
-    </a>
-    <div>
-    <a href="acrobatweb.md"><strong>Acrobat webでどこでも作業</strong></a>
-    </div>
-    どこからでも作業する方法を学ぶ
-    <br>
-  </td>
-  <td>
-    <a href="productivity.md">
-      <img alt="外出先での生産性" src="../assets/productivity.png" />
-    </a>
-    <div>
-    <a href="productivity.md"><strong>外出先での生産性</strong></a>
-    </div>
-    タブレットやスマートフォンを使用して様々な作業を行う方法を説明します
-    <br>
-  </td>
-  <td>
-      <a href="../integrate/integrate-overview.md#microsoft">
-        <img alt="Microsoft 365の使用" src="../assets/microsoft-365.png" />
-      </a>
-      <div>
-      <a href="../integrate/integrate-overview.md#microsoft"><strong>Microsoft 365の操作</strong></a>
-      </div>
-      Microsoft 365内でPDFファイルとシームレスに連携
-      <br> 
-  </td>
-  <td>
-      <a href="where-do-pdfs-come-from.md">
-        <img alt="PDFはどこから来るのですか。" src="../assets/where-pdfs.png" />
-      </a>
-      <div>
-      <a href="where-do-pdfs-come-from.md"><strong>PDFの提供元</strong></a>
-      </div>
-      PDFの提供元と使用方法について説明します
-      <br>
-  </td>
-  <td>
-    <img alt="スペーサー" src="../assets/Whitespacer.png" />
-      <div>
-      <br>
-  </td>
-</tr>
-</table>
 
 ## チュートリアルの作成、結合、整理
 
@@ -389,9 +360,14 @@ Acrobatの[新しいワークスペース](new-workspace.md)について説明�
     <br>
   </td>
   <td>
-   <img alt="スペーサー" src="../assets/Grayspacer.png" />
-    <div>
-    <br>
+      <a href="where-do-pdfs-come-from.md">
+        <img alt="PDFはどこから来るのですか。" src="../assets/where-pdfs.png" />
+      </a>
+      <div>
+      <a href="where-do-pdfs-come-from.md"><strong>PDFの提供元</strong></a>
+      </div>
+      PDFの提供元と使用方法について説明します
+      <br>
   </td>
   <td>
    <img alt="スペーサー" src="../assets/Grayspacer.png" />

@@ -6,7 +6,7 @@ feature-set: Document Cloud
 role: User
 type: Tutorial
 auto-video-transcripts: true
-source-git-commit: c6058f76f43e271341f1418051921edef1403d6e
+source-git-commit: 229342b0b960e8f170481b24101a4f2c8e859a71
 workflow-type: tm+mt
 source-wordcount: '489'
 ht-degree: 3%
@@ -25,7 +25,6 @@ ht-degree: 3%
    + [Acrobat webでどこでも作業](getting-started/acrobatweb.md)
    + [外出先での生産性](getting-started/productivity.md)
    + [連携 [!DNL Microsoft 365]](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/integrations/integrate-overview.html#microsoft)
-   + [PDFはどこから来るのですか。](getting-started/where-do-pdfs-come-from.md)
    + [PDFを作成](getting-started/create-pdf.md)
    + [ファイルを1つのPDFに結合](getting-started/combine-to-pdf.md)
    + [ページを整理](getting-started/organize.md)
@@ -43,6 +42,7 @@ ht-degree: 3%
    + [PDFファイルをパスワードでProtectする](getting-started/password-protect.md)
    + [署名を取得](getting-started/signatures.md)
    + [ドキュメントのトラック](getting-started/track.md)
+   + [PDFはどこから来るのですか。](getting-started/where-do-pdfs-come-from.md)
 + 高度なタスク{#advanced-tasks}
    + [概要](advanced-tasks/advanced-tasks-overview.md)
    + [ブックマークとハイパーリンクの追加](advanced-tasks/bookmarks.md)
