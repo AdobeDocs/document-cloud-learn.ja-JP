@@ -7,7 +7,7 @@ level: Beginner
 jira: KT-8498
 thumbnail: KT-8498.jpg
 exl-id: 8c611578-59e9-4438-ac99-3bb22e661d17
-source-git-commit: ee046e998b5396dc5d170c3dbd2c4c77ea725fe7
+source-git-commit: cc1902cf295d3608fb8ac4ed564a39dbcc885e4a
 workflow-type: tm+mt
 source-wordcount: '96'
 ht-degree: 1%
@@ -29,3 +29,4 @@ ht-degree: 1%
 >[!TIP]
 >
 >このビデオは、Experience Leagueで無料で提供されている再生リスト[Adobe Acrobatの使用を開始](https://experienceleague.adobe.com/en/playlists/acrobat-get-started-business-users)の一部です。
+
