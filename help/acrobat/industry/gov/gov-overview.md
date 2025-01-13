@@ -7,9 +7,9 @@ level: Beginner, Intermediate, Experienced
 jira: KT-9910
 thumbnail: KT-9910.jpg
 exl-id: 8a8e760f-0983-46b5-86ed-8c8d977b6478
-source-git-commit: 6417f5a5ddcf97fbf3ce9e2b26fc7043c79defea
+source-git-commit: 88bbe7e4866b46984017455c61f13c518b1465fc
 workflow-type: tm+mt
-source-wordcount: '638'
+source-wordcount: '507'
 ht-degree: 0%
 
 ---
@@ -284,74 +284,3 @@ ht-degree: 0%
     </div>
 </div>
 <!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
-<table>
-<tr>
-  <td>
-    <a href="making-pdfs-accessible.md">
-      <img alt="PDFのアクセシブル化（完了14:11）" src="../../assets/Accessiblecomplete.png" />
-    </a>
-    <div>
-    <a href="making-pdfs-accessible.md"><strong>PDFをアクセス可能にする（完了14:11）</strong></a>
-    </div>
-    <em>アクセシブルなPDFファイルを作成するための最適なワークフローについて説明します</em>
-    <br>
-  </td>
-  <td>
-    <a href="understanding-accessibility.md">
-      <img alt="PDFのアクセシブル化：アクセシビリティについて" src="../../assets/Accessibiityunderstanding.png" />
-    </a>
-    <div>
-    <a href="understanding-accessibility.md"><strong>PDFを利用可能にする：アクセシビリティについて</strong></a>
-    </div>
-    <em>障害のある方がPDFにアクセスできるようにする方法を学ぶ</em>
-    <br>
-  </td>  
-  <td>
-    <a href="collaborate-on-documents.md">
-      <img alt="PDFのアクセシブル化： Wordでのオーサリング" src="../../assets/Accessibilityword.png" />
-    </a>
-    <div>
-    <a href="collaborate-on-documents.md"><strong>PDFをアクセス可能にする： Wordでの作成</strong></a>
-    </div>
-    <em>[!DNL Microsoft Word]</em>で作成されたPDFファイルを作成するためのベストプラクティスを確認します
-    <br>
-  </td>
-   <td>
-    <a href="finishing-in-acrobat.md">
-      <img alt="PDFのアクセシブル化：Acrobatでの仕上げ" src="../../assets/Accessibilityacrobat.png" />
-    </a>
-    <div>
-    <a href="finishing-in-acrobat.md"><strong>PDFをアクセス可能にする： Acrobatで終了しています</strong></a>
-    </div>
-    <em>Acrobat Proのツールを使ってPDFファイルにアクセスできるようにする最終方法を説明します</em>
-    <br>
-  </td>
-</tr>
-<tr>
-  <td>
-    <a href="making-pdf-ballots-accessible.md">
-      <img alt="PDF投票のアクセシビリティの向上" src="../../assets/Accessibleballots.png" />
-    </a>
-    <div>
-    <a href="making-pdf-ballots-accessible.md"><strong>PDF投票のアクセシビリティの向上</strong></a>
-    </div>
-    <em>このウェビナーでは、スクリーンリーダーなどの支援テクノロジーを使用するユーザーが投票用紙を読んで記入できるようにするために必要な、PDFのアクセシビリティの主な領域について説明します</em>
-    <br>
-  </td>  
-  <td>
-   <img alt="スペーサー" src="../../assets/Grayspacer.png" />
-    <div>
-    <br>
-  </td>
-  <td>
-   <img alt="スペーサー" src="../../assets/Grayspacer.png" />
-    <div>
-    <br>
-  </td>
-  <td>
-   <img alt="スペーサー" src="../../assets/Grayspacer.png" />
-    <div>
-    <br>
-  </td>
-</tr>
-</table>

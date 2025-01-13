@@ -9,7 +9,7 @@ topic-revisit: Integrations
 jira: KT-6859
 thumbnail: KT-6859.jpg
 exl-id: 76cb40b4-bbb4-4f50-b01d-4c5a74bf9f20
-source-git-commit: 54d5fb022944d0e8f8d5b4d0ed2249ee432f9f6b
+source-git-commit: 88bbe7e4866b46984017455c61f13c518b1465fc
 workflow-type: tm+mt
 source-wordcount: '483'
 ht-degree: 1%
@@ -24,7 +24,7 @@ Acrobatを[!DNL Box]、[!DNL Dropbox]、[!DNL Google Drive]、[!DNL OneDrive]お
 
 [Microsoft 365](https://www.adobe.com/documentcloud/integrations/microsoft-office-365.html)内で、グループの全員がPDFファイルをシームレスに操作する方法について説明します。 AcrobatとMicrosoft 365の連携について専門的にキュレートされた[プレイリスト](https://experienceleague.adobe.com/en/playlists/acrobat-integrate-microsoft-365)をご覧ください。
 
--->
+
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
 <div class="columns">
     <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Create PDF files from Microsoft Word">
