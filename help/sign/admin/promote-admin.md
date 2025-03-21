@@ -1,19 +1,20 @@
 ---
-title: ユーザーを管理者ロールに昇格させる方法
-description: Admin Consoleを使用して、ユーザーをAcrobat Sign管理者ロールに昇格させる方法について説明します。
+title: 製品管理者とサポート管理者の役割の割り当て
+description: Admin Consoleを使用して、ユーザーをAcrobat Sign管理者ロールまたはサポートロールに昇格させる方法について説明します
 feature: Administration
 role: Admin
 level: Intermediate
-jira: KT-15914
-source-git-commit: 5bec453b8902dffc63929adcb28dfe873b2267b5
+jira: KT-17583
+exl-id: 5ff13940-e4f0-409c-a069-996b3d762908
+source-git-commit: 1968bc6d01d1e7ae3f732a92c0c9a06fdeab3edd
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '49'
+ht-degree: 2%
 
 ---
 
-# ユーザーを管理者ロールに昇格させる方法
+# 製品管理者とサポート管理者の役割の割り当て
 
-Adobe Admin Consoleを使用して、ユーザーをAcrobat Sign管理者ロールに昇格させる方法について説明します。
+[Admin Console](https://adminconsole.adobe.com/)を使用して、ユーザーをAcrobat Sign管理者ロールまたはサポートロールに昇格させる方法について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3433447?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3453157?quality=12&learn=on&hidetitle=true)

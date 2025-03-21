@@ -12,9 +12,9 @@ feature-set: Document Cloud
 feature: Use Cases, Web Forms, Workflow, Sign, Payments, Report, Workspace, Deadline, Administration, Digital ID, Form, Integrations, Mobile, Skill Builder
 type: Tutorial
 auto-video-transcripts: true
-source-git-commit: 59400129df861a6a92e69609b965b2fd82371640
+source-git-commit: 1968bc6d01d1e7ae3f732a92c0c9a06fdeab3edd
 workflow-type: tm+mt
-source-wordcount: '547'
+source-wordcount: '545'
 ht-degree: 6%
 
 ---
@@ -69,7 +69,7 @@ ht-degree: 6%
       + [新しい管理者向け導入ガイド](admin/get-started-admin.md)
       + [管理者の場合は稼働しています](admin/up-and-running-admin.md)
       + [イベントとアラートの通知を構成する](admin/set-up-shared-events-and-alert.md)
-      + [ユーザーの追加](admin/add-users-to-your-account.md)
+      + [新規ユーザーを追加](admin/add-users-to-your-account.md)
       + [グループの作成と管理](admin/create-and-manage-groups.md)
       + [外部アーカイブの設定](admin/set-up-your-external-archive.md)
       + [テンプレートの作成](sign-advanced-users/create-a-template.md)
@@ -80,7 +80,7 @@ ht-degree: 6%
       + [一括送信](sign-advanced-users/megasign.md)
       + [カスタムワークフローの作成](admin/building-a-custom-workflow.md)
       + [監査レポート](admin/audit-reports.md)
-      + [ユーザーを管理者ロールに昇格させる方法](admin/promote-admin.md)
+      + [製品およびサポート管理者の役割の割り当て](admin/promote-admin.md)
    + 高度なタスク{#advanced-tasks-admins}
       + [グローバル設定](admin/learn-about-global-settings.md)
       + [アカウントアクセスの共有](admin/share-account-access.md)

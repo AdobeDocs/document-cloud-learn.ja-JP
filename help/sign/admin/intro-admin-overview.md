@@ -8,9 +8,9 @@ jira: KT-6849
 topic-revisit: Administration
 thumbnail: KT-6849.jpg
 exl-id: 1b6ea9f0-6bbb-4ea5-aa22-bfa42f7cca18
-source-git-commit: 96a2d14e4bc47061e3b545585ba2a28822764409
+source-git-commit: 1968bc6d01d1e7ae3f732a92c0c9a06fdeab3edd
 workflow-type: tm+mt
-source-wordcount: '593'
+source-wordcount: '587'
 ht-degree: 1%
 
 ---
@@ -78,7 +78,7 @@ ht-degree: 1%
     <div>
     <a href="add-users-to-your-account.md"><strong>新しいユーザーを追加する</strong></a>
     </div>
-    <em>Acrobat Signのユーザーの追加と管理</em>
+    <em>Acrobat Signに新しいユーザーを追加する</em>
     <br>
   </td>
 </tr>
@@ -189,12 +189,12 @@ ht-degree: 1%
   </td>
   <td>
     <a href="promote-admin.md">
-      <img alt="ユーザーを管理者ロールに昇格させる方法" src="../assets/promote-admin.png" />
+      <img alt="製品およびサポート管理者の役割の割り当て" src="../assets/admin-roles.jpg" />
     </a>
     <div>
-    <a href="promote-admin.md"><strong>ユーザーを管理者ロールに昇格させる方法</strong></a>
+    <a href="promote-admin.md"><strong>製品とサポートの管理者の役割の割り当て</strong></a>
     </div>
-    <em>Admin Consoleを使って、ユーザーをAcrobat Sign管理者ロールに昇格させる方法</em>を説明します
+    <em>Admin Consoleを使って、ユーザーをAcrobat Sign製品ロールまたはサポート管理者ロールに昇格させる方法を説明します</em>
     <br>
   </td>
    <td>
