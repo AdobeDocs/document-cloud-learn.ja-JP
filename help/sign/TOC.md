@@ -12,9 +12,9 @@ feature-set: Document Cloud
 feature: Use Cases, Web Forms, Workflow, Sign, Payments, Report, Workspace, Deadline, Administration, Digital ID, Form, Integrations, Mobile, Skill Builder
 type: Tutorial
 auto-video-transcripts: true
-source-git-commit: 1968bc6d01d1e7ae3f732a92c0c9a06fdeab3edd
+source-git-commit: 8755e93c7ea0019a6edb6084a97c5e9cbb93942a
 workflow-type: tm+mt
-source-wordcount: '545'
+source-wordcount: '550'
 ht-degree: 6%
 
 ---
@@ -70,6 +70,7 @@ ht-degree: 6%
       + [管理者の場合は稼働しています](admin/up-and-running-admin.md)
       + [イベントとアラートの通知を構成する](admin/set-up-shared-events-and-alert.md)
       + [新規ユーザーを追加](admin/add-users-to-your-account.md)
+      + [新しいアカウント管理者を追加](admin/add-admin.md)
       + [グループの作成と管理](admin/create-and-manage-groups.md)
       + [外部アーカイブの設定](admin/set-up-your-external-archive.md)
       + [テンプレートの作成](sign-advanced-users/create-a-template.md)

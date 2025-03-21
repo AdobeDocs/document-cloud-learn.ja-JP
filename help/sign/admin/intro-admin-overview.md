@@ -8,9 +8,9 @@ jira: KT-6849
 topic-revisit: Administration
 thumbnail: KT-6849.jpg
 exl-id: 1b6ea9f0-6bbb-4ea5-aa22-bfa42f7cca18
-source-git-commit: 1968bc6d01d1e7ae3f732a92c0c9a06fdeab3edd
+source-git-commit: 8755e93c7ea0019a6edb6084a97c5e9cbb93942a
 workflow-type: tm+mt
-source-wordcount: '587'
+source-wordcount: '618'
 ht-degree: 1%
 
 ---
@@ -72,18 +72,28 @@ ht-degree: 1%
     <br>
   </td>
   <td>
-    <a href="add-users-to-your-account.md">
-      <img alt="新規ユーザーを追加" src="../assets/Add-a-new-user.jpg" />
+    <a href="add-admin.md">
+      <img alt="新しいアカウント管理者を追加" src="../assets/Add-a-new-admin.jpg" />
     </a>
     <div>
-    <a href="add-users-to-your-account.md"><strong>新しいユーザーを追加する</strong></a>
+    <a href="add-admin.md"><strong>新しいアカウント管理者の追加</strong></a>
     </div>
-    <em>Acrobat Signに新しいユーザーを追加する</em>
+    <em>新しいユーザーを作成する方法、または既存のユーザーをAcrobat Sign管理者ロールに昇格させる方法を説明します</em>
     <br>
   </td>
 </tr>
 <tr>
  <td>
+    <a href="create-and-manage-groups.md">
+      <img alt="グループの作成と管理" src="../assets/Creating-Groups.png" />
+    </a>
+    <div>
+    <a href="create-and-manage-groups.md"><strong>グループの作成と管理</strong></a>
+    </div>
+    <em>グループの作成、グループへのユーザーの追加、およびグループ設定の編集</em>
+    <br>
+  </td>
+  <td>
     <a href="create-and-manage-groups.md">
       <img alt="グループの作成と管理" src="../assets/Creating-Groups.png" />
     </a>
@@ -113,6 +123,8 @@ ht-degree: 1%
     <em>スピードと一貫性を保つために再利用可能な文書テンプレートを作成</em>
     <br>
   </td>
+</tr>
+<tr>
   <td>
     <a href="../sign-advanced-users/creating-a-report.md">
       <img alt="レポートとトランザクションの使用状況" src="../assets/reporting.png" />
@@ -123,8 +135,6 @@ ht-degree: 1%
     <em>レポートを生成し、トランザクションの使用状況を追跡する方法を学ぶ</em>
     <br>
   </td>
-</tr>
-<tr>
   <td>
     <a href="report-options.md">
       <img alt="ユーザーのレポートオプション" src="../assets/report-options.png" />
@@ -155,6 +165,8 @@ ht-degree: 1%
     <em>既存のWebフォームを無効にし、編集し、再度有効にする方法を説明します</em>
     <br>
   </td>
+</tr>
+<tr>
   <td>
     <a href="../sign-advanced-users/megasign.md">
       <img alt="一括送信" src="../assets/send-in-bulk.png" />
@@ -165,8 +177,6 @@ ht-degree: 1%
     <em>あらゆる文書に対して一度に数千もの署名を収集</em>
     <br>
   </td>
-</tr>
-<tr>
   <td>
     <a href="building-a-custom-workflow.md">
       <img alt="ワークフローの設定" src="../assets/BuildingWorkflow.png" />
@@ -197,11 +207,7 @@ ht-degree: 1%
     <em>Admin Consoleを使って、ユーザーをAcrobat Sign製品ロールまたはサポート管理者ロールに昇格させる方法を説明します</em>
     <br>
   </td>
-   <td>
-    <img alt="スペーサー" src="../assets/Grayspacer.png" />
-    <div>
-    <br>
-  </td>
+</tr> 
 </table>
 
 ## 高度なタスク
