@@ -7,7 +7,7 @@ level: Intermediate
 jira: KT-6803
 thumbnail: KT-6803.jpg
 exl-id: d932f20e-7e7c-4087-8ccc-cba7253f1394
-source-git-commit: 4d3b553d12b569f13282a137fdfef3cd475a0d91
+source-git-commit: 17a25611e3444b0b00f4a78306fdedc59495c07c
 workflow-type: tm+mt
 source-wordcount: '95'
 ht-degree: 0%
@@ -16,7 +16,7 @@ ht-degree: 0%
 
 # ガイド付きアクション
 
-最高のカスタマーエクスペリエンスを提供するには、これまでになく高速にコンテンツを作成する必要があります。 ガイド付きアクションを使用して、ワンクリックで多数のドキュメントにわたって1つ以上のコマンドを実行することで、時間とキーストロークを節約する方法を説明します。 このビデオチュートリアルでは、[新しいワークスペースエクスペリエンス](../getting-started/new-workspace.md)を使用します。
+最高のカスタマーエクスペリエンスを提供するには、これまでになく高速にコンテンツを作成する必要があります。 ガイド付きアクションを使用して、ワンクリックで多数のドキュメントにわたって1つ以上のコマンドを実行することで、時間とキーストロークを節約する方法を説明します。 このビデオチュートリアルでは、[新しいAcrobatエクスペリエンス](../getting-started/new-workspace.md)を使用します。
 
 >[!NOTE]
 >

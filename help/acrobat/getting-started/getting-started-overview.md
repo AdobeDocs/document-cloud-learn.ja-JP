@@ -7,9 +7,9 @@ level: Beginner
 jira: KT-6856
 thumbnail: KT-6856.jpg
 exl-id: 24660a17-a04e-4937-be94-0a42c4b2c2ca
-source-git-commit: 5ae26a41271759a3a352fbfff68bab685d723067
+source-git-commit: 17a25611e3444b0b00f4a78306fdedc59495c07c
 workflow-type: tm+mt
-source-wordcount: '854'
+source-wordcount: '852'
 ht-degree: 1%
 
 ---
@@ -34,9 +34,9 @@ Adobe Expressを使用して、PDFーで[新しいページをデザイン](add-
 
 PDFで[グラフィックを作成、編集、拡張](edit-graphics.md)する方法を説明します。
 
->[!TAB 新しいワークスペースエクスペリエンス]
+>[!TAB 新しいAcrobatエクスペリエンス]
 
-Acrobatの[新しいワークスペース](new-workspace.md)について説明します。このワークスペースを使用すると、ツールをすばやく見つけて、PDF作業を効率的に行うことができます。
+ツールをすばやく見つけてPDF作業を効率的に実行するのに役立つ[新しいAcrobatエクスペリエンス](new-workspace.md)について説明します。
 
 >[!ENDTABS]
 
@@ -44,12 +44,12 @@ Acrobatの[新しいワークスペース](new-workspace.md)について説明�
 
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
 <div class="columns">
-    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="New workspace experience">
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="New Acrobat experience">
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/new-workspace" title="新しいワークスペースエクスペリエンス" target="_self" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/media_1fd7846c8083ccd0da406c6abf96fe746d9b4539e.png?width=400&format=webply&optimize=medium" alt="新しいワークスペースエクスペリエンス"
+                    <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/new-workspace" title="新しいAcrobatエクスペリエンス" target="_self" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/media_1fd7846c8083ccd0da406c6abf96fe746d9b4539e.png?width=400&format=webply&optimize=medium" alt="新しいAcrobatエクスペリエンス"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -57,9 +57,9 @@ Acrobatの[新しいワークスペース](new-workspace.md)について説明�
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/new-workspace" target="_self" rel="referrer" title="新しいワークスペースエクスペリエンス">新しいワークスペースエクスペリエンス</a>
+                        <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/new-workspace" target="_self" rel="referrer" title="新しいAcrobatエクスペリエンス">新しいAcrobatエクスペリエンス</a>
                     </p>
-                    <p class="is-size-6">Acrobatの新しいワークスペースについて説明します</p>
+                    <p class="is-size-6">新しいAcrobatエクスペリエンスの詳細</p>
                 </div>
                 <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/new-workspace" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">視聴</span>

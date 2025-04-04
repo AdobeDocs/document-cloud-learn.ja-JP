@@ -7,16 +7,16 @@ level: Beginner
 jira: KT-6832
 thumbnail: KT-6832.jpg
 exl-id: 1b39380c-ebdc-48b3-8237-1512cbc7b146
-source-git-commit: 548f7a5979a4b9e829d09090dbd7cec9493f351a
+source-git-commit: 17a25611e3444b0b00f4a78306fdedc59495c07c
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '84'
+ht-degree: 10%
 
 ---
 
 # ページを整理
 
-最高のカスタマーエクスペリエンスを提供するには、これまでになく高速にコンテンツを作成する必要があります。 お好みのレイアウトにページを数秒で並べ替える方法を説明します。 [挿入](https://www.adobe.com/jp/acrobat/online/add-pages-to-pdf.html){target="_blank"}、置換、[分割](https://www.adobe.com/jp/acrobat/online/split-pdf.html){target="_blank"}、[並べ替え](https://www.adobe.com/jp/acrobat/online/rearrange-pdf.html){target="_blank"}、[回転](https://www.adobe.com/jp/acrobat/online/rotate-pdf.html){target="_blank"}を行い、さらに[不連続ページを抽出](https://www.adobe.com/acrobat/online/extract-pdf-pages.html){target="_blank"}して、プロフェッショナルな雰囲気のPDFに仕上げます。 このビデオチュートリアルでは、[新しいワークスペースエクスペリエンス](new-workspace.md)を使用します。
+最高のカスタマーエクスペリエンスを提供するには、これまでになく高速にコンテンツを作成する必要があります。 お好みのレイアウトにページを数秒で並べ替える方法を説明します。 [挿入](https://www.adobe.com/jp/acrobat/online/add-pages-to-pdf.html){target="_blank"}、置換、[分割](https://www.adobe.com/jp/acrobat/online/split-pdf.html){target="_blank"}、[並べ替え](https://www.adobe.com/jp/acrobat/online/rearrange-pdf.html){target="_blank"}、[回転](https://www.adobe.com/jp/acrobat/online/rotate-pdf.html){target="_blank"}を行い、さらに[不連続ページを抽出](https://www.adobe.com/acrobat/online/extract-pdf-pages.html){target="_blank"}して、プロフェッショナルな雰囲気のPDFに仕上げます。 このビデオチュートリアルでは、[新しいAcrobatエクスペリエンス](new-workspace.md)を使用します。
 
 >[!TIP]
 >

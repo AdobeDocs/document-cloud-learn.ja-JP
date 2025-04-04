@@ -6,7 +6,7 @@ role: User
 level: Beginner, Intermediate
 jira: KT-15743
 exl-id: 0c2cd557-19d6-4a0b-b0ae-2cc1da7c1080
-source-git-commit: 5ae26a41271759a3a352fbfff68bab685d723067
+source-git-commit: 17a25611e3444b0b00f4a78306fdedc59495c07c
 workflow-type: tm+mt
 source-wordcount: '147'
 ht-degree: 0%
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 # AIアシスタントでPDFのインサイトを見つける
 
-AIアシスタントを使用してPDFファイルから情報を引き出し、インパクトのあるコンテンツを素早く作成する方法について説明します。 AI Assistantは、文書ワークフローを改善し、複雑な文書データを分析する安全な会話エンジンです。 このビデオチュートリアルでは、[新しいワークスペースエクスペリエンス](new-workspace.md)を使用します。
+AIアシスタントを使用してPDFファイルから情報を引き出し、インパクトのあるコンテンツを素早く作成する方法について説明します。 AI Assistantは、文書ワークフローを改善し、複雑な文書データを分析する安全な会話エンジンです。 このビデオチュートリアルでは、[新しいAcrobatエクスペリエンス](new-workspace.md)を使用します。
 
 ## 使用事例
 

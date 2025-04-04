@@ -7,7 +7,7 @@ level: Beginner
 jira: KT-5529
 thumbnail: 35494.jpg
 exl-id: 83896285-7339-4d95-8a51-b91de4d4731a
-source-git-commit: ee046e998b5396dc5d170c3dbd2c4c77ea725fe7
+source-git-commit: 17a25611e3444b0b00f4a78306fdedc59495c07c
 workflow-type: tm+mt
 source-wordcount: '144'
 ht-degree: 2%
@@ -16,7 +16,7 @@ ht-degree: 2%
 
 # PDFを別のファイル形式に変換
 
-PDFファイルを[Microsoft Word](https://www.adobe.com/jp/acrobat/online/pdf-to-word.html)、[PowerPoint](https://www.adobe.com/jp/acrobat/online/pdf-to-ppt.html)、[Excel](https://www.adobe.com/jp/acrobat/online/pdf-to-excel.html)などの異なるファイル形式に変換する方法について説明します。 ブランド化されたデザイン要素を追加するためにPDFを[Adobe Express](https://express.adobe.com)に変換する方法についても説明します。 PDFをMicrosoft Wordなどの別のファイル形式に変換すると、文書ワークフローが効率化され、長い文書に大幅な変更を加える際に時間を大幅に節約できます。 このビデオチュートリアルでは、新しいワークスペースエクスペリエンスを使用しています。
+PDFファイルを[Microsoft Word](https://www.adobe.com/jp/acrobat/online/pdf-to-word.html)、[PowerPoint](https://www.adobe.com/jp/acrobat/online/pdf-to-ppt.html)、[Excel](https://www.adobe.com/jp/acrobat/online/pdf-to-excel.html)などの異なるファイル形式に変換する方法について説明します。 ブランド化されたデザイン要素を追加するためにPDFを[Adobe Express](https://express.adobe.com)に変換する方法についても説明します。 PDFをMicrosoft Wordなどの別のファイル形式に変換すると、文書ワークフローが効率化され、長い文書に大幅な変更を加える際に時間を大幅に節約できます。 このビデオチュートリアルでは、新しいAcrobatエクスペリエンスを使用します。
 
 >[!TIP]
 >
