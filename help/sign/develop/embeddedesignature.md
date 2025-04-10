@@ -9,7 +9,7 @@ jira: KT-7489
 thumbnail: KT-7489.jpg
 kt: 7489
 exl-id: db300cb9-6513-4a64-af60-eadedcd4858e
-source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
+source-git-commit: 0a299592f0616988b6208fc98d3140f4ac22057e
 workflow-type: tm+mt
 source-wordcount: '832'
 ht-degree: 0%
@@ -26,7 +26,7 @@ Acrobat Sign APIを使用して、電子サインおよび文書エクスペリ�
 
 +++API資格情報の取得方法の詳細を表示
 
-* [Acrobat Sign デベロッパーアカウント](https://acrobat.adobe.com/jp/ja/sign/developer-form.html)
+* [Acrobat Sign デベロッパーアカウント](https://www.adobe.com/acrobat/business/developer-form.html)
 * [スターターコード](https://github.com/benvanderberg/adobe-sign-api-tutorial)
 * [VSコード（または任意のエディター）](https://code.visualstudio.com)
 * Python 3.x
