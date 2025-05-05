@@ -18,4 +18,4 @@ ht-degree: 0%
 
 [!DNL Intesi Group]デジタルIDを使用してIDを認証し、文書のリモートデジタル署名（クラウド署名）を承認する方法について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/336989?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3443662?quality=12&learn=on&hidetitle=true&captions=jpn)

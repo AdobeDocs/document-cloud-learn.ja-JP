@@ -22,4 +22,4 @@ ht-degree: 0%
 
 この60秒のビデオチュートリアルでは、Optimize PDFツールを使用してPDFファイルのサイズを大幅に縮小する方法について学習します。
 
->[!VIDEO](https://video.tv.adobe.com/v/340077?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/347104?quality=12&learn=on&hidetitle=true&captions=jpn)

@@ -21,4 +21,4 @@ ht-degree: 0%
 
 この60秒のビデオチュートリアルでは、PDFから機密情報を削除する正しい方法について学習します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3411377?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3436913?quality=12&learn=on&hidetitle=true&captions=jpn)

@@ -22,7 +22,7 @@ ht-degree: 0%
 >
 >Acrobat Proでのみ利用可能です。
 
->[!VIDEO](https://video.tv.adobe.com/v/3433138?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3444876?quality=12&learn=on&hidetitle=true&captions=jpn)
 
 >[!TIP]
 >

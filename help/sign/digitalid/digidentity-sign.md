@@ -20,4 +20,4 @@ Digidentityは、EUの適格トラストサービスプロバイダー(QTSP)で�
 
 このビデオチュートリアルでは、登録の招待メールの受信から、デジタルIDを使用したAcrobat Signでのクラウド署名の認証と適用までの手順を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/336991?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3449783?quality=12&learn=on&hidetitle=true&captions=jpn)

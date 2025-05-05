@@ -17,4 +17,4 @@ ht-degree: 1%
 
 [Admin Console](https://adminconsole.adobe.com/)で、新しいユーザーを作成する方法または既存のユーザーをAcrobat Sign管理者ロールに昇格させる方法について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3453156?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3453170?quality=12&learn=on&hidetitle=true&captions=jpn)

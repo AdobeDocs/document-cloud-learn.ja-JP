@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Salesforce向けDocument Builderを使用して再利用可能な文書テンプレートを作成する方法について説明します。 再利用可能な文書テンプレートを使用すると、署名トランザクションを迅速かつ一貫性のある状態で実行でき、文書のリビジョンや変更を管理できます。
 
->[!VIDEO](https://video.tv.adobe.com/v/3409414?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3412830?quality=12&learn=on&hidetitle=true&captions=jpn)

@@ -18,4 +18,4 @@ ht-degree: 0%
 
 Acrobat Signで[!DNL Salesforce]用の大きな文書を設定し、契約書サービスをプッシュする方法について説明します。 契約書を転送を使用すると、文書を送信したり、webフォームを作成したり、[!DNL Salesforce]で作成されたかのように契約書を転送したりできます。
 
->[!VIDEO](https://video.tv.adobe.com/v/3432842?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3455778?quality=12&learn=on&hidetitle=true&captions=jpn)

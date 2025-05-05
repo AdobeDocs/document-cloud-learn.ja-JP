@@ -18,4 +18,4 @@ ht-degree: 0%
 
 この60秒のビデオチュートリアルでは、Illustratorを使用してPDF内のグラフィックに高度な編集を行う方法について説明します。 「PDFを編集」を選択した後、グラフィックを右クリックし、「Illustratorで編集」を選択します。 完了したら、「Illustratorに保存」を選択するだけで、AcrobatによってPDF内のアートワークが更新されます。
 
->[!VIDEO](https://video.tv.adobe.com/v/338277?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3409119?quality=12&learn=on&hidetitle=true&captions=jpn)

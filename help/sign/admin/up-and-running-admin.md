@@ -22,7 +22,7 @@ Acrobat Signをすばやく導入して稼働させるために管理者が重�
 >
 >レポートは、ビジネスレベルおよびエンタープライズレベルのプランでのみ使用できます。
 
->[!VIDEO](https://video.tv.adobe.com/v/33657?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3411238?quality=12&learn=on&hidetitle=true&captions=jpn)
 
 >[!TIP]
 >

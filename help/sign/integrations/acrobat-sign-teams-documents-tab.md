@@ -19,4 +19,4 @@ ht-degree: 0%
 
 [!DNL Microsoft Teams]の「文書」タブから署名用に文書を直接送信する方法について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3425477?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3439649?quality=12&learn=on&hidetitle=true&captions=jpn)

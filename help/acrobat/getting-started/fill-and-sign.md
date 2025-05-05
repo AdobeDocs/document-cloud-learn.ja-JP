@@ -18,4 +18,4 @@ ht-degree: 2%
 
 [PDFフォームへの入力と署名](https://www.adobe.com/jp/acrobat/online/sign-pdf.html){target="_blank"}をすばやく簡単に行う方法について説明します。 面倒な印刷やスキャンは不要です。
 
->[!VIDEO](https://video.tv.adobe.com/v/35495?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3409630?quality=12&learn=on&hidetitle=true&captions=jpn)

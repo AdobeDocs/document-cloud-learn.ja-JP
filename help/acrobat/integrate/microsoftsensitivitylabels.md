@@ -18,4 +18,4 @@ ht-degree: 0%
 
 Acrobatで[Microsoft Purview Information](https://learn.microsoft.com/en-us/microsoft-365/compliance/information-protection?view=o365-worldwide)の秘密度ラベルを直接追加、編集、カスタマイズ、削除して、PDFを保護する方法について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3410552?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3444299?quality=12&learn=on&hidetitle=true&captions=jpn)

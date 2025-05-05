@@ -19,7 +19,7 @@ ht-degree: 23%
 
 承認プロセスを通じて文書を送信する方法について説明します。 この例では、HR、潜在的な従業員および採用マネージャを介して採用契約を送信する方法を参照してください。 承認者の役割は、文書を署名者に送信する前に文書を「承認」する人が必要な場合に適しています。
 
->[!VIDEO](https://video.tv.adobe.com/v/343854?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3411220?quality=12&learn=on&hidetitle=true&captions=jpn)
 
 >[!TIP]
 >

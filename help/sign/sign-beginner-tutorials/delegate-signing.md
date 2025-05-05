@@ -18,4 +18,4 @@ ht-degree: 0%
 
 文書の署名を他のユーザーに委任する方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/343856?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3411244?quality=12&learn=on&hidetitle=true&captions=jpn)

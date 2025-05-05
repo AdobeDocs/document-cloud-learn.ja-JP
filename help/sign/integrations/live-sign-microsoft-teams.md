@@ -19,4 +19,4 @@ ht-degree: 0%
 
 Microsoft Teams会議での対面署名のようなオンライン署名エクスペリエンスを作成する方法について説明します。 Live Signを使用すると、どのデバイスからでも迅速かつ安全な個人的な署名体験をホストできます。
 
->[!VIDEO](https://video.tv.adobe.com/v/3425187?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3445941?quality=12&learn=on&hidetitle=true&captions=jpn)

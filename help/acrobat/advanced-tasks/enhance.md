@@ -31,7 +31,7 @@ ht-degree: 0%
 
 [PDFを編集ツール](https://www.adobe.com/jp/acrobat/online/pdf-editor.html){target="_blank"}を使用して、PDFに背景のグラフィックを追加します。
 
->[!VIDEO](https://video.tv.adobe.com/v/338746?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3443818?hidetitle=true&captions=jpn)
 
 <br> 
 
@@ -51,7 +51,7 @@ ht-degree: 0%
 
 編集ツールを使用して、PDFに新しいフッターを追加します。
 
->[!VIDEO](https://video.tv.adobe.com/v/338745?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3437731?hidetitle=true&captions=jpn)
 
 <br> 
 

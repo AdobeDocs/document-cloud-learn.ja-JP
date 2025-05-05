@@ -18,4 +18,4 @@ ht-degree: 0%
 
 スタンプを使用して、ドキュメントを承認または完了したマークを付ける方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/345170?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3411256?quality=12&learn=on&hidetitle=true&captions=jpn)

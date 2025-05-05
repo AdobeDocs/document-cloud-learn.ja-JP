@@ -22,7 +22,7 @@ ht-degree: 3%
 >
 >委任者の役割は、エンタープライズレベルのプランでのみ使用できます。 この機能を使用するには、Acrobat Sign管理者が、**アカウント設定**&#x200B;の&#x200B;**送信設定**&#x200B;セクションで&#x200B;**送信者が一部の受信者を委任者としてマークすることを許可**&#x200B;設定を有効にする必要がある場合があります。
 
->[!VIDEO](https://video.tv.adobe.com/v/343621?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3412750?quality=12&learn=on&hidetitle=true&captions=jpn)
 
 >[!TIP]
 >

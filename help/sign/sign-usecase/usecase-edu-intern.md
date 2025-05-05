@@ -19,4 +19,4 @@ ht-degree: 0%
 
 このWebフォームの作成方法については、[教育用Webフォームのインターンシップアプリケーションを作成](usecase-edu-intern-create.md)を参照してください。
 
->[!VIDEO](https://video.tv.adobe.com/v/3421773?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3430542?quality=12&learn=on&hidetitle=true&captions=jpn)

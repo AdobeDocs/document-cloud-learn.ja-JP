@@ -18,4 +18,4 @@ ht-degree: 0%
 
 Acrobat Signで設定できる共有イベントとアラート設定について説明します。 アラートは特定の期間に発生しなかったアクションで、イベントは発生したアクションです。
 
->[!VIDEO](https://video.tv.adobe.com/v/343589?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3411208?quality=12&learn=on&hidetitle=true&captions=jpn)

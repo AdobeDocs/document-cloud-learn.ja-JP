@@ -22,4 +22,4 @@ ht-degree: 0%
 >
 >ビジネスおよびエンタープライズレベルのプランでのみ、Webフォームアクセスと署名者のオプションを設定できます。 Webフォームアクセスと署名者のオプションは、アカウント/アカウント設定/グローバル設定/Webフォームの下にある、アカウントまたはグループレベルで有効または無効になります。
 
->[!VIDEO](https://video.tv.adobe.com/v/3409607?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3417075?quality=12&learn=on&hidetitle=true&captions=jpn)

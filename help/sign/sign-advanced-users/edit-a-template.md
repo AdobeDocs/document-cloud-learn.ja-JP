@@ -18,7 +18,7 @@ ht-degree: 0%
 
 ライブラリでテンプレートを編集または削除する方法について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/342567?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3411202?quality=12&learn=on&hidetitle=true&captions=jpn)
 
 >[!TIP]
 >

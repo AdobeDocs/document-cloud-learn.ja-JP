@@ -18,7 +18,7 @@ ht-degree: 1%
 
 [!DNL Intesi Group]から高度なデジタル署名証明書を取得する方法について説明します。 登録が完了し、IDが確認されると、[!DNL Intesi Group]様からAcrobat Signクラウド署名の適用に使用するデジタルIDが発行されます。
 
->[!VIDEO](https://video.tv.adobe.com/v/337065?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3449893?quality=12&learn=on&hidetitle=true&captions=jpn)
 
 <br> 
 

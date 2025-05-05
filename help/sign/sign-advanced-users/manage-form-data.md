@@ -17,4 +17,4 @@ ht-degree: 0%
 
 ドキュメントのフォームデータを統合し、レポートやExcelスプレッドシートで表示および管理する方法について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3419330?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3443519?quality=12&learn=on&hidetitle=true&captions=jpn)

@@ -23,7 +23,7 @@ ht-degree: 3%
 >
 >高度なアカウント共有は、エンタープライズレベルのプランでのみ使用できます。 テクニカルサポートは、高度な共有を有効にすることができますが、有効にすると、共有オブジェクトの関係が元に戻せなくなります。 このため、Adobeアカウントチームに連絡して、体験版アカウントを設定し、機能をテストして、目的の機能がすべて許可されていることを確認することをお勧めします。
 
->[!VIDEO](https://video.tv.adobe.com/v/40186?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3411214?quality=12&learn=on&hidetitle=true&captions=jpn)
 
 >[!TIP]
 >

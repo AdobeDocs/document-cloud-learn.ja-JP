@@ -18,7 +18,7 @@ ht-degree: 0%
 
 監査レポートを備えた、コンプライアンスに準拠したデジタル・ワークフローにより、紙の処理を迅速に置き換えます。 Acrobat SignのワークフローDesignerツールを使用して、プロセス全体を合理化する方法について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/33811?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3448051?quality=12&learn=on&hidetitle=true&captions=jpn)
 
 契約および購買依頼フォームのステップ・バイ・ステップのPDFレシピをダウンロードするか、オープンします。
 

@@ -32,7 +32,7 @@ Adobe Acrobatグループ版を使用すると、[!DNL Microsoft Teams]を離れ
 
 <br> 
 
->[!VIDEO](https://video.tv.adobe.com/v/331277?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3409684?quality=12&learn=on&hidetitle=true&captions=jpn)
 
 >[!TIP]
 >

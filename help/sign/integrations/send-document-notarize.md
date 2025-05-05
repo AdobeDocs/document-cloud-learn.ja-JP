@@ -23,7 +23,7 @@ Adobe Acrobat Signは、Notarize, Inc.と提携して、オンライン公証サ
 >
 >Acrobat Signと[!DNL Notarize] Inc.のオンライン公証サービスとの統合は、米国で法人向けおよびエンタープライズレベルのサービスプランをご利用の場合にのみ使用できます。
 
->[!VIDEO](https://video.tv.adobe.com/v/341029?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3420670?quality=12&learn=on&hidetitle=true&captions=jpn)
 
 >[!TIP]
 >

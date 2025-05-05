@@ -27,7 +27,7 @@ ht-degree: 0%
 >
 >送信後の文書の変更は、エンタープライズレベルのプランでのみ利用できます。 この機能を使用するには、Acrobat Sign管理者が、**アカウント設定**&#x200B;の&#x200B;**送信設定**&#x200B;セクションで&#x200B;**契約書の変更**&#x200B;を有効にする必要があります。
 
->[!VIDEO](https://video.tv.adobe.com/v/342299?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3410736?quality=12&learn=on&hidetitle=true&captions=jpn)
 
 >[!TIP]
 >

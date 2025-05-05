@@ -18,4 +18,4 @@ ht-degree: 0%
 
 フィールドを文書に自動的に配置する方法、またはAcrobat Sign内でドラッグ&amp;ドロップオーサリング環境を使用する方法について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/346620?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3425293?quality=12&learn=on&hidetitle=true&captions=jpn)

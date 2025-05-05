@@ -29,7 +29,7 @@ Webフォームを使用して、学生が必要なフォームに簡単にア�
 * [事業上の助成金およびローン](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/gov/usecasegovgrants.html?lang=ja)
 * [再就職のサポート](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/gov/usecasegovreemployment.html?lang=ja)
 
->[!VIDEO](https://video.tv.adobe.com/v/37841?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3411226?quality=12&learn=on&hidetitle=true&captions=jpn)
 
 >[!TIP]
 >

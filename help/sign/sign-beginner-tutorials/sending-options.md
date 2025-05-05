@@ -18,4 +18,4 @@ ht-degree: 0%
 
 署名用に文書を送信する際の様々なオプションの設定方法について説明します。 ドキュメントメッセージ、ファイル形式、リマインダーの頻度、ドキュメントの有効期限を設定する方法について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/346675?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3412765?quality=12&learn=on&hidetitle=true&captions=jpn)

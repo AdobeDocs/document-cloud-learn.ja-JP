@@ -26,7 +26,7 @@ Webアプリの[!DNL Microsoft Office]から移動せずにPDFファイルを作
 
 <br> 
 
->[!VIDEO](https://video.tv.adobe.com/v/337482?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3409134?quality=12&learn=on&hidetitle=true&captions=jpn)
 
 >[!TIP]
 >

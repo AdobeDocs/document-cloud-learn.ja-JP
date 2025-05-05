@@ -18,7 +18,7 @@ ht-degree: 0%
 
 Acrobat Signで署名用に送信された文書を管理およびトラックする方法について説明します。 署名用に署名または送信するすべての文書について、ステータスの更新と通知をリアルタイムで取得できます。
 
->[!VIDEO](https://video.tv.adobe.com/v/338695?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/347134?quality=12&learn=on&hidetitle=true&captions=jpn)
 
 >[!TIP]
 >

@@ -22,4 +22,4 @@ ht-degree: 0%
 
 この60秒のビデオチュートリアルでは、PDFがアクセス可能かどうかを確認する方法について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/340076?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/347086?quality=12&learn=on&hidetitle=true&captions=jpn)

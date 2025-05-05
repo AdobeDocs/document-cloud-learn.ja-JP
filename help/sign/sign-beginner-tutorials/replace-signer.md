@@ -22,4 +22,4 @@ ht-degree: 0%
 >
 >「受信者を置き換え」のデフォルト設定では、現在の受信者が新しい受信者に完全に置き換えられます。 ビジネスレベルおよびエンタープライズレベルのプランには、追加のオプションがあります。
 
->[!VIDEO](https://video.tv.adobe.com/v/342340?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3425304?quality=12&learn=on&hidetitle=true&captions=jpn)

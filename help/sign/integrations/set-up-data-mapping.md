@@ -20,4 +20,4 @@ ht-degree: 0%
 
 [!DNL Salesforce]でAcrobat Signのデータマッピングを設定する方法を説明します。 データマッピングを使用すると、契約書が署名された後にデータ&#x200B;_戻る_&#x200B;を[!DNL Salesforce]に取り込むことができます。
 
->[!VIDEO](https://video.tv.adobe.com/v/3409073?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3412805?quality=12&learn=on&hidetitle=true&captions=jpn)

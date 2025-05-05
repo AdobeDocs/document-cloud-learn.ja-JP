@@ -26,7 +26,7 @@ ht-degree: 0%
 
 <br> 
 
->[!VIDEO](https://video.tv.adobe.com/v/331736?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3409574?quality=12&learn=on&hidetitle=true&captions=jpn)
 
 >[!TIP]
 >

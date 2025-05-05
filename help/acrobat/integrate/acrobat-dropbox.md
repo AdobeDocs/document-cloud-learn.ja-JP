@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Acrobat内から[!DNL Dropbox]ファイルを開く、作成する、編集する、署名する、変更内容を保存する方法について説明します。 DropboxアカウントをAcrobatに連携させると、すべてのファイルをすぐに利用できるため、時間を節約できます。
 
->[!VIDEO](https://video.tv.adobe.com/v/3409411?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3412815?quality=12&learn=on&hidetitle=true&captions=jpn)

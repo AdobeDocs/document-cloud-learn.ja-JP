@@ -18,4 +18,4 @@ ht-degree: 0%
 
 この60秒のビデオチュートリアルでは、Adobe Scanを使用して印刷されたフォームに署名する方法について学習します。 スキャンして署名し、PDFとして送信するだけです。
 
->[!VIDEO](https://video.tv.adobe.com/v/338331?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/347126?quality=12&learn=on&hidetitle=true&captions=jpn)

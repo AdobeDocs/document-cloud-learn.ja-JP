@@ -28,88 +28,88 @@ Acrobat Signを使うのは初めてですか？ この包括的なチュート�
 <table style="table-layout:auto">
 <tr>
   <td>
-    <a href="https://video.tv.adobe.com/v/337151?quality=12&learn=on&hidetitle=true">
+    <a href="https://video.tv.adobe.com/v/3454384?quality=12&learn=on&hidetitle=true&captions=jpn">
       <img alt="画像を早送り" src="../assets/Stepforward_18.png" />
     </a>
   </td>
   <td>
-     <a href="https://video.tv.adobe.com/v/337151?quality=12&learn=on&hidetitle=true"><strong>サインイン</strong></a>
+     <a href="https://video.tv.adobe.com/v/3454384?quality=12&learn=on&hidetitle=true&captions=jpn"><strong>サインイン</strong></a>
          <br>
         <em>0:00</em>から開始
     </td>
      <td>
-    <a href="https://video.tv.adobe.com/v/337151?quality=12&learn=on&hidetitle=true&t=56">
+    <a href="https://video.tv.adobe.com/v/3454384?quality=12&learn=on&hidetitle=true&t=56&captions=jpn">
       <img alt="画像を早送り" src="../assets/Stepforward_18.png" />
     </a>
   </td>
   <td>
-     <a href="https://video.tv.adobe.com/v/337151?quality=12&learn=on&hidetitle=true&t=56"><strong>ホームページ</strong></a>
+     <a href="https://video.tv.adobe.com/v/3454384?quality=12&learn=on&hidetitle=true&t=56&captions=jpn"><strong>ホームページ</strong></a>
          <br>
         <em>0:56</em>から開始
     </td>
     <td>
-    <a href="https://video.tv.adobe.com/v/337151?quality=12&learn=on&hidetitle=true&t=153">
+    <a href="https://video.tv.adobe.com/v/3454384?quality=12&learn=on&hidetitle=true&t=153&captions=jpn">
       <img alt="画像を早送り" src="../assets/Stepforward_18.png" />
     </a>
   </td>
   <td>
-     <a href="https://video.tv.adobe.com/v/337151/?quality=12&learn=on&hidetitle=true&t=153"><strong>プロファイルの設定</strong></a>
+     <a href="https://video.tv.adobe.com/v/3454384/?quality=12&learn=on&hidetitle=true&t=153&captions=jpn"><strong>プロファイルの設定</strong></a>
         <br>
         <em>2時33分に開始</em>
     </td>
     <td>
-    <a href="https://video.tv.adobe.com/v/337151?quality=12&learn=on&hidetitle=true&t=272">
+    <a href="https://video.tv.adobe.com/v/3454384?quality=12&learn=on&hidetitle=true&t=272&captions=jpn">
       <img alt="画像を早送り" src="../assets/Stepforward_18.png" />
     </a>
   </td>
   <td>
-     <a href="https://video.tv.adobe.com/v/337151?quality=12&learn=on&hidetitle=true&t=272"><strong>送信設定</strong></a>
+     <a href="https://video.tv.adobe.com/v/3454384?quality=12&learn=on&hidetitle=true&t=272&captions=jpn"><strong>送信設定</strong></a>
         <br>
         <em>4時32分に開始</em>
     </td>
   </tr>
   <tr>
     <td>
-    <a href="https://video.tv.adobe.com/v/337151?quality=12&learn=on&hidetitle=true&t=551">
+    <a href="https://video.tv.adobe.com/v/3454384?quality=12&learn=on&hidetitle=true&t=551&captions=jpn">
       <img alt="画像を早送り" src="../assets/Stepforward_18.png" />
     </a>
   </td>
   <td>
-     <a href="https://video.tv.adobe.com/v/337151?quality=12&learn=on&hidetitle=true&t=551"><strong>入力可能なフィールドの追加</strong></a>
+     <a href="https://video.tv.adobe.com/v/3454384?quality=12&learn=on&hidetitle=true&t=551&captions=jpn"><strong>入力可能なフィールドの追加</strong></a>
          <br>
         <em>9時11分に開始</em>
     </td>
     <td>
-    <a href="https://video.tv.adobe.com/v/337151?quality=12&learn=on&hidetitle=true&t=719">
+    <a href="https://video.tv.adobe.com/v/3454384?quality=12&learn=on&hidetitle=true&t=719&captions=jpn">
       <img alt="画像を早送り" src="../assets/Stepforward_18.png" />
     </a>
   </td>
   <td>
-     <a href="https://video.tv.adobe.com/v/337151?quality=12&learn=on&hidetitle=true&t=719"><strong>署名エクスペリエンス</strong></a>
+     <a href="https://video.tv.adobe.com/v/3454384?quality=12&learn=on&hidetitle=true&t=719&captions=jpn"><strong>署名エクスペリエンス</strong></a>
         <br>
         <em>11:59に開始</em>
     </td>
     <td>
-    <a href="https://video.tv.adobe.com/v/337151?quality=12&learn=on&hidetitle=true&t=774">
+    <a href="https://video.tv.adobe.com/v/3454384?quality=12&learn=on&hidetitle=true&t=774&captions=jpn">
       <img alt="画像を早送り" src="../assets/Stepforward_18.png" />
     </a>
   </td>
   <td>
-     <a href="https://video.tv.adobe.com/v/337151?quality=12&learn=on&hidetitle=true&t=774"><strong>ドキュメントの管理と追跡</strong></a>
+     <a href="https://video.tv.adobe.com/v/3454384?quality=12&learn=on&hidetitle=true&t=774&captions=jpn"><strong>ドキュメントの管理と追跡</strong></a>
         <br>
         <em>12:54</em>から開始
     </td>
     <td>
-    <a href="https://video.tv.adobe.com/v/337151?quality=12&learn=on&hidetitle=true&t=898">
+    <a href="https://video.tv.adobe.com/v/3454384?quality=12&learn=on&hidetitle=true&t=898&captions=jpn">
       <img alt="画像を早送り" src="../assets/Stepforward_18.png" />
     </a>
   </td>
   <td>
-     <a href="https://video.tv.adobe.com/v/337151/?quality=12&learn=on&hidetitle=true&t=898"><strong>サポートとリソース</strong></a>
+     <a href="https://video.tv.adobe.com/v/3454384/?quality=12&learn=on&hidetitle=true&t=898&captions=jpn"><strong>サポートとリソース</strong></a>
         <br>
         <em>14:58</em>から開始
     </td>
   </tr>
   </table>
 
->[!VIDEO](https://video.tv.adobe.com/v/337151?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3454384?quality=12&learn=on&hidetitle=true&captions=jpn)

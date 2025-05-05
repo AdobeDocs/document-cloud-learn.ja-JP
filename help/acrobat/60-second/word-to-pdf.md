@@ -17,4 +17,4 @@ ht-degree: 3%
 
 この60秒のビデオチュートリアルでは、[Microsoft WordからPDFを作成](https://www.adobe.com/jp/acrobat/online/word-to-pdf.html){target="_blank"}する方法について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/342627?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3437079?quality=12&learn=on&hidetitle=true&captions=jpn)

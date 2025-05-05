@@ -17,4 +17,4 @@ ht-degree: 0%
 
 Acrobat Signで文書に署名するユーザーの身元を証明する様々な方法について説明します。 ID認証は、不正行為を減らし、署名された文書のセキュリティを強化します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3419287?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3447583?quality=12&learn=on&hidetitle=true&captions=jpn)

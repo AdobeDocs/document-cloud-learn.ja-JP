@@ -18,4 +18,4 @@ ht-degree: 1%
 
 この60秒のビデオチュートリアルでは、多数のJPGをAcrobatアイコンにドラッグ&amp;ドロップする方法を説明します。 「はい」をクリックすると、複数ページのPDFが作成されます。 次に、他のJPGファイルをページパネルにドラッグするだけで、[PDFにページを追加](https://www.adobe.com/jp/acrobat/online/add-pages-to-pdf.html)できます。
 
->[!VIDEO](https://video.tv.adobe.com/v/336365?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3409561?quality=12&learn=on&hidetitle=true&captions=jpn)

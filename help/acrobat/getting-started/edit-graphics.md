@@ -19,4 +19,4 @@ PDFでグラフィックを作成、編集、拡張する方法を説明しま�
 
 <br> 
 
->[!VIDEO](https://video.tv.adobe.com/v/3431260?enablevpops&quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3446930?enablevpops&quality=12&learn=on&hidetitle=true&captions=jpn)

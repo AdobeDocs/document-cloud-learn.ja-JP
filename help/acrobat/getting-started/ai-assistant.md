@@ -39,4 +39,4 @@ AIアシスタントを使用してPDFファイルから情報を引き出し、
 
 >[!ENDTABS]
 
->[!VIDEO](https://video.tv.adobe.com/v/3430512?enablevpops&quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3445823?enablevpops&quality=12&learn=on&hidetitle=true&captions=jpn)

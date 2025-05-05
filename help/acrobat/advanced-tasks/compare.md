@@ -24,7 +24,7 @@ ht-degree: 0%
 [!BADGE 組織への影響]
 コスト削減、組織の効率性、時間の短縮、品質保証
 
->[!VIDEO](https://video.tv.adobe.com/v/337211?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3409326?quality=12&learn=on&hidetitle=true&captions=jpn)
 
 >[!TIP]
 >

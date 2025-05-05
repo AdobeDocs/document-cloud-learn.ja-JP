@@ -19,7 +19,7 @@ ht-degree: 2%
 
 「アカウント」タブの「グローバル設定」セクションは、豊富な機能を備えたセクションの1つであり、すべての設定はユースケースに固有です。 組織全体または特定のグループの設定をグローバルに編集する方法について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3412507?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3452103?quality=12&learn=on&hidetitle=true&captions=jpn)
 
 >[!TIP]
 >

@@ -17,4 +17,4 @@ ht-degree: 0%
 
 この60秒のビデオチュートリアルでは、PDFファイルを編集可能なMicrosoft PowerPoint文書に変換する方法について学習します。
 
->[!VIDEO](https://video.tv.adobe.com/v/342629?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3437333?quality=12&learn=on&hidetitle=true&captions=jpn)

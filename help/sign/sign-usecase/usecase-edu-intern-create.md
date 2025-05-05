@@ -17,4 +17,4 @@ ht-degree: 0%
 
 インターンシップ用webフォームを作成して、学生がどのデバイスからでも、どの場所からでも提出できる必須フォームにアクセスできるようにする方法について説明します。 この例では、各学生のワークフローは学習コースによって異なります。これは、各学生が承認を受けるために、それぞれの教員のスーパーバイザーと部門長を追加する必要があるためです。
 
->[!VIDEO](https://video.tv.adobe.com/v/3421853?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3423377?quality=12&learn=on&hidetitle=true&captions=jpn)

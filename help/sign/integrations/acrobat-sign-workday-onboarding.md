@@ -19,4 +19,4 @@ ht-degree: 0%
 
 WorkdayのAcrobat Signでは、100%のデジタルプロセスで署名を収集するため、オンボーディングワークフローを簡単に合理化できます。 チームが署名プロセスの管理に費やす時間を減らし、貴重な作業を実行する時間を増やすことができます。
 
->[!VIDEO](https://video.tv.adobe.com/v/3418984?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3446634?quality=12&learn=on&hidetitle=true&captions=jpn)

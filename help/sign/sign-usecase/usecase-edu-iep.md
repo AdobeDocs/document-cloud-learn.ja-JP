@@ -17,4 +17,4 @@ ht-degree: 0%
 
 ここでは、カスタムワークフローDesignerを使用して、小中高校の個人化教育プログラム(IEP)プロセスをデジタル化する方法について説明します。 IEPは、学生のニーズに合わせて設計され、複数のIEPチームメンバーからの署名を必要とする書面による教育プランです。
 
->[!VIDEO](https://video.tv.adobe.com/v/3422174?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3423332?quality=12&learn=on&hidetitle=true&captions=jpn)

@@ -18,4 +18,4 @@ ht-degree: 0%
 
 フィールドサービスディスパッチャーと技術者がAcrobat Sign、[!DNL Power Automate]および[!DNL Dynamics 365]を使用して、フィールドサービス契約を効率化する方法について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3423205?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3447299?quality=12&learn=on&hidetitle=true&captions=jpn)

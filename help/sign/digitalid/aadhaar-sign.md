@@ -18,4 +18,4 @@ ht-degree: 0%
 
 [!DNL Aadhaar]デジタルIDを使用してIDを認証し、Acrobat Signの文書でリモート電子署名（クラウド署名）を承認する方法について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/338362?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3444513?quality=12&learn=on&hidetitle=true&captions=jpn)

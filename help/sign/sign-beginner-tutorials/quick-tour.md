@@ -18,7 +18,7 @@ ht-degree: 0%
 
 Acrobat Signワークスペースの基本を学習するには、クイックビデオツアーをご覧ください。
 
->[!VIDEO](https://video.tv.adobe.com/v/41205?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3425256?quality=12&learn=on&hidetitle=true&captions=jpn)
 
 >[!TIP]
 >

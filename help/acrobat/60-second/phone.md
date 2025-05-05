@@ -18,7 +18,7 @@ ht-degree: 1%
 
 この60秒のビデオチュートリアルでは、携帯電話で電子メール[PowerPointの添付ファイルをPDF](https://www.adobe.com/jp/acrobat/online/ppt-to-pdf.html){target="_blank"}に変換する方法について説明します。 ファイルが戻ったら、ファイルを表示して「共有」をタップし、チームに送信します。この際、PowerPointをスマートフォンにインストールする必要はありません。
 
->[!VIDEO](https://video.tv.adobe.com/v/336366?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3409207?quality=12&learn=on&hidetitle=true&captions=jpn)
 
 >[!TIP]
 >

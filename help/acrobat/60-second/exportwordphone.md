@@ -18,4 +18,4 @@ ht-degree: 1%
 
 この60秒のビデオチュートリアルでは、Acrobatモバイルアプリを使用して、[PDFファイルを完全に編集可能なMicrosoft Word文書に変換](https://www.adobe.com/jp/acrobat/online/pdf-to-word.html){target="_blank"}する方法について学習します。
 
->[!VIDEO](https://video.tv.adobe.com/v/340214?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/347119?quality=12&learn=on&hidetitle=true&captions=jpn)

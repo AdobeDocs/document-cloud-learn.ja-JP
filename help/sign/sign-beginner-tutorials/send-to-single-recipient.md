@@ -18,7 +18,7 @@ ht-degree: 0%
 
 Acrobat Signの最も一般的なワークフローは、署名用に文書を送信することです。 文書をアップロードし、フォームフィールドを追加して、署名用に他のユーザーに送信する方法について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/341295?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3425271?quality=12&learn=on&hidetitle=true&captions=jpn)
 
 >[!TIP]
 >

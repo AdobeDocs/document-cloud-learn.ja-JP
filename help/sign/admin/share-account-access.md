@@ -18,7 +18,7 @@ ht-degree: 0%
 
 別のユーザーのアカウントにあるトランザクションへの表示専用アクセスを設定する方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/40187?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3411196?quality=12&learn=on&hidetitle=true&captions=jpn)
 
 >[!TIP]
 >

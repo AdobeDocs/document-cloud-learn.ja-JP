@@ -25,7 +25,7 @@ ht-degree: 2%
 [!BADGE 組織への影響]
 情報保護、リスク管理
 
->[!VIDEO](https://video.tv.adobe.com/v/35497?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3409648?quality=12&learn=on&hidetitle=true&captions=jpn)
 
 >[!TIP]
 >

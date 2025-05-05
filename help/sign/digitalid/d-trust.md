@@ -19,4 +19,4 @@ ht-degree: 0%
 
 [!DNL D-Trust]でIDを登録し、Acrobat Signで文書に[!DNL D-Trust]デジタル署名を使用する方法について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3410193?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3449145?quality=12&learn=on&hidetitle=true&captions=jpn)

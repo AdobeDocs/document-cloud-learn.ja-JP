@@ -18,4 +18,4 @@ ht-degree: 0%
 
 署名された契約書のバックアップコピー用の外部アーカイブを作成する方法について説明します。 コピーは、任意の電子メールアドレス、または[!DNL Box]とEvernoteにアーカイブすることができます。 署名が完了した電子メールのコピーが、指定した電子メールアドレスまたはクラウドサービスに送信されます。
 
->[!VIDEO](https://video.tv.adobe.com/v/3409072?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3412810?quality=12&learn=on&hidetitle=true&captions=jpn)

@@ -18,4 +18,4 @@ ht-degree: 0%
 
 フォームに入力する&#x200B;**方法と**&#x200B;方法について説明します。文書に電子サインを追加します。
 
->[!VIDEO](https://video.tv.adobe.com/v/33660?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3410710?quality=12&learn=on&hidetitle=true&captions=jpn)

@@ -20,7 +20,7 @@ ht-degree: 0%
 
 [!DNL Microsoft Outlook]内でフォームに直接入力および署名することで、文書ワークフローを効率化する方法について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/344947?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3443453?quality=12&learn=on&hidetitle=true&captions=jpn)
 
 >[!TIP]
 >

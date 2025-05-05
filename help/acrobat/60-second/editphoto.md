@@ -18,4 +18,4 @@ ht-degree: 0%
 
 この60秒のビデオチュートリアルでは、Photoshopを使用してPDF内の写真に高度な編集を行う方法について説明します。 PDFを編集ツールからPhotoshopに移動し、もう一度やり直すというプロセスはシームレスで、すばやく簡単に作業を完了できます。
 
->[!VIDEO](https://video.tv.adobe.com/v/338276?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3409127?quality=12&learn=on&hidetitle=true&captions=jpn)

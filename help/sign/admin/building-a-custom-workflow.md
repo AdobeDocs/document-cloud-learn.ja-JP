@@ -29,7 +29,7 @@ ht-degree: 0%
 >
 >グループ管理者は、（プライマリグループだけでなく）自分が管理する任意のグループにワークフローを割り当てることができます。 グループ管理者は、管理するグループに割り当てられたワークフローを編集することもできます。
 
->[!VIDEO](https://video.tv.adobe.com/v/33656?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3412785?quality=12&learn=on&hidetitle=true&captions=jpn)
 
 >[!TIP]
 >

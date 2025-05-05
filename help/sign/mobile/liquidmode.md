@@ -19,4 +19,4 @@ ht-degree: 0%
 
 Liquid Modeによりモバイル署名エクスペリエンスがどのように向上するかについて説明します。 文書の読み取りや署名を行うときに、ピンチやズームが発生しなくなりました。 このチュートリアルでは、_署名フォーム_&#x200B;をHTML用に送信し、モバイルユーザー向けに強化された署名機能を自動で作成する方法について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/333803?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3409666?quality=12&learn=on&hidetitle=true&captions=jpn)

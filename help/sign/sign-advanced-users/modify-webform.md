@@ -18,4 +18,4 @@ ht-degree: 0%
 
 既存のwebフォームを無効にし、編集し、再度有効にする方法について説明します。 Webフォームを無効にすると、URLをリダイレクトしたり、エンドユーザー向けのカスタムメッセージを作成したりできます。
 
->[!VIDEO](https://video.tv.adobe.com/v/346677?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3412770?quality=12&learn=on&hidetitle=true&captions=jpn)

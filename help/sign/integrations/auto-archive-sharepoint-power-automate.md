@@ -19,4 +19,4 @@ ht-degree: 0%
 
 [!DNL Power Automate]を使用して、署名済み文書を[!DNL SharePoint]ライブラリに自動的にアーカイブする方法について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3409121?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3412800?quality=12&learn=on&hidetitle=true&captions=jpn)

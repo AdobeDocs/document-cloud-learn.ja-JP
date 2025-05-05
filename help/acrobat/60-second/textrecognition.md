@@ -18,4 +18,4 @@ ht-degree: 0%
 
 この60秒のビデオチュートリアルでは、PDF内のテキストを検索できるようにスキャンしたPDFを変換する方法について学習します。
 
->[!VIDEO](https://video.tv.adobe.com/v/340081?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/347080?quality=12&learn=on&hidetitle=true&captions=jpn)

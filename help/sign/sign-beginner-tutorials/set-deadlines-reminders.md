@@ -22,5 +22,5 @@ ht-degree: 6%
 >
 >エンタープライズおよびビジネスプランでは、送信プロセス中に「リマインダー」オプションを特定の場合にだけ表示したり、アカウント/グループ全体の自動化を有効にしたりできます。
 
->[!VIDEO](https://video.tv.adobe.com/v/3411445?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3425315?quality=12&learn=on&hidetitle=true&captions=jpn)
 

@@ -20,4 +20,4 @@ ht-degree: 0%
 
 [!DNL Google Drive]アプリ内から直接時間を節約するためのPDFツールや電子サインのワークフローにアクセスする方法について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/333600?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3409672?quality=12&learn=on&hidetitle=true&captions=jpn)

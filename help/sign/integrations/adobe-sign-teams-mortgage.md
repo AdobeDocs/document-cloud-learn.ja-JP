@@ -20,7 +20,7 @@ ht-degree: 0%
 
 [!DNL Microsoft Teams]内から、署名用に契約書を送信する方法、契約書のステータスを確認する方法、リマインダーを送信する方法について説明します。 この例では、Teams内でローンの署名アプリケーションを直接送信する住宅ローンのブローカーについて説明します。 この緊密な統合により、遠隔地の労働環境で住宅ローン申請者と協力する場合でも、住宅ローンの処理が迅速化されます。
 
->[!VIDEO](https://video.tv.adobe.com/v/346545?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3446194?quality=12&learn=on&hidetitle=true&captions=jpn)
 
 >[!TIP]
 >

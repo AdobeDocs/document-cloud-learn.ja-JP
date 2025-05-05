@@ -23,4 +23,4 @@ Webフォームから収集したデータを[!DNL SharePoint]リストにマッ
 >
 >Acrobat Sign Webフォームと[!DNL SharePoint]リストの間のフィールドマッピングは、オンラインインストールでのみ使用でき、オンプレミスインストールでは使用できません。
 
->[!VIDEO](https://video.tv.adobe.com/v/3421616?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3423563?quality=12&learn=on&hidetitle=true&captions=jpn)

@@ -17,4 +17,4 @@ ht-degree: 0%
 
 この60秒のビデオチュートリアルでは、PDFを共有して、1つのファイルに複数のユーザーからすばやくフィードバックを集める方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/340769?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3437189?quality=12&learn=on&hidetitle=true&captions=jpn)

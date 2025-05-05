@@ -18,4 +18,4 @@ ht-degree: 0%
 
 Acrobat Signと営業向け[!DNL Microsoft Dynamics 365]を使用して、販売見積の署名プロセスを自動化する方法について説明します。 この例では、Contosoの営業チームが、1つの顧客表示と統合された署名プロセスを使用して案件を迅速に完了し、オポチュニティをより有効に活用できるように、営業担当者の[!DNL Microsoft Dynamics 365]が支援しています。
 
->[!VIDEO](https://video.tv.adobe.com/v/3423404?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3447188?quality=12&learn=on&hidetitle=true&captions=jpn)

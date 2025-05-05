@@ -37,7 +37,7 @@ Prepare Formツールを使用すると、既存のPDFにフォームフィー�
 
 <br> 
 
->[!VIDEO](https://video.tv.adobe.com/v/340084?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3448512?quality=12&learn=on&hidetitle=true&captions=jpn)
 
 <br> 
 
@@ -94,7 +94,7 @@ Prepare Formツールを使用すると、既存のPDFにフォームフィー�
 
 <br> 
 
->[!VIDEO](https://video.tv.adobe.com/v/340096?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3439893?hidetitle=true&captions=jpn)
 
 <br> 
 

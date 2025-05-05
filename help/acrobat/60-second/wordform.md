@@ -18,4 +18,4 @@ ht-degree: 2%
 
 この60秒のビデオチュートリアルでは、[WordファイルおよびフォームをPDFに変換](https://www.adobe.com/jp/acrobat/online/word-to-pdf.html){target="_blank"}し、フォームフィールドを自動的に作成する方法について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/340082?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/347092?quality=12&learn=on&hidetitle=true&captions=jpn)

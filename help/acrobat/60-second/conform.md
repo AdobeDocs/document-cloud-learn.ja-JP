@@ -21,4 +21,4 @@ ht-degree: 0%
 
 この60秒のビデオチュートリアルでは、PDF/X、PDF/A、PDF/EなどのPDF基準に照らしてPDFコンテンツを検証する方法について学習します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3409906?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3437278?quality=12&learn=on&hidetitle=true&captions=jpn)

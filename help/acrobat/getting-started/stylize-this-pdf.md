@@ -17,4 +17,4 @@ ht-degree: 0%
 
 [Adobe Express](https://express.adobe.com)の統合された使いやすいデザインツールを使用して、プロのようなPDFを作成する方法を説明します。 このビデオチュートリアルでは、[新しいAcrobatエクスペリエンス](new-workspace.md)を使用します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3425137?enablevpops&quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3445542?enablevpops&quality=12&learn=on&hidetitle=true&captions=jpn)

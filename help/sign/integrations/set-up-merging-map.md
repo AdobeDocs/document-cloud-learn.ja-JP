@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Salesforceのデータを直接Acrobat Sign文書に結合する方法について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3409412?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3412825?quality=12&learn=on&hidetitle=true&captions=jpn)

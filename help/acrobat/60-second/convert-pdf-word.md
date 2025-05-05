@@ -17,4 +17,4 @@ ht-degree: 2%
 
 この60秒のビデオチュートリアルでは、[PDFファイルを完全に編集可能なMicrosoft Word文書に変換](https://www.adobe.com/jp/acrobat/online/pdf-to-word.html){target="_blank"}する方法について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3411376?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3428849?quality=12&learn=on&hidetitle=true&captions=jpn)

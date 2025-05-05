@@ -18,4 +18,4 @@ ht-degree: 3%
 
 この60秒のビデオチュートリアルでは、PDFを開くまたは[編集](https://www.adobe.com/jp/acrobat/online/pdf-editor.html){target="_blank"}するためにPDFが必要となるように[パスワードを保護](https://www.adobe.com/jp/acrobat/online/password-protect-pdf.html){target="_blank"}する方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/340075?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/347112?quality=12&learn=on&hidetitle=true&captions=jpn)

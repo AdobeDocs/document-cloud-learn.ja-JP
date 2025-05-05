@@ -17,4 +17,4 @@ ht-degree: 0%
 
 組織のニーズに合わせて監査レポートにアクセスし、利用し、設定する方法について説明します。 Acrobat Signのすべての文書は、トランザクションの進行状況を示す一連の「マイルストーン」イベントを経ます。 これらのマイルストーンは、すべてのトランザクションの監査レポートに完全に文書化されます。
 
->[!VIDEO](https://video.tv.adobe.com/v/3432661?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3448546?quality=12&learn=on&hidetitle=true&captions=jpn)

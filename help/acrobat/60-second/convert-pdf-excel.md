@@ -17,4 +17,4 @@ ht-degree: 0%
 
 この60秒のビデオチュートリアルでは、PDFファイルを完全に編集可能なMicrosoft Excel文書に変換する方法について学習します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3409908?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3436946?quality=12&learn=on&hidetitle=true&captions=jpn)
