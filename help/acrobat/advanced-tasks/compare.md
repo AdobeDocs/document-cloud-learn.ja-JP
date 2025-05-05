@@ -28,8 +28,8 @@ ht-degree: 0%
 
 >[!TIP]
 >
-このビデオは、Experience Leagueで無料で利用できる再生リスト[Adobe Acrobatで高度なタスクを実行](https://experienceleague.adobe.com/en/playlists/acrobat-peform-advanced-tasks)の一部です。
+>このビデオは、Experience Leagueで無料で利用できる再生リスト[Adobe Acrobatで高度なタスクを実行](https://experienceleague.adobe.com/en/playlists/acrobat-peform-advanced-tasks)の一部です。
 
 >[!NOTE]
 >
-Acrobat Proでのみ利用可能です。
+>Acrobat Proでのみ利用可能です。

@@ -23,9 +23,9 @@ ht-degree: 6%
 # Acrobat SignTutorials {#sign-learning-hub}
 
 + [概要](overview.md)
-+ {#getting-started}の概要
++ の概要{#getting-started}
    + [概要](sign-beginner-tutorials/beginner-users-overview.md)
-   + {#getting-started-sending}を送信
+   + を送信{#getting-started-sending}
       + [ワークスペースの基本](sign-beginner-tutorials/quick-tour.md)
       + [Acrobat Signの概要](sign-beginner-tutorials/new-sender.md)
       + [1人の受信者への送信](sign-beginner-tutorials/send-to-single-recipient.md)
@@ -35,19 +35,19 @@ ht-degree: 6%
       + [送信後の文書の変更](sign-beginner-tutorials/modify-in-flight.md)
       + [署名者の置き換え](sign-beginner-tutorials/replace-signer.md)
       + [期限とリマインダーの設定](sign-beginner-tutorials/set-deadlines-reminders.md)
-   + {#getting-started-signing}に署名
+   + に署名{#getting-started-signing}
       + [文書の電子サイン](sign-beginner-tutorials/electronically-sign-a-document.md)
       + [文書への入力と署名](sign-beginner-tutorials/fill-and-sign.md)
       + [対面で署名を取得](sign-beginner-tutorials/sign-in-person.md)
       + [他のユーザーに署名を委任](sign-beginner-tutorials/delegate-signing.md)
       + [電子署名とは何ですか？](sign-beginner-tutorials/sign-with-a-digital-signature.md)
       + [スタンプで署名](sign-beginner-tutorials/sign-with-a-stamp.md)
-   + {#getting-started-managing}の管理
+   + の管理{#getting-started-managing}
       + [契約書を管理およびトラック](sign-beginner-tutorials/manage-and-track.md)
       + [ドキュメントテンプレートを作成しています](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/create-a-template.html)
 + 高度なタスク{#advanced-tasks}
    + [概要](sign-advanced-users/advanced-users-overview.md)
-   + {#advanced-tasks-sending}を送信
+   + を送信{#advanced-tasks-sending}
       + [署名順序の設定](sign-advanced-users/setting-up-routing.md)
       + [委任者の役割の使用](sign-advanced-users/delegate-signature.md)
       + [承認者の役割の使用](sign-advanced-users/add-an-approver.md)
@@ -58,14 +58,14 @@ ht-degree: 6%
       + [Webフォームを作成しています](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/webform.html)
       + [Acrobat Signのテキストタグ付け](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/advanced-tasks-admins/adobe-sign-text-tagging.html)
       + [ [!DNL Microsoft Word]でテキストタグを使用しています](sign-advanced-users/text-tagging-word.md)
-   + {#advanced-tasks-managing}の管理
+   + の管理{#advanced-tasks-managing}
       + [レポートとトランザクションの使用状況](sign-advanced-users/creating-a-report.md)
       + [文書テンプレートの管理](sign-advanced-users/edit-a-template.md)
       + [既存のwebフォームを変更](sign-advanced-users/modify-webform.md)
       + [Webフォームデータの管理](sign-advanced-users/manage-webform-data.md)
-+ {#admin-set-up}の管理
++ の管理{#admin-set-up}
    + [概要](admin/intro-admin-overview.md)
-   + {#getting-started-admin}の概要
+   + の概要{#getting-started-admin}
       + [新しい管理者向け導入ガイド](admin/get-started-admin.md)
       + [管理者の場合は稼働しています](admin/up-and-running-admin.md)
       + [イベントとアラートの通知を構成する](admin/set-up-shared-events-and-alert.md)
@@ -113,7 +113,7 @@ ht-degree: 6%
       + [ [!DNL SharePoint] と [!DNL Power Automate]の間でファイルを自動アーカイブ](integrations/auto-archive-sharepoint-power-automate.md)
       + [ [!DNL Microsoft Power Platform]のAcrobat Signを使用した文書の自動処理](integrations/documentautomation.md)
       + [署名用に [!DNL Microsoft Teams]に送信](integrations/adobe-sign-teams-mortgage.md)
-      + [Adobe Acrobat Signでの [!DNL Microsoft Teams]](integrations/live-sign-microsoft-teams.md)のライブサイン
+      + [Adobe Acrobat Signでの [!DNL Microsoft Teams]のライブサイン](integrations/live-sign-microsoft-teams.md)
       + [ [!DNL Microsoft Teams]のドキュメントタブの統合](integrations/acrobat-sign-teams-documents-tab.md)
       + [ [!DNL Power Automate]で簡単なワークフローを作成](integrations/simple-workflow-power-automate.md)
       + [ [!DNL Power Automate]で高度なワークフローを作成します](integrations/advanced-workflow-power-automate.md)
@@ -162,13 +162,13 @@ ht-degree: 6%
          + [教育機関向けIEPプロセスのカスタムワークフロー](sign-usecase/usecase-edu-iep.md)
    + ユースケースショーケース{#use-case}
       + [Showcase](sign-usecase/use-case-showcase.md)
-+ {#develop}の開発
++ の開発{#develop}
    + [概要](develop/develop-overview.md)
    + APIとWebhook {#custom}
       + [GigaSignを使用した大量の文書の収集](develop/gigasign.md)
       + [埋め込まれた電子サインおよび文書エクスペリエンスの作成](develop/embeddedesignature.md)
       + [Webhookの設定方法](develop/webhooks.md)
-+ {#deploy}の展開
++ の展開{#deploy}
    + [概要](deploy-overview.md)
 + モバイル{#mobile}
    + [概要](mobile/mobile-overview.md)

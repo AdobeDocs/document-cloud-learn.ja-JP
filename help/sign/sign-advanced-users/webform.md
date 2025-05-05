@@ -33,4 +33,4 @@ Webフォームを使用して、学生が必要なフォームに簡単にア�
 
 >[!TIP]
 >
-このビデオは、Experience Leagueで無料で利用できる[管理者向けの高度なタスク](https://experienceleague.adobe.com/en/playlists/acrobat-sign-perform-advanced-tasks-business-users)と[Acrobat Sign管理者向けの概要](https://experienceleague.adobe.com/en/playlists/acrobat-sign-get-started-administrators)のプレイリストの一部です。
+>このビデオは、Experience Leagueで無料で利用できる[管理者向けの高度なタスク](https://experienceleague.adobe.com/en/playlists/acrobat-sign-perform-advanced-tasks-business-users)と[Acrobat Sign管理者向けの概要](https://experienceleague.adobe.com/en/playlists/acrobat-sign-get-started-administrators)のプレイリストの一部です。

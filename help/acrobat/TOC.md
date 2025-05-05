@@ -17,7 +17,7 @@ ht-degree: 3%
 # AcrobatTutorials {#acrobat-learning}
 
 + [概要](overview.md)
-+ {#getting-started}の概要
++ の概要{#getting-started}
    + [概要](getting-started/getting-started-overview.md)
    + [新しいAcrobatエクスペリエンス](getting-started/new-workspace.md)
    + [ワークスペースの基本](getting-started/get-to-know-the-acrobat-dc-interface.md)
@@ -112,8 +112,8 @@ ht-degree: 3%
    + [概要](industry/industry-overview.md)
    + 官公庁向け{#gov}
       + [概要](industry/gov/gov-overview.md)
-      + Acrobat {#tips}でどこでも作業するための5つのヒント
-         + Acrobatでどこでも作業するための[5つのヒント](industry/gov/5-tips-for-working-anywhere-with-acrobat-dc-for-government.md)
+      + Acrobatでどこでも作業するための5つのヒント {#tips}
+         + [Acrobatでどこでも作業するための5つのヒント](industry/gov/5-tips-for-working-anywhere-with-acrobat-dc-for-government.md)
          + [ヒント#1 – ツールを入手](industry/gov/get-your-tools.md)
          + [ヒント#2 – ドキュメントでの共同作業](industry/gov/collaborate-on-documents.md)
          + [ヒント#3 - Protectデジタルドキュメント](industry/gov/protect-digital-documents.md)
@@ -125,9 +125,9 @@ ht-degree: 3%
          + [#2 - Wordでのオーサリング](industry/gov/authoring-in-word.md)
          + [#3 - Acrobatで終了しています](industry/gov/finishing-in-acrobat.md)
          + [PDF投票のアクセシビリティの向上](industry/gov/making-pdf-ballots-accessible.md)
-+ {#develop}の開発
++ の開発{#develop}
    + [概要](develop/develop-overview.md)
-+ {#deploy}の展開
++ の展開{#deploy}
    + [概要](deploy/deploy-overview.md)
    + [ETLA版のお客様向けのAcrobat DC製品の重要なアップデート](deploy/signentitlementchanges.md)
 + モバイル{#mobile}

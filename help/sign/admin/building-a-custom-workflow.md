@@ -27,10 +27,10 @@ ht-degree: 0%
 
 >[!NOTE]
 >
-グループ管理者は、（プライマリグループだけでなく）自分が管理する任意のグループにワークフローを割り当てることができます。 グループ管理者は、管理するグループに割り当てられたワークフローを編集することもできます。
+>グループ管理者は、（プライマリグループだけでなく）自分が管理する任意のグループにワークフローを割り当てることができます。 グループ管理者は、管理するグループに割り当てられたワークフローを編集することもできます。
 
 >[!VIDEO](https://video.tv.adobe.com/v/33656?quality=12&learn=on&hidetitle=true)
 
 >[!TIP]
 >
-このビデオは、Experience Leagueで無料で利用できる再生リスト[Acrobat Sign管理者向けファーストステップ](https://experienceleague.adobe.com/en/playlists/acrobat-sign-get-started-administrators)の一部です。
+>このビデオは、Experience Leagueで無料で利用できる再生リスト[Acrobat Sign管理者向けファーストステップ](https://experienceleague.adobe.com/en/playlists/acrobat-sign-get-started-administrators)の一部です。

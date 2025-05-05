@@ -18,7 +18,7 @@ ht-degree: 0%
 
 お客様と協力することで得られる貴重な見識と知識を備えた導入およびベストプラクティスに関する記事
 
-* グループ版またはエンタープライズ版のAdobe、Creative Cloud版を使用している場合に[Adobe Acrobatをデプロイ{1®{target="_blank"}™る方法について説明します。](https://helpx.adobe.com/enterprise/using/deploying-acrobat.html)
+* グループ版またはエンタープライズ版のAdobe、Creative Cloud版を使用している場合に[Adobe Acrobatをデプロイ&lbrace;1®™る方法について説明します。](https://helpx.adobe.com/enterprise/using/deploying-acrobat.html){target="_blank"}
 
 * [Enterprise Toolkit for Acrobat Products](https://www.adobe.com/devnet-docs/acrobatetk/index.html){target="_blank"}について説明します。このツールキットを使用すると、カスタマイズした製品を組織全体にデプロイし、仮想化インストールをセットアップして、エンタープライズPDFのワークフローを構築できます。
 
