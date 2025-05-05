@@ -26,4 +26,4 @@ Acrobat Signをすばやく導入して稼働させるために管理者が重�
 
 >[!TIP]
 >
->このビデオは、Experience Leagueで無料で利用できる再生リスト[Acrobat Sign管理者向けファーストステップ](https://experienceleague.adobe.com/en/playlists/acrobat-sign-get-started-administrators)の一部です。
+>このビデオは、Experience Leagueで無料で利用できる再生リスト[Acrobat Sign管理者向けファーストステップ](https://experienceleague.adobe.com/ja/playlists/acrobat-sign-get-started-administrators)の一部です。

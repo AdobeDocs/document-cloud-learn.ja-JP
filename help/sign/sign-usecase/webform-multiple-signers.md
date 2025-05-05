@@ -19,11 +19,11 @@ ht-degree: 0%
 
 [!BADGE 使用事例]
 
-* [教育機関向けWebフォームのインターンシップ申請](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/edu/usecase-edu-intern.html?lang=en)
+* [教育機関向けWebフォームのインターンシップ申請](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/edu/usecase-edu-intern.html?lang=ja)
 Webフォームを使用して、学生が必要なフォームに簡単にアクセスできるようにする方法を説明します
-* [教育用Webフォームインターンシップアプリケーションを作成する](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/edu/usecase-edu-intern-create.html?lang=en)
+* [教育用Webフォームインターンシップアプリケーションを作成する](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/edu/usecase-edu-intern-create.html?lang=ja)
 インターンwebフォームの作成方法を学ぶ
-* [事業上の助成金およびローン](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/gov/usecasegovgrants.html?lang=en)
-* [再就職のサポート](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/gov/usecasegovreemployment.html?lang=en)
+* [事業上の助成金およびローン](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/gov/usecasegovgrants.html?lang=ja)
+* [再就職のサポート](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/gov/usecasegovreemployment.html?lang=ja)
 
 >[!VIDEO](https://video.tv.adobe.com/v/3421619?quality=12&learn=on&hidetitle=true)

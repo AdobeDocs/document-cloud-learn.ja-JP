@@ -22,4 +22,4 @@ FDA 21 CFR Part 11の要件を満たすようにAcrobat Signを設定できる�
 
 >[!TIP]
 >
->このビデオは、Experience Leagueで無料で利用できる再生リスト[管理者向けの高度なタスク](https://experienceleague.adobe.com/en/playlists/acrobat-sign-perform-advanced-tasks-administrators)の一部です。
+>このビデオは、Experience Leagueで無料で利用できる再生リスト[管理者向けの高度なタスク](https://experienceleague.adobe.com/ja/playlists/acrobat-sign-perform-advanced-tasks-administrators)の一部です。

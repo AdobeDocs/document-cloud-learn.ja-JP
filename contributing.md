@@ -19,7 +19,7 @@ ht-degree: 0%
 
 ## 共同作成者ガイドのドキュメント
 
-[共同作成者ガイド](https://docs.adobe.com/content/help/en/contributor/contributor-guide/introduction.html)を参照してください。
+[共同作成者ガイド](https://docs.adobe.com/content/help/ja-JP/contributor/contributor-guide/introduction.html)を参照してください。
 
 ## 質問は？
 
@@ -57,4 +57,4 @@ submitting a pull request!
 
 ## セキュリティの問題
 
-セキュリティの問題は、このIssue Trackerで報告しないでください。 その代わりに、[セキュリティの専門家に問題を提出してください](https://helpx.adobe.com/security/alertus.html)
+セキュリティの問題は、このIssue Trackerで報告しないでください。 その代わりに、[セキュリティの専門家に問題を提出してください](https://helpx.adobe.com/jp/security/alertus.html)

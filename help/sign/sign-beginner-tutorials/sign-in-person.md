@@ -17,6 +17,6 @@ ht-degree: 0%
 
 # 対面で署名を取得
 
-[Acrobat Signモバイルアプリ](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/mobile/mobile-overview.html)を使用して、他のユーザーの署名を対面で取得する方法を説明します。
+[Acrobat Signモバイルアプリ](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/mobile/mobile-overview.html?lang=ja)を使用して、他のユーザーの署名を対面で取得する方法を説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/345169?quality=12&learn=on&hidetitle=true)

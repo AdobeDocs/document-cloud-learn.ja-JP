@@ -28,4 +28,4 @@ JavaScript、プラグイン、またはIACを使用して、AcrobatおよびAdo
 [Adobe PDF Extract API](https://developer.adobe.com/document-services/apis/pdf-extract/){target="_blank"}
 [Adobe文書生成API](https://developer.adobe.com/document-services/apis/doc-generation/){target="_blank"}
 [Adobe PDF埋め込みAPI](https://developer.adobe.com/document-services/apis/pdf-embed/){target="_blank"}
-[Adobe Acrobatサービスのチュートリアル](https://experienceleague.adobe.com/docs/acrobat-services-learn/tutorials/overview.html){target="_blank"}
+[Adobe Acrobatサービスのチュートリアル](https://experienceleague.adobe.com/docs/acrobat-services-learn/tutorials/overview.html?lang=ja){target="_blank"}

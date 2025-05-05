@@ -45,7 +45,7 @@ ht-degree: 0%
 
    ![アクセシビリティステップ4](../assets/Accessibility_4.png)
 
-[!UICONTROL アクセス可能にする]アクションは、[Action Wizard](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/advanced-tasks/action.html)ツールでも使用できます。このツールでは、アクセス可能なPDFを作成するための基本的な手順について説明します。
+[!UICONTROL アクセス可能にする]アクションは、[Action Wizard](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/advanced-tasks/action.html?lang=ja)ツールでも使用できます。このツールでは、アクセス可能なPDFを作成するための基本的な手順について説明します。
 
 ## アクセシビリティの問題の修正
 

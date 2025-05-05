@@ -23,6 +23,6 @@ ht-degree: 23%
 
 >[!TIP]
 >
->このビデオは、Experience Leagueで無料で利用できる再生リスト[ユーザー向けの高度なタスク](https://experienceleague.adobe.com/en/playlists/acrobat-sign-get-started-business-users)の一部です。
+>このビデオは、Experience Leagueで無料で利用できる再生リスト[ユーザー向けの高度なタスク](https://experienceleague.adobe.com/ja/playlists/acrobat-sign-get-started-business-users)の一部です。
 
 

@@ -15,13 +15,13 @@ ht-degree: 0%
 
 ## アドビコンテンツへの貢献について
 
-[『Adobe Docs Contributor Guide』](https://docs.adobe.com/content/help/en/contributor/contributor-guide/introduction.html)を参照してください。
+[『Adobe Docs Contributor Guide』](https://docs.adobe.com/content/help/ja-JP/contributor/contributor-guide/introduction.html)を参照してください。
 
 どのような貢献を行うかは、自分が何者で、どのような変更を行うかによって異なります。
 
 ### 軽微な変更
 
-気持ちの良さからマイナーアップデートを提供する場合は、記事にアクセスし、記事のGitHubソースに移動する記事の&#x200B;**[編集**]リンクをクリックします。 その後、GitHub UIを使用して更新を行います。 詳細については、一般的な[Adobe Docs寄稿者ガイド](https://docs.adobe.com/content/help/en/contributor/contributor-guide/introduction.html)を参照してください。
+気持ちの良さからマイナーアップデートを提供する場合は、記事にアクセスし、記事のGitHubソースに移動する記事の&#x200B;**[編集**]リンクをクリックします。 その後、GitHub UIを使用して更新を行います。 詳細については、一般的な[Adobe Docs寄稿者ガイド](https://docs.adobe.com/content/help/ja-JP/contributor/contributor-guide/introduction.html)を参照してください。
 
 このレポのドキュメントやコード例に関して、若干の修正や説明は、Adobeの使用条件に準じています。
 
@@ -43,7 +43,7 @@ Adobe Experience Cloudソリューションの製品チームのテクニカル�
 
 コミュニティの貢献者は、基本的な編集にGitHub UIを使用したり、レポをフォークして大きな貢献をすることができます。
 
-詳細は、『[Adobe Docs Contributor Guide](https://docs.adobe.com/content/help/en/contributor/contributor-guide/introduction.html)』を参照してください。
+詳細は、『[Adobe Docs Contributor Guide](https://docs.adobe.com/content/help/ja-JP/contributor/contributor-guide/introduction.html)』を参照してください。
 
 ## マークダウンを使用してトピックの書式を設定する方法
 

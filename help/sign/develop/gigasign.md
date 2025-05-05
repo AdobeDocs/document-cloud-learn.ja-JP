@@ -21,7 +21,7 @@ Gigasignを使用すると、何千人もの人に同時に文書を送信、収
 
 >[!IMPORTANT]
 >
->GigaSignは、JavaまたはAcrobat Signの最新バージョンには更新されず、サポート対象外になります。 GigaSignの機能は、[一括送信](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/megasign.html?)機能の下の製品に追加されます。 GigaSignの使用を明示的に必要としないユースケースには、すべて「一括送信」を使用してください。
+>GigaSignは、JavaまたはAcrobat Signの最新バージョンには更新されず、サポート対象外になります。 GigaSignの機能は、[一括送信](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/megasign.html?lang=ja&)機能の下の製品に追加されます。 GigaSignの使用を明示的に必要としないユースケースには、すべて「一括送信」を使用してください。
 
 >[!VIDEO](https://video.tv.adobe.com/v/328113?quality=12&learn=on&hidetitle=true)
 

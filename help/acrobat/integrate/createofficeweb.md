@@ -30,4 +30,4 @@ Webアプリの[!DNL Microsoft Office]から移動せずにPDFファイルを作
 
 >[!TIP]
 >
->このビデオは、Experience Leagueで無料で利用できる再生リスト[AcrobatとMicrosoft 365を統合する](https://experienceleague.adobe.com/en/playlists/acrobat-integrate-microsoft-365)の一部です。
+>このビデオは、Experience Leagueで無料で利用できる再生リスト[AcrobatとMicrosoft 365を統合する](https://experienceleague.adobe.com/ja/playlists/acrobat-integrate-microsoft-365)の一部です。

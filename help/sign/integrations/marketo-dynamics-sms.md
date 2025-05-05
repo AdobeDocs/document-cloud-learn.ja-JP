@@ -25,7 +25,7 @@ ht-degree: 0%
 
 1. Marketo Microsoft Dynamics Syncをインストールします。
 
-   Microsoft Dynamics Syncの情報と最新のプラグインは、[こちら](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/microsoft-dynamics/marketo-plugin-releases-for-microsoft-dynamics.html)から入手できます。
+   Microsoft Dynamics Syncの情報と最新のプラグインは、[こちら](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/microsoft-dynamics/marketo-plugin-releases-for-microsoft-dynamics.html?lang=ja)から入手できます。
 
 1. Microsoft Dynamics用Acrobat Signをインストールします。
 

@@ -24,4 +24,4 @@ ht-degree: 0%
 
 >[!TIP]
 >
->このビデオは、Experience Leagueで無料で提供されている再生リスト[「Microsoftアプリケーション内でAcrobat Signを使用する」](https://experienceleague.adobe.com/en/playlists/acrobat-sign-integrate-microsoft-apps)の一部です。
+>このビデオは、Experience Leagueで無料で提供されている再生リスト[「Microsoftアプリケーション内でAcrobat Signを使用する」](https://experienceleague.adobe.com/ja/playlists/acrobat-sign-integrate-microsoft-apps)の一部です。

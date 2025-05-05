@@ -22,4 +22,4 @@ ht-degree: 1%
 
 >[!TIP]
 >
->このビデオは、Experience Leagueで無料で利用できる再生リスト[AcrobatとMicrosoft 365を統合する](https://experienceleague.adobe.com/?recommended=Acrobat-U-1-2021.microsoft365)の一部です。
+>このビデオは、Experience Leagueで無料で利用できる再生リスト[AcrobatとMicrosoft 365を統合する](https://experienceleague.adobe.com/?lang=ja&recommended=Acrobat-U-1-2021.microsoft365)の一部です。

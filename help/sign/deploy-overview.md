@@ -21,11 +21,11 @@ Acrobat Signを組織内にデプロイする際の貴重な情報とベスト�
 <table style="table-layout:fixed">
 <tr>
   <td>
-    <a href="https://helpx.adobe.com/enterprise/using/adobe-sign-for-enterprise.html" target="_blank">
+    <a href="https://helpx.adobe.com/jp/enterprise/using/adobe-sign-for-enterprise.html" target="_blank">
       <img alt="Admin Console" src="assets/Deploy_Admin.png" />
     </a>
     <div>
-    <a href="https://helpx.adobe.com/enterprise/using/adobe-sign-for-enterprise.html" target="_blank"><strong>Admin Console上のAcrobat Signの管理</strong></a>
+    <a href="https://helpx.adobe.com/jp/enterprise/using/adobe-sign-for-enterprise.html" target="_blank"><strong>Admin Console上のAcrobat Signの管理</strong></a>
     </div>
     <em>AdobeのエンタープライズプラットフォームであるAdobe Admin ConsoleでAcrobat Signのユーザーとライセンスを管理する方法を説明します</em>
     <br>

@@ -20,13 +20,13 @@ ht-degree: 3%
 
 [!BADGE 使用事例]
 
-* [テレワーク契約書](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/gov/usecasegovtelework.html?lang=en)
-* [ポリシーの契約書](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/com/usecasecompolicy.html?lang=en)
+* [テレワーク契約書](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/gov/usecasegovtelework.html?lang=ja)
+* [ポリシーの契約書](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/com/usecasecompolicy.html?lang=ja)
 
 >[!VIDEO](https://video.tv.adobe.com/v/33655?quality=12&learn=on&hidetitle=true)
 
-[サンプルCSVファイルをZIP形式でダウンロードします](../assets/sendInBulkSample.zip)。 CSVファイル[ここ](https://helpx.adobe.com/sign/adv-user/send-in-bulk/send-with-csv.html)で設定できるすべての値について説明します。
+[サンプルCSVファイルをZIP形式でダウンロードします](../assets/sendInBulkSample.zip)。 CSVファイル[ここ](https://helpx.adobe.com/jp/sign/adv-user/send-in-bulk/send-with-csv.html)で設定できるすべての値について説明します。
 
 >[!TIP]
 >
->このビデオは、Experience Leagueで無料で利用できる[管理者向けの高度なタスク](https://experienceleague.adobe.com/en/playlists/acrobat-sign-perform-advanced-tasks-business-users)と[Acrobat Sign管理者向けの概要](https://experienceleague.adobe.com/en/playlists/acrobat-sign-get-started-administrators)のプレイリストの一部です。
+>このビデオは、Experience Leagueで無料で利用できる[管理者向けの高度なタスク](https://experienceleague.adobe.com/ja/playlists/acrobat-sign-perform-advanced-tasks-business-users)と[Acrobat Sign管理者向けの概要](https://experienceleague.adobe.com/ja/playlists/acrobat-sign-get-started-administrators)のプレイリストの一部です。

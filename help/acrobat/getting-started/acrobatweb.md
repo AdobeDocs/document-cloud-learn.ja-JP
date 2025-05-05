@@ -28,5 +28,5 @@ ht-degree: 1%
 
 >[!TIP]
 >
->このビデオは、Experience Leagueで無料で提供されている再生リスト[Adobe Acrobatの使用を開始](https://experienceleague.adobe.com/en/playlists/acrobat-get-started-business-users)の一部です。
+>このビデオは、Experience Leagueで無料で提供されている再生リスト[Adobe Acrobatの使用を開始](https://experienceleague.adobe.com/ja/playlists/acrobat-get-started-business-users)の一部です。
 

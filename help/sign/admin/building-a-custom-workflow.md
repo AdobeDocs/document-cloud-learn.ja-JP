@@ -20,10 +20,10 @@ ht-degree: 0%
 
 [!BADGE 使用事例]
 
-* [教育機関向けIEPプロセスのカスタムワークフロー](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/edu/usecase-edu-iep.html?lang=en)
+* [教育機関向けIEPプロセスのカスタムワークフロー](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/edu/usecase-edu-iep.html?lang=ja)
 カスタムワークフローDesignerを使用して、個人化教育プログラム(IEP)プロセスをデジタル化する方法について説明します
-* [官公庁の契約と購買依頼のForms](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/gov/usecasegovcontracts.html?lang=en)
-* [商用契約と購入依頼のForms](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/com/usecasecomcontracts.html?lang=en)
+* [官公庁の契約と購買依頼のForms](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/gov/usecasegovcontracts.html?lang=ja)
+* [商用契約と購入依頼のForms](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/com/usecasecomcontracts.html?lang=ja)
 
 >[!NOTE]
 >
@@ -33,4 +33,4 @@ ht-degree: 0%
 
 >[!TIP]
 >
->このビデオは、Experience Leagueで無料で利用できる再生リスト[Acrobat Sign管理者向けファーストステップ](https://experienceleague.adobe.com/en/playlists/acrobat-sign-get-started-administrators)の一部です。
+>このビデオは、Experience Leagueで無料で利用できる再生リスト[Acrobat Sign管理者向けファーストステップ](https://experienceleague.adobe.com/ja/playlists/acrobat-sign-get-started-administrators)の一部です。
