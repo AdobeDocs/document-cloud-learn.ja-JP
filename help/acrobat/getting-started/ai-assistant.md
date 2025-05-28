@@ -39,4 +39,4 @@ AIアシスタントを使用して、PDFファイルから洞察を得る方法
 
 >[!ENDTABS]
 
->[!VIDEO](https://video.tv.adobe.com/v/3430512?enablevpops&quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3445823?enablevpops&quality=12&learn=on&hidetitle=true&captions=jpn)
