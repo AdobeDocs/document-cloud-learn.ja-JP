@@ -7,7 +7,7 @@ role: User
 jira: KT-8199
 thumb: KT-8199.jpg
 exl-id: 56ef2120-1765-4ed4-bf80-b048cbabe805
-source-git-commit: 68b95d15285b0b11688a7f99c74086c60c36466e
+source-git-commit: 71ce59aa12f402a2c5104c6f7acc6809a9ec9c19
 workflow-type: tm+mt
 source-wordcount: '58'
 ht-degree: 0%
@@ -18,4 +18,4 @@ ht-degree: 0%
 
 Adobe Acrobat Skill Builderは、PDFワークフローを次のレベルに引き上げるように設計された30分間のセッションです。 毎月新しいトピックがハイライト表示されます。
 
-[こちら](https://teamwork.adobe.com/adobe-acrobat-skill-builder/)で、すべてのウェビナーをご覧ください。
+[こちら](https://www.adobe.com/acrobat/business/webinars.html)で、すべてのウェビナーをご覧ください。
