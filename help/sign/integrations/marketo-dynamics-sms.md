@@ -3,14 +3,14 @@ title: Microsoft Dynamics 365およびMarketo向けAcrobat Signを使用した�
 description: テキストメッセージ、電子メール、またはプッシュ通知を送信して、契約書が処理中であることを署名者に知らせる方法について説明します。
 feature: Integrations
 role: Admin
-solution: Acrobat Sign, Marketo, Document Cloud
+solution: Acrobat Sign, Marketo Engage, Document Cloud
 level: Intermediate
 topic: Integrations
 topic-revisit: Integrations
 jira: KT-7249
 thumbnail: KT-7249.jpg
 exl-id: 2e0de48c-70bf-4dc5-8251-88e7399f588a
-source-git-commit: 51d1a59999a7132cb6e47351cc39a93d9a38eaeb
+source-git-commit: a88ec5a68aa2a02ec2f118332ec31f47d3d5d300
 workflow-type: tm+mt
 source-wordcount: '652'
 ht-degree: 0%
@@ -25,7 +25,7 @@ ht-degree: 0%
 
 1. Marketo Microsoft Dynamics Syncをインストールします。
 
-   Microsoft Dynamics Syncの情報と最新のプラグインは、[こちら](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/microsoft-dynamics/marketo-plugin-releases-for-microsoft-dynamics.html?lang=ja)から入手できます。
+   Microsoft Dynamics Syncの情報と最新のプラグインは、[こちら](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/microsoft-dynamics/marketo-plugin-releases-for-microsoft-dynamics.html)から入手できます。
 
 1. Microsoft Dynamics用Acrobat Signをインストールします。
 

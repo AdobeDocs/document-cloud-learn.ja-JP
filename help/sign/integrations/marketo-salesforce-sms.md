@@ -3,14 +3,14 @@ title: SalesforceおよびMarketo向けAcrobat Signを使用した通知の送�
 description: テキストメッセージ、電子メール、またはプッシュ通知を送信して、契約書が処理中であることを署名者に知らせる方法について説明します。
 feature: Integrations
 role: Admin
-solution: Acrobat Sign, Marketo, Document Cloud
+solution: Acrobat Sign, Marketo Engage, Document Cloud
 level: Intermediate
 jira: KT-7247
 topic: Integrations
 topic-revisit: Integrations
 thumbnail: KT-7248.jpg
 exl-id: ac3334ec-b65f-4ce4-b323-884948f5e0a6
-source-git-commit: 51d1a59999a7132cb6e47351cc39a93d9a38eaeb
+source-git-commit: a88ec5a68aa2a02ec2f118332ec31f47d3d5d300
 workflow-type: tm+mt
 source-wordcount: '646'
 ht-degree: 0%
@@ -25,7 +25,7 @@ ht-degree: 0%
 
 1. Marketo Salesforce Syncをインストールします。
 
-   情報およびSalesforce Syncの最新プラグインは、[こちら](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/salesforce-sync/understanding-the-salesforce-sync.html?lang=ja)から入手できます。
+   情報およびSalesforce Syncの最新プラグインは、[こちら](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/salesforce-sync/understanding-the-salesforce-sync.html)から入手できます。
 
 1. Salesforce用Acrobat Signをインストールします。
 
