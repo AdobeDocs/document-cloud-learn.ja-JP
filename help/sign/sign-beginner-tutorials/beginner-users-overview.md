@@ -7,7 +7,7 @@ level: Beginner
 jira: KT-6847
 thumbnail: KT-6847.jpg
 exl-id: e58ce43d-2e8e-4804-8f30-6591fa943607
-source-git-commit: 06d3049acc900a52e1eab23a8aac9906ad40d3ea
+source-git-commit: 46a89000c2fe67e870655459da1917289483b8b4
 workflow-type: tm+mt
 source-wordcount: '465'
 ht-degree: 3%
@@ -58,7 +58,7 @@ Acrobat Signを使うのは初めてですか？ この[チュートリアル](n
   </td>
   <td>
     <a href="send-to-single-recipient.md">
-      <img alt="1人の受信者への送信" src="../assets/Send-to-single-recipient.png" />
+      <img alt="1人の受信者への送信" src="../assets/send-single-recipient.png" />
     </a>
     <div>
     <a href="send-to-single-recipient.md"><strong>1人の受信者に送信しています</strong></a>
@@ -68,7 +68,7 @@ Acrobat Signを使うのは初めてですか？ この[チュートリアル](n
   </td>
   <td>
     <a href="send-to-multiple-recipients.md">
-      <img alt="複数の受信者への送信" src="../assets/Sending-to-multiple-recipients.png" />
+      <img alt="複数の受信者への送信" src="../assets/send-to-multiple-recipient.png" />
     </a>
     <div>
     <a href="send-to-multiple-recipients.md"><strong>複数の受信者への送信</strong></a>
@@ -80,7 +80,7 @@ Acrobat Signを使うのは初めてですか？ この[チュートリアル](n
 <tr>
   <td>
     <a href="sending-options.md">
-      <img alt="送信オプションの設定" src="../assets/Sendingoptions.png" />
+      <img alt="送信オプションの設定" src="../assets/configure.png" />
     </a>
     <div>
     <a href="sending-options.md"><strong>送信オプションの構成</strong></a>
@@ -90,7 +90,7 @@ Acrobat Signを使うのは初めてですか？ この[チュートリアル](n
   </td>
   <td>
     <a href="adding-fields.md">
-      <img alt="文書へのフィールドの追加" src="../assets/AddingFields.png" />
+      <img alt="文書へのフィールドの追加" src="../assets/adding-fields.png" />
     </a>
     <div>
     <a href="adding-fields.md"><strong>文書にフィールドを追加しています</strong></a>
@@ -100,7 +100,7 @@ Acrobat Signを使うのは初めてですか？ この[チュートリアル](n
   </td>
   <td>
     <a href="modify-in-flight.md">
-      <img alt="送信後の文書の変更" src="../assets/Modifying-sending.png" />
+      <img alt="送信後の文書の変更" src="../assets/modify.png" />
     </a>
     <div>
     <a href="modify-in-flight.md"><strong>送信後の文書の変更</strong></a>
@@ -110,7 +110,7 @@ Acrobat Signを使うのは初めてですか？ この[チュートリアル](n
   </td>
   <td>
     <a href="replace-signer.md">
-      <img alt="署名者の置き換え" src="../assets/replace-signer.png" />
+      <img alt="署名者の置き換え" src="../assets/replace.png" />
     </a>
     <div>
     <a href="replace-signer.md"><strong>署名者を置き換えています</strong></a>
@@ -122,7 +122,7 @@ Acrobat Signを使うのは初めてですか？ この[チュートリアル](n
 <tr>
   <td>
       <a href="set-deadlines-reminders.md">
-        <img alt="期限とリマインダーの設定" src="../assets/Reminders.png" />
+        <img alt="期限とリマインダーの設定" src="../assets/deadlines-reminders.png" />
       </a>
       <div>
       <a href="set-deadlines-reminders.md"><strong>期限とリマインダーの設定</strong></a>
@@ -154,7 +154,7 @@ Acrobat Signを使うのは初めてですか？ この[チュートリアル](n
 <tr>
   <td>
     <a href="electronically-sign-a-document.md">
-      <img alt="文書の電子サイン" src="../assets/Electronically-sign.png" />
+      <img alt="文書の電子サイン" src="../assets/sign-electronically.png" />
     </a>
     <div>
     <a href="electronically-sign-a-document.md"><strong>文書に電子サインを行っています</strong></a>
@@ -164,7 +164,7 @@ Acrobat Signを使うのは初めてですか？ この[チュートリアル](n
   </td>
   <td>
     <a href="fill-and-sign.md">
-      <img alt="文書への入力と署名" src="../assets/FillandSign.png" />
+      <img alt="文書への入力と署名" src="../assets/fill-and-sign.png" />
     </a>
     <div>
     <a href="fill-and-sign.md"><strong>文書への入力と署名</strong></a>
@@ -174,7 +174,7 @@ Acrobat Signを使うのは初めてですか？ この[チュートリアル](n
   </td>
   <td>
     <a href="sign-in-person.md">
-      <img alt="対面で署名を取得" src="../assets/In-person.png" />
+      <img alt="対面で署名を取得" src="../assets/inperson.png" />
     </a>
     <div>
     <a href="sign-in-person.md"><strong>署名者を取得しています</strong></a>
@@ -184,7 +184,7 @@ Acrobat Signを使うのは初めてですか？ この[チュートリアル](n
   </td>
   <td>
     <a href="delegate-signing.md">
-      <img alt="他のユーザーに署名を委任" src="../assets/Delegatesigning.png" />
+      <img alt="他のユーザーに署名を委任" src="../assets/delegate-signing.png" />
     </a>
     <div>
     <a href="delegate-signing.md"><strong>他のユーザーに署名を委任する</strong></a>
@@ -196,7 +196,7 @@ Acrobat Signを使うのは初めてですか？ この[チュートリアル](n
 <tr>
   <td>
     <a href="sign-with-a-digital-signature.md">
-      <img alt="電子署名とは" src="../assets/whatisdigsig.png" />
+      <img alt="電子署名とは" src="../assets/digital-signature.png" />
     </a>
     <div>
     <a href="sign-with-a-digital-signature.md"><strong>デジタル署名とは</strong></a>
@@ -206,7 +206,7 @@ Acrobat Signを使うのは初めてですか？ この[チュートリアル](n
   </td>
   <td>
     <a href="sign-with-a-stamp.md">
-      <img alt="スタンプを使用した署名" src="../assets/Stamp.png" />
+      <img alt="スタンプを使用した署名" src="../assets/sign-stamp.png" />
     </a>
     <div>
     <a href="sign-with-a-stamp.md"><strong>スタンプを使用して署名</strong></a>
@@ -233,7 +233,7 @@ Acrobat Signを使うのは初めてですか？ この[チュートリアル](n
 <tr>
   <td>
     <a href="manage-and-track.md">
-      <img alt="契約書を管理およびトラック" src="../assets/Manage.png" />
+      <img alt="契約書を管理およびトラック" src="../assets/manage-track.png" />
     </a>
     <div>
     <a href="manage-and-track.md"><strong>契約書を管理およびトラック</strong></a>
@@ -243,7 +243,7 @@ Acrobat Signを使うのは初めてですか？ この[チュートリアル](n
   </td>
   <td>
     <a href="../sign-advanced-users/create-a-template.md">
-      <img alt="文書テンプレートの作成" src="../assets/Template.png" />
+      <img alt="文書テンプレートの作成" src="../assets/create-template.png" />
     </a>
     <div>
     <a href="../sign-advanced-users/create-a-template.md"><strong>ドキュメントテンプレートを作成しています</strong></a>
