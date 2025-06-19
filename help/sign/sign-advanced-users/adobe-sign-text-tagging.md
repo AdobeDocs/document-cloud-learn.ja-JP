@@ -24,4 +24,4 @@ ht-degree: 0%
 
 >[!TIP]
 >
->このビデオは、Experience Leagueで無料で利用できる[ユーザー向けの高度なタスク](https://experienceleague.adobe.com/en/playlists/acrobat-sign-get-started-business-users)と[管理者のための高度なタスク](https://experienceleague.adobe.com/en/playlists/acrobat-sign-perform-advanced-tasks-administrators)のプレイリストの一部です。
+>このビデオは、Experience Leagueで無料で利用できる[ユーザー向けの高度なタスク](https://experienceleague.adobe.com/ja/playlists/acrobat-sign-get-started-business-users)と[管理者のための高度なタスク](https://experienceleague.adobe.com/ja/playlists/acrobat-sign-perform-advanced-tasks-administrators)のプレイリストの一部です。
