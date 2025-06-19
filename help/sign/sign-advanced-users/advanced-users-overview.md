@@ -7,7 +7,7 @@ level: Experienced
 jira: KT-6848
 thumbnail: KT-6848.jpg
 exl-id: c4f0a953-e28b-4488-a27c-010b5adaf7ec
-source-git-commit: 3b6aefd36b5fa77a11e2cd61032f11e6d4ca862c
+source-git-commit: 2a808b6cc197a58ebe680ef4bf50747756f81013
 workflow-type: tm+mt
 source-wordcount: '424'
 ht-degree: 2%
@@ -38,7 +38,7 @@ ht-degree: 2%
 <tr>
   <td>
     <a href="setting-up-routing.md">
-      <img alt="署名順序の設定" src="../assets/Routing.png">
+      <img alt="署名順序の設定" src="../assets/signing-order.png">
     </a>
     <div>
     <a href="setting-up-routing.md"><strong>署名順序を設定しています</strong></a>
@@ -48,7 +48,7 @@ ht-degree: 2%
   </td>
   <td>
     <a href="delegate-signature.md">
-      <img alt="他のユーザーに委任しています" src="../assets/Delegating.png" />
+      <img alt="他のユーザーに委任しています" src="../assets/delegator-role.png" />
     </a>  
     <div>
     <a href="delegate-signature.md"><strong>委任者の役割を使用する</strong></a>
@@ -58,7 +58,7 @@ ht-degree: 2%
   </td>
   <td>
     <a href="add-an-approver.md">
-      <img alt="承認者の役割の使用" src="../assets/Approver.png" />
+      <img alt="承認者の役割の使用" src="../assets/approver-role.png" />
     </a>
     <div>
     <a href="add-an-approver.md"><strong>承認者の役割を使用しています</strong></a>
@@ -90,7 +90,7 @@ ht-degree: 2%
     </td>
   <td>
     <a href="set-up-online-payments.md">
-      <img alt="オンライン決済の設定" src="../assets/Payments.png" />
+      <img alt="オンライン決済の設定" src="../assets/payment.png" />
     </a>
     <div>
     <a href="set-up-online-payments.md"><strong>オンラインでの支払いを設定する</strong></a>
@@ -110,7 +110,7 @@ ht-degree: 2%
   </td>
  <td>
       <a href="webform.md">
-        <img alt="Webフォームの作成" src="../assets/Webform.png" />
+        <img alt="Webフォームの作成" src="../assets/web-form.png" />
     </a>
       <div>
       <a href="webform.md"><strong>Webフォームを作成しています</strong></a>
@@ -122,7 +122,7 @@ ht-degree: 2%
 <tr>
   <td>
       <a href="adobe-sign-text-tagging.md">
-        <img alt="Acrobat Signテキストタグ付け" src="../assets/Text-Tagging.png" />
+        <img alt="Acrobat Signテキストタグ付け" src="../assets/tagging.png" />
     </a>
       <div>
       <a href="adobe-sign-text-tagging.md"><strong>Acrobat Signのテキストタグ付け</strong></a>
@@ -132,7 +132,7 @@ ht-degree: 2%
     </td>
   <td>
     <a href="text-tagging-word.md">
-      <img alt="でテキストタグを使用する [!DNL Microsoft Word]" src="../assets/Wordtexttagging.png" />
+      <img alt="でテキストタグを使用する [!DNL Microsoft Word]" src="../assets/word-tagging.png" />
   </a>
     <div>
     <a href="text-tagging-word.md"><strong>[!DNL Microsoft Word]</strong></a>でのテキストタグの使用
@@ -169,7 +169,7 @@ ht-degree: 2%
   </td>
   <td>
     <a href="edit-a-template.md">
-      <img alt="文書テンプレートの管理" src="../assets/ManageTemplate.png" />
+      <img alt="文書テンプレートの管理" src="../assets/edit-template.png" />
     </a>
     <div>
     <a href="edit-a-template.md"><strong>ドキュメントテンプレートの管理</strong></a>
@@ -179,7 +179,7 @@ ht-degree: 2%
   </td>
   <td>
     <a href="modify-webform.md">
-      <img alt="既存のwebフォームを変更" src="../assets/Modifywebform.png" />
+      <img alt="既存のwebフォームを変更" src="../assets/modify-web-form.png" />
     </a>
     <div>
     <a href="modify-webform.md"><strong>既存のWebフォームを変更する</strong></a>
@@ -189,7 +189,7 @@ ht-degree: 2%
   </td>  
   <td>
     <a href="manage-webform-data.md">
-      <img alt="Webフォームデータの管理" src="../assets/Managewebform.png" />
+      <img alt="Webフォームデータの管理" src="../assets/manage-web-form.png" />
     </a>
     <div>
     <a href="manage-webform-data.md"><strong>Webフォームデータを管理しています</strong></a>
