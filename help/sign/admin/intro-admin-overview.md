@@ -8,7 +8,7 @@ jira: KT-6849
 topic-revisit: Administration
 thumbnail: KT-6849.jpg
 exl-id: 1b6ea9f0-6bbb-4ea5-aa22-bfa42f7cca18
-source-git-commit: 2a808b6cc197a58ebe680ef4bf50747756f81013
+source-git-commit: c776790139b32c80655b7ce6a8bdef8b63acb357
 workflow-type: tm+mt
 source-wordcount: '615'
 ht-degree: 1%
@@ -43,7 +43,7 @@ ht-degree: 1%
 <tr>
   <td>
     <a href="get-started-admin.md">
-      <img alt="新しい管理者向け導入ガイド" src="../assets/Gettingstartedadmin_1280.png" />
+      <img alt="新しい管理者向け導入ガイド" src="../assets/get-started-admin.png" />
     </a>
     <div>
     <a href="get-started-admin.md"><strong>新しい管理者の基本を学ぶ</strong></a>
@@ -53,7 +53,7 @@ ht-degree: 1%
   </td>
   <td>
     <a href="up-and-running-admin.md">
-      <img alt="管理者の場合は稼働している" src="../assets/Up-Running.png" />
+      <img alt="管理者の場合は稼働している" src="../assets/up-and-running.png" />
     </a>
     <div>
     <a href="up-and-running-admin.md"><strong>管理者の管理を開始しています</strong></a>
@@ -63,7 +63,7 @@ ht-degree: 1%
   </td>
   <td>
     <a href="set-up-shared-events-and-alert.md">
-      <img alt="共有イベントとアラートの設定" src="../assets/Notifications_1280.png" />
+      <img alt="共有イベントとアラートの設定" src="../assets/notifications.png" />
     </a>
     <div>
     <a href="set-up-shared-events-and-alert.md"><strong>イベントとアラートの通知を構成する</strong></a>
@@ -73,7 +73,7 @@ ht-degree: 1%
   </td>
   <td>
     <a href="add-users-to-your-account.md">
-      <img alt="新規ユーザーを追加" src="../assets/Add-a-new-user.jpg" />
+      <img alt="新規ユーザーを追加" src="../assets/add-user.png" />
     </a>
     <div>
     <a href="add-users-to-your-account.md"><strong>新しいユーザーを追加する</strong></a>
@@ -85,7 +85,7 @@ ht-degree: 1%
 <tr>
  <td>
     <a href="add-admin.md">
-      <img alt="新しいアカウント管理者を追加" src="../assets/Add-a-new-admin.jpg" />
+      <img alt="新しいアカウント管理者を追加" src="../assets/add-admin.png" />
     </a>
     <div>
     <a href="add-admin.md"><strong>新しいアカウント管理者の追加</strong></a>
@@ -95,7 +95,7 @@ ht-degree: 1%
   </td>
   <td>
     <a href="create-and-manage-groups.md">
-      <img alt="グループの作成と管理" src="../assets/Creating-Groups.png" />
+      <img alt="グループの作成と管理" src="../assets/groups.png" />
     </a>
     <div>
     <a href="create-and-manage-groups.md"><strong>グループの作成と管理</strong></a>
@@ -105,7 +105,7 @@ ht-degree: 1%
   </td>
   <td>
     <a href="set-up-your-external-archive.md">
-      <img alt="外部アーカイブの設定" src="../assets/ExternalArchive.png" />
+      <img alt="外部アーカイブの設定" src="../assets/external-archive.png" />
     </a>
     <div>
     <a href="set-up-your-external-archive.md"><strong>外部アーカイブを設定しています</strong></a>
@@ -179,7 +179,7 @@ ht-degree: 1%
   </td>
   <td>
     <a href="building-a-custom-workflow.md">
-      <img alt="ワークフローの設定" src="../assets/BuildingWorkflow.png" />
+      <img alt="ワークフローの設定" src="../assets/workflow.png" />
     </a>
     <div>
     <a href="building-a-custom-workflow.md"><strong>ワークフローを設定しています</strong></a>
@@ -189,7 +189,7 @@ ht-degree: 1%
   </td>
   <td>
     <a href="audit-reports.md">
-      <img alt="監査レポート" src="../assets/audit-reports-configure.png" />
+      <img alt="監査レポート" src="../assets/audit-report.png" />
     </a>
     <div>
     <a href="audit-reports.md"><strong>監査レポート</strong></a>
@@ -199,7 +199,7 @@ ht-degree: 1%
   </td>
   <td>
     <a href="promote-admin.md">
-      <img alt="製品およびサポート管理者の役割の割り当て" src="../assets/admin-roles.jpg" />
+      <img alt="製品およびサポート管理者の役割の割り当て" src="../assets/assign-product.png" />
     </a>
     <div>
     <a href="promote-admin.md"><strong>製品とサポートの管理者の役割の割り当て</strong></a>
@@ -216,7 +216,7 @@ ht-degree: 1%
 <tr>
   <td>
     <a href="learn-about-global-settings.md">
-      <img alt="グローバル設定" src="../assets/GlobalSettings_1280.png">
+      <img alt="グローバル設定" src="../assets/global-settings.png">
     </a>
     <div>
     <a href="learn-about-global-settings.md"><strong>グローバル設定</strong></a>
@@ -226,7 +226,7 @@ ht-degree: 1%
   </td>
   <td>
     <a href="share-account-access.md">
-      <img alt="アカウントアクセスの共有" src="../assets/SharingAccess.png" />
+      <img alt="アカウントアクセスの共有" src="../assets/sharing.png" />
     </a>  
     <div>
     <a href="share-account-access.md"><strong>アカウントアクセスの共有</strong></a>
@@ -236,7 +236,7 @@ ht-degree: 1%
   </td>
   <td>
     <a href="advanced-account-sharing.md">
-      <img alt="高度なアカウント共有" src="../assets/AdvancedSharing_1280.png" />
+      <img alt="高度なアカウント共有" src="../assets/advanced-sharing.png" />
     </a>
     <div>
     <a href="advanced-account-sharing.md"><strong>高度なアカウント共有</strong></a>
@@ -246,7 +246,7 @@ ht-degree: 1%
   </td>
   <td>
     <a href="bulk-download-tool.md">
-      <img alt="一括ダウンロードツール" src="../assets/bulk-download-tool.png" />
+      <img alt="一括ダウンロードツール" src="../assets/bulk-download.png" />
     </a>
     <div>
     <a href="bulk-download-tool.md"><strong>一括ダウンロードツール</strong></a>
@@ -268,7 +268,7 @@ ht-degree: 1%
   </td>
   <td>
     <a href="use-bio-pharma-settings.md">
-      <img alt="バイオ医薬業界標準対応の使用" src="../assets/Bio_1280.png" />
+      <img alt="バイオ医薬業界標準対応の使用" src="../assets/bio-settings.png" />
     </a>
     <div>
     <a href="use-bio-pharma-settings.md"><strong>バイオ医薬業界標準対応の使い方</strong></a>
@@ -278,7 +278,7 @@ ht-degree: 1%
   </td>
   <td>
     <a href="privacy.md">
-      <img alt="プライバシー管理者の設定方法" src="../assets/privacy.png" />
+      <img alt="プライバシー管理者の設定方法" src="../assets/privacy-admin.png" />
     </a>
     <div>
     <a href="privacy.md"><strong>プライバシー管理者を設定する方法</strong></a>
