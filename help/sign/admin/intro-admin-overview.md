@@ -8,9 +8,9 @@ jira: KT-6849
 topic-revisit: Administration
 thumbnail: KT-6849.jpg
 exl-id: 1b6ea9f0-6bbb-4ea5-aa22-bfa42f7cca18
-source-git-commit: 1cdbd8bd8753bf570d09219a6ca17f93ac317547
+source-git-commit: 16666ba6f96f85182fd7b8b4741bd3a009f5159a
 workflow-type: tm+mt
-source-wordcount: '632'
+source-wordcount: '631'
 ht-degree: 1%
 
 ---
@@ -25,7 +25,7 @@ ht-degree: 1%
 
 >[!TAB Docusignテンプレートの移行]
 
-簡単な3つの手順で、[Docusignテンプレートと](docusign-templates.md)のワークフローをシームレスに移行する方法を説明します。
+3つの簡単な手順で、[Docusignテンプレート](docusign-templates.md)とワークフローをシームレスに移行する方法について説明します。
 
 >[!TAB 新しいユーザーを追加する]
 
