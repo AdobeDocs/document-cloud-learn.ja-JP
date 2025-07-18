@@ -8,9 +8,9 @@ jira: KT-6849
 topic-revisit: Administration
 thumbnail: KT-6849.jpg
 exl-id: 1b6ea9f0-6bbb-4ea5-aa22-bfa42f7cca18
-source-git-commit: c776790139b32c80655b7ce6a8bdef8b63acb357
+source-git-commit: 1cdbd8bd8753bf570d09219a6ca17f93ac317547
 workflow-type: tm+mt
-source-wordcount: '615'
+source-wordcount: '632'
 ht-degree: 1%
 
 ---
@@ -23,6 +23,10 @@ ht-degree: 1%
 
 >[!BEGINTABS]
 
+>[!TAB Docusignテンプレートの移行]
+
+簡単な3つの手順で、[Docusignテンプレートと](docusign-templates.md)のワークフローをシームレスに移行する方法を説明します。
+
 >[!TAB 新しいユーザーを追加する]
 
 [Acrobat Signに新しいユーザーを追加](add-users-to-your-account.md)する方法を説明します。
@@ -30,10 +34,6 @@ ht-degree: 1%
 >[!TAB プライバシー管理者を設定する方法]
 
 [プライバシー管理者](privacy.md)を設定および使用する方法について説明します。
-
->[!TAB 一括ダウンロードツール]
-
-[一括ダウンロードツール](bulk-download-tool.md)を使用して、署名済みのすべての契約書をすばやくダウンロードする方法について説明します。
 
 >[!ENDTABS]
 
@@ -62,13 +62,13 @@ ht-degree: 1%
     <br>
   </td>
   <td>
-    <a href="set-up-shared-events-and-alert.md">
-      <img alt="共有イベントとアラートの設定" src="../assets/notifications.png" />
+    <a href="docusign-templates.md">
+      <img alt="Docusignテンプレートの移行" src="../assets/migrate-templates.png" />
     </a>
     <div>
-    <a href="set-up-shared-events-and-alert.md"><strong>イベントとアラートの通知を構成する</strong></a>
+    <a href="docusign-templates.md"><strong>Docusignテンプレートの移行</strong></a>
     </div>
-    <em>アカウントのイベントとアラートの通知を構成する</em>
+    <em>Docusignテンプレートとワークフローをシームレスに移行する方法を説明します</em>
     <br>
   </td>
   <td>
@@ -83,7 +83,7 @@ ht-degree: 1%
   </td>
 </tr>
 <tr>
- <td>
+  <td>
     <a href="add-admin.md">
       <img alt="新しいアカウント管理者を追加" src="../assets/add-admin.png" />
     </a>
@@ -94,25 +94,37 @@ ht-degree: 1%
     <br>
   </td>
   <td>
-    <a href="create-and-manage-groups.md">
-      <img alt="グループの作成と管理" src="../assets/groups.png" />
-    </a>
-    <div>
-    <a href="create-and-manage-groups.md"><strong>グループの作成と管理</strong></a>
-    </div>
-    <em>グループの作成、グループへのユーザーの追加、およびグループ設定の編集</em>
-    <br>
-  </td>
-  <td>
-    <a href="set-up-your-external-archive.md">
-      <img alt="外部アーカイブの設定" src="../assets/external-archive.png" />
-    </a>
-    <div>
-    <a href="set-up-your-external-archive.md"><strong>外部アーカイブを設定しています</strong></a>
-    </div>
-    <em>署名済みの契約書のバックアップコピーの外部アーカイブを作成する</em>
-    <br>
-  </td>
+      <a href="set-up-shared-events-and-alert.md">
+        <img alt="共有イベントとアラートの設定" src="../assets/notifications.png" />
+      </a>
+      <div>
+      <a href="set-up-shared-events-and-alert.md"><strong>イベントとアラートの通知を構成する</strong></a>
+      </div>
+      <em>アカウントのイベントとアラートの通知を構成する</em>
+      <br>
+    </td>
+    <td>
+      <a href="create-and-manage-groups.md">
+        <img alt="グループの作成と管理" src="../assets/groups.png" />
+      </a>
+      <div>
+      <a href="create-and-manage-groups.md"><strong>グループの作成と管理</strong></a>
+      </div>
+      <em>グループの作成、グループへのユーザーの追加、およびグループ設定の編集</em>
+      <br>
+    </td>
+    <td>
+      <a href="set-up-your-external-archive.md">
+        <img alt="外部アーカイブの設定" src="../assets/external-archive.png" />
+      </a>
+      <div>
+      <a href="set-up-your-external-archive.md"><strong>外部アーカイブを設定しています</strong></a>
+      </div>
+      <em>署名済みの契約書のバックアップコピーの外部アーカイブを作成する</em>
+      <br>
+    </td>
+</tr>
+<tr>
   <td>
     <a href="../sign-advanced-users/create-a-template.md">
       <img alt="文書テンプレートの作成" src="../assets/create-template.png" />
@@ -123,8 +135,6 @@ ht-degree: 1%
     <em>スピードと一貫性を保つために再利用可能な文書テンプレートを作成</em>
     <br>
   </td>
-</tr>
-<tr>
   <td>
     <a href="../sign-advanced-users/creating-a-report.md">
       <img alt="レポートとトランザクションの使用状況" src="../assets/reporting.png" />
@@ -155,7 +165,9 @@ ht-degree: 1%
     <em>Webサイトで直接電子サインできる文書を作成</em>
     <br>
   </td>
-  <td>
+</tr>  
+<tr>
+   <td>
     <a href="../sign-advanced-users/modify-webform.md">
       <img alt="既存のwebフォームを変更" src="../assets/modify-web-form.png" />
     </a>
@@ -165,8 +177,6 @@ ht-degree: 1%
     <em>既存のWebフォームを無効にし、編集し、再度有効にする方法を説明します</em>
     <br>
   </td>
-</tr>
-<tr>
   <td>
     <a href="../sign-advanced-users/megasign.md">
       <img alt="一括送信" src="../assets/send-in-bulk.png" />
@@ -197,17 +207,34 @@ ht-degree: 1%
     <em>監査レポートにアクセスし、利用し、構成する方法の詳細</em>
     <br>
   </td>
-  <td>
-    <a href="promote-admin.md">
-      <img alt="製品およびサポート管理者の役割の割り当て" src="../assets/assign-product.png" />
-    </a>
-    <div>
-    <a href="promote-admin.md"><strong>製品とサポートの管理者の役割の割り当て</strong></a>
-    </div>
-    <em>Acrobat Signユーザーの製品管理者およびサポート管理者の役割をAdmin Consoleに割り当てる方法を説明します</em>
-    <br>
-  </td>
-</tr> 
+</tr>
+<tr>
+    <td>
+      <a href="promote-admin.md">
+        <img alt="製品およびサポート管理者の役割の割り当て" src="../assets/assign-product.png" />
+      </a>
+      <div>
+      <a href="promote-admin.md"><strong>製品とサポートの管理者の役割の割り当て</strong></a>
+      </div>
+      <em>Acrobat Signユーザーの製品管理者およびサポート管理者の役割をAdmin Consoleに割り当てる方法を説明します</em>
+      <br>
+    </td>
+    <td>
+      <img alt="スペーサー" src="../assets/Whitespacer.png" />
+      <div>
+      <br>
+    </td>
+    <td>
+      <img alt="スペーサー" src="../assets/Whitespacer.png" />
+      <div>
+      <br>
+    </td>
+    <td>
+      <img alt="スペーサー" src="../assets/Whitespacer.png" />
+      <div>
+      <br>
+    </td>
+</tr>    
 </table>
 
 ## 高度なタスク
