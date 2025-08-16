@@ -17,4 +17,4 @@ ht-degree: 0%
 
 Docusignテンプレートとワークフローを、3つの簡単なステップでAcrobat Signにシームレスに移行する方法について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3465274?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3465275?quality=12&learn=on&hidetitle=true&captions=jpn)
