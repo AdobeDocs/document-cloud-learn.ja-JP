@@ -6,10 +6,10 @@ feature-set: Document Cloud
 role: User
 type: Tutorial
 auto-video-transcripts: true
-source-git-commit: 17a25611e3444b0b00f4a78306fdedc59495c07c
+source-git-commit: e49d52f7b83bccfe246ee69d377f3558c2b30a85
 workflow-type: tm+mt
-source-wordcount: '488'
-ht-degree: 3%
+source-wordcount: '512'
+ht-degree: 5%
 
 ---
 
@@ -17,14 +17,14 @@ ht-degree: 3%
 # AcrobatTutorials {#acrobat-learning}
 
 + [概要](overview.md)
-+ の概要{#getting-started}
++ はじめに {#getting-started}
    + [概要](getting-started/getting-started-overview.md)
    + [新しいAcrobatエクスペリエンス](getting-started/new-workspace.md)
    + [ワークスペースの基本](getting-started/get-to-know-the-acrobat-dc-interface.md)
    + [AIアシスタントでPDFのインサイトを見つける](getting-started/ai-assistant.md)
    + [Acrobat webでどこでも作業](getting-started/acrobatweb.md)
    + [外出先での生産性](getting-started/productivity.md)
-   + [連携 [!DNL Microsoft 365]](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/integrations/integrate-overview.html?lang=ja#microsoft)
+   + [連携 [!DNL Microsoft 365]](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/integrations/integrate-overview.html#microsoft)
    + [PDFを作成](getting-started/create-pdf.md)
    + [ファイルを1つのPDFに結合](getting-started/combine-to-pdf.md)
    + [ページを整理](getting-started/organize.md)
@@ -43,7 +43,7 @@ ht-degree: 3%
    + [署名を取得](getting-started/signatures.md)
    + [ドキュメントのトラック](getting-started/track.md)
    + [PDFはどこから来るのですか。](getting-started/where-do-pdfs-come-from.md)
-+ 高度なタスク{#advanced-tasks}
++ 高度なタスク {#advanced-tasks}
    + [概要](advanced-tasks/advanced-tasks-overview.md)
    + [ブックマークとハイパーリンクの追加](advanced-tasks/bookmarks.md)
    + [スキャンした文書を最適化](advanced-tasks/optimizescan.md)
@@ -58,7 +58,7 @@ ht-degree: 3%
    + [ファイルサイズを縮小して最適化](advanced-tasks/reduce.md)
    + [フォームデータの操作](advanced-tasks/formdata.md)
    + [PDFのアクセシビリティの確認](advanced-tasks/accessibility.md)
-   + Acrobatアクセシビリティシリーズ{#accessibility-series}
+   + Acrobatアクセシビリティウェビナー {#accessibility-series}
       + [概要](advanced-tasks/accessibility-series.md)
       + [PDFのアクセシビリティの概要](advanced-tasks/accessibilitysession1.md)
       + [アクセスできないPDFの修復](advanced-tasks/accessibilitysession2.md)
@@ -66,7 +66,13 @@ ht-degree: 3%
       + [スキャンした文書と複雑なリスト](advanced-tasks/accessibilitysession4.md)
       + [タグ付きPDFへのフォームフィールドの追加](advanced-tasks/accessibilitysession5.md)
       + [タグなしPDFへのフォームフィールドの追加](advanced-tasks/accessibilitysession6.md)
-+ 60秒のAcrobat {#60-second}
++ アクセシビリティシリーズ {#accessibility-tutorials}
+   + [概要](accessibility-series/accessibility-overview.md)
+   + [PDFファイルにアクセスする方法と理由](accessibility-series/how-why-accessible-pdf.md)
+   + [ワークスペースの設定](accessibility-series/set-up-workspace.md)
+   + [WordからアクセシブルなPDFを作成](accessibility-series/create-accessible-from-word.md)
+   + [アクセシブルなフォームの作成](accessibility-series/create-accessible-forms.md)
++ 60秒Acrobat {#60-second}
    + [概要](60-second/60-second-overview.md)
    + [Acrobat webでPDFを編集](60-second/edit.md)
    + [スキャンしたPDFファイルのテキストを認識](60-second/textrecognition.md)
@@ -95,9 +101,9 @@ ht-degree: 3%
    + [PDFを標準書式に合わせる](60-second/conform.md)
    + [PDF比較で相違点を見つける](60-second/compare.md)
    + [一度に複数のPDFファイルを検索](60-second/search.md)
-+ スキルビルダー{#skill-builders}
++ スキルビルダー {#skill-builders}
    + [ウェビナー](skill-builder/skill-builder-webinars.md)
-+ 統合{#integrations}
++ 統合 {#integrations}
    + [概要](integrate/integrate-overview.md)
    + [ [!DNL Microsoft Word]からPDFを作成](integrate/createfromword.md)
    + [Web用 [!DNL Office] でPDFを作成](integrate/createofficeweb.md)
@@ -108,29 +114,29 @@ ht-degree: 3%
    + [ [!DNL Microsoft Purview Information] 秘密度ラベルを使用したProtect PDF](integrate/microsoftsensitivitylabels.md)
    + [ [!DNL Google Drive]のAdobe Acrobat](integrate/acrobatandgoogle.md)
    + [ [!DNL Dropbox]のファイルを使用する](integrate/acrobat-dropbox.md)
-+ 業種と部門{#by-industry}
++ 業界と部門 {#by-industry}
    + [概要](industry/industry-overview.md)
-   + 官公庁向け{#gov}
+   + 中央省庁 {#gov}
       + [概要](industry/gov/gov-overview.md)
       + Acrobatでどこでも作業するための5つのヒント {#tips}
-         + [Acrobatでどこでも作業するための5つのヒント](industry/gov/5-tips-for-working-anywhere-with-acrobat-dc-for-government.md)
+         + Acrobatでどこでも作業するための[5つのヒント](industry/gov/5-tips-for-working-anywhere-with-acrobat-dc-for-government.md)
          + [ヒント#1 – ツールを入手](industry/gov/get-your-tools.md)
          + [ヒント#2 – ドキュメントでの共同作業](industry/gov/collaborate-on-documents.md)
          + [ヒント#3 - Protectデジタルドキュメント](industry/gov/protect-digital-documents.md)
          + [ヒント#4 – フォームと署名の操作](industry/gov/work-with-forms-and-signatures.md)
          + [ヒント#5 – モバイルでスキャンして編集](industry/gov/scan-and-edit-on-mobile.md)
-      + アクセシビリティ{#pdfs}
+      + アクセシビリティ {#pdfs}
          + [PDFのアクセシブル化](industry/gov/making-pdfs-accessible.md)
          + [#1 – アクセシビリティについて](industry/gov/understanding-accessibility.md)
          + [#2 - Wordでのオーサリング](industry/gov/authoring-in-word.md)
          + [#3 - Acrobatで終了しています](industry/gov/finishing-in-acrobat.md)
          + [PDF投票のアクセシビリティの向上](industry/gov/making-pdf-ballots-accessible.md)
-+ の開発{#develop}
++ 現像 {#develop}
    + [概要](develop/develop-overview.md)
-+ の展開{#deploy}
++ デプロイ {#deploy}
    + [概要](deploy/deploy-overview.md)
    + [ETLA版のお客様向けのAcrobat DC製品の重要なアップデート](deploy/signentitlementchanges.md)
-+ モバイル{#mobile}
++ モバイル {#mobile}
    + [概要](mobile/mobile-overview.md)
-   + [外出先での生産性](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/getting-started/productivity.html?lang=ja)
+   + [外出先での生産性](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/getting-started/productivity.html)
    + [スキャンしたものはすべてPDFに保存](mobile/scan-mobile-app.md)
