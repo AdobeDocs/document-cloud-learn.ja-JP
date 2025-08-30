@@ -5,7 +5,8 @@ feature: Workspace, Accessibility, Action
 role: User
 level: Beginner, Intermediate, Experienced
 jira: KT-6856
-source-git-commit: e49d52f7b83bccfe246ee69d377f3558c2b30a85
+exl-id: 26b265dc-b52f-4e0d-b6d9-893e7d3b6077
+source-git-commit: 3d971a90e3e9c639d65440915b0e10734c15b0b4
 workflow-type: tm+mt
 source-wordcount: '200'
 ht-degree: 1%
@@ -20,9 +21,9 @@ ht-degree: 1%
 
 >[!BEGINTABS]
 
->[!TAB アクセス可能なPDFファイルの種類と理由]
+>[!TAB アクセス可能なPDFファイルの内容と理由]
 
-[PDFファイルをアクセス可能にすることの重要性とその理由](how-why-accessible-pdf.md)を説明します。
+[アクセス可能なPDFファイルとは何か、またそれが重要な理由](what-why-accessible-pdf.md)を説明します。
 
 >[!TAB ワークスペースの設定]
 
@@ -43,13 +44,13 @@ Acrobatで[フォームをアクセシブル](create-accessible-forms.md)にす�
 <table style="table-layout:fixed">
 <tr>
   <td>
-    <a href="how-why-accessible-pdf.md">
-      <img alt="PDFファイルにアクセスする方法と理由" src="../assets/accessibility-series-2025.png" />
+    <a href="what-why-accessible-pdf.md">
+      <img alt="アクセス可能なPDFファイルの目的と理由" src="../assets/accessibility-series-2025.png" />
     </a>
     <div>
-    <a href="how-why-accessible-pdf.md"><strong>アクセス可能なPDFファイルの種類と理由</strong></a>
+    <a href="what-why-accessible-pdf.md"><strong>アクセス可能なPDFファイルの内容と理由</strong></a>
     </div>
-    <em>PDFファイルをアクセス可能にすることの重要性とその理由を説明します。</em>
+    <em>アクセス可能なPDFファイルとは何か、またそれが重要な理由を説明します</em>
     <br>
   </td>
   <td>

@@ -6,7 +6,7 @@ feature-set: Document Cloud
 role: User
 type: Tutorial
 auto-video-transcripts: true
-source-git-commit: e49d52f7b83bccfe246ee69d377f3558c2b30a85
+source-git-commit: 3d971a90e3e9c639d65440915b0e10734c15b0b4
 workflow-type: tm+mt
 source-wordcount: '512'
 ht-degree: 5%
@@ -24,7 +24,7 @@ ht-degree: 5%
    + [AIアシスタントでPDFのインサイトを見つける](getting-started/ai-assistant.md)
    + [Acrobat webでどこでも作業](getting-started/acrobatweb.md)
    + [外出先での生産性](getting-started/productivity.md)
-   + [連携 [!DNL Microsoft 365]](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/integrations/integrate-overview.html?lang=ja#microsoft)
+   + [連携 [!DNL Microsoft 365]](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/integrations/integrate-overview.html#microsoft)
    + [PDFを作成](getting-started/create-pdf.md)
    + [ファイルを1つのPDFに結合](getting-started/combine-to-pdf.md)
    + [ページを整理](getting-started/organize.md)
@@ -68,7 +68,7 @@ ht-degree: 5%
       + [タグなしPDFへのフォームフィールドの追加](advanced-tasks/accessibilitysession6.md)
 + アクセシビリティシリーズ {#accessibility-tutorials}
    + [概要](accessibility-series/accessibility-overview.md)
-   + [PDFファイルにアクセスする方法と理由](accessibility-series/how-why-accessible-pdf.md)
+   + [アクセス可能なPDFファイルの目的と理由](accessibility-series/what-why-accessible-pdf.md)
    + [ワークスペースの設定](accessibility-series/set-up-workspace.md)
    + [WordからアクセシブルなPDFを作成](accessibility-series/create-accessible-from-word.md)
    + [アクセシブルなフォームの作成](accessibility-series/create-accessible-forms.md)
@@ -119,7 +119,7 @@ ht-degree: 5%
    + 中央省庁 {#gov}
       + [概要](industry/gov/gov-overview.md)
       + Acrobatでどこでも作業するための5つのヒント {#tips}
-         + [Acrobatでどこでも作業するための5つのヒント](industry/gov/5-tips-for-working-anywhere-with-acrobat-dc-for-government.md)
+         + Acrobatでどこでも作業するための[5つのヒント](industry/gov/5-tips-for-working-anywhere-with-acrobat-dc-for-government.md)
          + [ヒント#1 – ツールを入手](industry/gov/get-your-tools.md)
          + [ヒント#2 – ドキュメントでの共同作業](industry/gov/collaborate-on-documents.md)
          + [ヒント#3 - Protectデジタルドキュメント](industry/gov/protect-digital-documents.md)
@@ -138,5 +138,5 @@ ht-degree: 5%
    + [ETLA版のお客様向けのAcrobat DC製品の重要なアップデート](deploy/signentitlementchanges.md)
 + モバイル {#mobile}
    + [概要](mobile/mobile-overview.md)
-   + [外出先での生産性](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/getting-started/productivity.html?lang=ja)
+   + [外出先での生産性](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/getting-started/productivity.html)
    + [スキャンしたものはすべてPDFに保存](mobile/scan-mobile-app.md)
