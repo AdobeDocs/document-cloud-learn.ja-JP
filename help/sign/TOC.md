@@ -2,17 +2,17 @@
 user-guide-title: Acrobat SignTutorials
 solution: Acrobat Sign
 solution-title: Learning Hub
-solution-hub-url: https://helpx.adobe.com/jp/support/sign.html
+solution-hub-url: https://helpx.adobe.com/support/sign.html
 getting-started-title: Getting Started
-getting-started-url: https://helpx.adobe.com/jp/sign/using/get-started-guide.html
+getting-started-url: https://helpx.adobe.com/sign/using/get-started-guide.html
 tutorials-title: Tutorials
-tutorials-url: https://helpx.adobe.com/jp/sign/tutorials.html
+tutorials-url: https://helpx.adobe.com/sign/tutorials.html
 breadcrumb-title: Acrobat SignTutorials
 feature-set: Document Cloud
 feature: Use Cases, Web Forms, Workflow, Sign, Payments, Report, Workspace, Deadline, Administration, Digital ID, Form, Integrations, Mobile, Skill Builder
 type: Tutorial
 auto-video-transcripts: true
-source-git-commit: 1cdbd8bd8753bf570d09219a6ca17f93ac317547
+source-git-commit: 8b71554f14df8c072d14cda6123f01310d2bf803
 workflow-type: tm+mt
 source-wordcount: '553'
 ht-degree: 11%
@@ -27,7 +27,7 @@ ht-degree: 11%
    + [概要](sign-beginner-tutorials/beginner-users-overview.md)
    + Send {#getting-started-sending}
       + [ワークスペースの基本](sign-beginner-tutorials/quick-tour.md)
-      + [Acrobat Signの概要](sign-beginner-tutorials/new-sender.md)
+      + [Acrobat Sign入門](sign-beginner-tutorials/new-sender.md)
       + [1人の受信者への送信](sign-beginner-tutorials/send-to-single-recipient.md)
       + [複数の受信者への送信](sign-beginner-tutorials/send-to-multiple-recipients.md)
       + [文書へのフィールドの追加](sign-beginner-tutorials/adding-fields.md)
@@ -44,7 +44,7 @@ ht-degree: 11%
       + [スタンプで署名](sign-beginner-tutorials/sign-with-a-stamp.md)
    + 管理 {#getting-started-managing}
       + [契約書を管理およびトラック](sign-beginner-tutorials/manage-and-track.md)
-      + [ドキュメントテンプレートを作成しています](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/create-a-template.html?lang=ja)
+      + [ドキュメントテンプレートを作成しています](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/create-a-template.html)
 + 高度なタスク {#advanced-tasks}
    + [概要](sign-advanced-users/advanced-users-overview.md)
    + Send {#advanced-tasks-sending}
@@ -54,9 +54,9 @@ ht-degree: 11%
       + [Acrobat Signの認証方法](sign-advanced-users/authentication-methods.md)
       + [フォームデータを管理](sign-advanced-users/manage-form-data.md)
       + [オンライン決済の設定](sign-advanced-users/set-up-online-payments.md)
-      + [一括送信](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/megasign.html?lang=ja)
-      + [Webフォームを作成しています](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/webform.html?lang=ja)
-      + [Acrobat Signのテキストタグ付け](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/advanced-tasks-admins/adobe-sign-text-tagging.html?lang=ja)
+      + [一括送信](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/megasign.html)
+      + [Webフォームを作成しています](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/webform.html)
+      + [Acrobat Signのテキストタグ付け](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/advanced-tasks-admins/adobe-sign-text-tagging.html)
       + [ [!DNL Microsoft Word]でテキストタグを使用しています](sign-advanced-users/text-tagging-word.md)
    + 管理 {#advanced-tasks-managing}
       + [レポートとトランザクションの使用状況](sign-advanced-users/creating-a-report.md)
@@ -75,10 +75,10 @@ ht-degree: 11%
       + [グループの作成と管理](admin/create-and-manage-groups.md)
       + [外部アーカイブの設定](admin/set-up-your-external-archive.md)
       + [テンプレートの作成](sign-advanced-users/create-a-template.md)
-      + [レポートとトランザクションの使用状況](https://experienceleague.adobe.com/ja/docs/document-cloud-learn/sign-learning-hub/advanced-tasks/advanced-tasks-managing/creating-a-report)
+      + [レポートとトランザクションの使用状況](https://experienceleague.adobe.com/en/docs/document-cloud-learn/sign-learning-hub/advanced-tasks/advanced-tasks-managing/creating-a-report)
       + [ユーザーのレポートオプション](admin/report-options.md)
       + [Webフォームの作成](sign-advanced-users/webform.md)
-      + [既存のWebフォームを変更する](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/advanced-tasks/advanced-tasks-managing/modify-webform.html?lang=ja)
+      + [既存のWebフォームを変更する](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/advanced-tasks/advanced-tasks-managing/modify-webform.html)
       + [一括送信](sign-advanced-users/megasign.md)
       + [カスタムワークフローの作成](admin/building-a-custom-workflow.md)
       + [監査レポート](admin/audit-reports.md)
@@ -114,7 +114,7 @@ ht-degree: 11%
       + [ [!DNL SharePoint] と [!DNL Power Automate]の間でファイルを自動アーカイブ](integrations/auto-archive-sharepoint-power-automate.md)
       + [ [!DNL Microsoft Power Platform]のAcrobat Signを使用した文書の自動処理](integrations/documentautomation.md)
       + [署名用に [!DNL Microsoft Teams]に送信](integrations/adobe-sign-teams-mortgage.md)
-      + [Adobe Acrobat Signでの [!DNL Microsoft Teams]のライブサイン](integrations/live-sign-microsoft-teams.md)
+      + [Adobe Acrobat Signでの [!DNL Microsoft Teams]](integrations/live-sign-microsoft-teams.md)のライブサイン
       + [ [!DNL Microsoft Teams]のドキュメントタブの統合](integrations/acrobat-sign-teams-documents-tab.md)
       + [ [!DNL Power Automate]で簡単なワークフローを作成](integrations/simple-workflow-power-automate.md)
       + [ [!DNL Power Automate]で高度なワークフローを作成します](integrations/advanced-workflow-power-automate.md)
@@ -143,7 +143,7 @@ ht-degree: 11%
    + [概要](sign-usecase/expand-inspire-overview.md)
    + スキルビルダー {#innovation}
       + [ウェビナー](sign-usecase/innovation-series.md)
-   + 使用事例 {#recipes}
+   + ユースケース {#recipes}
       + [概要](sign-usecase/recipes.md)
       + 中央省庁 {#gov}
          + [複数の不明な署名者を含む政府からの融資申請](sign-usecase/webform-multiple-signers.md)

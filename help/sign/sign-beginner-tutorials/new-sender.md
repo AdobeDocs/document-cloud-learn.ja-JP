@@ -1,19 +1,19 @@
 ---
-title: Acrobat Signの概要
-description: この包括的なチュートリアルは、Adobe Signの新しい送信者を開始するのに最適な場所です
+title: 今日から始めるAcrobat Sign
+description: このチュートリアルは、Acrobat Signの新規ユーザーのために作業を開始するのに最適です
 feature: Workspace
 role: User
 level: Beginner
 jira: KT-8989
 exl-id: d4309ad3-003a-4415-9845-8919006c7567
-source-git-commit: 7e5cfcdeee47a205f3a013666069136cccab1867
+source-git-commit: 8b71554f14df8c072d14cda6123f01310d2bf803
 workflow-type: tm+mt
-source-wordcount: '95'
+source-wordcount: '94'
 ht-degree: 0%
 
 ---
 
-# Acrobat Signの概要
+# Acrobat Sign入門
 
 Acrobat Signを使うのは初めてですか？ このチュートリアルは、Acrobat Signをすばやく使い始めるのに最適なチュートリアルです。
 
@@ -30,4 +30,4 @@ Acrobat Signを使うのは初めてですか？ このチュートリアルは�
 * 契約書の管理とトラック
 * サポートとリソースへのアクセス
 
->[!VIDEO](https://video.tv.adobe.com/v/3454384?quality=12&learn=on&hidetitle=true&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/337151?quality=12&learn=on&hidetitle=true)

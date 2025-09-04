@@ -7,9 +7,9 @@ level: Beginner
 jira: KT-6847
 thumbnail: KT-6847.jpg
 exl-id: e58ce43d-2e8e-4804-8f30-6591fa943607
-source-git-commit: 7e5cfcdeee47a205f3a013666069136cccab1867
+source-git-commit: 8b71554f14df8c072d14cda6123f01310d2bf803
 workflow-type: tm+mt
-source-wordcount: '465'
+source-wordcount: '464'
 ht-degree: 3%
 
 ---
@@ -48,12 +48,12 @@ Acrobat Signを使うのは初めてですか？ この[チュートリアル](n
   </td>
   <td>
     <a href="new-sender.md">
-      <img alt="Acrobat Signの概要" src="../assets/gettingstartednew.png" />
+      <img alt="Acrobat Sign入門" src="../assets/gettingstartednew.png" />
     </a>
     <div>
     <a href="new-sender.md"><strong>Acrobat Signの概要</strong></a>
     </div>
-    この包括的なチュートリアルは、Acrobat Signの新しい送信者を開始するのに最適な場所です
+    このチュートリアルは、Acrobat Signの新規ユーザーのために作業を開始するのに最適です
     <br>
   </td>
   <td>
