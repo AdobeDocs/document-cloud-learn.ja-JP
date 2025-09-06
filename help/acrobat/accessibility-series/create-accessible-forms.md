@@ -17,4 +17,4 @@ ht-degree: 0%
 
 Acrobatでフォームにアクセスできるようにする方法を説明します。 これらの7つの手順に従うと、インタラクティブなフォームフィールドでPDFをアクセス可能にする処理を高速化できます。
 
->[!VIDEO](https://video.tv.adobe.com/v/3471615?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3471663?quality=12&learn=on&hidetitle=true&captions=jpn)

@@ -17,4 +17,4 @@ ht-degree: 0%
 
 Microsoft WordからアクセシブルなPDFファイルを作成する方法について説明します。 適切に構造化されたWordファイルを使い始めると、アクセシブルなPDFを作成する際に大きな違いが生じます。
 
->[!VIDEO](https://video.tv.adobe.com/v/3471614?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3471652?quality=12&learn=on&hidetitle=true&captions=jpn)
