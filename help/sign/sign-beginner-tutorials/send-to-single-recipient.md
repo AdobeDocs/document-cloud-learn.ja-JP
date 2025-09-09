@@ -18,7 +18,7 @@ ht-degree: 0%
 
 Acrobat Signでは、1つの署名用に文書を送信する操作が最も一般的です。 このチュートリアルでは、署名用の文書を準備して送信する最も簡単な方法について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/341295?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3425271?quality=12&learn=on&hidetitle=true&captions=jpn)
 
 >[!TIP]
 >
