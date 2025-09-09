@@ -7,9 +7,9 @@ level: Beginner
 jira: KT-6847
 thumbnail: KT-6847.jpg
 exl-id: e58ce43d-2e8e-4804-8f30-6591fa943607
-source-git-commit: 3b4a86c78a1d80ba0c77a98a3d10bc7b1f3f6071
+source-git-commit: 1889816bcd1abf3f5fae2d1c43f1ac0339005854
 workflow-type: tm+mt
-source-wordcount: '470'
+source-wordcount: '472'
 ht-degree: 3%
 
 ---
@@ -24,7 +24,7 @@ ht-degree: 3%
 
 >[!TAB 1人の署名者に文書を送信する]
 
-[署名用に文書を送信](send-to-single-recipient.md)する簡単さを学びましょう
+[署名用に文書を送信](send-to-single-recipient.md)する簡単さについて説明します。
 
 >[!TAB Acrobat Signの概要]
 
@@ -63,7 +63,7 @@ Acrobat Signを使うのは初めてですか？ この[チュートリアル](n
     <div>
     <a href="send-to-single-recipient.md"><strong>1人の署名者に文書を送信する</strong></a>
     </div>
-    署名用に文書を送信する簡単な方法を学びましょう
+    署名用に文書を送信する方法を学びましょう
     <br>
   </td>
   <td>
