@@ -7,9 +7,9 @@ level: Beginner
 jira: KT-6847
 thumbnail: KT-6847.jpg
 exl-id: e58ce43d-2e8e-4804-8f30-6591fa943607
-source-git-commit: 8b71554f14df8c072d14cda6123f01310d2bf803
+source-git-commit: 3b4a86c78a1d80ba0c77a98a3d10bc7b1f3f6071
 workflow-type: tm+mt
-source-wordcount: '464'
+source-wordcount: '470'
 ht-degree: 3%
 
 ---
@@ -22,13 +22,13 @@ ht-degree: 3%
 
 >[!BEGINTABS]
 
+>[!TAB 1人の署名者に文書を送信する]
+
+[署名用に文書を送信](send-to-single-recipient.md)する簡単さを学びましょう
+
 >[!TAB Acrobat Signの概要]
 
 Acrobat Signを使うのは初めてですか？ この[チュートリアル](new-sender.md)は、始めるのに最適な場所です。
-
->[!TAB 期限とリマインダーの設定]
-
-定期的に[リマインダーと期限](set-deadlines-reminders.md)の電子メールを送信して、文書にすばやく署名してもらう方法について説明します。
 
 >[!ENDTABS]
 
@@ -36,6 +36,16 @@ Acrobat Signを使うのは初めてですか？ この[チュートリアル](n
 
 <table style="table-layout:fixed">
 <tr>
+  <td>
+    <a href="new-sender.md">
+      <img alt="Acrobat Sign入門" src="../assets/gettingstartednew.png" />
+    </a>
+    <div>
+    <a href="new-sender.md"><strong>Acrobat Signの概要</strong></a>
+    </div>
+    このチュートリアルは、Acrobat Signの新規ユーザーのために作業を開始するのに最適です
+    <br>
+  </td>
  <td>
     <a href="quick-tour.md">
       <img alt="ワークスペースの基本" src="../assets/workspace.png" />
@@ -47,21 +57,11 @@ Acrobat Signを使うのは初めてですか？ この[チュートリアル](n
     <br>
   </td>
   <td>
-    <a href="new-sender.md">
-      <img alt="Acrobat Sign入門" src="../assets/gettingstartednew.png" />
-    </a>
-    <div>
-    <a href="new-sender.md"><strong>Acrobat Signの概要</strong></a>
-    </div>
-    このチュートリアルは、Acrobat Signの新規ユーザーのために作業を開始するのに最適です
-    <br>
-  </td>
-  <td>
     <a href="send-to-single-recipient.md">
-      <img alt="1人の受信者への送信" src="../assets/send-single-recipient.png" />
+      <img alt="1人の署名者への文書の送信" src="../assets/send-single-recipient.png" />
     </a>
     <div>
-    <a href="send-to-single-recipient.md"><strong>1人の受信者に送信しています</strong></a>
+    <a href="send-to-single-recipient.md"><strong>1人の署名者に文書を送信する</strong></a>
     </div>
     署名用に文書を送信する簡単な方法を学びましょう
     <br>
