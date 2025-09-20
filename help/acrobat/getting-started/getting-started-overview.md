@@ -140,7 +140,7 @@ Webブラウザーのみを使用して、共有PDFーに[コメント](comment-
                       <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
                  <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/acrobat-studio" title="Acrobat Studioとは" target="_self" rel="referrer">
+                    <a href="https://experienceleague.adobe.com/ja/docs/document-cloud-learn/acrobat-learning/getting-started/acrobat-studio" title="Acrobat Studioとは" target="_self" rel="referrer">
                         <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/ja/docs/document-cloud-learn/acrobat-learning/by-industry/media_1f6d6f7b7584d916a156a186267c3d3790ae9144a.png?width=400&format=webply&optimize=medium" alt="Acrobat Studioとは"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
@@ -149,11 +149,11 @@ Webブラウザーのみを使用して、共有PDFーに[コメント](comment-
                      <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/acrobat-studio" target="_self" rel="referrer" title="Acrobat Studioとは">Acrobat Studioとは</a>
+                        <a href="https://experienceleague.adobe.com/ja/docs/document-cloud-learn/acrobat-learning/getting-started/acrobat-studio" target="_self" rel="referrer" title="Acrobat Studioとは">Acrobat Studioとは</a>
                     </p>
                     <p class="is-size-6">Acrobat Studioを使用して、ブランドセーフコンテンツを作成し、洞察を引き出し、複雑な作業を効率化する方法について説明します</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/acrobat-studio" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/ja/docs/document-cloud-learn/acrobat-learning/getting-started/acrobat-studio" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">視聴</span>
                 </a>
             </div>
