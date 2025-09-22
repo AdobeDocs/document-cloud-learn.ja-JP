@@ -25,7 +25,7 @@ ht-degree: 5%
    + [AIアシスタントでPDFのインサイトを見つける](getting-started/ai-assistant.md)
    + [Acrobat webでどこでも作業](getting-started/acrobatweb.md)
    + [Acrobat Studioとは](getting-started/acrobat-studio.md)
-   + [連携 [!DNL Microsoft 365]](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/integrations/integrate-overview.html#microsoft)
+   + [連携 [!DNL Microsoft 365]](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/integrations/integrate-overview.html?lang=ja#microsoft)
    + [PDFを作成](getting-started/create-pdf.md)
    + [ファイルを1つのPDFに結合](getting-started/combine-to-pdf.md)
    + [ページを整理](getting-started/organize.md)
@@ -140,5 +140,5 @@ ht-degree: 5%
    + [ETLA版のお客様向けのAcrobat DC製品の重要なアップデート](deploy/signentitlementchanges.md)
 + モバイル {#mobile}
    + [概要](mobile/mobile-overview.md)
-   + [外出先での生産性](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/getting-started/productivity.html)
+   + [外出先での生産性](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/getting-started/productivity.html?lang=ja)
    + [スキャンしたものはすべてPDFに保存](mobile/scan-mobile-app.md)
