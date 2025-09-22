@@ -18,7 +18,7 @@ ht-degree: 0%
 
 文書に署名する必要がある人が複数いますか？ 複数の人に電子サイン用の文書を正確に希望する順序で送信する方法について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/341296?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3425282?quality=12&learn=on&hidetitle=true&captions=jpn)
 
 >[!TIP]
 >
