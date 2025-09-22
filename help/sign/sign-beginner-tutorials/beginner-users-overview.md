@@ -7,10 +7,10 @@ level: Beginner
 jira: KT-6847
 thumbnail: KT-6847.jpg
 exl-id: e58ce43d-2e8e-4804-8f30-6591fa943607
-source-git-commit: 1889816bcd1abf3f5fae2d1c43f1ac0339005854
+source-git-commit: 165df9226be5dd82ba7dc2ab90b79adb39329815
 workflow-type: tm+mt
-source-wordcount: '472'
-ht-degree: 3%
+source-wordcount: '495'
+ht-degree: 2%
 
 ---
 
@@ -21,6 +21,10 @@ ht-degree: 3%
 ## 新機能
 
 >[!BEGINTABS]
+
+>[!TAB 複数の署名者に送信]
+
+電子サイン用の文書を、希望する順序で[複数のユーザー](send-to-multiple-recipients.md)に送信する方法を説明します。
 
 >[!TAB 1人の署名者に文書を送信する]
 
@@ -68,10 +72,10 @@ Acrobat Signを使うのは初めてですか？ この[チュートリアル](n
   </td>
   <td>
     <a href="send-to-multiple-recipients.md">
-      <img alt="複数の受信者への送信" src="../assets/send-to-multiple-recipient.png" />
+      <img alt="複数の署名者に送信" src="../assets/send-to-multiple-recipient.png" />
     </a>
     <div>
-    <a href="send-to-multiple-recipients.md"><strong>複数の受信者への送信</strong></a>
+    <a href="send-to-multiple-recipients.md"><strong>複数の署名者に送信</strong></a>
     </div>
     電子サイン用の文書を複数の宛先に正確に希望の順序で送信します
     <br>
