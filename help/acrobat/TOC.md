@@ -6,7 +6,7 @@ feature-set: Document Cloud
 role: User
 type: Tutorial
 auto-video-transcripts: true
-source-git-commit: d535bb4312111833c0cd7f64a62ea6494ca9ede9
+source-git-commit: 5f890cce38215bd0e3a507d1bbb313058246ebd9
 workflow-type: tm+mt
 source-wordcount: '522'
 ht-degree: 5%
@@ -21,11 +21,11 @@ ht-degree: 5%
    + [概要](getting-started/getting-started-overview.md)
    + [新しいAcrobatエクスペリエンス](getting-started/new-workspace.md)
    + [ワークスペースの基本](getting-started/get-to-know-the-acrobat-dc-interface.md)
-   + [PDFスペースでチームの効率を向上](getting-started/pdf-spaces-legal.md)
    + [AIアシスタントでPDFのインサイトを見つける](getting-started/ai-assistant.md)
-   + [Acrobat webでどこでも作業](getting-started/acrobatweb.md)
+   + [PDFスペースでチームの効率を向上](getting-started/pdf-spaces-legal.md)
    + [Acrobat Studioとは](getting-started/acrobat-studio.md)
-   + [連携 [!DNL Microsoft 365]](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/integrations/integrate-overview.html?lang=ja#microsoft)
+   + [連携 [!DNL Microsoft 365]](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/integrations/integrate-overview.html#microsoft)
+   + [Acrobat webでどこでも作業](getting-started/acrobatweb.md)
    + [PDFを作成](getting-started/create-pdf.md)
    + [ファイルを1つのPDFに結合](getting-started/combine-to-pdf.md)
    + [ページを整理](getting-started/organize.md)
@@ -121,7 +121,7 @@ ht-degree: 5%
    + 中央省庁 {#gov}
       + [概要](industry/gov/gov-overview.md)
       + Acrobatでどこでも作業するための5つのヒント {#tips}
-         + [Acrobatでどこでも作業するための5つのヒント](industry/gov/5-tips-for-working-anywhere-with-acrobat-dc-for-government.md)
+         + Acrobatでどこでも作業するための[5つのヒント](industry/gov/5-tips-for-working-anywhere-with-acrobat-dc-for-government.md)
          + [ヒント#1 – ツールを入手](industry/gov/get-your-tools.md)
          + [ヒント#2 – ドキュメントでの共同作業](industry/gov/collaborate-on-documents.md)
          + [ヒント#3 - Protectデジタルドキュメント](industry/gov/protect-digital-documents.md)
@@ -140,5 +140,5 @@ ht-degree: 5%
    + [ETLA版のお客様向けのAcrobat DC製品の重要なアップデート](deploy/signentitlementchanges.md)
 + モバイル {#mobile}
    + [概要](mobile/mobile-overview.md)
-   + [外出先での生産性](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/getting-started/productivity.html?lang=ja)
+   + [外出先での生産性](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/getting-started/productivity.html)
    + [スキャンしたものはすべてPDFに保存](mobile/scan-mobile-app.md)
