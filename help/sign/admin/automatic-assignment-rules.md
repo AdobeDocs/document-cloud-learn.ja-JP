@@ -17,4 +17,4 @@ ht-degree: 1%
 
 [Admin Console](https://adminconsole.adobe.com/)でAcrobat Signへのアクセス権をユーザーに付与する自動割り当てルールを設定する方法を説明します。これにより、プロビジョニングが合理化され、手動の管理作業が軽減されます。 Admin Consoleから生成された製品アクセスURLを使用して、他のユーザーをAcrobat Signに招待できます。
 
->[!VIDEO](https://video.tv.adobe.com/v/3475273?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3475285?quality=12&learn=on&hidetitle=true&captions=jpn)
