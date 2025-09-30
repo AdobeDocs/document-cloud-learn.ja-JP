@@ -115,7 +115,7 @@ ht-degree: 10%
       + [ [!DNL SharePoint] と [!DNL Power Automate]の間でファイルを自動アーカイブ](integrations/auto-archive-sharepoint-power-automate.md)
       + [ [!DNL Microsoft Power Platform]のAcrobat Signを使用した文書の自動処理](integrations/documentautomation.md)
       + [署名用に [!DNL Microsoft Teams]に送信](integrations/adobe-sign-teams-mortgage.md)
-      + [Adobe Acrobat Signでの [!DNL Microsoft Teams]](integrations/live-sign-microsoft-teams.md)のライブサイン
+      + [Adobe Acrobat Signでの [!DNL Microsoft Teams]のライブサイン](integrations/live-sign-microsoft-teams.md)
       + [ [!DNL Microsoft Teams]のドキュメントタブの統合](integrations/acrobat-sign-teams-documents-tab.md)
       + [ [!DNL Power Automate]で簡単なワークフローを作成](integrations/simple-workflow-power-automate.md)
       + [ [!DNL Power Automate]で高度なワークフローを作成します](integrations/advanced-workflow-power-automate.md)
