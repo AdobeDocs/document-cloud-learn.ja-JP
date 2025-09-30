@@ -8,9 +8,9 @@ jira: KT-6849
 topic-revisit: Administration
 thumbnail: KT-6849.jpg
 exl-id: 1b6ea9f0-6bbb-4ea5-aa22-bfa42f7cca18
-source-git-commit: 16666ba6f96f85182fd7b8b4741bd3a009f5159a
+source-git-commit: 1aa7b65e507c6138b2adee6248153a1414afa4f1
 workflow-type: tm+mt
-source-wordcount: '631'
+source-wordcount: '666'
 ht-degree: 1%
 
 ---
@@ -23,6 +23,10 @@ ht-degree: 1%
 
 >[!BEGINTABS]
 
+>[!TAB ユーザーの自動割り当てルールを有効にする]
+
+Admin Console内のAcrobat Signへのアクセスをユーザーに許可する[自動割り当てルール](automatic-assignment-rules.md)を設定する方法について説明します。
+
 >[!TAB Docusignテンプレートの移行]
 
 3つの簡単な手順で、[Docusignテンプレート](docusign-templates.md)とワークフローをシームレスに移行する方法について説明します。
@@ -30,10 +34,6 @@ ht-degree: 1%
 >[!TAB 新しいユーザーを追加する]
 
 [Acrobat Signに新しいユーザーを追加](add-users-to-your-account.md)する方法を説明します。
-
->[!TAB プライバシー管理者を設定する方法]
-
-[プライバシー管理者](privacy.md)を設定および使用する方法について説明します。
 
 >[!ENDTABS]
 
@@ -84,6 +84,16 @@ ht-degree: 1%
 </tr>
 <tr>
   <td>
+    <a href="automatic-assignment-rules.md">
+      <img alt="ユーザーの自動割り当てルールを有効にする" src="../assets/automatic-assignment.png" />
+    </a>
+    <div>
+    <a href="automatic-assignment-rules.md"><strong>ユーザーの自動割り当てルールを有効にする</strong></a>
+    </div>
+    <em>Admin Console内のAcrobat Signへのアクセス権をユーザーに付与する自動割り当てルールを設定する方法を説明します</em>
+    <br>
+  </td>
+  <td>
     <a href="add-admin.md">
       <img alt="新しいアカウント管理者を追加" src="../assets/add-admin.png" />
     </a>
@@ -93,14 +103,14 @@ ht-degree: 1%
     <em>新しいユーザーを作成する方法、または既存のユーザーをAcrobat Sign管理者ロールに昇格させる方法を説明します</em>
     <br>
   </td>
-  <td>
-      <a href="set-up-shared-events-and-alert.md">
-        <img alt="共有イベントとアラートの設定" src="../assets/notifications.png" />
+    <td>
+      <a href="promote-admin.md">
+        <img alt="製品およびサポート管理者の役割の割り当て" src="../assets/assign-product.png" />
       </a>
       <div>
-      <a href="set-up-shared-events-and-alert.md"><strong>イベントとアラートの通知を構成する</strong></a>
+      <a href="promote-admin.md"><strong>製品とサポートの管理者の役割の割り当て</strong></a>
       </div>
-      <em>アカウントのイベントとアラートの通知を構成する</em>
+      <em>Acrobat Signユーザーの製品管理者およびサポート管理者の役割をAdmin Consoleに割り当てる方法を説明します</em>
       <br>
     </td>
     <td>
@@ -113,7 +123,9 @@ ht-degree: 1%
       <em>グループの作成、グループへのユーザーの追加、およびグループ設定の編集</em>
       <br>
     </td>
-    <td>
+</tr>
+<tr>
+ <td>
       <a href="set-up-your-external-archive.md">
         <img alt="外部アーカイブの設定" src="../assets/external-archive.png" />
       </a>
@@ -123,8 +135,6 @@ ht-degree: 1%
       <em>署名済みの契約書のバックアップコピーの外部アーカイブを作成する</em>
       <br>
     </td>
-</tr>
-<tr>
   <td>
     <a href="../sign-advanced-users/create-a-template.md">
       <img alt="文書テンプレートの作成" src="../assets/create-template.png" />
@@ -155,7 +165,9 @@ ht-degree: 1%
     <em>ユーザーのレポートオプションを設定する方法を説明します</em>
     <br>
   </td>
-  <td>
+</tr>  
+<tr>
+   <td>
     <a href="../sign-advanced-users/webform.md">
       <img alt="Webフォームの作成" src="../assets/web-form.png" />
     </a>
@@ -165,9 +177,7 @@ ht-degree: 1%
     <em>Webサイトで直接電子サインできる文書を作成</em>
     <br>
   </td>
-</tr>  
-<tr>
-   <td>
+  <td>
     <a href="../sign-advanced-users/modify-webform.md">
       <img alt="既存のwebフォームを変更" src="../assets/modify-web-form.png" />
     </a>
@@ -197,7 +207,9 @@ ht-degree: 1%
     <em>文書ワークフローを自動化して、電子サインとデータをすばやく取得</em>
     <br>
   </td>
-  <td>
+</tr>
+<tr>
+     <td>
     <a href="audit-reports.md">
       <img alt="監査レポート" src="../assets/audit-report.png" />
     </a>
@@ -206,22 +218,15 @@ ht-degree: 1%
     </div>
     <em>監査レポートにアクセスし、利用し、構成する方法の詳細</em>
     <br>
-  </td>
-</tr>
-<tr>
-    <td>
-      <a href="promote-admin.md">
-        <img alt="製品およびサポート管理者の役割の割り当て" src="../assets/assign-product.png" />
-      </a>
-      <div>
-      <a href="promote-admin.md"><strong>製品とサポートの管理者の役割の割り当て</strong></a>
-      </div>
-      <em>Acrobat Signユーザーの製品管理者およびサポート管理者の役割をAdmin Consoleに割り当てる方法を説明します</em>
-      <br>
     </td>
     <td>
-      <img alt="スペーサー" src="../assets/Whitespacer.png" />
+      <a href="set-up-shared-events-and-alert.md">
+        <img alt="共有イベントとアラートの設定" src="../assets/notifications.png" />
+      </a>
       <div>
+      <a href="set-up-shared-events-and-alert.md"><strong>イベントとアラートの通知を構成する</strong></a>
+      </div>
+      <em>アカウントのイベントとアラートの通知を構成する</em>
       <br>
     </td>
     <td>
