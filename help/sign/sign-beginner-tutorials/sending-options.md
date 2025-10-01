@@ -7,7 +7,7 @@ level: Beginner
 jira: KT-10980
 thumbnail: KT-10980.jpg
 exl-id: 86c0825e-1f40-428f-ad0d-b69118c72be1
-source-git-commit: c4f71ecbe34c7141abaad8c2c5a990fc49006279
+source-git-commit: 80704a995b5767b5aa45f9a71bcbdcdea7e1a67c
 workflow-type: tm+mt
 source-wordcount: '65'
 ht-degree: 0%
@@ -20,6 +20,6 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->送信オプションは管理者が設定できるため、このチュートリアルで説明されているオプションとまったく同じものが表示されない場合があります。
+>管理者が送信オプションをカスタマイズしている可能性があるため、表示されるオプションはこのチュートリアルで示されるオプションとは異なる場合があります。
 
->[!VIDEO](https://video.tv.adobe.com/v/3412765?quality=12&learn=on&hidetitle=true&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/346675?quality=12&learn=on&hidetitle=true)
