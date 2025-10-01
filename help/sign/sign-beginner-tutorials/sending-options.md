@@ -7,15 +7,19 @@ level: Beginner
 jira: KT-10980
 thumbnail: KT-10980.jpg
 exl-id: 86c0825e-1f40-428f-ad0d-b69118c72be1
-source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
+source-git-commit: c4f71ecbe34c7141abaad8c2c5a990fc49006279
 workflow-type: tm+mt
-source-wordcount: '47'
+source-wordcount: '65'
 ht-degree: 0%
 
 ---
 
 # 送信オプションの設定
 
-署名用に文書を送信する際の様々なオプションの設定方法について説明します。 ドキュメントメッセージ、ファイル形式、リマインダーの頻度、ドキュメントの有効期限を設定する方法について説明します。
+署名用に文書を送信する際に、契約書の詳細をカスタマイズしたり、ファイルを添付したり、リマインダー、有効期限、受信者の言語などの追加設定を構成したりする方法について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3412765?quality=12&learn=on&hidetitle=true&captions=jpn)
+>[!NOTE]
+>
+>送信オプションは管理者が設定できるため、このチュートリアルで説明されているオプションとまったく同じものが表示されない場合があります。
+
+>[!VIDEO](https://video.tv.adobe.com/v/346675?quality=12&learn=on&hidetitle=true)
