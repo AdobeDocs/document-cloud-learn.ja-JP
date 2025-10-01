@@ -22,4 +22,4 @@ ht-degree: 0%
 >
 >管理者が送信オプションをカスタマイズしている可能性があるため、表示されるオプションはこのチュートリアルで示されるオプションとは異なる場合があります。
 
->[!VIDEO](https://video.tv.adobe.com/v/346675?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3412765?quality=12&learn=on&hidetitle=true&captions=jpn)
