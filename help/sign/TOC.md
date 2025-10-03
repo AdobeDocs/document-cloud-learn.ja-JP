@@ -2,11 +2,11 @@
 user-guide-title: Acrobat SignTutorials
 solution: Acrobat Sign
 solution-title: Learning Hub
-solution-hub-url: https://helpx.adobe.com/support/sign.html
+solution-hub-url: https://helpx.adobe.com/jp/support/sign.html
 getting-started-title: Getting Started
-getting-started-url: https://helpx.adobe.com/sign/using/get-started-guide.html
+getting-started-url: https://helpx.adobe.com/jp/sign/using/get-started-guide.html
 tutorials-title: Tutorials
-tutorials-url: https://helpx.adobe.com/sign/tutorials.html
+tutorials-url: https://helpx.adobe.com/jp/sign/tutorials.html
 breadcrumb-title: Acrobat SignTutorials
 feature-set: Document Cloud
 feature: Use Cases, Web Forms, Workflow, Sign, Payments, Report, Workspace, Deadline, Administration, Digital ID, Form, Integrations, Mobile, Skill Builder
@@ -35,7 +35,7 @@ ht-degree: 10%
       + [送信後の文書の変更](sign-beginner-tutorials/modify-in-flight.md)
       + [署名者の置き換え](sign-beginner-tutorials/replace-signer.md)
       + [期限とリマインダーの設定](sign-beginner-tutorials/set-deadlines-reminders.md)
-      + [再利用可能なテンプレートを作成](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/create-a-template.html)
+      + [再利用可能なテンプレートを作成](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/create-a-template.html?lang=ja)
    + 署名 {#getting-started-signing}
       + [文書の電子サイン](sign-beginner-tutorials/electronically-sign-a-document.md)
       + [文書への入力と署名](sign-beginner-tutorials/fill-and-sign.md)
@@ -54,9 +54,9 @@ ht-degree: 10%
       + [Acrobat Signの認証方法](sign-advanced-users/authentication-methods.md)
       + [フォームデータを管理](sign-advanced-users/manage-form-data.md)
       + [オンライン決済の設定](sign-advanced-users/set-up-online-payments.md)
-      + [一括送信](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/megasign.html)
-      + [Webフォームを作成しています](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/webform.html)
-      + [Acrobat Signのテキストタグ付け](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/advanced-tasks-admins/adobe-sign-text-tagging.html)
+      + [一括送信](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/megasign.html?lang=ja)
+      + [Webフォームを作成しています](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/webform.html?lang=ja)
+      + [Acrobat Signのテキストタグ付け](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/advanced-tasks-admins/adobe-sign-text-tagging.html?lang=ja)
       + [&#x200B; [!DNL Microsoft Word]でテキストタグを使用しています](sign-advanced-users/text-tagging-word.md)
    + 管理 {#advanced-tasks-managing}
       + [レポートとトランザクションの使用状況](sign-advanced-users/creating-a-report.md)
@@ -76,10 +76,10 @@ ht-degree: 10%
       + [グループの作成と管理](admin/create-and-manage-groups.md)
       + [外部アーカイブの設定](admin/set-up-your-external-archive.md)
       + [再利用可能なテンプレートを作成](sign-advanced-users/create-a-template.md)
-      + [レポートとトランザクションの使用状況](https://experienceleague.adobe.com/en/docs/document-cloud-learn/sign-learning-hub/advanced-tasks/advanced-tasks-managing/creating-a-report)
+      + [レポートとトランザクションの使用状況](https://experienceleague.adobe.com/ja/docs/document-cloud-learn/sign-learning-hub/advanced-tasks/advanced-tasks-managing/creating-a-report)
       + [ユーザーのレポートオプション](admin/report-options.md)
       + [Webフォームの作成](sign-advanced-users/webform.md)
-      + [既存のWebフォームを変更する](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/advanced-tasks/advanced-tasks-managing/modify-webform.html)
+      + [既存のWebフォームを変更する](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/advanced-tasks/advanced-tasks-managing/modify-webform.html?lang=ja)
       + [一括送信](sign-advanced-users/megasign.md)
       + [カスタムワークフローの作成](admin/building-a-custom-workflow.md)
       + [監査レポート](admin/audit-reports.md)
