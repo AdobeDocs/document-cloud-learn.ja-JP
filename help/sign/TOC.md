@@ -57,7 +57,7 @@ ht-degree: 10%
       + [一括送信](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/megasign.html)
       + [Webフォームを作成しています](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/webform.html)
       + [Acrobat Signのテキストタグ付け](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/advanced-tasks-admins/adobe-sign-text-tagging.html)
-      + [ [!DNL Microsoft Word]でテキストタグを使用しています](sign-advanced-users/text-tagging-word.md)
+      + [&#x200B; [!DNL Microsoft Word]でテキストタグを使用しています](sign-advanced-users/text-tagging-word.md)
    + 管理 {#advanced-tasks-managing}
       + [レポートとトランザクションの使用状況](sign-advanced-users/creating-a-report.md)
       + [文書テンプレートの管理](sign-advanced-users/edit-a-template.md)
@@ -97,7 +97,7 @@ ht-degree: 10%
    + Aadhaar {#aadhaar}
       + [Aadhaarを使用した署名](digitalid/aadhaar-sign.md)
    + Digidentity {#digidentity}
-      + [ [!DNL Digidentity]を使用して登録および署名](digitalid/digidentity-sign.md)
+      + [&#x200B; [!DNL Digidentity]を使用して登録および署名](digitalid/digidentity-sign.md)
    + D-Trust {#dtrust}
       + [[!DNL D-Trust]を使用して登録および署名](digitalid/d-trust.md)
    + Intesi Group {#intesi}
@@ -110,36 +110,36 @@ ht-degree: 10%
       + [入力とサインイン中 [!DNL Outlook]](integrations/fill-and-sign-doc-microsoft-outlook.md)
       + [署名用に [!DNL Outlook]に送信](integrations/send-for-signature-with-outlook.md)
       + [署名用に [!DNL SharePoint Online]に送信](integrations/send-for-signature-with-sharepoint-online.md)
-      + [ [!DNL SharePoint Online]で追跡中](integrations/track-an-agreement-with-sharepoint-online.md)
+      + [&#x200B; [!DNL SharePoint Online]で追跡中](integrations/track-an-agreement-with-sharepoint-online.md)
       + [Webフォームを [!DNL SharePoint Online]と統合する](integrations/integrate-web-form-sharepoint-online.md)
-      + [ [!DNL SharePoint] と [!DNL Power Automate]の間でファイルを自動アーカイブ](integrations/auto-archive-sharepoint-power-automate.md)
-      + [ [!DNL Microsoft Power Platform]のAcrobat Signを使用した文書の自動処理](integrations/documentautomation.md)
+      + [&#x200B; [!DNL SharePoint] と [!DNL Power Automate]の間でファイルを自動アーカイブ](integrations/auto-archive-sharepoint-power-automate.md)
+      + [&#x200B; [!DNL Microsoft Power Platform]のAcrobat Signを使用した文書の自動処理](integrations/documentautomation.md)
       + [署名用に [!DNL Microsoft Teams]に送信](integrations/adobe-sign-teams-mortgage.md)
-      + [Adobe Acrobat Signでの [!DNL Microsoft Teams]](integrations/live-sign-microsoft-teams.md)のライブサイン
-      + [ [!DNL Microsoft Teams]のドキュメントタブの統合](integrations/acrobat-sign-teams-documents-tab.md)
-      + [ [!DNL Power Automate]で簡単なワークフローを作成](integrations/simple-workflow-power-automate.md)
-      + [ [!DNL Power Automate]で高度なワークフローを作成します](integrations/advanced-workflow-power-automate.md)
+      + [Adobe Acrobat Signでの [!DNL Microsoft Teams]のライブサイン](integrations/live-sign-microsoft-teams.md)
+      + [&#x200B; [!DNL Microsoft Teams]のドキュメントタブの統合](integrations/acrobat-sign-teams-documents-tab.md)
+      + [&#x200B; [!DNL Power Automate]で簡単なワークフローを作成](integrations/simple-workflow-power-automate.md)
+      + [&#x200B; [!DNL Power Automate]で高度なワークフローを作成します](integrations/advanced-workflow-power-automate.md)
       + [カスタマーサービスの[!DNL Microsoft Dynamics 365]](integrations/dynamics-customer-service.md)
       + [フィールドサービスの[!DNL Microsoft Dynamics 365]](integrations/dynamics-field-service.md)
       + [販売の[!DNL Microsoft Dynamics 365]](integrations/dynamics-sales.md)
    + Notarize {#notarize}
       + [公証用に文書を送信](integrations/send-document-notarize.md)
    + Salesforce {#salesforce}
-      + [ [!DNL Salesforce]のDocument Builder](integrations/create-an-agreement-template.md)
+      + [&#x200B; [!DNL Salesforce]のDocument Builder](integrations/create-an-agreement-template.md)
       + [データマッピングの設定](integrations/set-up-data-mapping.md)
       + [結合マッピングの設定](integrations/set-up-merging-map.md)
       + [カスタムボタンの作成](integrations/create-a-custom-button.md)
       + [自動更新を設定する](integrations/salesforce-automatic-updates.md)
       + [大きなファイルとプッシュマッピングの設定](integrations/salesforce-large-files.md)
    + Workday {#workday}
-      + [ [!DNL Workday]を使用してAcrobat Signを構成しています](integrations/workday.md)
+      + [&#x200B; [!DNL Workday]を使用してAcrobat Signを構成しています](integrations/workday.md)
       + [Acrobat Sign + Workday新規採用オンボーディング](integrations/acrobat-sign-workday-onboarding.md)
    + Marketo {#marketo}
-      + [ [!DNL Salesforce] とMarketo用のAcrobat Signを使用して通知を送信](integrations/marketo-salesforce-sms.md)
+      + [&#x200B; [!DNL Salesforce] とMarketo用のAcrobat Signを使用して通知を送信](integrations/marketo-salesforce-sms.md)
       + [Acrobat Sign （ [!DNL Salesforce] 向け）とMarketoビデオチュートリアルを使用してリマインダーを送信する](integrations/marketo-salesforce-reminder-video.md)
       + [Acrobat Sign （ [!DNL Salesforce] 向け）とMarketo設定ガイドを使用してリマインダーを送信](integrations/marketo-salesforce-reminder.md)
-      + [ [!DNL Microsoft Dynamics] とMarketo用のAcrobat Signを使用して通知を送信](integrations/marketo-dynamics-sms.md)
-      + [ [!DNL Microsoft Dynamics 365] およびMarketoのAcrobat Signを使用してリマインダーを送信](integrations/marketo-dynamics-reminder.md)
+      + [&#x200B; [!DNL Microsoft Dynamics] とMarketo用のAcrobat Signを使用して通知を送信](integrations/marketo-dynamics-sms.md)
+      + [&#x200B; [!DNL Microsoft Dynamics 365] およびMarketoのAcrobat Signを使用してリマインダーを送信](integrations/marketo-dynamics-reminder.md)
 + 業界と部門 {#expand}
    + [概要](sign-usecase/expand-inspire-overview.md)
    + スキルビルダー {#innovation}
