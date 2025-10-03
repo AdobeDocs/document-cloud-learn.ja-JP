@@ -8,9 +8,9 @@ jira: KT-6849
 topic-revisit: Administration
 thumbnail: KT-6849.jpg
 exl-id: 1b6ea9f0-6bbb-4ea5-aa22-bfa42f7cca18
-source-git-commit: 2ad4bdf7af7560958ca90ebc14d09348b0352e49
+source-git-commit: 07e2a5a81b23efc49934c9693c625da47882f43f
 workflow-type: tm+mt
-source-wordcount: '666'
+source-wordcount: '678'
 ht-degree: 2%
 
 ---
@@ -22,6 +22,10 @@ ht-degree: 2%
 ## 新機能
 
 >[!BEGINTABS]
+
+>[!TAB 再利用可能なテンプレートを作成]
+
+[再利用可能な文書テンプレート](../sign-advanced-users/create-a-template.md)を作成する方法について説明します。
 
 >[!TAB ユーザーの自動割り当てルールを有効にする]
 
