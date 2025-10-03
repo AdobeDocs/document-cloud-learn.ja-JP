@@ -18,7 +18,7 @@ ht-degree: 5%
 
 再利用可能な文書テンプレートを作成して、後で使用できるようにAcrobat Signライブラリに追加する方法について説明します。 文書テンプレートを使用すると、署名トランザクションを迅速かつ一貫性のある方法で処理できるほか、文書の改訂や変更を管理する機能も利用できます。
 
->[!VIDEO](https://video.tv.adobe.com/v/38037?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/347141?quality=12&learn=on&hidetitle=true&captions=jpn)
 
 >[!TIP]
 >
