@@ -7,7 +7,7 @@ level: Beginner
 jira: KT-6847
 thumbnail: KT-6847.jpg
 exl-id: e58ce43d-2e8e-4804-8f30-6591fa943607
-source-git-commit: c4f71ecbe34c7141abaad8c2c5a990fc49006279
+source-git-commit: 2ad4bdf7af7560958ca90ebc14d09348b0352e49
 workflow-type: tm+mt
 source-wordcount: '511'
 ht-degree: 2%
@@ -139,10 +139,15 @@ Acrobat Signを使うのは初めてですか？ この[チュートリアル](n
       <br>
     </td> 
   <td>
-      <img alt="スペーサー" src="../assets/Whitespacer.png" />
-      <div>
-      <br>
-    </td>
+    <a href="../sign-advanced-users/create-a-template.md">
+      <img alt="再利用可能なテンプレートを作成" src="../assets/create-template.png" />
+    </a>
+    <div>
+    <a href="../sign-advanced-users/create-a-template.md"><strong>再利用可能なテンプレートを作成</strong></a>
+    </div>
+    再利用可能な文書テンプレートを作成して、組織の速度と一貫性を確保できます
+    <br>
+  </td>
     <td>
       <img alt="スペーサー" src="../assets/Whitespacer.png" />
       <div>
@@ -250,13 +255,8 @@ Acrobat Signを使うのは初めてですか？ この[チュートリアル](n
     <br>
   </td>
   <td>
-    <a href="../sign-advanced-users/create-a-template.md">
-      <img alt="文書テンプレートの作成" src="../assets/create-template.png" />
-    </a>
+    <img alt="スペーサー" src="../assets/Whitespacer.png" />
     <div>
-    <a href="../sign-advanced-users/create-a-template.md"><strong>ドキュメントテンプレートを作成しています</strong></a>
-    </div>
-    再利用可能な文書テンプレートを作成して、組織の速度と一貫性を確保できます
     <br>
   </td>
   <td>
