@@ -1,27 +1,76 @@
 ---
 title: Acrobat Signテキストタグ付け
-description: Adobe Acrobatを使用してテキストタグ付けによりAcrobat Signフォームフィールドを構築する方法について説明します。
+description: テキストタグ付けによってAcrobat Signフォームフィールドを構築する方法について説明します。
 feature: Workflow, Sign
 role: User, Admin
 level: Experienced
 jira: KT-6059
 thumbnail: KT-6402.jpg
 exl-id: 3a54925d-b713-487b-92b7-ec7160513696,c981c640-e50a-4952-ac39-2f90d6d0cf08
-source-git-commit: 03197d1b968dd53c3e92183ae3fa321e3b03b01c
+source-git-commit: 06ec359f950cc8e589bc6c97219acc32f460b969
 workflow-type: tm+mt
-source-wordcount: '152'
-ht-degree: 0%
+source-wordcount: '402'
+ht-degree: 2%
 
 ---
 
 # Acrobat Signテキストタグ付け
 
-このウェビナー（参加登録は不要）では、Adobe Acrobatを使用してテキストタグ付きのAcrobat Signフォームフィールドを作成する方法について説明します。 テキストタグ付けにより、多くのフォームフィールドを持つ文書の作成と修正にかかる時間が大幅に短縮されます。 文書の送信者は、すべての文書に個別のフィールドを配置する必要がないため、時間を大幅に節約できます。 その他の利点には、フォームフィールドの検証（正確でエラーのないデータ収集）やプロフェッショナルなフォームデザインの一貫性などがあります。 ウェビナーではQ&amp;Aポッドを使って質問をお送りください。 下の画像をクリックして、録画の視聴を開始します。
+テキストタグ付きのAcrobat Signフォームフィールドを作成する方法について説明します。 テキストタグは、Microsoft Word、Adobe InDesignなどのオーサリングツールに直接追加できます。また、AcrobatのPDFを使用している場合にも追加できます。 これにより、Acrobat Signで使用する文書を作成する手間が大幅に軽減されます。 Acrobat Signでタグ付き文書をアップロードした後、テンプレートとして設定できます。これにより、誰もが文書にフィールドを追加する必要がなくなります。
 
-[![セッションを見る](../assets/tagging.png)](https://event.on24.com/wcc/r/2338276/415BE4603F60A61A546C0A91528B444F)
+## はじめに
 
-[記録されたウェビナーでAcrobat Signテキストのタグ付けを視聴](https://event.on24.com/wcc/r/2338276/415BE4603F60A61A546C0A91528B444F)
+テキストタグは、次のエレメントに対して一意に書式設定されたテキストで、文書内の任意の場所に配置されます
+Acrobat Signにアップロードすると、フィールドとして自動的に認識されます。
 
->[!TIP]
->
->このビデオは、Experience Leagueで無料で利用できる[ユーザー向けの高度なタスク](https://experienceleague.adobe.com/ja/playlists/acrobat-sign-get-started-business-users)と[管理者のための高度なタスク](https://experienceleague.adobe.com/ja/playlists/acrobat-sign-perform-advanced-tasks-administrators)のプレイリストの一部です。
+    ![テキストタグの構文](../assets/syntax.png)
+
+テキストタグは、Microsoft Word、Adobe InDesign、または
+AcrobatというPDFがあります。 テキストタグを使用すると、準備にかかる労力が大幅に軽減されます
+Acrobat Signで使用される文書。
+
+## Microsoft Wordでのタグの追加
+
+Microsoft Word文書にテキストタグを追加するには、この[ビデオチュートリアル](text-tagging-word.md)を参照してください。
+
+## Acrobatでのタグの追加
+
+Adobe Acrobatには、堅牢なドラッグ&amp;ドロップフォームオーサリング環境が用意されています。 Acrobatでテキストタグを適用すると、Acrobat Signで利用できる機能を利用できるようになります。
+
+1. Acrobatでフォームを開きます。
+
+1. **[!UICONTROL すべてのツール]**&#x200B;パネルから&#x200B;**[!UICONTROL フォームを準備]**&#x200B;を選択します。
+
+1. **[!UICONTROL [フォームの作成]]**&#x200B;を選択します。
+
+1. **[!UICONTROL オプション]**&#x200B;パネルのドロップダウンから「**[!UICONTROL フォームを電子サイン用に準備]**」を選択します。
+
+   ![電子サイン用のフォームを準備](../assets/tag-prepare-e-signing.png)
+
+1. 「**[!UICONTROL 次へ]**」を選択して確定します。
+
+   ![フィールドの変換を確認](../assets/tag-confirm.png)
+
+1. フィールドをダブルクリックして、**[!UICONTROL プロパティ]**&#x200B;ダイアログを表示します。
+
+   [Acrobat Signテキストタグガイド](https://helpx.adobe.com/jp/sign/using/text-tag.html)で説明されている構文を使用して、フォームフィールド名を変更します。
+
+1. 例えば、フィールド名に&#x200B;*OInt_es_:signer1:optinitials*&#x200B;と入力すると、最初のフィールドを省略可能にすることができます。
+
+   ![フィールド名の変更](../assets/tag-opt-initials.png)
+
+   テキストタグはフォームフィールド名に追加されます。Microsoft Word（またはその他のオーサリングツール）で使用する構文とは異なり、中括弧は含まれません。
+
+   テキストタグは、フォームフィールドの名前を変更するだけで、フィールドパネルに追加することもできます。
+
+   ![フィールドパネルで名前を変更](../assets/tag-rename.png)
+
+1. ファイルを保存して閉じます。
+
+1. Acrobat Signでファイルをアップロードし、次のセクションで説明する再利用可能なテンプレートを作成します。
+
+## 再利用可能なテンプレートを作成
+
+タグ付き文書を作成した後、それを再利用可能なテンプレートとして設定することで、誰もが文書にフィールドを追加する必要がなくなります。
+
+再利用可能なテンプレートを作成するには、この[ビデオチュートリアル](../sign-advanced-users/create-a-template.md)を参照してください。
