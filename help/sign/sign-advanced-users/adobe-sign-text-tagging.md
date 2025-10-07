@@ -7,10 +7,10 @@ level: Experienced
 jira: KT-6059
 thumbnail: KT-6402.jpg
 exl-id: 3a54925d-b713-487b-92b7-ec7160513696,c981c640-e50a-4952-ac39-2f90d6d0cf08
-source-git-commit: 06ec359f950cc8e589bc6c97219acc32f460b969
+source-git-commit: 656c87201aca58de947cb835f610f6c82a814d57
 workflow-type: tm+mt
-source-wordcount: '402'
-ht-degree: 2%
+source-wordcount: '400'
+ht-degree: 3%
 
 ---
 
@@ -20,20 +20,17 @@ ht-degree: 2%
 
 ## はじめに
 
-テキストタグは、次のエレメントに対して一意に書式設定されたテキストで、文書内の任意の場所に配置されます
-Acrobat Signにアップロードすると、フィールドとして自動的に認識されます。
+テキストタグとは、文書内の任意の場所に配置された一意に書式設定されたテキストの断片であり、Acrobat Signにアップロードするとフィールドとして自動的に認識されます。
 
-    ![テキストタグの構文](../assets/syntax.png)
+![テキストタグの構文](../assets/syntax.png)
 
-テキストタグは、Microsoft Word、Adobe InDesign、または
-AcrobatというPDFがあります。 テキストタグを使用すると、準備にかかる労力が大幅に軽減されます
-Acrobat Signで使用される文書。
+テキストタグは、Microsoft Word、Adobe InDesignなどのオーサリングツールに直接追加できます。また、AcrobatなどのPDFを使用している場合にも追加できます。 テキストタグを使用すると、Acrobat Signで使用する文書を作成する手間が大幅に軽減されます。
 
-## Microsoft Wordでのタグの追加
+### Microsoft Wordでのタグの追加
 
 Microsoft Word文書にテキストタグを追加するには、この[ビデオチュートリアル](text-tagging-word.md)を参照してください。
 
-## Acrobatでのタグの追加
+### Acrobatでのタグの追加
 
 Adobe Acrobatには、堅牢なドラッグ&amp;ドロップフォームオーサリング環境が用意されています。 Acrobatでテキストタグを適用すると、Acrobat Signで利用できる機能を利用できるようになります。
 
@@ -69,7 +66,7 @@ Adobe Acrobatには、堅牢なドラッグ&amp;ドロップフォームオー�
 
 1. Acrobat Signでファイルをアップロードし、次のセクションで説明する再利用可能なテンプレートを作成します。
 
-## 再利用可能なテンプレートを作成
+### 再利用可能なテンプレートを作成
 
 タグ付き文書を作成した後、それを再利用可能なテンプレートとして設定することで、誰もが文書にフィールドを追加する必要がなくなります。
 
