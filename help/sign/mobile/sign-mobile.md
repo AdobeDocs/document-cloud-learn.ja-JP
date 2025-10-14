@@ -15,6 +15,6 @@ ht-degree: 5%
 
 # 外出先で文書に署名
 
-[iOS](https://apps.apple.com/jp/app/adobe-sign/id481082197)または[Android](https://play.google.com/store/apps/details?id=com.adobe.echosign&amp;hl=ja)用Acrobat Signモバイルアプリを使用して文書に署名する方法について説明します。
+[iOS](https://apps.apple.com/jp/app/adobe-sign/id481082197)または[Android](https://play.google.com/store/apps/details?id=com.adobe.echosign&hl=ja)用Acrobat Signモバイルアプリを使用して文書に署名する方法について説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3439031?quality=12&learn=on&hidetitle=true&captions=jpn)

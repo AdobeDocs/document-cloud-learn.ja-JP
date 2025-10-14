@@ -107,15 +107,15 @@ ht-degree: 5%
    + [ウェビナー](skill-builder/skill-builder-webinars.md)
 + 統合 {#integrations}
    + [概要](integrate/integrate-overview.md)
-   + [ [!DNL Microsoft Word]からPDFを作成](integrate/createfromword.md)
+   + [&#x200B; [!DNL Microsoft Word]からPDFを作成](integrate/createfromword.md)
    + [Web用 [!DNL Office] でPDFを作成](integrate/createofficeweb.md)
-   + [ [!DNL Microsoft Teams]でのPDFの共同作業](integrate/acrobatandteams.md)
-   + [ [!DNL SharePoint] ファイルの操作](integrate/acrobatandsp.md)
+   + [&#x200B; [!DNL Microsoft Teams]でのPDFの共同作業](integrate/acrobatandteams.md)
+   + [&#x200B; [!DNL SharePoint] ファイルの操作](integrate/acrobatandsp.md)
    + [電子メールメッセージと添付ファイルを [!DNL Outlook]内のPDFに変換](integrate/outlook.md)
-   + [ [!DNL Microsoft Edge]で参照中にPDFコンテンツを作成する](integrate/edge.md)
-   + [ [!DNL Microsoft Purview Information] 秘密度ラベルを使用したProtect PDF](integrate/microsoftsensitivitylabels.md)
-   + [ [!DNL Google Drive]のAdobe Acrobat](integrate/acrobatandgoogle.md)
-   + [ [!DNL Dropbox]のファイルを使用する](integrate/acrobat-dropbox.md)
+   + [&#x200B; [!DNL Microsoft Edge]で参照中にPDFコンテンツを作成する](integrate/edge.md)
+   + [&#x200B; [!DNL Microsoft Purview Information] 秘密度ラベルを使用したProtect PDF](integrate/microsoftsensitivitylabels.md)
+   + [&#x200B; [!DNL Google Drive]のAdobe Acrobat](integrate/acrobatandgoogle.md)
+   + [&#x200B; [!DNL Dropbox]のファイルを使用する](integrate/acrobat-dropbox.md)
 + 業界と部門 {#by-industry}
    + [概要](industry/industry-overview.md)
    + 中央省庁 {#gov}
