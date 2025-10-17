@@ -5,16 +5,16 @@ feature: Gen AI
 role: User
 level: Beginner, Intermediate
 jira: KT-19422
-source-git-commit: 6fe3549230e9c277ba4e936b947d5c9d5d6c481d
+source-git-commit: d23c32d7123e1611d667358b1b070d5d421d2887
 workflow-type: tm+mt
-source-wordcount: '185'
+source-wordcount: '196'
 ht-degree: 1%
 
 ---
 
 # AIを活用した概要
 
-AcrobatのAIを活用したツールについて説明します。
+AIによってPDFワークフローがどのように変化するかを説明します。 文書作業を簡素化し、生産性を向上させるツールについて説明します。
 
 ## 新機能
 
@@ -82,7 +82,7 @@ PDFで[PDFの詳細情報](../getting-started/ai-assistant.md)を確認する方
 <tr>
   <td>
   <a href="../getting-started/stylize-this-pdf.md">
-      <img alt="このPDFをスタイライズ" src="../assets/ai-powered.png" />
+      <img alt="このPDFをスタイライズ" src="../assets/stylize-pdf.png" />
     </a>
     <div>
     <a href="../getting-started/stylize-this-pdf.md"><strong>このPDFのスタイルを設定する</strong></a>
