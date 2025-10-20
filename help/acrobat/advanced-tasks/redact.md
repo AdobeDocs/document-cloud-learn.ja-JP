@@ -7,9 +7,9 @@ level: Intermediate
 jira: KT-6804
 thumbnail: KT-6804.jpg
 exl-id: 39ba66c7-bc9a-4ecc-b337-f03d31257877
-source-git-commit: 42950a5df4b6993796a55b3a1de847c1d395500d
+source-git-commit: 716e979bcf0a3753edf131a78d7a55829ba026dc
 workflow-type: tm+mt
-source-wordcount: '326'
+source-wordcount: '329'
 ht-degree: 0%
 
 ---
@@ -27,7 +27,7 @@ ht-degree: 0%
 
 ## Acrobatデスクトップ版で情報を墨消しする方法
 
-1. ファイルを開いて、ツールバーから&#x200B;**[!UICONTROL すべてのツール]**&#x200B;を選択し、**[!UICONTROL PDFを墨消し]**&#x200B;を選択します。
+1. ファイルを開いて、ツールバーから&#x200B;**[!UICONTROL すべてのツール]**&#x200B;を選択し、**[!UICONTROL PDFを墨消し]**を選択します。
    ![手順1](../assets/Redact_1.png)を墨消し
 
 1. **[!UICONTROL プロパティの設定]**&#x200B;を選択して、墨消しボックスの色やテキストオーバーレイなど、墨消しの外観をカスタマイズします。
@@ -38,17 +38,17 @@ ht-degree: 0%
 
 1. **[!UICONTROL 「テキストと画像を墨消し」]**&#x200B;を選択し、カーソルを使用して墨消しするコンテンツを選択します。
 
-   ![手順4](../assets/Redact_3.png)を墨消し
+   ![手順3](../assets/Redact_3.png)を墨消し
 
    選択したコンテンツの上にカーソルを置くと、墨消しのプレビューが表示されます。
 
-   ![手順5aを墨消し](../assets/Redact_4.png)
-
 1. **[!UICONTROL テキストの検索と墨消し]**&#x200B;を選択して特定の単語または語句を検索するか、パターンを検索して特定の種類の情報を検索します。 検索を設定し、「テキストを検索して削除」を選択します。
+
+![手順4](../assets/Redact_4.png)を墨消し
 
 1. 検索結果ダイアログで、項目の横にあるチェックボックスをオンにし、[**[!UICONTROL チェックした結果を墨消しとしてマークする]**]を選択します。
 
-   ![手順5bを墨消し](../assets/Redact_5.png)
+   ![手順5](../assets/Redact_5.png)を墨消し
 
 1. 「**[!UICONTROL ページを墨消し]**」を選択して、ページ全体を墨消しとしてマークします。
 
@@ -56,13 +56,15 @@ ht-degree: 0%
 
 1. ページを選択し、「**[!UICONTROL OK]**」を選択します。
 
+   ![手順7](../assets/Redact_7.png)を墨消し
+
 1. PDFを墨消しパネルで「**[!UICONTROL 適用]**」を選択して、マークされた墨消しを適用します。
 
-   ![手順6](../assets/Redact_7.png)を墨消し
+   ![手順8](../assets/Redact_8.png)を墨消し
 
 1. **[!UICONTROL 続行]**&#x200B;を選択して、非表示情報をサニタイズし、削除します。
 
-   ![手順6](../assets/Redact_8.png)を墨消し
+   ![手順9](../assets/Redact_9.png)を墨消し
 
 確定すると、墨消しと非表示情報は完全に削除され、新しいファイルに保存されます。
 
