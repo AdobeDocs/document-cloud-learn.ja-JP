@@ -7,9 +7,9 @@ level: Intermediate
 jira: KT-6827
 thumbnail: KT-6827.jpg
 exl-id: da187edb-b1c9-41ae-91c7-0e6758f3a831
-source-git-commit: f6875404577165bc22cbfffee1fed66b27254aca
+source-git-commit: 3ee53aef230d66a5cdb4b663827bf9e0d83ccb77
 workflow-type: tm+mt
-source-wordcount: '401'
+source-wordcount: '398'
 ht-degree: 0%
 
 ---
@@ -24,15 +24,15 @@ PDFファイルのサイズを圧縮および最適化する方法について�
 
    ![手順1](../assets/Reduce_1.png)を減らす
 
-1. **[!UICONTROL PDFを圧縮]**&#x200B;パネルで、**[!UICONTROL 単一ファイル]**&#x200B;または&#x200B;**[!UICONTROL 複数ファイル]**&#x200B;を選択し、**[!UICONTROL 保存]**&#x200B;を選択します。
-
-   ドキュメントの品質を維持しながら、ファイルのサイズをできるだけ小さくします。
+1. **[!UICONTROL PDFを圧縮]**&#x200B;パネルで、**[!UICONTROL 単一ファイル]**&#x200B;または&#x200B;**[!UICONTROL 複数ファイル]**&#x200B;を選択します。
 
    ![手順2](../assets/Reduce_2.png)を減らす
 
 1. 「**[!UICONTROL 保存]**」を選択します。
 
    ![手順3](../assets/Reduce_3.png)を減らす
+
+   ドキュメントの品質を維持しながら、ファイルのサイズをできるだけ小さくします。
 
 
 ## Acrobat webギャラリーでPDFを圧縮する方法
@@ -43,7 +43,7 @@ PDFファイルのサイズを圧縮および最適化する方法について�
 
    ![手順4](../assets/Reduce_4.png)を減らす
 
-1. **[!UICONTROL ファイルを選択]**、ファイルを選択し、[!UICONTROL 開く]を選択します。
+1. **[!UICONTROL ファイルを選択]**、ファイルを選択し、**[!UICONTROL 開く]**&#x200B;を選択します。
 
    ![手順5](../assets/Reduce_5.png)を減らす
 
