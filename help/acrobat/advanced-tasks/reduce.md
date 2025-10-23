@@ -7,9 +7,9 @@ level: Intermediate
 jira: KT-6827
 thumbnail: KT-6827.jpg
 exl-id: da187edb-b1c9-41ae-91c7-0e6758f3a831
-source-git-commit: c977a4da1389b656e6bc3adb5ac52e9dbb6a6067
+source-git-commit: f3f8313450246a00ee3d07d31150e3991f19eb65
 workflow-type: tm+mt
-source-wordcount: '398'
+source-wordcount: '372'
 ht-degree: 0%
 
 ---
@@ -78,32 +78,3 @@ PDFファイルのサイズを圧縮および最適化する方法について�
 >[!TIP]
 >
 >複数のPDFファイルを最適化するには、[Action Wizard](../advanced-tasks/action.md)を使用してみてください。
-
-<table style="table-layout:fixed">
-  <td>
-    <a href="reduce.md">
-      <img alt="PDFの圧縮と最適化" src="../assets/reduce.png" />
-    </a>
-    <div>
-    <a href="reduce.md"><strong>PDFを圧縮して最適化する</strong></a>
-    </div>
-    <em>サイズの大きいファイルを減らし、共有、投稿、アーカイブの画質を損なうことなくPDFを最適化します</em>
-    <br>
-  </td>
-  <td>
-        <img alt="スペーサー" src="../assets/Whitespacer.png" />
-        <div>
-        <br>
-      </td>
-    <td>
-        <img alt="スペーサー" src="../assets/Whitespacer.png" />
-        <div>
-        <br>
-    </td>
-    <td>
-        <img alt="スペーサー" src="../assets/Whitespacer.png" />
-        <div>
-        <br>
-    </td>
-</tr>
-</table>
