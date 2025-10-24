@@ -6,9 +6,10 @@ role: User
 level: Intermediate
 topics: Accessibility
 jira: KT-18733
-source-git-commit: e49d52f7b83bccfe246ee69d377f3558c2b30a85
+exl-id: 2ba77a77-6dd0-4e05-8a7a-690542569061
+source-git-commit: eff134abca23b6d460e10881979496cd5255fb6f
 workflow-type: tm+mt
-source-wordcount: '40'
+source-wordcount: '51'
 ht-degree: 0%
 
 ---
@@ -17,4 +18,8 @@ ht-degree: 0%
 
 Acrobatでフォームにアクセスできるようにする方法を説明します。 これらの7つの手順に従うと、インタラクティブなフォームフィールドでPDFをアクセス可能にする処理を高速化できます。
 
->[!VIDEO](https://video.tv.adobe.com/v/3471663?quality=12&learn=on&hidetitle=true&captions=jpn)
+>[!NOTE]
+>
+>このチュートリアルの一部の機能は、Acrobat Proでのみ使用できます。
+
+>[!VIDEO](https://video.tv.adobe.com/v/3471615?quality=12&learn=on&hidetitle=true)

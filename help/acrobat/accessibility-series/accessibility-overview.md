@@ -6,10 +6,10 @@ role: User
 level: Beginner, Intermediate, Experienced
 jira: KT-6856
 exl-id: 26b265dc-b52f-4e0d-b6d9-893e7d3b6077
-source-git-commit: 3d971a90e3e9c639d65440915b0e10734c15b0b4
+source-git-commit: a6ab6bc9c667582b9d75f5582a895e175331186f
 workflow-type: tm+mt
-source-wordcount: '200'
-ht-degree: 1%
+source-wordcount: '209'
+ht-degree: 0%
 
 ---
 
@@ -21,9 +21,9 @@ ht-degree: 1%
 
 >[!BEGINTABS]
 
->[!TAB アクセス可能なPDFファイルの内容と理由]
+>[!TAB スキャンされた文書]
 
-[アクセス可能なPDFファイルとは何か、またそれが重要な理由](what-why-accessible-pdf.md)を説明します。
+[スキャンした文書](scanned-documents.md)にアクセスできるようにする方法を説明します。
 
 >[!TAB ワークスペースの設定]
 
@@ -74,14 +74,41 @@ Acrobatで[フォームをアクセシブル](create-accessible-forms.md)にす�
     <br>
   </td>
   <td>
+    <a href="scanned-documents.md">
+      <img alt="スキャンした文書" src="../assets/accessibility-series-2025.png" />
+    </a>
+    <div>
+    <a href="scanned-documents.md"><strong>スキャンされた文書</strong></a>
+    </div>
+    <em>Acrobat Proでスキャンした文書にアクセスできるようにする方法を説明します</em>
+    <br>
+  </td>
+</tr>
+<tr>
+  <td>
     <a href="create-accessible-forms.md">
       <img alt="アクセシブルなフォームの作成" src="../assets/accessibility-series-2025.png" />
     </a>
     <div>
     <a href="create-accessible-forms.md"><strong>アクセス可能なフォームの作成</strong></a>
     </div>
-    <em>Acrobatでフォームにアクセスできるようにする方法を説明します</em>
+    <em>Acrobat Proでフォームにアクセスできるようにする方法を説明します</em>
     <br>
+  </td>
+  <td>
+        <img alt="スペーサー" src="../assets/Grayspacer.png" />
+        <div>
+        <br>
+  </td>
+  <td>
+        <img alt="スペーサー" src="../assets/Grayspacer.png" />
+        <div>
+        <br>
+  </td>
+  <td>
+        <img alt="スペーサー" src="../assets/Grayspacer.png" />
+        <div>
+        <br>
   </td>
 </tr>
 </table>
