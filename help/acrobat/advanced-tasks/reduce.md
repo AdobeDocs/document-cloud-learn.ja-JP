@@ -7,9 +7,9 @@ level: Intermediate
 jira: KT-6827
 thumbnail: KT-6827.jpg
 exl-id: da187edb-b1c9-41ae-91c7-0e6758f3a831
-source-git-commit: f3f8313450246a00ee3d07d31150e3991f19eb65
+source-git-commit: a437f01d8f7a3f26a3a2cf6e0bdeb4a24c1a836d
 workflow-type: tm+mt
-source-wordcount: '372'
+source-wordcount: '376'
 ht-degree: 0%
 
 ---
@@ -35,7 +35,7 @@ PDFファイルのサイズを圧縮および最適化する方法について�
    ドキュメントの品質を維持しながら、ファイルのサイズをできるだけ小さくします。
 
 
-## Acrobat webギャラリーでPDFを圧縮する方法
+## Acrobat webでPDFを圧縮する方法
 
 1. ブラウザーで[acrobat.adobe.com](https://acrobat.adobe.com/)にログインします。
 
@@ -77,4 +77,4 @@ PDFファイルのサイズを圧縮および最適化する方法について�
 
 >[!TIP]
 >
->複数のPDFファイルを最適化するには、[Action Wizard](../advanced-tasks/action.md)を使用してみてください。
+>複数のPDFファイルを最適化するには、デスクトップのAcrobat Proで[Action Wizard](../advanced-tasks/action.md)を使用してみてください。
