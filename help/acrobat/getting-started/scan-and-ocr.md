@@ -7,9 +7,9 @@ level: Beginner
 jira: KT-6830
 thumbnail: KT-6830.jpg
 exl-id: c898de6e-7320-4cd4-9998-6a99efd7ea56
-source-git-commit: ae69e1a95a482c3faad886a07adb65af0bb8b56d
+source-git-commit: 5bf010d8fda369b42515eeb0cc26f3853322cc8a
 workflow-type: tm+mt
-source-wordcount: '318'
+source-wordcount: '294'
 ht-degree: 0%
 
 ---
@@ -76,33 +76,3 @@ ht-degree: 0%
 >[!TIP]
 >
 >複数のPDFファイルにOCRを実行するには、デスクトップのAcrobat Proで[Action Wizard](../advanced-tasks/action.md)を使用してみてください。
-
-<table style="table-layout:fixed">
-<tr>
-  <td>
-    <a href="scan-and-ocr.md">
-      <img alt="紙からPDF" src="../assets/scan.png" />
-    </a>
-    <div>
-    <a href="scan-and-ocr.md"><strong>紙をPDFに</strong></a>
-    </div>
-    <em>紙の文書を、スマートで検索可能、編集可能なPDFファイル機能に変換する方法を説明します</em>
-    <br>
-  </td>
-  <td>
-      <img alt="スペーサー" src="../assets/Whitespacer.png" />
-      <div>
-      <br>
-  </td>
-  <td>
-      <img alt="スペーサー" src="../assets/Whitespacer.png" />
-      <div>
-      <br>
-  </td>
-  <td>
-      <img alt="スペーサー" src="../assets/Whitespacer.png" />
-      <div>
-      <br>
-  </td>
-</tr>
-</table>
