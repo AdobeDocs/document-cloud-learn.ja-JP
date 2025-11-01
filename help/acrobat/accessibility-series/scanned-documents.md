@@ -21,4 +21,4 @@ Acrobat Proでスキャンした文書にアクセスできるようにする方
 >
 >このチュートリアルの一部の機能は、Acrobat Proでのみ使用できます。
 
->[!VIDEO](https://video.tv.adobe.com/v/3476233?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3476235?captions=jpn&quality=12&learn=on&hidetitle=true)
