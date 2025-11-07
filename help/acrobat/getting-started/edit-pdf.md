@@ -24,7 +24,7 @@ PDF内の単語、語句、またはページ全体を編集する方法につ�
 
 <br> 
 
->[!VIDEO](https://video.tv.adobe.com/v/35493?enablevpops&quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3409179?captions=jpn&enablevpops&quality=12&learn=on&hidetitle=true)
 
 >[!TIP]
 >

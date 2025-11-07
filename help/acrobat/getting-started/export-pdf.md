@@ -24,7 +24,7 @@ PDFファイルを[Microsoft Word](https://www.adobe.com/jp/acrobat/online/pdf-t
 
 <br> 
 
->[!VIDEO](https://video.tv.adobe.com/v/35494?enablevpops&quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3409654?captions=jpn&enablevpops&quality=12&learn=on&hidetitle=true)
 
 >[!TIP]
 >
