@@ -7,16 +7,17 @@ level: Beginner
 jira: KT-6830
 thumbnail: KT-6830.jpg
 exl-id: c898de6e-7320-4cd4-9998-6a99efd7ea56
-source-git-commit: 5bf010d8fda369b42515eeb0cc26f3853322cc8a
+source-git-commit: 6153591accebf9fa815100fa1545348e6f259f17
 workflow-type: tm+mt
-source-wordcount: '294'
+source-wordcount: '301'
 ht-degree: 0%
 
 ---
 
 # 紙からPDF
 
-紙の文書をスキャン（または写真を撮影）して、検索可能で[編集可能なPDFファイル](https://www.adobe.com/jp/acrobat/online/pdf-editor.html){target="_blank"}に変換する方法について説明します。 紙をPDFに変換すると、障害のある人でも情報をすばやく見つけて利用できるようになります。
+紙の文書をスキャン（または写真を撮影）して、検索可能で[編集可能なPDFファイル](https://www.adobe.com/jp/acrobat/online/pdf-editor.html){target="_blank"}に変換する方法について説明します。 紙をPDFに変換すると、障害のある人でも情報をすばやく見つけて利用できるようになります。 このチュートリアルは、[新しいAcrobatエクスペリエンス](new-workspace.md)を示しています。
+
 
 ## デスクトップのAcrobatで紙をPDFに変換する方法
 
