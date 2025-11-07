@@ -28,4 +28,4 @@ PDF内の単語、語句、またはページ全体を編集する方法につ�
 
 >[!TIP]
 >
->このビデオは、Experience Leagueで無料で利用できるプレイリスト[Adobe Acrobatの概要](https://experienceleague.adobe.com/en/playlists/acrobat-get-started-business-users)の一部です。
+>このビデオは、Experience Leagueで無料で利用できるプレイリスト[Adobe Acrobatの概要](https://experienceleague.adobe.com/ja/playlists/acrobat-get-started-business-users)の一部です。
