@@ -7,7 +7,7 @@ level: Beginner
 jira: KT-6847
 thumbnail: KT-6847.jpg
 exl-id: e58ce43d-2e8e-4804-8f30-6591fa943607
-source-git-commit: b6198f50dbdbf6fab6c9f9e91e2395cb8b046406
+source-git-commit: b8470e3cd127f6998e57d125b1acddb2e1d51b4c
 workflow-type: tm+mt
 source-wordcount: '502'
 ht-degree: 6%
@@ -170,7 +170,7 @@ Acrobat Signを使用して送信された文書に[署名](../sign-beginner-tut
       <img alt="文書に電子サイン" src="../assets/sign-electronically.png" />
     </a>
     <div>
-    <a href="electronically-sign-a-document.md"><strong>文書に電子サインを行っています</strong></a>
+    <a href="electronically-sign-a-document.md"><strong>文書に電子サインを行う</strong></a>
     </div>
     Acrobat Signで送信された文書に簡単に署名する方法を説明します。
     <br>
