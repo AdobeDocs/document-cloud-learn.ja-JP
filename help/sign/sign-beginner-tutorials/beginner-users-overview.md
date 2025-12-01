@@ -7,10 +7,10 @@ level: Beginner
 jira: KT-6847
 thumbnail: KT-6847.jpg
 exl-id: e58ce43d-2e8e-4804-8f30-6591fa943607
-source-git-commit: 07e2a5a81b23efc49934c9693c625da47882f43f
+source-git-commit: b6198f50dbdbf6fab6c9f9e91e2395cb8b046406
 workflow-type: tm+mt
-source-wordcount: '523'
-ht-degree: 2%
+source-wordcount: '502'
+ht-degree: 6%
 
 ---
 
@@ -21,6 +21,10 @@ ht-degree: 2%
 ## 新機能
 
 >[!BEGINTABS]
+
+>[!TAB 文書に電子サインを行う]
+
+Acrobat Signを使用して送信された文書に[署名](../sign-beginner-tutorials/electronically-sign-a-document.md)する簡単な方法を説明します。
 
 >[!TAB 再利用可能なテンプレートを作成]
 
@@ -34,14 +38,6 @@ ht-degree: 2%
 
 電子サイン用の文書を、希望する順序で[複数のユーザー](send-to-multiple-recipients.md)に送信する方法を説明します。
 
->[!TAB 1人の署名者に文書を送信する]
-
-[署名用に文書を送信](send-to-single-recipient.md)する簡単さについて説明します。
-
->[!TAB Acrobat Signの概要]
-
-Acrobat Signを使うのは初めてですか？ この[チュートリアル](new-sender.md)は、始めるのに最適な場所です。
-
 >[!ENDTABS]
 
 ## Send
@@ -50,7 +46,7 @@ Acrobat Signを使うのは初めてですか？ この[チュートリアル](n
 <tr>
   <td>
     <a href="new-sender.md">
-      <img alt="Acrobat Sign入門" src="../assets/gettingstartednew.png" />
+      <img alt="Acrobat Sign 入門" src="../assets/gettingstartednew.png" />
     </a>
     <div>
     <a href="new-sender.md"><strong>Acrobat Signの概要</strong></a>
@@ -70,7 +66,7 @@ Acrobat Signを使うのは初めてですか？ この[チュートリアル](n
   </td>
   <td>
     <a href="send-to-single-recipient.md">
-      <img alt="1人の署名者への文書の送信" src="../assets/send-single-recipient.png" />
+      <img alt="1 人の署名者に文書を送信" src="../assets/send-single-recipient.png" />
     </a>
     <div>
     <a href="send-to-single-recipient.md"><strong>1人の署名者に文書を送信する</strong></a>
@@ -171,7 +167,7 @@ Acrobat Signを使うのは初めてですか？ この[チュートリアル](n
 <tr>
   <td>
     <a href="electronically-sign-a-document.md">
-      <img alt="文書の電子サイン" src="../assets/sign-electronically.png" />
+      <img alt="文書に電子サイン" src="../assets/sign-electronically.png" />
     </a>
     <div>
     <a href="electronically-sign-a-document.md"><strong>文書に電子サインを行っています</strong></a>
@@ -250,7 +246,7 @@ Acrobat Signを使うのは初めてですか？ この[チュートリアル](n
 <tr>
   <td>
     <a href="manage-and-track.md">
-      <img alt="契約書を管理およびトラック" src="../assets/manage-track.png" />
+      <img alt="すべての契約書を管理およびトラック" src="../assets/manage-track.png" />
     </a>
     <div>
     <a href="manage-and-track.md"><strong>契約書を管理およびトラック</strong></a>
