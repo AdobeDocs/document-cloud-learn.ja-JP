@@ -7,16 +7,16 @@ level: Experienced
 jira: KT-8606
 thumbnail: KT-8606.jpg
 exl-id: 3765673b-15fd-4071-bb31-e589feffa471
-source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
+source-git-commit: 5a27e44f71214e199892832d02661a85227acf4d
 workflow-type: tm+mt
-source-wordcount: '106'
+source-wordcount: '109'
 ht-degree: 0%
 
 ---
 
 # PDFのアクセシビリティの概要
 
-このセッションでは、PDFをアクセシブルにする方法、アクセシビリティ対応のPDFを処理するようにAcrobat Proを設定する方法、ソース文書からPDFへの変換プロセスについて説明します。
+このセッションでは、PDFをアクセシブルにする方法、アクセシビリティを目的としたPDFを処理するためにAcrobat Pro （Premium、またはStudio）を設定する方法、ソース文書からPDFへの変換プロセスについて説明します。
 
 [ここ](../assets/accessibilitysession1.zip)をクリックして、ハンズオンセッションファイルのzipフォルダーをダウンロードします。
 

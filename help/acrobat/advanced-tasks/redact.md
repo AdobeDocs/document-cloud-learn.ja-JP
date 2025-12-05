@@ -7,9 +7,9 @@ level: Intermediate
 jira: KT-6804
 thumbnail: KT-6804.jpg
 exl-id: 39ba66c7-bc9a-4ecc-b337-f03d31257877
-source-git-commit: a437f01d8f7a3f26a3a2cf6e0bdeb4a24c1a836d
+source-git-commit: 5a27e44f71214e199892832d02661a85227acf4d
 workflow-type: tm+mt
-source-wordcount: '335'
+source-wordcount: '341'
 ht-degree: 0%
 
 ---
@@ -20,14 +20,14 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Acrobat Proでのみ利用可能です。
+>Acrobat Pro、プレミアム、またはStudioのみで使用可能です。
 
 [!BADGE 組織への影響]
 お客様のデータ保護、リスク管理
 
 ## Acrobatデスクトップ版で情報を墨消しする方法
 
-1. ファイルを開いて、ツールバーから&#x200B;**[!UICONTROL すべてのツール]**&#x200B;を選択し、**[!UICONTROL PDFを墨消し]**&#x200B;を選択します。
+1. ファイルを開いて、ツールバーから&#x200B;**[!UICONTROL すべてのツール]**&#x200B;を選択し、**[!UICONTROL PDFを墨消し]**を選択します。
    ![手順1](../assets/Redact_1.png)を墨消し
 
 1. **[!UICONTROL プロパティの設定]**&#x200B;を選択して、墨消しボックスの色やテキストオーバーレイなど、墨消しの外観をカスタマイズします。
@@ -70,4 +70,4 @@ ht-degree: 0%
 
 >[!TIP]
 >
->墨消し処理を高速化するには、デスクトップのAcrobat Proで[Action Wizard](../advanced-tasks/action.md)を確認してください。
+>墨消しプロセスを高速化するには、デスクトップのAcrobat Pro、Premium、またはStudioで[Action Wizard](../advanced-tasks/action.md)を確認してください。

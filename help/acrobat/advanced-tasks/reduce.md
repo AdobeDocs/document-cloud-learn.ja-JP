@@ -7,9 +7,9 @@ level: Intermediate
 jira: KT-6827
 thumbnail: KT-6827.jpg
 exl-id: da187edb-b1c9-41ae-91c7-0e6758f3a831
-source-git-commit: a437f01d8f7a3f26a3a2cf6e0bdeb4a24c1a836d
+source-git-commit: 5a27e44f71214e199892832d02661a85227acf4d
 workflow-type: tm+mt
-source-wordcount: '376'
+source-wordcount: '382'
 ht-degree: 0%
 
 ---
@@ -55,7 +55,7 @@ PDFファイルのサイズを圧縮および最適化する方法について�
 
 >[!NOTE]
 >
->PDFの最適化は、Acrobat Proデスクトップ版でのみ使用できます。
+>PDFの最適化は、Acrobat Pro、Premium、Studioデスクトップ版でのみ利用できます。
 
 1. ファイルを開いて、ツールバーから&#x200B;**[!UICONTROL すべてのツール]**&#x200B;を選択し、**[!UICONTROL PDFを圧縮]**&#x200B;を選択します。
 
@@ -77,4 +77,4 @@ PDFファイルのサイズを圧縮および最適化する方法について�
 
 >[!TIP]
 >
->複数のPDFファイルを最適化するには、デスクトップのAcrobat Proで[Action Wizard](../advanced-tasks/action.md)を使用してみてください。
+>複数のPDFファイルを最適化するには、デスクトップのAcrobat Pro、Premium、またはStudioで[Action Wizard](../advanced-tasks/action.md)を使用してみてください。

@@ -7,9 +7,9 @@ level: Intermediate
 jira: KT-9749
 thumbnail: KT-9749.jpg
 exl-id: 916a17bb-bd84-4561-ab1f-e2776099fcfc
-source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
+source-git-commit: 5a27e44f71214e199892832d02661a85227acf4d
 workflow-type: tm+mt
-source-wordcount: '43'
+source-wordcount: '46'
 ht-degree: 0%
 
 ---
@@ -18,8 +18,8 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Acrobat Proでのみ利用可能です。
+>Acrobat Pro、Premium、およびStudioのみで使用可能です。
 
 この60秒のビデオチュートリアルでは、PDFがアクセス可能かどうかを確認する方法について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/347086?quality=12&learn=on&hidetitle=true&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/340076?quality=12&learn=on&hidetitle=true)

@@ -7,9 +7,9 @@ level: Intermediate
 jira: KT-8496
 thumbnail: KT-8496.jpg
 exl-id: 433ed8a5-aab6-420e-a86e-903e81841df7
-source-git-commit: 51d1a59999a7132cb6e47351cc39a93d9a38eaeb
+source-git-commit: 5a27e44f71214e199892832d02661a85227acf4d
 workflow-type: tm+mt
-source-wordcount: '103'
+source-wordcount: '107'
 ht-degree: 0%
 
 ---
@@ -24,12 +24,12 @@ ht-degree: 0%
 [!BADGE 組織への影響]
 コスト削減、組織の効率性、時間の短縮、品質保証
 
->[!VIDEO](https://video.tv.adobe.com/v/3409326?quality=12&learn=on&hidetitle=true&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/337211?quality=12&learn=on&hidetitle=true)
 
 >[!TIP]
 >
->このビデオは、Experience Leagueで無料で利用できる再生リスト[Adobe Acrobatで高度なタスクを実行](https://experienceleague.adobe.com/ja/playlists/acrobat-peform-advanced-tasks)の一部です。
+>このビデオは、Experience Leagueで無料で利用できる再生リスト[Adobe Acrobatで高度なタスクを実行](https://experienceleague.adobe.com/en/playlists/acrobat-peform-advanced-tasks)の一部です。
 
 >[!NOTE]
 >
->Acrobat Proでのみ利用可能です。
+>Acrobat Pro、Premium、Studioのみで使用できます。

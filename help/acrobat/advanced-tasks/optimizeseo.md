@@ -7,9 +7,9 @@ level: Experienced
 jira: KT-9347
 thumbnail: KT-9347.jpg
 exl-id: 2f24d745-762a-4631-8495-08b9e9d77af0
-source-git-commit: cc1902cf295d3608fb8ac4ed564a39dbcc885e4a
+source-git-commit: 5a27e44f71214e199892832d02661a85227acf4d
 workflow-type: tm+mt
-source-wordcount: '750'
+source-wordcount: '757'
 ht-degree: 0%
 
 ---
@@ -31,7 +31,7 @@ PDFコンテンツは一意であり、次のように構造化されている�
 * キーワードとリストを含む短い段落を使用する
 * 内部および外部（webサイトまたは他のwebサイトのコンテンツ）のハイパーリンクの追加
 * 25ページを超えるドキュメントのハイパーリンクされた目次の追加
-* スキャンしたすべての文書に対して[テキスト認識](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/getting-started/scan-and-ocr.html?lang=ja)を実行する
+* スキャンしたすべての文書に対して[テキスト認識](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/getting-started/scan-and-ocr.html)を実行する
 * モバイル対応のPDFを構築
 PDFのモバイル表示エクスペリエンスを確認するには、[Acrobat Readerモバイルアプリ](https://www.adobe.com/acrobat/mobile/acrobat-reader.html)でファイルを開き、Liquid Modeをオンにします。 必要に応じて、ナビゲーションを向上させるために追加の小見出しを含めます。
 
@@ -52,7 +52,7 @@ PDFファイルには、webページと同様に、タイトルとメタ説明�
 1. **[!UICONTROL ファイル/プロパティ]**&#x200B;を選択するか、キーボードショートカット&#x200B;*Ctrl + D* (Windows)または&#x200B;*Cmd + D* (Mac)を使用して、「**[!UICONTROL 説明]**」タブを選択します。
 1. **[!UICONTROL タイトル：]**&#x200B;フィールドに、キーワードに最適化されたタイトルを入力します。
 1. **[!UICONTROL 作成者：]**&#x200B;フィールドで、組織内の特定の個人が識別されていないことを確認してください。
-1. ドキュメントのキーワードに最適化された概要を&#x200B;**[!UICONTROL 件名：]**&#x200B;フィールドに入力します。
+1. ドキュメントのキーワードに最適化された概要を&#x200B;**[!UICONTROL 件名：]**フィールドに入力します。
 学習、発見、探索など、行動を明確に示す動詞を使用して、概要の作成を試みます。
 1. **[!UICONTROL 追加のメタデータ]**&#x200B;を選択し、必要に応じて著作権またはパブリックドメインの情報を追加します。
 
@@ -62,11 +62,11 @@ PDFファイルには、webページと同様に、タイトルとメタ説明�
 
 <br> 
 
-## 3. PDFにタグを付ける
+## &#x200B;3. PDFにタグを付ける
 
-PDF内のコンテンツをタグ付けすると、障害のあるユーザーがファイル[にアクセス可能](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/advanced-tasks/accessibility.html?lang=ja)になるだけでなく、SEOも向上します。
+PDF内のコンテンツをタグ付けすると、障害のあるユーザーがファイル[にアクセス可能](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/advanced-tasks/accessibility.html)になるだけでなく、SEOも向上します。
 
-+++PDFのタグ付けの詳細を表示する
++++PDFにタグを付ける方法の詳細を表示
 
 次のようにPDFにタグを付けます。
 
@@ -82,15 +82,15 @@ PDF内のコンテンツをタグ付けすると、障害のあるユーザー�
 
 >[!NOTE]
 >
->Acrobat Proでのみ利用可能です。
+>Acrobat Pro、Premium、Studioのみで使用できます。
 
 <br> 
 
-## 4. Web用に準備する
+## &#x200B;4. Web用に準備する
 
-PDFをWeb表示用に準備し、[PDFのファイルサイズを小さくして](https://www.adobe.com/jp/acrobat/online/compress-pdf.html){target="_blank"}操作を最適化します。
+PDFをWeb表示用に準備し、[PDFのファイルサイズを縮小](https://www.adobe.com/jp/acrobat/online/compress-pdf.html){target="_blank"}して、デバイスとのやり取りの操作性を最適化します。
 
-+++Web用にPDFを準備する方法の詳細を表示
++++Web用にPDFを準備する方法の詳細
 
 Web用にPDFを準備するには、次の手順を実行します。
 
@@ -104,7 +104,7 @@ Web用にPDFを準備するには、**[!UICONTROL ファイル/その他の形�
 
 >[!TIP]
 >
->Acrobat Proを使用している場合は、Action Wizardツールの「 Webおよびモバイル用に最適化」を実行します。 この操作により、カラーがsRGBに変換され、フォントが埋め込まれ、ブラウザーやモバイルデバイス間でPDFの表示が統一されます。
+>Acrobat Pro（PremiumまたはStudio）を使用している場合は、Action Wizardツールで「 Webおよびモバイル用に最適化」を実行します。 この操作により、カラーがsRGBに変換され、フォントが埋め込まれ、ブラウザーやモバイルデバイス間でPDFの表示が統一されます。
 
 +++
 
@@ -122,11 +122,11 @@ PDFがWebに公開されると、ファイル名がURLの一部になります�
 
 <br> 
 
-## 6. PDFの保護
+## &#x200B;6. PDFの保護
 
-最後の手順は、承認されていない変更を防ぐために、[PDFを保護する](https://www.adobe.com/jp/acrobat/online/password-protect-pdf.html){target="_blank"}ことです。
+最後に、承認されていない変更を防ぐために、[お使いのPDFを保護](https://www.adobe.com/jp/acrobat/online/password-protect-pdf.html){target="_blank"}します。
 
-+++PDFのセキュリティ保護の詳細を表示する
++++PDFを保護する方法の詳細を表示
 
 次のようにPDFを保護します。
 

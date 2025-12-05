@@ -7,9 +7,9 @@ level: Intermediate
 jira: KT-9344
 thumbnail: KT-9344.jpg
 exl-id: cf8e8696-ddba-48e3-acba-3c69541eb483
-source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
+source-git-commit: 5a27e44f71214e199892832d02661a85227acf4d
 workflow-type: tm+mt
-source-wordcount: '63'
+source-wordcount: '66'
 ht-degree: 0%
 
 ---
@@ -20,6 +20,6 @@ ht-degree: 0%
 
 >[!TIP]
 >
->Acrobat Proを使用している場合は、Action Wizardツールの「スキャン文書を最適化」を実行して、このプロセスを自動化します。
+>Acrobat Pro（PremiumまたはStudio）を使用している場合は、Action Wizardツールで「スキャンしたドキュメントを最適化」を実行して、このプロセスを自動化します。
 
->[!VIDEO](https://video.tv.adobe.com/v/347065?quality=12&learn=on&hidetitle=true&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/340823?quality=12&learn=on&hidetitle=true)

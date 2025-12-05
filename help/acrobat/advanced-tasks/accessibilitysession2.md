@@ -7,16 +7,16 @@ level: Experienced
 jira: KT-8609
 thumbnail: KT-8609.jpg
 exl-id: 546c1bc7-28bb-447d-8b3f-66cc29498057
-source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
+source-git-commit: 5a27e44f71214e199892832d02661a85227acf4d
 workflow-type: tm+mt
-source-wordcount: '92'
+source-wordcount: '95'
 ht-degree: 0%
 
 ---
 
 # アクセスできないPDFの修復
 
-このオンデマンドセッションでは、Word文書を変換するワークフロー、および概要ウェビナーで示されたAcrobat Proツールを使用して基本的なタグ付けの問題を修正するワークフローについて学習します。
+このオンデマンドセッションでは、Word文書を変換するワークフロー、および概要ウェビナーで示されたAcrobat Pro（PremiumまたはStudio）ツールを使用して基本的なタグ付けの問題を修正するワークフローについて学習します。
 
 [ここ](../assets/accessibilitysession2.zip)をクリックして、ハンズオンセッションファイルのzipフォルダーをダウンロードします。
 

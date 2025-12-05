@@ -6,19 +6,19 @@ role: User
 level: Intermediate
 topics: Accessibility
 jira: KT-18732
-source-git-commit: eff134abca23b6d460e10881979496cd5255fb6f
+source-git-commit: 5a27e44f71214e199892832d02661a85227acf4d
 workflow-type: tm+mt
-source-wordcount: '54'
+source-wordcount: '56'
 ht-degree: 0%
 
 ---
 
 # スキャンした文書
 
-Acrobat Proでスキャンした文書にアクセスできるようにする方法を説明します。 スキャンしたPDFは難しい場合がありますが、適切なツールとテクニックを使用すれば、読みやすく、アクセスしやすい形式にすることができます。
+Acrobatでスキャンした文書にアクセスできるようにする方法を説明します。 スキャンしたPDFは難しい場合がありますが、適切なツールとテクニックを使用すれば、読みやすく、アクセスしやすい形式にすることができます。
 
 >[!NOTE]
 >
->このチュートリアルの一部の機能は、Acrobat Proでのみ使用できます。
+>このチュートリアルの一部の機能は、Acrobat Pro、プレミアムおよびStudioでのみ利用できます。
 
->[!VIDEO](https://video.tv.adobe.com/v/3476235?captions=jpn&quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3476233?quality=12&learn=on&hidetitle=true)

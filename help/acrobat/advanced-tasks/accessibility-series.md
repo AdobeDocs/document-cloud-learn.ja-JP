@@ -7,9 +7,9 @@ level: Experienced
 jira: KT-8364
 thumbnail: KT-8364.jpg
 exl-id: f56fb6f4-bbb8-4698-bc19-047d9245c2ff
-source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
+source-git-commit: 5a27e44f71214e199892832d02661a85227acf4d
 workflow-type: tm+mt
-source-wordcount: '228'
+source-wordcount: '234'
 ht-degree: 0%
 
 ---
@@ -29,7 +29,7 @@ ht-degree: 0%
     <div>
     <a href="accessibilitysession1.md"><strong>PDFのアクセシビリティの概要</strong></a>
     </div>
-    <em>このオンデマンドセッションでは、PDFをアクセス可能にする方法、アクセス可能なPDFで動作するようにAcrobat Proを設定する方法、およびソース文書からPDFへの変換プロセスについて説明します</em>
+    <em>このオンデマンドセッションでは、PDFをアクセシブルにする方法、アクセシビリティを目的としたPDFで動作するようにAcrobat Pro （PremiumまたはStudio）を設定する方法、およびソースドキュメントからPDFへのコンバージョンプロセスについて説明します</em>
     <br>
   </td>
   <td>
@@ -39,7 +39,7 @@ ht-degree: 0%
     <div>
     <a href="accessibilitysession2.md"><strong>アクセスできないPDFを修復しています</strong></a>
     </div>
-    <em>このオンデマンドセッションでは、Word文書を変換するワークフロー、および概要ウェビナーで示されたAcrobat Proツールを使用して基本的なタグ付けの問題を修正するワークフローについて学習します</em>
+    <em>このオンデマンドセッションでは、Word文書を変換し、概要ウェビナーで示されたAcrobat Pro（PremiumまたはStudio）ツールを使用して基本的なタグ付けの問題を修正するワークフローについて学習します</em>
     <br>
   </td>  
   <td>

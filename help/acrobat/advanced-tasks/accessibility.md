@@ -8,9 +8,9 @@ topics: Accessibility
 jira: KT-6829
 thumbnail: KT-6829.jpg
 exl-id: 1f72fe22-c3f7-4aad-8f57-a48ed8fc7193
-source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
+source-git-commit: 5a27e44f71214e199892832d02661a85227acf4d
 workflow-type: tm+mt
-source-wordcount: '222'
+source-wordcount: '225'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Acrobat Proでのみ利用可能です。
+>Acrobat Pro、プレミアム、またはStudioのみで使用可能です。
 
 ## アクセシビリティチェック
 
@@ -45,7 +45,7 @@ ht-degree: 0%
 
    ![アクセシビリティステップ4](../assets/Accessibility_4.png)
 
-[!UICONTROL アクセス可能にする]アクションは、[Action Wizard](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/advanced-tasks/action.html?lang=ja)ツールでも使用できます。このツールでは、アクセス可能なPDFを作成するための基本的な手順について説明します。
+[!UICONTROL アクセス可能にする]アクションは、[Action Wizard](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/advanced-tasks/action.html)ツールでも使用できます。このツールでは、アクセス可能なPDFを作成するための基本的な手順について説明します。
 
 ## アクセシビリティの問題の修正
 
