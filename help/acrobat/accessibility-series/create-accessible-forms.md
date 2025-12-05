@@ -22,4 +22,4 @@ Acrobatでフォームにアクセスできるようにする方法を説明し�
 >
 >このチュートリアルの一部の機能は、Acrobat Pro、プレミアムおよびStudioでのみ利用できます。
 
->[!VIDEO](https://video.tv.adobe.com/v/3471615?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3471663?captions=jpn&quality=12&learn=on&hidetitle=true)

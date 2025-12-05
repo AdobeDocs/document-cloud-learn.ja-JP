@@ -22,4 +22,4 @@ ht-degree: 0%
 >
 >カスタムコマンドは、Acrobat Pro、プレミアムまたはStudioでのみ使用できます。
 
->[!VIDEO](https://video.tv.adobe.com/v/340545?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/347074?captions=jpn&quality=12&learn=on&hidetitle=true)

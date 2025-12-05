@@ -21,4 +21,4 @@ ht-degree: 0%
 
 この60秒のビデオチュートリアルでは、Acrobatの「ファイルを比較」ツールを使用して、2つのPDFファイルの違いを見つける方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3409905?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3437470?captions=jpn&quality=12&learn=on&hidetitle=true)

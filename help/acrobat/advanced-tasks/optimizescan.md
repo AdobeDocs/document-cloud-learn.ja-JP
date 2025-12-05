@@ -22,4 +22,4 @@ ht-degree: 0%
 >
 >Acrobat Pro（PremiumまたはStudio）を使用している場合は、Action Wizardツールで「スキャンしたドキュメントを最適化」を実行して、このプロセスを自動化します。
 
->[!VIDEO](https://video.tv.adobe.com/v/340823?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/347065?captions=jpn&quality=12&learn=on&hidetitle=true)
