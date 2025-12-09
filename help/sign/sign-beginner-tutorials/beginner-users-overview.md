@@ -7,10 +7,10 @@ level: Beginner
 jira: KT-6847
 thumbnail: KT-6847.jpg
 exl-id: e58ce43d-2e8e-4804-8f30-6591fa943607
-source-git-commit: b8470e3cd127f6998e57d125b1acddb2e1d51b4c
+source-git-commit: 169855b701bbc9153e349687366a6f6e49adabe6
 workflow-type: tm+mt
-source-wordcount: '502'
-ht-degree: 6%
+source-wordcount: '494'
+ht-degree: 7%
 
 ---
 
@@ -21,6 +21,10 @@ ht-degree: 6%
 ## 新機能
 
 >[!BEGINTABS]
+
+>[!TAB 契約書を管理およびトラック]
+
+署名用に送信された[契約書を管理およびトラック](../sign-beginner-tutorials/manage-and-track.md)する方法について説明します。
 
 >[!TAB 文書に電子サインを行う]
 
@@ -33,10 +37,6 @@ Acrobat Signを使用して送信された文書に[署名](../sign-beginner-tut
 >[!TAB 送信オプションの構成]
 
 署名用に文書を送信する際の[各種オプションの設定](sending-options.md)方法について説明します。
-
->[!TAB 複数の署名者に送信]
-
-電子サイン用の文書を、希望する順序で[複数のユーザー](send-to-multiple-recipients.md)に送信する方法を説明します。
 
 >[!ENDTABS]
 
@@ -249,7 +249,7 @@ Acrobat Signを使用して送信された文書に[署名](../sign-beginner-tut
       <img alt="すべての契約書を管理およびトラック" src="../assets/manage-track.png" />
     </a>
     <div>
-    <a href="manage-and-track.md"><strong>契約書を管理およびトラック</strong></a>
+    <a href="manage-and-track.md"><strong>契約書の管理と追跡</strong></a>
     </div>
     署名用に送信された契約書を管理およびトラックする方法について説明します
     <br>
