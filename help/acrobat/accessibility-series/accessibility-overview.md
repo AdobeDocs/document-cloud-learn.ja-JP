@@ -6,10 +6,10 @@ role: User
 level: Beginner, Intermediate, Experienced
 jira: KT-6856
 exl-id: 26b265dc-b52f-4e0d-b6d9-893e7d3b6077
-source-git-commit: 5a27e44f71214e199892832d02661a85227acf4d
+source-git-commit: fd6ff74f94bd93fbd40086badf8158d4bc968e5a
 workflow-type: tm+mt
-source-wordcount: '200'
-ht-degree: 1%
+source-wordcount: '214'
+ht-degree: 0%
 
 ---
 
@@ -20,6 +20,10 @@ ht-degree: 1%
 ## 新機能
 
 >[!BEGINTABS]
+
+>[!TAB 複雑なリスト]
+
+Acrobatでアクセシビリティのために[複雑なリスト](complex-lists.md)にタグを付ける方法について説明します。
 
 >[!TAB スキャンされた文書]
 
@@ -32,10 +36,6 @@ ht-degree: 1%
 >[!TAB Wordからアクセス可能なPDFを作成する]
 
 Microsoft Wordからアクセス可能なPDFファイルを[作成](create-accessible-from-word.md)する方法について説明します。
-
->[!TAB アクセス可能なフォームの作成]
-
-Acrobatで[フォームをアクセシブル](create-accessible-forms.md)にする方法を説明します。
 
 >[!ENDTABS]
 
@@ -96,9 +96,14 @@ Acrobatで[フォームをアクセシブル](create-accessible-forms.md)にす�
     <br>
   </td>
   <td>
-        <img alt="スペーサー" src="../assets/Grayspacer.png" />
-        <div>
-        <br>
+    <a href="complex-lists.md">
+      <img alt="複雑なリスト" src="../assets/accessibility-series-2025.png" />
+    </a>
+    <div>
+    <a href="complex-lists.md"><strong>複雑なリスト</strong></a>
+    </div>
+    <em>Acrobatでアクセシビリティのために複雑なリストにタグを付ける方法を学ぶ</em>
+    <br>
   </td>
   <td>
         <img alt="スペーサー" src="../assets/Grayspacer.png" />
