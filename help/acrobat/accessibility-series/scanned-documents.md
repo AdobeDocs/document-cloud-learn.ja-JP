@@ -1,14 +1,14 @@
 ---
 title: スキャンした文書
-description: Acrobat Proでスキャン文書にアクセスできるようにする方法を説明します
+description: Acrobatでスキャン文書にアクセスできるようにする方法を説明します
 feature: Accessibility
 role: User
 level: Intermediate
 topics: Accessibility
 jira: KT-18732
-source-git-commit: 5a27e44f71214e199892832d02661a85227acf4d
+source-git-commit: 6e36c85429152e41bb2f571130e2589804310aa1
 workflow-type: tm+mt
-source-wordcount: '56'
+source-wordcount: '55'
 ht-degree: 0%
 
 ---
@@ -21,4 +21,4 @@ Acrobatでスキャンした文書にアクセスできるようにする方法�
 >
 >このチュートリアルの一部の機能は、Acrobat Pro、プレミアムおよびStudioでのみ利用できます。
 
->[!VIDEO](https://video.tv.adobe.com/v/3476235?captions=jpn&quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3476233?quality=12&learn=on&hidetitle=true)

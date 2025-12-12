@@ -6,9 +6,9 @@ role: User
 level: Beginner, Intermediate, Experienced
 jira: KT-6856
 exl-id: 26b265dc-b52f-4e0d-b6d9-893e7d3b6077
-source-git-commit: fd6ff74f94bd93fbd40086badf8158d4bc968e5a
+source-git-commit: 6e36c85429152e41bb2f571130e2589804310aa1
 workflow-type: tm+mt
-source-wordcount: '214'
+source-wordcount: '236'
 ht-degree: 0%
 
 ---
@@ -21,6 +21,10 @@ ht-degree: 0%
 
 >[!BEGINTABS]
 
+>[!TAB タグ付けの基本]
+
+PDFファイルに[タグを付けて](basics-tagging.md)アクセス可能にする基本的な方法について説明します。
+
 >[!TAB 複雑なリスト]
 
 Acrobatでアクセシビリティのために[複雑なリスト](complex-lists.md)にタグを付ける方法について説明します。
@@ -32,10 +36,6 @@ Acrobatでアクセシビリティのために[複雑なリスト](complex-lists
 >[!TAB ワークスペースの設定]
 
 [ワークスペースを設定](set-up-workspace.md)して、アクセス可能なPDFファイルの作成を効率化する方法を説明します。
-
->[!TAB Wordからアクセス可能なPDFを作成する]
-
-Microsoft Wordからアクセス可能なPDFファイルを[作成](create-accessible-from-word.md)する方法について説明します。
 
 >[!ENDTABS]
 
@@ -74,6 +74,18 @@ Microsoft Wordからアクセス可能なPDFファイルを[作成](create-acces
     <br>
   </td>
   <td>
+    <a href="basics-tagging.md">
+      <img alt="タグ付けの基本" src="../assets/accessibility-series-2025.png" />
+    </a>
+    <div>
+    <a href="basics-tagging.md"><strong>タグ付けの基本」</strong></a>
+    </div>
+    <em>PDFファイルにタグを付けてアクセスしやすくする基本的な方法を説明します</em>
+    <br>
+  </td>
+</tr>
+<tr>
+  <td>
     <a href="scanned-documents.md">
       <img alt="スキャンした文書" src="../assets/accessibility-series-2025.png" />
     </a>
@@ -83,8 +95,6 @@ Microsoft Wordからアクセス可能なPDFファイルを[作成](create-acces
     <em>Acrobatでスキャンした文書にアクセスできるようにする方法を説明します</em>
     <br>
   </td>
-</tr>
-<tr>
   <td>
     <a href="create-accessible-forms.md">
       <img alt="アクセシブルなフォームの作成" src="../assets/accessibility-series-2025.png" />
@@ -95,7 +105,7 @@ Microsoft Wordからアクセス可能なPDFファイルを[作成](create-acces
     <em>Acrobatでフォームにアクセスできるようにする方法を説明します</em>
     <br>
   </td>
-  <td>
+   <td>
     <a href="complex-lists.md">
       <img alt="複雑なリスト" src="../assets/accessibility-series-2025.png" />
     </a>
@@ -104,11 +114,6 @@ Microsoft Wordからアクセス可能なPDFファイルを[作成](create-acces
     </div>
     <em>Acrobatでアクセシビリティのために複雑なリストにタグを付ける方法を学ぶ</em>
     <br>
-  </td>
-  <td>
-        <img alt="スペーサー" src="../assets/Grayspacer.png" />
-        <div>
-        <br>
   </td>
   <td>
         <img alt="スペーサー" src="../assets/Grayspacer.png" />
