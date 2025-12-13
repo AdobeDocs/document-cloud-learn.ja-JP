@@ -21,4 +21,4 @@ Acrobatで複雑なリストにタグを付けてアクセシビリティを実�
 >
 >このチュートリアルの一部の機能は、Acrobat Pro、プレミアムおよびStudioでのみ利用できます。
 
->[!VIDEO](https://video.tv.adobe.com/v/3477831?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3477832?captions=jpn&quality=12&learn=on&hidetitle=true)
