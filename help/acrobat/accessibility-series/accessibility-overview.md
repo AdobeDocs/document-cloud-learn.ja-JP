@@ -6,9 +6,9 @@ role: User
 level: Beginner, Intermediate, Experienced
 jira: KT-6856
 exl-id: 26b265dc-b52f-4e0d-b6d9-893e7d3b6077
-source-git-commit: 93e43b49f6a2768a8adcc29a0d0daca14c498449
+source-git-commit: 5e67f280224d00a29d90ac1538e92e2334826e4f
 workflow-type: tm+mt
-source-wordcount: '255'
+source-wordcount: '289'
 ht-degree: 0%
 
 ---
@@ -21,6 +21,14 @@ ht-degree: 0%
 
 >[!BEGINTABS]
 
+>[!TAB 複合テーブル]
+
+Acrobatでアクセシビリティのために[テーブルをタグ付け](complex-tables.md)する方法について説明します。
+
+>[!TAB ガイド付きアクションをアクセシブルにする]
+
+[「アクセス可能にする」のガイド付きアクション](make-accessible-action.md)の使用方法を説明します。
+
 >[!TAB Acrobatでアクセス可能なPDFを作成する]
 
 Acrobat[から](accessible-acrobat.md)アクセス可能なPDFを作成する方法を説明します。
@@ -28,14 +36,6 @@ Acrobat[から](accessible-acrobat.md)アクセス可能なPDFを作成する方
 >[!TAB タグ付けの基本]
 
 PDFファイルに[タグを付けて](basics-tagging.md)アクセス可能にする基本的な方法について説明します。
-
->[!TAB 複雑なリスト]
-
-Acrobatでアクセシビリティのために[複雑なリスト](complex-lists.md)にタグを付ける方法について説明します。
-
->[!TAB スキャンされた文書]
-
-[スキャンした文書](scanned-documents.md)にアクセスできるようにする方法を説明します。
 
 >[!ENDTABS]
 
@@ -125,5 +125,37 @@ Acrobatでアクセシビリティのために[複雑なリスト](complex-lists
     <em>Acrobatでアクセシビリティのために複雑なリストにタグを付ける方法を学ぶ</em>
     <br>
   </td>
+</tr>
+<tr>
+  <td>
+    <a href="complex-tables.md">
+      <img alt="複雑な表" src="../assets/accessibility-series-2025.png" />
+    </a>
+    <div>
+    <a href="complex-tables.md"><strong>複合テーブル</strong></a>
+    </div>
+    <em>Acrobatでアクセシビリティのためにテーブルにタグを付ける方法</em>を学ぶ
+    <br>
+  </td>
+  <td>
+    <a href="make-accessible-action.md">
+      <img alt="アクセシブルなガイドアクションを作成" src="../assets/accessibility-series-2025.png" />
+    </a>
+    <div>
+    <a href="make-accessible-action.md"><strong>ガイド付きアクションをアクセシブルにする</strong></a>
+    </div>
+    <em>「アクセス可能にする」ガイド付きアクションの使用方法を学ぶ</em>
+    <br>
+  </td>
+   <td>
+        <img alt="スペーサー" src="../assets/Whitespacer.png" />
+        <div>
+        <br>
+      </td>
+      <td>
+        <img alt="スペーサー" src="../assets/Whitespacer.png" />
+        <div>
+        <br>
+    </td>
 </tr>
 </table>
