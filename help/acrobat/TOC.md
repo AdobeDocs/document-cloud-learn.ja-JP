@@ -24,7 +24,7 @@ ht-degree: 4%
    + [AIアシスタントでPDFのインサイトを見つける](getting-started/ai-assistant.md)
    + [PDFスペースでチームの効率を向上](getting-started/pdf-spaces-legal.md)
    + [Acrobat Studioとは](getting-started/acrobat-studio.md)
-   + [連携 [!DNL Microsoft 365]](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/integrations/integrate-overview.html#microsoft)
+   + [連携 [!DNL Microsoft 365]](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/integrations/integrate-overview.html?lang=ja#microsoft)
    + [Acrobat webでどこでも作業](getting-started/acrobatweb.md)
    + [PDFを作成](getting-started/create-pdf.md)
    + [ファイルを1つのPDFに結合](getting-started/combine-to-pdf.md)
@@ -80,11 +80,11 @@ ht-degree: 4%
       + [タグなしPDFへのフォームフィールドの追加](advanced-tasks/accessibilitysession6.md)
 + AI搭載 {#ai-powered}
    + [概要](ai-powered/ai-overview.md)
-   + [AIアシスタントを使用してPDFの洞察を得る](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/ai-assistant)
-   + [PDFスペースでチームの効率を向上させる](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/pdf-spaces-legal)
-   + [Acrobat Studioとは](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/acrobat-studio)
-   + [PDFのグラフィックを編集する](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/edit-graphics)
-   + [このPDFのスタイルを設定する](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/stylize-this-pdf)
+   + [AIアシスタントを使用してPDFの洞察を得る](https://experienceleague.adobe.com/ja/docs/document-cloud-learn/acrobat-learning/getting-started/ai-assistant)
+   + [PDFスペースでチームの効率を向上させる](https://experienceleague.adobe.com/ja/docs/document-cloud-learn/acrobat-learning/getting-started/pdf-spaces-legal)
+   + [Acrobat Studioとは](https://experienceleague.adobe.com/ja/docs/document-cloud-learn/acrobat-learning/getting-started/acrobat-studio)
+   + [PDFのグラフィックを編集する](https://experienceleague.adobe.com/ja/docs/document-cloud-learn/acrobat-learning/getting-started/edit-graphics)
+   + [このPDFのスタイルを設定する](https://experienceleague.adobe.com/ja/docs/document-cloud-learn/acrobat-learning/getting-started/stylize-this-pdf)
 + 60秒Acrobat {#60-second}
    + [概要](60-second/60-second-overview.md)
    + [Acrobat webでPDFを編集](60-second/edit.md)
@@ -151,5 +151,5 @@ ht-degree: 4%
    + [ETLA版のお客様向けのAcrobat DC製品の重要なアップデート](deploy/signentitlementchanges.md)
 + モバイル {#mobile}
    + [概要](mobile/mobile-overview.md)
-   + [外出先での生産性](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/getting-started/productivity.html)
+   + [外出先での生産性](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/getting-started/productivity.html?lang=ja)
    + [スキャンしたものはすべてPDFに保存](mobile/scan-mobile-app.md)
