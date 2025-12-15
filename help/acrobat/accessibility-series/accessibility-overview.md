@@ -6,9 +6,9 @@ role: User
 level: Beginner, Intermediate, Experienced
 jira: KT-6856
 exl-id: 26b265dc-b52f-4e0d-b6d9-893e7d3b6077
-source-git-commit: 1fb311177830a22d7b269df4800444e65b30179d
+source-git-commit: 93e43b49f6a2768a8adcc29a0d0daca14c498449
 workflow-type: tm+mt
-source-wordcount: '236'
+source-wordcount: '255'
 ht-degree: 0%
 
 ---
@@ -21,6 +21,10 @@ ht-degree: 0%
 
 >[!BEGINTABS]
 
+>[!TAB Acrobatでアクセス可能なPDFを作成する]
+
+Acrobat[から](accessible-acrobat.md)アクセス可能なPDFを作成する方法を説明します。
+
 >[!TAB タグ付けの基本]
 
 PDFファイルに[タグを付けて](basics-tagging.md)アクセス可能にする基本的な方法について説明します。
@@ -32,10 +36,6 @@ Acrobatでアクセシビリティのために[複雑なリスト](complex-lists
 >[!TAB スキャンされた文書]
 
 [スキャンした文書](scanned-documents.md)にアクセスできるようにする方法を説明します。
-
->[!TAB ワークスペースの設定]
-
-[ワークスペースを設定](set-up-workspace.md)して、アクセス可能なPDFファイルの作成を効率化する方法を説明します。
 
 >[!ENDTABS]
 
@@ -74,6 +74,18 @@ Acrobatでアクセシビリティのために[複雑なリスト](complex-lists
     <br>
   </td>
   <td>
+    <a href="accessible-acrobat.md">
+      <img alt="AcrobatでのアクセシブルなPDFの作成" src="../assets/accessibility-series-2025.png" />
+    </a>
+    <div>
+    <a href="accessible-acrobat.md"><strong>Acrobatでアクセス可能なPDFを作成する</strong></a>
+    </div>
+    <em>Acrobat以降でアクセス可能なPDFを作成する方法を説明します</em>
+    <br>
+  </td>
+</tr>
+<tr>
+ <td>
     <a href="basics-tagging.md">
       <img alt="タグ付けの基本" src="../assets/accessibility-series-2025.png" />
     </a>
@@ -83,9 +95,7 @@ Acrobatでアクセシビリティのために[複雑なリスト](complex-lists
     <em>PDFファイルにタグを付けてアクセスしやすくする基本的な方法を説明します</em>
     <br>
   </td>
-</tr>
-<tr>
-  <td>
+ <td>
     <a href="scanned-documents.md">
       <img alt="スキャンした文書" src="../assets/accessibility-series-2025.png" />
     </a>
@@ -105,7 +115,7 @@ Acrobatでアクセシビリティのために[複雑なリスト](complex-lists
     <em>Acrobatでフォームにアクセスできるようにする方法を説明します</em>
     <br>
   </td>
-   <td>
+  <td>
     <a href="complex-lists.md">
       <img alt="複雑なリスト" src="../assets/accessibility-series-2025.png" />
     </a>
@@ -114,11 +124,6 @@ Acrobatでアクセシビリティのために[複雑なリスト](complex-lists
     </div>
     <em>Acrobatでアクセシビリティのために複雑なリストにタグを付ける方法を学ぶ</em>
     <br>
-  </td>
-  <td>
-        <img alt="スペーサー" src="../assets/Grayspacer.png" />
-        <div>
-        <br>
   </td>
 </tr>
 </table>

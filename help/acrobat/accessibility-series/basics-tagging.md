@@ -6,16 +6,16 @@ role: User
 level: Intermediate
 topics: Accessibility
 jira: KT-18726
-source-git-commit: 1fb311177830a22d7b269df4800444e65b30179d
+source-git-commit: 93e43b49f6a2768a8adcc29a0d0daca14c498449
 workflow-type: tm+mt
-source-wordcount: '66'
+source-wordcount: '64'
 ht-degree: 0%
 
 ---
 
 # タグ付けの基本
 
-ここでは、PDFファイルにタグを付けてアクセシブルにする基本的な方法について説明します。 説明されているトピックは、リストの修正、アーティファクト、画像用の代替テキストの追加、および単純な表です。
+ここでは、PDFファイルにタグを付けてアクセシブルにする基本的な方法について説明します。 取り上げられているトピックは、リストの修正、アーティファクト、画像用の代替テキストの追加、簡単な表です。
 
 >[!NOTE]
 >
