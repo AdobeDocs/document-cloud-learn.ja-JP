@@ -8,10 +8,10 @@ jira: KT-6849
 topic-revisit: Administration
 thumbnail: KT-6849.jpg
 exl-id: 1b6ea9f0-6bbb-4ea5-aa22-bfa42f7cca18
-source-git-commit: 07e2a5a81b23efc49934c9693c625da47882f43f
+source-git-commit: b24235986241d53bfd09d602192e50290bfb8817
 workflow-type: tm+mt
-source-wordcount: '678'
-ht-degree: 2%
+source-wordcount: '697'
+ht-degree: 3%
 
 ---
 
@@ -22,6 +22,10 @@ ht-degree: 2%
 ## 新機能
 
 >[!BEGINTABS]
+
+>[!TAB カスタムワークフローの作成]
+
+[カスタムワークフロー](building-a-custom-workflow.md)を作成および使用して、契約書の作成と送信のプロセスを高速化する方法について説明します。
 
 >[!TAB 再利用可能なテンプレートを作成]
 
@@ -35,10 +39,6 @@ Admin Console内のAcrobat Signへのアクセスをユーザーに許可する[
 
 3つの簡単な手順で、[Docusignテンプレート](docusign-templates.md)とワークフローをシームレスに移行する方法について説明します。
 
->[!TAB 新しいユーザーを追加する]
-
-[Acrobat Signに新しいユーザーを追加](add-users-to-your-account.md)する方法を説明します。
-
 >[!ENDTABS]
 
 ## はじめに
@@ -47,7 +47,7 @@ Admin Console内のAcrobat Signへのアクセスをユーザーに許可する[
 <tr>
   <td>
     <a href="get-started-admin.md">
-      <img alt="新しい管理者向け導入ガイド" src="../assets/get-started-admin.png" />
+      <img alt="新しい管理者向けの入門" src="../assets/get-started-admin.png" />
     </a>
     <div>
     <a href="get-started-admin.md"><strong>新しい管理者の基本を学ぶ</strong></a>
@@ -203,12 +203,12 @@ Admin Console内のAcrobat Signへのアクセスをユーザーに許可する[
   </td>
   <td>
     <a href="building-a-custom-workflow.md">
-      <img alt="ワークフローの設定" src="../assets/workflow.png" />
+      <img alt="カスタムワークフローの作成" src="../assets/workflow.png" />
     </a>
     <div>
-    <a href="building-a-custom-workflow.md"><strong>ワークフローを設定しています</strong></a>
+    <a href="building-a-custom-workflow.md"><strong>カスタムワークフローの作成</strong></a>
     </div>
-    <em>文書ワークフローを自動化して、電子サインとデータをすばやく取得</em>
+    <em>カスタムワークフローを作成および使用して、契約書の作成と送信のプロセスを高速化する方法について説明します</em>
     <br>
   </td>
 </tr>

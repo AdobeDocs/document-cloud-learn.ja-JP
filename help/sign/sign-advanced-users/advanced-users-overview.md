@@ -7,10 +7,10 @@ level: Experienced
 jira: KT-6848
 thumbnail: KT-6848.jpg
 exl-id: c4f0a953-e28b-4488-a27c-010b5adaf7ec
-source-git-commit: 2a808b6cc197a58ebe680ef4bf50747756f81013
+source-git-commit: 8f33f6e533aca9d2c8945abaf0f4d6d5d958d777
 workflow-type: tm+mt
-source-wordcount: '424'
-ht-degree: 2%
+source-wordcount: '458'
+ht-degree: 4%
 
 ---
 
@@ -21,6 +21,10 @@ ht-degree: 2%
 ## 新機能
 
 >[!BEGINTABS]
+
+>[!TAB カスタムワークフローの作成]
+
+
 
 >[!TAB 一括送信]
 
@@ -67,38 +71,6 @@ ht-degree: 2%
     <br>
   </td>
   <td>
-    <a href="authentication-methods.md">
-      <img alt="Acrobat Signの認証方法" src="../assets/authentication.png" />
-    </a>
-    <div>
-    <a href="authentication-methods.md"><strong>Acrobat Signの認証方法</strong></a>
-    </div>
-    <em>Acrobat Signで利用できる幅広いID認証方法について説明します</em>
-    <br>
-  </td>
-</tr>
-<tr>
-  <td>
-      <a href="manage-form-data.md">
-        <img alt="フォームデータを管理" src="../assets/manage-form-data.png" />
-      </a>
-      <div>
-      <a href="manage-form-data.md"><strong>フォームデータの管理</strong></a>
-      </div>
-      <em>ドキュメントからフォームデータを統合する方法を説明します</em>
-      <br>
-    </td>
-  <td>
-    <a href="set-up-online-payments.md">
-      <img alt="オンライン決済の設定" src="../assets/payment.png" />
-    </a>
-    <div>
-    <a href="set-up-online-payments.md"><strong>オンラインでの支払いを設定する</strong></a>
-    </div>
-    <em>ドキュメントでオンラインでの支払いを設定して受け入れる方法を説明します</em>
-    <br>
-  </td>
-  <td>
       <a href="megasign.md">
         <img alt="一括送信" src="../assets/send-in-bulk.png" />
       </a>
@@ -108,7 +80,9 @@ ht-degree: 2%
       <em>簡単な手順で、数百の署名を一度に収集できます</em>
       <br>
   </td>
- <td>
+</tr>
+<tr>
+  <td>
       <a href="webform.md">
         <img alt="Webフォームの作成" src="../assets/web-form.png" />
     </a>
@@ -116,6 +90,36 @@ ht-degree: 2%
       <a href="webform.md"><strong>Webフォームを作成しています</strong></a>
       </div>
       <em>Webサイトで直接電子サインできる文書を作成する方法を説明します</em>
+      <br>
+  </td>
+  <td>
+      <a href="../admin/building-a-custom-workflow.md">
+        <img alt="カスタムワークフローの作成" src="../assets/workflow.png" />
+      </a>
+      <div>
+      <a href="../admin/building-a-custom-workflow.md"><strong>カスタムワークフローの作成</strong></a>
+      </div>
+      <em>カスタムワークフローを作成および使用して、契約書の作成と送信のプロセスを高速化する方法について説明します</em>
+      <br>
+  </td>
+  <td>
+      <a href="set-up-online-payments.md">
+        <img alt="オンライン決済の設定" src="../assets/payment.png" />
+      </a>
+      <div>
+      <a href="set-up-online-payments.md"><strong>オンラインでの支払いを設定する</strong></a>
+      </div>
+      <em>ドキュメントでオンラインでの支払いを設定して受け入れる方法を説明します</em>
+      <br>
+  </td>
+  <td>
+      <a href="authentication-methods.md">
+        <img alt="Acrobat Signの認証方法" src="../assets/authentication.png" />
+      </a>
+      <div>
+      <a href="authentication-methods.md"><strong>Acrobat Signの認証方法</strong></a>
+      </div>
+      <em>Acrobat Signで利用できる幅広いID認証方法について説明します</em>
       <br>
   </td>
 </tr>
@@ -197,5 +201,32 @@ ht-degree: 2%
     <em>Webフォームからデータを追跡、管理、およびエクスポートする方法を説明します</em>
     <br>
   </td>  
+</tr>
+<tr>
+  <td>
+      <a href="manage-form-data.md">
+        <img alt="フォームデータを管理" src="../assets/manage-form-data.png" />
+      </a>
+      <div>
+      <a href="manage-form-data.md"><strong>フォームデータの管理</strong></a>
+      </div>
+      <em>ドキュメントからフォームデータを統合する方法を説明します</em>
+      <br>
+    </td>
+    <td>
+    <img alt="スペーサー" src="../assets/Grayspacer.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="スペーサー" src="../assets/Grayspacer.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="スペーサー" src="../assets/Grayspacer.png" />
+    <div>
+    <br>
+  </td>
 </tr>
 </table>
