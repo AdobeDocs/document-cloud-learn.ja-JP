@@ -20,4 +20,4 @@ Acrobatでアクセシビリティのために表にタグ付けする方法に�
 >
 >Acrobat Pro、Premium、Studioでのみ利用可能です。
 
->[!VIDEO](https://video.tv.adobe.com/v/3477951?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3477953?captions=jpn&quality=12&learn=on&hidetitle=true)
