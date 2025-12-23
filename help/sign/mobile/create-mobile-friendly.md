@@ -1,20 +1,20 @@
 ---
 title: モバイル対応ビューの作成
-description: 「モバイルフォーカス」モードを使用して、文書のモバイル対応ビューを作成する方法について説明します。
+description: 開発者のサポートなしに、モバイル対応のドキュメントをシームレスに生成する方法について説明します
 feature: Mobile, Sign
 role: User
 level: Beginner
 jira: KT-18736
-source-git-commit: 179d668e1029d12da5147aa259fe28dbd5b681bf
+source-git-commit: f053f885cce9d41478e581bddeba5fae4196fb91
 workflow-type: tm+mt
-source-wordcount: '88'
+source-wordcount: '72'
 ht-degree: 0%
 
 ---
 
 # モバイル対応ビューの作成
 
-「モバイルフォーカス」モードを使用して、文書のモバイル対応ビューを作成する方法について説明します。 送信者は、開発者のサポートなしに、モバイル対応フォームをシームレスに生成できるようになりました。
+開発者のサポートなしに、モバイル対応のドキュメントをシームレスに生成する方法について説明します。
 
 Mobile Focusを使用すると、送信者は次のメリットを得ることができます。
 
