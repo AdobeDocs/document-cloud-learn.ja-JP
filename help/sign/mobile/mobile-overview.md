@@ -8,9 +8,9 @@ jira: KT-6854
 topic-revisit: Mobile
 thumbnail: KT-6854.jpg
 exl-id: c52bf1c6-0821-4754-af7f-71f29b8a18c9
-source-git-commit: 01929e1d724d398a25ef70eae22330a6bce1d1b4
+source-git-commit: 179d668e1029d12da5147aa259fe28dbd5b681bf
 workflow-type: tm+mt
-source-wordcount: '162'
+source-wordcount: '177'
 ht-degree: 1%
 
 ---
@@ -52,6 +52,16 @@ ht-degree: 1%
     <br>
   </td>  
   <td>
+    <a href="create-mobile-friendly.md">
+      <img alt="モバイル対応ビューの作成" src="../assets/create-mobile-friendly.png" />
+    </a>
+    <div>
+    <a href="create-mobile-friendly.md"><strong>モバイル対応ビューの作成</strong></a>
+    </div>
+    <em>文書のモバイル対応ビューを作成する方法の詳細</em>
+    <br>
+  </td>
+   <td>
     <a href="liquidmode.md">
       <img alt="Acrobat SignのLiquid Mode" src="../assets/liquid-mode.png" />
     </a>
@@ -61,7 +71,9 @@ ht-degree: 1%
     <em>Liquid Modeでモバイル署名エクスペリエンスがどのように向上するかを説明します</em>
     <br>
   </td>
-   <td>
+</tr>
+<tr>
+  <td>
     <a href="https://apps.apple.com/us/app/adobe-acrobat-sign/id481082197_blank">
       <img alt="iOS向けAcrobat Signモバイルアプリをダウンロード" src="../assets/mobile-ios.png" />
     </a>
@@ -71,21 +83,14 @@ ht-degree: 1%
     <em>App StoreからAcrobat Signモバイルアプリをダウンロードする</em>
     <br>
   </td>
-</tr>
-<tr>
   <td>
-    <a href="https://play.google.com/store/apps/details?id=com.adobe.echosign&hl=en&pli=1_blank">
+    <a href="https://play.google.com/store/apps/details?id=com.adobe.echosign&amp;hl=en&amp;pli=1_blank">
       <img alt="Android用Acrobat Signモバイルアプリをダウンロード" src="../assets/mobile-android.png" />
     </a>
     <div>
-    <a href="https://play.google.com/store/apps/details?id=com.adobe.echosign&hl=en&pli=1_blank"><strong>Android用Acrobat Signモバイルアプリをダウンロード</strong></a>
+    <a href="https://play.google.com/store/apps/details?id=com.adobe.echosign&amp;hl=en&amp;pli=1_blank"><strong>Android用Acrobat Signモバイルアプリをダウンロード</strong></a>
     </div>
     <em>Google PlayからAcrobat Signモバイルアプリをダウンロード</em>
-    <br>
-  </td>
-  <td>
-    <img alt="スペーサー" src="../assets/Grayspacer.png" />
-    <div>
     <br>
   </td>
   <td>
