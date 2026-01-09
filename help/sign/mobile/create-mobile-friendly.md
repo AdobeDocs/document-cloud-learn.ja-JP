@@ -23,4 +23,4 @@ ht-degree: 0%
 * 技術的な専門知識は不要：最小限の労力でダイナミックでモバイルフレンドリーなフォームを作成
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3478398?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3478399?captions=jpn&quality=12&learn=on&hidetitle=true)
