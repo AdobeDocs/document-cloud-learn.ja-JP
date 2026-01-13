@@ -6,9 +6,9 @@ role: User
 level: Intermediate
 topics: Accessibility
 jira: KT-18731
-source-git-commit: fd6ff74f94bd93fbd40086badf8158d4bc968e5a
+source-git-commit: f1b917a7889adf2d372965a7c75ced1aac4cfc4c
 workflow-type: tm+mt
-source-wordcount: '56'
+source-wordcount: '75'
 ht-degree: 0%
 
 ---
@@ -21,4 +21,8 @@ Acrobatで複雑なリストにタグを付けてアクセシビリティを実�
 >
 >このチュートリアルの一部の機能は、Acrobat Pro、プレミアムおよびStudioでのみ利用できます。
 
->[!VIDEO](https://video.tv.adobe.com/v/3477832?captions=jpn&quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3477831?quality=12&learn=on&hidetitle=true)
+
+>[!TIP]
+>
+>このビデオは、Experience Leagueで無料で提供されている再生リスト[PDFのアクセシビリティシリーズ](https://experienceleague.adobe.com/en/playlists/acrobat-pdf-accessibility)の一部です。

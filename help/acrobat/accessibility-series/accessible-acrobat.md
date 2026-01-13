@@ -6,9 +6,9 @@ role: User
 level: Intermediate
 topics: Accessibility
 jira: KT-18729
-source-git-commit: 93e43b49f6a2768a8adcc29a0d0daca14c498449
+source-git-commit: f1b917a7889adf2d372965a7c75ced1aac4cfc4c
 workflow-type: tm+mt
-source-wordcount: '61'
+source-wordcount: '80'
 ht-degree: 0%
 
 ---
@@ -21,4 +21,8 @@ Acrobatを使用してアクセシブルなPDFを作成する方法を説明し�
 >
 >このチュートリアルの一部の機能は、Acrobat Pro、プレミアムおよびStudioでのみ利用できます。
 
->[!VIDEO](https://video.tv.adobe.com/v/3477926?captions=jpn&quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3477925?quality=12&learn=on&hidetitle=true)
+
+>[!TIP]
+>
+>このビデオは、Experience Leagueで無料で提供されている再生リスト[PDFのアクセシビリティシリーズ](https://experienceleague.adobe.com/en/playlists/acrobat-pdf-accessibility)の一部です。

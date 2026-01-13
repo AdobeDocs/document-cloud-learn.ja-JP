@@ -6,16 +6,16 @@ role: User
 level: Beginner, Intermediate, Experienced
 jira: KT-6856
 exl-id: 26b265dc-b52f-4e0d-b6d9-893e7d3b6077
-source-git-commit: 5e67f280224d00a29d90ac1538e92e2334826e4f
+source-git-commit: f1b917a7889adf2d372965a7c75ced1aac4cfc4c
 workflow-type: tm+mt
-source-wordcount: '289'
+source-wordcount: '296'
 ht-degree: 0%
 
 ---
 
 # アクセシビリティシリーズの概要
 
-アクセシブルなPDFファイルを作成する方法について説明します。 このシリーズのTutorialsは、タグ付けの基本からフォームの操作まで多岐にわたります。 新しいコンテンツが定期的に追加されます。
+アクセシブルなPDFファイルを作成する方法について説明します。 このシリーズのTutorialsは、タグ付けの基本からフォームの操作まで多岐にわたります。 このシリーズは、Experience Leagueで[コースフォーマット](https://experienceleague.adobe.com/en/courses/acr-pdf-accessibility-essentials)で利用できるようになりました。
 
 ## 新機能
 
