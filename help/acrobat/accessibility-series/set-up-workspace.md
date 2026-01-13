@@ -18,7 +18,7 @@ ht-degree: 0%
 
 アクセシビリティツールをすべて活用して、アクセシビリティに優れたPDFファイルを簡単に作成する方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3471612?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3471617?captions=jpn&quality=12&learn=on&hidetitle=true)
 
 >[!TIP]
 >

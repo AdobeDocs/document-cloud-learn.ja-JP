@@ -21,7 +21,7 @@ Acrobatを使用してアクセシブルなPDFを作成する方法を説明し�
 >
 >このチュートリアルの一部の機能は、Acrobat Pro、プレミアムおよびStudioでのみ利用できます。
 
->[!VIDEO](https://video.tv.adobe.com/v/3477925?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3477926?captions=jpn&quality=12&learn=on&hidetitle=true)
 
 >[!TIP]
 >

@@ -18,7 +18,7 @@ ht-degree: 0%
 
 アクセシブルなPDFファイルとは何か、また重要な理由について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3471613?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3471630?captions=jpn&quality=12&learn=on&hidetitle=true)
 
 >[!TIP]
 >
