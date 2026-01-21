@@ -17,7 +17,7 @@ ht-degree: 1%
 
 Adobe Express [Adobe Express](https://express.adobe.com)を利用したアプリ内ツールを使用して、おすすめのフォント、カラーテーマ、画像、デザイン要素を適用し、PDFの見た目を改善するためにこのPDFをスタイライズする方法を説明します。 また、レイアウトの調整、Adobe StockまたはAIが生成した画像の追加、テキストスタイルのカスタマイズを行って、洗練されたプロフェッショナルな外観の文書を作成する方法についても説明します。 このビデオチュートリアルでは、[新しいAcrobatエクスペリエンス](new-workspace.md)を使用します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3425137?enablevpops&quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3445542?captions=jpn&enablevpops&quality=12&learn=on&hidetitle=true)
 
 [!BADGE ロール別]
 

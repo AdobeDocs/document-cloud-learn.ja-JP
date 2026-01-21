@@ -17,7 +17,7 @@ ht-degree: 1%
 
 Acrobatの編集モードを使って、デスクトップとwebのPDFー内で直接画像の追加、置換、切り抜き、サイズ変更、回転、配置をおこなう方法を説明します。 このチュートリアルでは、Adobe Expressを利用したアプリ内画像ジェネレーターを使用して、テキストプロンプトから画像を生成し、調整する方法についても説明します。 このビデオチュートリアルでは、[新しいAcrobatエクスペリエンス](new-workspace.md)を使用します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3431260?enablevpops&quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3446930?captions=jpn&enablevpops&quality=12&learn=on&hidetitle=true)
 
 [!BADGE ロール別]
 
