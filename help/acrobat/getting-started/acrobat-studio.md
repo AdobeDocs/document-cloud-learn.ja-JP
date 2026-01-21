@@ -1,19 +1,44 @@
 ---
 title: Acrobat Studioとは
-description: Acrobat Studioを使用して、ブランドセーフコンテンツを作成し、洞察を引き出し、複雑な作業を効率化する方法について説明します
+description: Acrobat Studioを使用して、ブランドセーフコンテンツの作成、インサイトの抽出、複雑な作業の合理化を行う方法について説明します
 feature: Gen AI
 role: User
 level: Beginner
 jira: KT-18748
-source-git-commit: 701b24aa8b6db23ce3f87c03d7201de4f98ff5cf
+exl-id: f4a5cab8-0f6c-4607-9188-88011afcf882
+source-git-commit: e2911087f78e07e269a387b9414f3fbaf8dfc57d
 workflow-type: tm+mt
-source-wordcount: '62'
-ht-degree: 0%
+source-wordcount: '197'
+ht-degree: 1%
 
 ---
 
 # Acrobat Studioとは
 
-Acrobat Studioを使ってブランドセーフのコンテンツを作成し、洞察を引き出し、複雑な作業を合理化して、チームの動きを高速化する方法について説明します。 Acrobat Studioは、Acrobat Pro、AIアシスタント、PDFスペース、Adobe Expressプレミアムを含むオールインワンソリューションです。
+Acrobat Studioを使用してブランドセーフのコンテンツを作成し、洞察を抽出し、複雑な作業を合理化して、チームの動きを高速化する方法について説明します。 Acrobat Studioは、Acrobat Pro、AIアシスタント、PDFスペース、Adobe Expressプレミアムを含むオールインワンソリューションです。 これらの統合されたツールは、ファイルの一元化、AIによる分析の実現、統合されたワークスペースでのエンドツーエンドのコンテンツ作成のサポートによって、チームの生産性を向上させます。
 
->[!VIDEO](https://video.tv.adobe.com/v/3475057?quality=12&learn=on&hidetitle=true&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/3475053?quality=12&learn=on&hidetitle=true)
+
+[!BADGE ロール別]
+
+## Acrobat Studioで様々なチームを支援する方法
+
+* 法律とコンプライアンス
+
+  ポリシー、契約、規制に関するガイダンスを1つのワークスペースに一元化し、AI Assistantを使用して、変更の反映、リスクの特定、検証可能なライセンスに基づくコンプライアンス対応アップデートの生成を実行できます。
+
+* 人事
+
+  メッセージングの一貫性とコンプライアンスを維持しながら、複雑なポリシー文書を明確な概要、FAQ、社員向けの資料に変換できます。
+
+* セールス
+
+  承認されたコンテンツを既存のドキュメントから取得し、洗練されたクライアント対応のファイルに変換することで、提案とRFPの回答をすばやく組み立てることができます。
+
+* マーケティングとコミュニケーション
+
+  ソースドキュメントからインサイトを引き出し、Adobe Expressを使用して、ブランドプレゼンテーション、ワンページ、ビジュアルコンテンツに変換します。
+
+* 経営幹部とリーダー
+
+  複数のドキュメント間でソースにリンクされた簡潔な概要を取得できるため、すべてのファイルを確認することなく迅速に意思決定を行うことができます。

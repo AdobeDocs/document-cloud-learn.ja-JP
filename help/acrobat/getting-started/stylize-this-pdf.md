@@ -1,20 +1,40 @@
 ---
 title: このPDFをスタイライズ
-description: Adobe Expressの統合された使いやすいデザインツールを使用してプロのようなPDFを作成する方法を説明します
+description: 使いやすいAdobe Expressデザインツールを組み込んで、プロのようなPDFを作成する方法を説明します
 feature: Edit PDF
 role: User
 level: Intermediate
 jira: KT-14195
 exl-id: 30a17c43-1efb-4c76-9133-18bb4dab2238
-source-git-commit: 17a25611e3444b0b00f4a78306fdedc59495c07c
+source-git-commit: e2911087f78e07e269a387b9414f3fbaf8dfc57d
 workflow-type: tm+mt
-source-wordcount: '45'
-ht-degree: 0%
+source-wordcount: '217'
+ht-degree: 1%
 
 ---
 
 # このPDFをスタイライズ
 
-[Adobe Express](https://express.adobe.com)の統合された使いやすいデザインツールを使用して、プロのようなPDFを作成する方法を説明します。 このビデオチュートリアルでは、[新しいAcrobatエクスペリエンス](new-workspace.md)を使用します。
+Adobe Express [Adobe Express](https://express.adobe.com)を利用したアプリ内ツールを使用して、おすすめのフォント、カラーテーマ、画像、デザイン要素を適用し、PDFの見た目を改善するためにこのPDFをスタイライズする方法を説明します。 また、レイアウトの調整、Adobe StockまたはAIが生成した画像の追加、テキストスタイルのカスタマイズを行って、洗練されたプロフェッショナルな外観の文書を作成する方法についても説明します。 このビデオチュートリアルでは、[新しいAcrobatエクスペリエンス](new-workspace.md)を使用します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3445542?enablevpops&quality=12&learn=on&hidetitle=true&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/3425137?enablevpops&quality=12&learn=on&hidetitle=true)
+
+[!BADGE ロール別]
+
+## このPDFのスタイル設定が様々なチームにどのように役立つか
+
+* 法律とコンプライアンス
+
+  法務チームはこのPDFを「スタイライズ」して、ポリシーとガイダンスドキュメントに一貫したフォーマット、タイポグラフィ、ビジュアルを適用し、コンプライアンスに対応しながら意味を変えずに、プロフェッショナルで読みやすい外観に仕上げます。
+
+* 人事
+
+  人事チームは、「スタイライズ」このPDFを使用して、ポリシー文書、オンボーディング資料、トレーニングリソースを、理解と社員のエンゲージメントを高める、視覚的に明確で親しみやすいPDFに変換します。
+
+* セールス
+
+  セールスチームは、このPDFを「Stylize」と呼びます。このツールを使用すると、ブランドフォント、カラー、画像を適用して、迅速に提案書やプレゼンテーションに磨きをかけることができ、デザインツールに戻らなくても、顧客が使えるドキュメントを提供することができます。
+
+* マーケティングとコミュニケーション
+
+  マーケティングチームは、このPDFを「スタイライズ」して、レイアウトを調整し、視覚的なテーマを適用し、画像を組み込むことで、キャンペーン全体でマテリアルの視覚的な一貫性を保ち、PDFをブランドの基準に合わせます。
