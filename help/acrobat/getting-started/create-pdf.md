@@ -24,7 +24,7 @@ ht-degree: 0%
 
 <br> 
 
->[!VIDEO](https://video.tv.adobe.com/v/35491?enablevpops&quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3409193?captions=jpn&enablevpops&quality=12&learn=on&hidetitle=true)
 
 このチュートリアルのポータブル版をお探しですか？ PDFアイコンを選択して、このチュートリアルの手書きバージョンを開くかダウンロードします。
 
