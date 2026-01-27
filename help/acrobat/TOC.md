@@ -6,9 +6,9 @@ feature-set: Document Cloud
 role: User
 type: Tutorial
 auto-video-transcripts: true
-source-git-commit: 7b76b90df77bf73e7f5d17eabe761f106c74d62b
+source-git-commit: 6173778d21b03089a503fa9e08017a909d7bc6da
 workflow-type: tm+mt
-source-wordcount: '589'
+source-wordcount: '566'
 ht-degree: 5%
 
 ---
@@ -22,7 +22,7 @@ ht-degree: 5%
    + 基本の学習 {#basics}
       + [ワークスペースの基本](getting-started/workspace-basics.md)
       + [新しいAcrobatエクスペリエンス](getting-started/new-experience.md)
-      + [連携 [!DNL Microsoft 365]](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/integrations/integrate-overview.html?lang=ja#microsoft)
+      + [連携 [!DNL Microsoft 365]](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/integrations/integrate-overview.html#microsoft)
       + [Acrobat webでどこでも作業](getting-started/acrobatweb.md)
       + [外出先での生産性](getting-started/productivity.md)
       + [PDFはどこから来るのですか。](getting-started/where-do-pdfs-come-from.md)
@@ -65,26 +65,22 @@ ht-degree: 5%
    + [アクセシブルなガイドアクションを作成](accessibility-series/make-accessible-action.md)
 + 高度なタスク {#advanced-tasks}
    + [概要](advanced-tasks/advanced-tasks-overview.md)
-   + [ブックマークとハイパーリンクの追加](advanced-tasks/bookmarks.md)
-   + [スキャンした文書を最適化](advanced-tasks/optimizescan.md)
-   + [カスタムコマンドとツール](advanced-tasks/custom.md)
-   + [高度なフォームフィールド](advanced-tasks/advancedforms.md)
-   + [SEOのOptimize PDF](advanced-tasks/optimizeseo.md)
-   + [フォームフィールドの操作](advanced-tasks/workforms.md)
-   + [PDFを向上させる](advanced-tasks/enhance.md)
-   + [2つのPDFの違いを検出する](advanced-tasks/compare.md)
-   + [ガイド付きアクション](advanced-tasks/action.md)
-   + [機密情報を削除](advanced-tasks/redact.md)
-   + [PDFの圧縮と最適化](advanced-tasks/reduce.md)
-   + [フォームデータの操作](advanced-tasks/formdata.md)
-   + Acrobatアクセシビリティウェビナー {#accessibility-series}
-      + [概要](advanced-tasks/accessibility-series.md)
-      + [PDFのアクセシビリティの概要](advanced-tasks/accessibilitysession1.md)
-      + [アクセスできないPDFの修復](advanced-tasks/accessibilitysession2.md)
-      + [複雑な表](advanced-tasks/accessibilitysession3.md)
-      + [スキャンした文書と複雑なリスト](advanced-tasks/accessibilitysession4.md)
-      + [タグ付きPDFへのフォームフィールドの追加](advanced-tasks/accessibilitysession5.md)
-      + [タグなしPDFへのフォームフィールドの追加](advanced-tasks/accessibilitysession6.md)
+   + 準備と強化 {#prepare}
+      + [PDFの圧縮と最適化](advanced-tasks/reduce.md)
+      + [スキャンした文書を最適化](advanced-tasks/optimizescan.md)
+      + [SEOのOptimize PDF](advanced-tasks/optimizeseo.md)
+      + [ブックマークとハイパーリンクの追加](advanced-tasks/bookmarks.md)
+      + [2つのPDFの違いを検出する](advanced-tasks/compare.md)
+      + [PDFを向上させる](advanced-tasks/enhance.md)
+   + フォームの作成と管理 {#forms}
+      + [フォームフィールドの操作](advanced-tasks/workforms.md)
+      + [高度なフォームフィールド](advanced-tasks/advancedforms.md)
+      + [フォームデータの操作](advanced-tasks/formdata.md)
+   + 保護 {#protect}
+      + [機密情報を削除](advanced-tasks/redact.md)
+   + ワークフローの自動化と拡張 {#automate}
+      + [ガイド付きアクション](advanced-tasks/action.md)
+      + [カスタムコマンドとツール](advanced-tasks/custom.md)
 + AI搭載 {#ai-powered}
    + [概要](ai-powered/ai-overview.md)
    + [AIアシスタントを使用してPDFの洞察を得る](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/ai/ai-assistant)
@@ -125,21 +121,21 @@ ht-degree: 5%
    + [ウェビナー](skill-builder/skill-builder-webinars.md)
 + 統合 {#integrations}
    + [概要](integrate/integrate-overview.md)
-   + [&#x200B; [!DNL Microsoft Word]からPDFを作成](integrate/createfromword.md)
+   + [ [!DNL Microsoft Word]からPDFを作成](integrate/createfromword.md)
    + [Web用 [!DNL Office] でPDFを作成](integrate/createofficeweb.md)
-   + [&#x200B; [!DNL Microsoft Teams]でのPDFの共同作業](integrate/acrobatandteams.md)
-   + [&#x200B; [!DNL SharePoint] ファイルの操作](integrate/acrobatandsp.md)
+   + [ [!DNL Microsoft Teams]でのPDFの共同作業](integrate/acrobatandteams.md)
+   + [ [!DNL SharePoint] ファイルの操作](integrate/acrobatandsp.md)
    + [電子メールメッセージと添付ファイルを [!DNL Outlook]内のPDFに変換](integrate/outlook.md)
-   + [&#x200B; [!DNL Microsoft Edge]で参照中にPDFコンテンツを作成する](integrate/edge.md)
-   + [&#x200B; [!DNL Microsoft Purview Information] 秘密度ラベルを使用したProtect PDF](integrate/microsoftsensitivitylabels.md)
-   + [&#x200B; [!DNL Google Drive]のAdobe Acrobat](integrate/acrobatandgoogle.md)
-   + [&#x200B; [!DNL Dropbox]のファイルを使用する](integrate/acrobat-dropbox.md)
+   + [ [!DNL Microsoft Edge]で参照中にPDFコンテンツを作成する](integrate/edge.md)
+   + [ [!DNL Microsoft Purview Information] 秘密度ラベルを使用したProtect PDF](integrate/microsoftsensitivitylabels.md)
+   + [ [!DNL Google Drive]のAdobe Acrobat](integrate/acrobatandgoogle.md)
+   + [ [!DNL Dropbox]のファイルを使用する](integrate/acrobat-dropbox.md)
 + 業界と部門 {#by-industry}
    + [概要](industry/industry-overview.md)
    + 中央省庁 {#gov}
       + [概要](industry/gov/gov-overview.md)
       + Acrobatでどこでも作業するための5つのヒント {#tips}
-         + [Acrobatでどこでも作業するための5つのヒント](industry/gov/5-tips-for-working-anywhere-with-acrobat-dc-for-government.md)
+         + Acrobatでどこでも作業するための[5つのヒント](industry/gov/5-tips-for-working-anywhere-with-acrobat-dc-for-government.md)
          + [ヒント#1 – ツールを入手](industry/gov/get-your-tools.md)
          + [ヒント#2 – ドキュメントでの共同作業](industry/gov/collaborate-on-documents.md)
          + [ヒント#3 - Protectデジタルドキュメント](industry/gov/protect-digital-documents.md)
