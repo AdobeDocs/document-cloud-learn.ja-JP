@@ -6,7 +6,7 @@ role: User
 level: Intermediate
 jira: KT-14195
 exl-id: 30a17c43-1efb-4c76-9133-18bb4dab2238
-source-git-commit: 47ebb96c31cd2e049ee09e3b1e8813bfc8d03082
+source-git-commit: 06e8a40a7f97e486d009fc693487455725ab345f
 workflow-type: tm+mt
 source-wordcount: '217'
 ht-degree: 0%
@@ -15,9 +15,9 @@ ht-degree: 0%
 
 # このPDFをスタイライズ
 
-Adobe Express [Adobe Express](https://express.adobe.com)を利用したアプリ内ツールを使用して、おすすめのフォント、カラーテーマ、画像、デザイン要素を適用し、PDFの見た目を改善するためにこのPDFをスタイライズする方法を説明します。 また、レイアウトの調整、Adobe StockまたはAIが生成した画像の追加、テキストスタイルのカスタマイズを行って、洗練されたプロフェッショナルな外観の文書を作成する方法についても説明します。 このビデオチュートリアルでは、[新しいAcrobatエクスペリエンス](new-workspace.md)を使用します。
+Adobe Express [Adobe Express](https://express.adobe.com)を利用したアプリ内ツールを使用して、おすすめのフォント、カラーテーマ、画像、デザイン要素を適用し、PDFの見た目を改善するためにこのPDFをスタイライズする方法を説明します。 また、レイアウトの調整、Adobe StockまたはAIが生成した画像の追加、テキストスタイルのカスタマイズを行って、洗練されたプロフェッショナルな外観の文書を作成する方法についても説明します。 このビデオチュートリアルでは、[新しいAcrobatエクスペリエンス](new-experience.md)を使用します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3445542?captions=jpn&enablevpops&quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3425137?enablevpops&quality=12&learn=on&hidetitle=true)
 
 [!BADGE ロール別]
 

@@ -6,7 +6,7 @@ role: User
 level: Beginner, Intermediate
 jira: KT-15743
 exl-id: 0c2cd557-19d6-4a0b-b0ae-2cc1da7c1080
-source-git-commit: 47ebb96c31cd2e049ee09e3b1e8813bfc8d03082
+source-git-commit: 06e8a40a7f97e486d009fc693487455725ab345f
 workflow-type: tm+mt
 source-wordcount: '332'
 ht-degree: 0%
@@ -15,11 +15,11 @@ ht-degree: 0%
 
 # AIアシスタントでPDFのインサイトを見つける
 
-AIアシスタントを使用して、PDFファイルから洞察を得る方法について説明します。 AI Assistantは、PDFを分析して、ソースコンテンツの属性を明確にした要約を作成し、質問に答え、洞察を引き出します。これにより、長い文書を手動で読む必要が軽減されます。 AIが生成した回答は、文書内の正確な場所に直接リンクして検証されるため、より迅速で信頼性の高い意思決定が可能になります。 このビデオチュートリアルでは、[新しいAcrobatエクスペリエンス](new-workspace.md)を使用します。
+AIアシスタントを使用して、PDFファイルから洞察を得る方法について説明します。 AI Assistantは、PDFを分析して、ソースコンテンツの属性を明確にした要約を作成し、質問に答え、洞察を引き出します。これにより、長い文書を手動で読む必要が軽減されます。 AIが生成した回答は、文書内の正確な場所に直接リンクして検証されるため、より迅速で信頼性の高い意思決定が可能になります。 このビデオチュートリアルでは、[新しいAcrobatエクスペリエンス](new-experience.md)を使用します。
 
 AIアシスタントは、Acrobat StudioまたはAI Assistantアドオンを購入したユーザーが利用できます。
 
->[!VIDEO](https://video.tv.adobe.com/v/3445823?captions=jpn&enablevpops&quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3430512?enablevpops&quality=12&learn=on&hidetitle=true)
 
 [!BADGE ロール別]
 

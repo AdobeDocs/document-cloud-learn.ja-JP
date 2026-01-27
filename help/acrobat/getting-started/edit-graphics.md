@@ -6,7 +6,7 @@ role: User
 level: Beginner
 jira: KT-15476
 exl-id: 3e1e6e79-c4d7-473a-8205-56214ac82a45
-source-git-commit: 47ebb96c31cd2e049ee09e3b1e8813bfc8d03082
+source-git-commit: 06e8a40a7f97e486d009fc693487455725ab345f
 workflow-type: tm+mt
 source-wordcount: '203'
 ht-degree: 0%
@@ -15,9 +15,9 @@ ht-degree: 0%
 
 # PDF内のグラフィックの編集
 
-Acrobatの編集モードを使って、デスクトップとwebのPDFー内で直接画像の追加、置換、切り抜き、サイズ変更、回転、配置をおこなう方法を説明します。 このチュートリアルでは、Adobe Expressを利用したアプリ内画像ジェネレーターを使用して、テキストプロンプトから画像を生成し、調整する方法についても説明します。 このビデオチュートリアルでは、[新しいAcrobatエクスペリエンス](new-workspace.md)を使用します。
+Acrobatの編集モードを使って、デスクトップとwebのPDFー内で直接画像の追加、置換、切り抜き、サイズ変更、回転、配置をおこなう方法を説明します。 このチュートリアルでは、Adobe Expressを利用したアプリ内画像ジェネレーターを使用して、テキストプロンプトから画像を生成し、調整する方法についても説明します。 このビデオチュートリアルでは、[新しいAcrobatエクスペリエンス](new-experience.md)を使用します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3446930?captions=jpn&enablevpops&quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3431260?enablevpops&quality=12&learn=on&hidetitle=true)
 
 [!BADGE ロール別]
 
