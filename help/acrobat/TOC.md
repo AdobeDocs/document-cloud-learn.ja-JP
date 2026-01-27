@@ -6,9 +6,9 @@ feature-set: Document Cloud
 role: User
 type: Tutorial
 auto-video-transcripts: true
-source-git-commit: 6173778d21b03089a503fa9e08017a909d7bc6da
+source-git-commit: bebd1666353b6bef2bc98fd2b97b38ad9a75fa02
 workflow-type: tm+mt
-source-wordcount: '566'
+source-wordcount: '546'
 ht-degree: 5%
 
 ---
@@ -22,7 +22,7 @@ ht-degree: 5%
    + 基本の学習 {#basics}
       + [ワークスペースの基本](getting-started/workspace-basics.md)
       + [新しいAcrobatエクスペリエンス](getting-started/new-experience.md)
-      + [連携 [!DNL Microsoft 365]](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/integrations/integrate-overview.html?lang=ja#microsoft)
+      + [連携 [!DNL Microsoft 365]](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/integrations/integrate-overview.html#microsoft)
       + [Acrobat webでどこでも作業](getting-started/acrobatweb.md)
       + [外出先での生産性](getting-started/productivity.md)
       + [PDFはどこから来るのですか。](getting-started/where-do-pdfs-come-from.md)
@@ -121,32 +121,26 @@ ht-degree: 5%
    + [ウェビナー](skill-builder/skill-builder-webinars.md)
 + 統合 {#integrations}
    + [概要](integrate/integrate-overview.md)
-   + [&#x200B; [!DNL Microsoft Word]からPDFを作成](integrate/createfromword.md)
+   + [ [!DNL Microsoft Word]からPDFを作成](integrate/createfromword.md)
    + [Web用 [!DNL Office] でPDFを作成](integrate/createofficeweb.md)
-   + [&#x200B; [!DNL Microsoft Teams]でのPDFの共同作業](integrate/acrobatandteams.md)
-   + [&#x200B; [!DNL SharePoint] ファイルの操作](integrate/acrobatandsp.md)
+   + [ [!DNL Microsoft Teams]でのPDFの共同作業](integrate/acrobatandteams.md)
+   + [ [!DNL SharePoint] ファイルの操作](integrate/acrobatandsp.md)
    + [電子メールメッセージと添付ファイルを [!DNL Outlook]内のPDFに変換](integrate/outlook.md)
-   + [&#x200B; [!DNL Microsoft Edge]で参照中にPDFコンテンツを作成する](integrate/edge.md)
-   + [&#x200B; [!DNL Microsoft Purview Information] 秘密度ラベルを使用したProtect PDF](integrate/microsoftsensitivitylabels.md)
-   + [&#x200B; [!DNL Google Drive]のAdobe Acrobat](integrate/acrobatandgoogle.md)
-   + [&#x200B; [!DNL Dropbox]のファイルを使用する](integrate/acrobat-dropbox.md)
+   + [ [!DNL Microsoft Edge]で参照中にPDFコンテンツを作成する](integrate/edge.md)
+   + [ [!DNL Microsoft Purview Information] 秘密度ラベルを使用したProtect PDF](integrate/microsoftsensitivitylabels.md)
+   + [ [!DNL Google Drive]のAdobe Acrobat](integrate/acrobatandgoogle.md)
+   + [ [!DNL Dropbox]のファイルを使用する](integrate/acrobat-dropbox.md)
 + 業界と部門 {#by-industry}
    + [概要](industry/industry-overview.md)
    + 中央省庁 {#gov}
       + [概要](industry/gov/gov-overview.md)
       + Acrobatでどこでも作業するための5つのヒント {#tips}
-         + [Acrobatでどこでも作業するための5つのヒント](industry/gov/5-tips-for-working-anywhere-with-acrobat-dc-for-government.md)
+         + Acrobatでどこでも作業するための[5つのヒント](industry/gov/5-tips-for-working-anywhere-with-acrobat-dc-for-government.md)
          + [ヒント#1 – ツールを入手](industry/gov/get-your-tools.md)
          + [ヒント#2 – ドキュメントでの共同作業](industry/gov/collaborate-on-documents.md)
          + [ヒント#3 - Protectデジタルドキュメント](industry/gov/protect-digital-documents.md)
          + [ヒント#4 – フォームと署名の操作](industry/gov/work-with-forms-and-signatures.md)
          + [ヒント#5 – モバイルでスキャンして編集](industry/gov/scan-and-edit-on-mobile.md)
-      + アクセシビリティ {#pdfs}
-         + [PDFのアクセシブル化](industry/gov/making-pdfs-accessible.md)
-         + [#1 – アクセシビリティについて](industry/gov/understanding-accessibility.md)
-         + [#2 - Wordでのオーサリング](industry/gov/authoring-in-word.md)
-         + [#3 - Acrobatで終了しています](industry/gov/finishing-in-acrobat.md)
-         + [PDF投票のアクセシビリティの向上](industry/gov/making-pdf-ballots-accessible.md)
 + 現像 {#develop}
    + [概要](develop/develop-overview.md)
 + デプロイ {#deploy}
