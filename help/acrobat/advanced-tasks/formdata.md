@@ -7,7 +7,7 @@ level: Experienced
 jira: KT-6828
 thumbnail: KT-6828.jpg
 exl-id: d1284027-7df6-4242-9756-e0d401156498
-source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
+source-git-commit: b806cdc83632abc02a401550c77f32513926a3ef
 workflow-type: tm+mt
 source-wordcount: '127'
 ht-degree: 0%
