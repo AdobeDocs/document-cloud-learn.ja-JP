@@ -19,7 +19,7 @@ AIアシスタントを使用して、PDFファイルから洞察を得る方法
 
 AIアシスタントは、Acrobat StudioまたはAI Assistantアドオンを購入したユーザーが利用できます。
 
->[!VIDEO](https://video.tv.adobe.com/v/3430512?enablevpops&quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3445823?captions=jpn&enablevpops&quality=12&learn=on&hidetitle=true)
 
 [!BADGE チーム固有]
 

@@ -18,4 +18,4 @@ ht-degree: 0%
 
 Adobe Expressを使用して、PDFにプロフェッショナルな見映えの新しいページを作成する方法を説明します。 新しいページをデザインすると、プロフェッショナルなブランドのカスタムコンテンツを数分で作成できます。 このビデオチュートリアルでは、[新しいAcrobatエクスペリエンス](new-experience.md)を使用します。
 
->[!VIDEO](https://video.tv.adobe.com/v/347331?enablevpops&quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3417494?captions=jpn&enablevpops&quality=12&learn=on&hidetitle=true)

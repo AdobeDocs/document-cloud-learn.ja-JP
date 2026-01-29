@@ -20,4 +20,4 @@ Webブラウザーのみを使用して、共有PDFにコメントを追加す�
 
 PDFを共有する方法については、[リアルタイムで共同作業](collaborate.md)のチュートリアルをご覧ください。
 
->[!VIDEO](https://video.tv.adobe.com/v/35492?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3409186?captions=jpn&quality=12&learn=on&hidetitle=true)

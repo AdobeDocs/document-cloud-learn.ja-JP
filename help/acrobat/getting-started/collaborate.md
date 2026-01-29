@@ -18,7 +18,7 @@ ht-degree: 0%
 
 どこにいてもリモートで作業できるため、コンテンツを迅速かつ大規模に配信するにはシームレスな共同作業が不可欠です。 コメントの収集、リアルタイムの共同作業、どこからでも進捗状況をトラックして、プロジェクトを継続的に実行できます。 効率性を向上させるだけでなく、コンテンツの品質を向上させる文書レビュープロセスを作成する方法についても説明します。 このビデオチュートリアルでは、[新しいAcrobatエクスペリエンス](new-experience.md)を使用します。
 
->[!VIDEO](https://video.tv.adobe.com/v/337500?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3409200?captions=jpn&quality=12&learn=on&hidetitle=true)
 
 >[!TIP]
 >
