@@ -19,7 +19,7 @@ ht-degree: 0%
 
 PDFスペースは、Acrobat StudioまたはAI Assistantアドオンを購入したお客様がご利用いただけます。
 
->[!VIDEO](https://video.tv.adobe.com/v/3475131?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3475133?captions=jpn&quality=12&learn=on&hidetitle=true)
 
 [!BADGE チーム固有]
 
