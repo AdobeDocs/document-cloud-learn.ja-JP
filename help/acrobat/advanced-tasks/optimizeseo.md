@@ -31,7 +31,7 @@ PDFコンテンツは一意であり、次のように構造化されている�
 * キーワードとリストを含む短い段落を使用する
 * ハイパーリンクを使用してwebサイトやその他のwebサイトに内部および外部のコンテンツを追加する
 * 25ページを超えるドキュメントのハイパーリンクされた目次の追加
-* スキャンしたすべての文書に対して[テキスト認識](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/scan-and-ocr)を実行する
+* スキャンしたすべての文書に対して[テキスト認識](https://experienceleague.adobe.com/ja/docs/document-cloud-learn/acrobat-learning/getting-started/scan-and-ocr)を実行する
 * モバイル対応のPDFを構築
 PDFのモバイル表示エクスペリエンスを確認するには、[Acrobat Readerモバイルアプリ](https://www.adobe.com/acrobat/mobile/acrobat-reader.html)でファイルを開き、Liquid Modeをオンにします。 必要に応じて、ナビゲーションを向上させるために追加の小見出しを含めます。
 
@@ -64,7 +64,7 @@ PDFファイルには、webページと同様に、タイトルとメタ説明�
 
 ## &#x200B;3. PDFにタグを付ける
 
-PDF内のコンテンツをタグ付けすると、障害を持つユーザーがファイル[にアクセス可能](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/accessibility-tutorials/accessibility-overview)になるだけでなく、SEOも向上します。
+PDF内のコンテンツをタグ付けすると、障害を持つユーザーがファイル[にアクセス可能](https://experienceleague.adobe.com/ja/docs/document-cloud-learn/acrobat-learning/accessibility-tutorials/accessibility-overview)になるだけでなく、SEOも向上します。
 
 +++PDFにタグを付ける方法の詳細を表示
 
