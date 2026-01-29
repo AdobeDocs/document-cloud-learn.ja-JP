@@ -5,22 +5,22 @@ role: User
 level: Intermediate, Experienced
 topics: Accessibility
 jira: KT-18730
-source-git-commit: f1b917a7889adf2d372965a7c75ced1aac4cfc4c
+source-git-commit: baf36807c1dcf2142d9a8a5502d8d10d5b8d6033
 workflow-type: tm+mt
-source-wordcount: '90'
+source-wordcount: '95'
 ht-degree: 0%
 
 ---
 
 # 複雑な表
 
-Acrobatでアクセシビリティのために表にタグ付けする方法について説明します。 取り上げられているトピックは、テーブルエディターのオプション設定、セルタイプ（TDまたはTH）の特定、ヘッダーのスコープとスパンの設定、テーブルの概要の作成、ヘッダーセルIDの生成、データセルとヘッダーセルIDの関連付け、およびヘッダー行の反復などです。
+Acrobatでアクセシビリティのために表にタグ付けする方法について説明します。 取り上げられているトピックは、テーブルエディターのオプションの設定、セルタイプ（TDまたはTH）の識別、ヘッダースコープとスパンの設定、テーブルの概要の作成などです。 このチュートリアルでは、ヘッダーセルIDの生成、データセルとヘッダーセルIDの関連付け、およびヘッダー行の繰り返しのアーティファクトについても取り上げます。
 
 >[!NOTE]
 >
 >Acrobat Pro、Premium、Studioでのみ利用可能です。
 
->[!VIDEO](https://video.tv.adobe.com/v/3477953?captions=jpn&quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3477951?quality=12&learn=on&hidetitle=true)
 
 >[!TIP]
 >

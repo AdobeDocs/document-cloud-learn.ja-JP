@@ -1,15 +1,15 @@
 ---
 title: ETLA版のお客様向けのAcrobat DC製品の重要なアップデート
-description: 2020年8月から2020年11月20日までのETLA（エンタープライズタームライセンス契約）オファーに含まれる、Acrobat DCの使用権限の重要な変更点について説明します
+description: 2020年8月から2020年11月20日まで開始される、ETLA（エンタープライズタームライセンス契約）オファーに含まれるAcrobat DCの使用権限の重要な変更について説明します
 feature: Deploy
 role: Admin
 level: Intermediate
 jira: KT-7269
 thumbnail: KT-7269.jpg
 exl-id: 1a8d3f7d-96a4-4811-b4e9-9c55287b92ea
-source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
+source-git-commit: baf36807c1dcf2142d9a8a5502d8d10d5b8d6033
 workflow-type: tm+mt
-source-wordcount: '700'
+source-wordcount: '698'
 ht-degree: 2%
 
 ---
@@ -26,7 +26,7 @@ Acrobat DCを最新バージョンにアップデートしていない場合は�
 
 ## プロビジョニング解除する理由
 
-[2018年10月、まったく新しいAcrobat DCをリリースしました](https://news.adobe.com/news/news-details/2018/Adobe-Redefines-What-Is-Possible-With-PDF-With-All-New-Acrobat-DC)。 この最新リリースには、モバイルデバイス、web、デスクトップでのPDFとの連携を強化する新しいツールと機能、およびすべての新しい共同作業ツールが含まれています。 Acrobat DCに登録しているお客様は、すでにこれらの優れた機能を利用できます。 また、電子サインソリューションのAdobe Signに関する重要なアップデートもリリースされました。
+[2018年10月、まったく新しいAcrobat DCをリリースしました](https://news.adobe.com/news/news-details/2018/Adobe-Redefines-What-Is-Possible-With-PDF-With-All-New-Acrobat-DC)。 この最新リリースには、モバイルデバイス、web、デスクトップでのPDFとの連携を強化する新しいツールと機能、およびすべての新しい共同作業ツールが含まれています。 Acrobat DCに登録しているお客様は、すでにこれらの優れた機能を利用できます。 また、電子サインソリューションであるAdobe Signにも大きなアップデートがリリースされました。
 
 2018年10月のリリース以前では、Acrobat DCユーザーは、[!DNL Adobe Sign Individual]の使用権限でプロビジョニングされたAcrobatの「Fill &amp; Sign」(または「Adobe Sign」または「Send for Signature」)というラベルのツールを使用して、電子サイン用に文書を送信できました。
 
@@ -47,7 +47,7 @@ Acrobat DCを最新バージョンにアップデートしていない場合は�
 * カスタマイズと最適化
    * 強化された電子サイン認証、高度なIDベースの署名者ID確認、ワークフローデザイナー、高度な言語サポートなど。
 
-Adobe Signは、法的に準拠した署名を取得するための、業界をリードする世界的に認められたソリューションです。 Adobe Signは、組織の電子サインに関するあらゆるニーズに対応するために一から構築されており、お客様やお客様のユーザーが電子サインに関する様々な地域や業界の規制に完全に準拠した電子サインを使用していることを保証するIT管理者フレンドリーなツールを備えています。 [Adobe Admin Console](https://helpx.adobe.com/jp/enterprise/using/admin-console.html)を介したSignの管理について詳しくは、[ここ](https://helpx.adobe.com/jp/enterprise/using/adobe-sign-for-enterprise.html)を参照してください。
+Adobe Signは、法的に準拠した署名を取得するための、業界をリードする世界的に認められたソリューションです。 Adobe Signは、組織の電子サインに関するあらゆるニーズに対応するために一から構築されており、お客様やお客様のユーザーが電子サインに関する様々な地域や業界の規制に完全に準拠した電子サインを使用していることを保証するIT管理者フレンドリーなツールを備えています。 [Adobe Admin Console](https://helpx.adobe.com/enterprise/using/adobe-sign-for-enterprise.html)を介したSignの管理について詳しくは、[ここ](https://helpx.adobe.com/jp/enterprise/using/admin-console.html)を参照してください。
 
 Acrobat DCおよびAdobe Sign Enterpriseを含む広範なデジタルドキュメントプラットフォームを通じて引き続きAdobeの電子サイン機能を提供する方法については、組織の連絡先にお問い合わせください。
 
@@ -70,10 +70,10 @@ Adobe Sign Enterpriseの使用権限を持たないユーザーは、新しい�
 
 ## 詳しくは、以下のページを参照してください。
 
-* [Adobe Document Cloud にサインイン](https://helpx.adobe.com/jp/document-cloud/help/sign-in.html)
-* [ファイルの管理（ファイルはどこにありますか？）](https://helpx.adobe.com/jp/document-cloud/help/manage-files.html)
+* [Adobe Document Cloud にサインイン](https://helpx.adobe.com/document-cloud/help/sign-in.html)
+* [ファイルの管理（ファイルはどこにありますか？）](https://helpx.adobe.com/document-cloud/help/manage-files.html)
 * [構成に[!UICONTROL Acrobat Customization Wizard]を使用](https://www.adobe.com/jp/devnet-docs/acrobatetk/tools/Wizard/WizardDC/index.html)
 * [[!UICONTROL Admin Console]](https://helpx.adobe.com/jp/enterprise/using/admin-console.html)の概要
-* [[!UICONTROL Admin Console]でのAdobe Signの管理](https://helpx.adobe.com/jp/enterprise/using/adobe-sign-for-enterprise.html)
+* [[!UICONTROL Admin Console]でのAdobe Signの管理](https://helpx.adobe.com/enterprise/using/adobe-sign-for-enterprise.html)
 
 **リビジョン** 2020年5月20日、元の投稿 – 2019年8月

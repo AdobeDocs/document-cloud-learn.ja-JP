@@ -7,7 +7,7 @@ level: Beginner
 jira: KT-6830
 thumbnail: KT-6830.jpg
 exl-id: c898de6e-7320-4cd4-9998-6a99efd7ea56
-source-git-commit: 06e8a40a7f97e486d009fc693487455725ab345f
+source-git-commit: baf36807c1dcf2142d9a8a5502d8d10d5b8d6033
 workflow-type: tm+mt
 source-wordcount: '304'
 ht-degree: 0%
@@ -16,7 +16,7 @@ ht-degree: 0%
 
 # 紙からPDF
 
-紙の文書をスキャン（または写真を撮影）して、検索可能で[編集可能なPDFファイル](https://www.adobe.com/jp/acrobat/online/pdf-editor.html){target="_blank"}に変換する方法について説明します。 紙をPDFに変換すると、障害のある人でも情報をすばやく見つけて利用できるようになります。 このチュートリアルは、[新しいAcrobatエクスペリエンス](new-experience.md)を示しています。
+紙の文書をスキャン（または写真を撮影）して、検索可能で[編集可能なPDFファイル](https://www.adobe.com/jp/acrobat/online/pdf-editor.html){target="_blank"}に変換する方法について説明します。 紙をPDFに変換すると、障害を持つユーザーが情報をすばやく見つけてアクセスできるようになります。 このチュートリアルは、[新しいAcrobatエクスペリエンス](new-experience.md)を示しています。
 
 
 ## デスクトップのAcrobatで紙をPDFに変換する方法
@@ -61,7 +61,7 @@ ht-degree: 0%
 
    ファイル内のテキストが検索可能になり、編集可能になりました。
 
-1. 背景を削除するには、画像を選択し、**[!UICONTROL 画像を編集]**&#x200B;を選択します。
+1. 背景を削除するには、画像を選択して、**[!UICONTROL 画像を編集]**&#x200B;を選択します。
 
    ![スキャンステップ8](../assets/Scan_8.png)
 

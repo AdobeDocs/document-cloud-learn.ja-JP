@@ -7,9 +7,9 @@ level: Experienced
 jira: KT-9347
 thumbnail: KT-9347.jpg
 exl-id: 2f24d745-762a-4631-8495-08b9e9d77af0
-source-git-commit: 5a27e44f71214e199892832d02661a85227acf4d
+source-git-commit: baf36807c1dcf2142d9a8a5502d8d10d5b8d6033
 workflow-type: tm+mt
-source-wordcount: '757'
+source-wordcount: '752'
 ht-degree: 0%
 
 ---
@@ -20,7 +20,7 @@ PDFを最適化して、web上での検出可能性と検索エンジンのラ�
 
 ## 1.固有のコンテンツを作成する
 
-Webページとは異なるPDFコンテンツを作成します。
+Webページ上のPDFとは異なる情報コンテンツを作成します。
 
 +++固有のコンテンツを作成する方法の詳細を表示
 
@@ -29,9 +29,9 @@ PDFコンテンツは一意であり、次のように構造化されている�
 * キーワードで始まる単一の主見出し/タイトルを使用する
 * 階層構造で編成されたキーワード小見出しを使用する
 * キーワードとリストを含む短い段落を使用する
-* 内部および外部（webサイトまたは他のwebサイトのコンテンツ）のハイパーリンクの追加
+* ハイパーリンクを使用してwebサイトやその他のwebサイトに内部および外部のコンテンツを追加する
 * 25ページを超えるドキュメントのハイパーリンクされた目次の追加
-* スキャンしたすべての文書に対して[テキスト認識](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/getting-started/scan-and-ocr.html?lang=ja)を実行する
+* スキャンしたすべての文書に対して[テキスト認識](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/scan-and-ocr)を実行する
 * モバイル対応のPDFを構築
 PDFのモバイル表示エクスペリエンスを確認するには、[Acrobat Readerモバイルアプリ](https://www.adobe.com/acrobat/mobile/acrobat-reader.html)でファイルを開き、Liquid Modeをオンにします。 必要に応じて、ナビゲーションを向上させるために追加の小見出しを含めます。
 
@@ -52,7 +52,7 @@ PDFファイルには、webページと同様に、タイトルとメタ説明�
 1. **[!UICONTROL ファイル/プロパティ]**&#x200B;を選択するか、キーボードショートカット&#x200B;*Ctrl + D* (Windows)または&#x200B;*Cmd + D* (Mac)を使用して、「**[!UICONTROL 説明]**」タブを選択します。
 1. **[!UICONTROL タイトル：]**&#x200B;フィールドに、キーワードに最適化されたタイトルを入力します。
 1. **[!UICONTROL 作成者：]**&#x200B;フィールドで、組織内の特定の個人が識別されていないことを確認してください。
-1. ドキュメントのキーワードに最適化された概要を&#x200B;**[!UICONTROL 件名：]**&#x200B;フィールドに入力します。
+1. ドキュメントのキーワードに最適化された概要を&#x200B;**[!UICONTROL 件名：]**フィールドに入力します。
 学習、発見、探索など、行動を明確に示す動詞を使用して、概要の作成を試みます。
 1. **[!UICONTROL 追加のメタデータ]**&#x200B;を選択し、必要に応じて著作権またはパブリックドメインの情報を追加します。
 
@@ -64,7 +64,7 @@ PDFファイルには、webページと同様に、タイトルとメタ説明�
 
 ## &#x200B;3. PDFにタグを付ける
 
-PDF内のコンテンツをタグ付けすると、障害のあるユーザーがファイル[にアクセス可能](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/advanced-tasks/accessibility.html?lang=ja)になるだけでなく、SEOも向上します。
+PDF内のコンテンツをタグ付けすると、障害を持つユーザーがファイル[にアクセス可能](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/accessibility-tutorials/accessibility-overview)になるだけでなく、SEOも向上します。
 
 +++PDFにタグを付ける方法の詳細を表示
 
@@ -88,7 +88,7 @@ PDF内のコンテンツをタグ付けすると、障害のあるユーザー�
 
 ## &#x200B;4. Web用に準備する
 
-PDFをWeb表示用に準備し、[PDFのファイルサイズを縮小](https://www.adobe.com/jp/acrobat/online/compress-pdf.html){target="_blank"}して、デバイスとのやり取りの操作性を最適化します。
+PDFをWeb表示用に準備し、[PDFのファイルサイズを小さくして](https://www.adobe.com/jp/acrobat/online/compress-pdf.html){target="_blank"}最適化します。
 
 +++Web用にPDFを準備する方法の詳細
 
@@ -131,7 +131,7 @@ PDFがWebに公開されると、ファイル名がURLの一部になります�
 次のようにPDFを保護します。
 
 1. **[!UICONTROL 文書のプロパティ]** (Windowsでは&#x200B;*Ctrl + D*、Macでは&#x200B;*Cmd + D*)を開き、「**[!UICONTROL セキュリティ]**」タブを選択します。
-1. **[!UICONTROL ドキュメントの印刷と編集を確認してください。 これらの設定を変更するには、パスワードが必要です。]**
+1. **[!UICONTROL ドキュメントの印刷と編集を確認してください。 これらの設定を変更するにはパスワードが必要です。]**
 1. [**[!UICONTROL 許可された変更：]**]で、[**[!UICONTROL なし]**]を選択します。
 1. **[!UICONTROL 「スクリーンリーダーデバイスのテキストアクセスを有効にする」をオンにして、視覚障害者をサポートします。]**
 1. 強力なパスワードを入力して確認します。
@@ -141,4 +141,4 @@ PDFがWebに公開されると、ファイル名がURLの一部になります�
 
 +++
 
-これで、PDFをwebに公開する準備が整いました。キーワードのランキングが最適になり、エンドユーザーとのインタラクションが可能になります。
+これで、PDFをweb上に公開する準備が整いました。キーワードのランキングが最適になり、エンドユーザーとの対話が可能になります。

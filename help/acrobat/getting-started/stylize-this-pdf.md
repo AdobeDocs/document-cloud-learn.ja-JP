@@ -6,18 +6,18 @@ role: User
 level: Intermediate
 jira: KT-14195
 exl-id: 30a17c43-1efb-4c76-9133-18bb4dab2238
-source-git-commit: df889b59e41a41316746cb14803f4d40a473fea4
+source-git-commit: baf36807c1dcf2142d9a8a5502d8d10d5b8d6033
 workflow-type: tm+mt
-source-wordcount: '246'
+source-wordcount: '221'
 ht-degree: 0%
 
 ---
 
 # このPDFをスタイライズ
 
-Adobe Express [Adobe Express](https://express.adobe.com)を利用したアプリ内ツールを使用して、おすすめのフォント、カラーテーマ、画像、デザイン要素を適用し、PDFの見た目を改善するためにこのPDFをスタイライズする方法を説明します。 また、レイアウトの調整、Adobe StockまたはAIが生成した画像の追加、テキストスタイルのカスタマイズを行って、洗練されたプロフェッショナルな外観の文書を作成する方法についても説明します。 このビデオチュートリアルでは、[新しいAcrobatエクスペリエンス](new-experience.md)を使用します。
+[Adobe Express](https://express.adobe.com)を利用したアプリ内ツールを使用して、おすすめのフォント、カラーテーマ、画像、デザイン要素を適用し、PDFの見た目を改善するためにこのPDFをスタイル設定の使い方について説明します。 また、レイアウトの調整、Adobe StockまたはAIが生成した画像の追加、テキストスタイルのカスタマイズを行って、洗練されたプロフェッショナルな外観の文書を作成する方法についても説明します。 このビデオチュートリアルでは、[新しいAcrobatエクスペリエンス](new-experience.md)を使用します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3445542?captions=jpn&enablevpops&quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3425137?enablevpops&quality=12&learn=on&hidetitle=true)
 
 [!BADGE チーム固有]
 
@@ -25,11 +25,11 @@ Adobe Express [Adobe Express](https://express.adobe.com)を利用したアプリ
 
 * **法務**
 
-  法務チームはこのPDFを「スタイライズ」して、ポリシーとガイダンスドキュメントに一貫したフォーマット、タイポグラフィ、ビジュアルを適用し、コンプライアンスに対応しながら意味を変えずに、プロフェッショナルで読みやすい外観に仕上げます。
+  法務チームはこのPDFを「スタイライズ」して一貫したフォーマットとビジュアルを適用し、ポリシーとガイダンス文書がプロフェッショナルに見え、明瞭で正確なままとなるようにします。
 
 * **Sales**
 
-  セールスチームは、このPDFを「Stylize」と呼びます。このツールを使用すると、ブランドフォント、カラー、画像を適用して、迅速に提案書やプレゼンテーションに磨きをかけることができ、デザインツールに戻らなくても、顧客が使えるドキュメントを提供することができます。
+  営業チームはこのPDFをStylizeを使用して、ブランド化されたフォント、カラー、画像を適用することで提案やプレゼンテーションをすばやく仕上げ、デザインツールに戻らずにクライアント対応ドキュメントを提供できます。
 
 * **時間**
 
@@ -37,7 +37,7 @@ Adobe Express [Adobe Express](https://express.adobe.com)を利用したアプリ
 
 * **財務**
 
-  財務チームは、このPDFの[スタイルを適用]を使用して、洗練された一貫性のある視覚的なスタイルをレポートやプレゼンテーションに即座に適用できます。これにより、財務文書がよりプロフェッショナルで、役員や関係者との共有がより簡単になります。
+  財務チームはこのPDFを使用して洗練されたスタイルを適用し、レポートやプレゼンテーションに視覚的なスタイルを瞬時に追加できます。
 
 * **調達**
 

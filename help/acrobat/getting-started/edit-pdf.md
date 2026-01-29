@@ -7,7 +7,7 @@ level: Beginner
 jira: KT-5528
 thumbnail: 35493.jpg
 exl-id: a420293a-c85b-41f1-9922-ab2f1fbef58e
-source-git-commit: 06e8a40a7f97e486d009fc693487455725ab345f
+source-git-commit: baf36807c1dcf2142d9a8a5502d8d10d5b8d6033
 workflow-type: tm+mt
 source-wordcount: '94'
 ht-degree: 0%
@@ -24,8 +24,8 @@ PDF内の単語、語句、またはページ全体を編集する方法につ�
 
 <br> 
 
->[!VIDEO](https://video.tv.adobe.com/v/3409179?captions=jpn&enablevpops&quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/35493?enablevpops&quality=12&learn=on&hidetitle=true)
 
 >[!TIP]
 >
->このビデオは、Experience Leagueで無料で利用できるプレイリスト[Adobe Acrobatの概要](https://experienceleague.adobe.com/ja/playlists/acrobat-get-started-business-users)の一部です。
+>このビデオは、Experience Leagueで無料で利用できるプレイリスト[Adobe Acrobatの概要](https://experienceleague.adobe.com/en/playlists/acrobat-get-started-business-users)の一部です。

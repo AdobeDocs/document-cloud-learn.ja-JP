@@ -6,9 +6,9 @@ role: User
 level: Beginner
 jira: KT-15476
 exl-id: 3e1e6e79-c4d7-473a-8205-56214ac82a45
-source-git-commit: df889b59e41a41316746cb14803f4d40a473fea4
+source-git-commit: baf36807c1dcf2142d9a8a5502d8d10d5b8d6033
 workflow-type: tm+mt
-source-wordcount: '233'
+source-wordcount: '227'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 Acrobatの編集モードを使って、デスクトップとwebのPDFー内で直接画像の追加、置換、切り抜き、サイズ変更、回転、配置をおこなう方法を説明します。 このチュートリアルでは、Adobe Expressを利用したアプリ内画像ジェネレーターを使用して、テキストプロンプトから画像を生成し、調整する方法についても説明します。 このビデオチュートリアルでは、[新しいAcrobatエクスペリエンス](new-experience.md)を使用します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3446930?captions=jpn&enablevpops&quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3431260?enablevpops&quality=12&learn=on&hidetitle=true)
 
 [!BADGE チーム固有]
 
@@ -41,4 +41,4 @@ Acrobatの編集モードを使って、デスクトップとwebのPDFー内で�
 
 * **調達**
 
-  調達チームは、編集モードを使用して、ベンダーからの提案または契約に含まれるサプライヤチャート、製品イメージ、視覚的な詳細をすばやく更新することで、元のファイルを使用せずに、ソーシングドキュメントを正確でプレゼンテーションに適した状態に保つことができます。
+  調達チームは、編集モードを使用して、元のファイルを必要とせずに、ベンダーの提案または契約のサプライヤーチャート、製品画像、および視覚的な詳細を迅速に更新することができます。

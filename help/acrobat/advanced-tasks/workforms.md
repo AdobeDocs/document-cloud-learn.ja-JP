@@ -7,9 +7,9 @@ level: Intermediate
 jira: KT-9345
 thumbnail: KT-9345.jpg
 exl-id: b7dde660-846c-4875-b5a7-741ff087ccc9
-source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
+source-git-commit: baf36807c1dcf2142d9a8a5502d8d10d5b8d6033
 workflow-type: tm+mt
-source-wordcount: '727'
+source-wordcount: '726'
 ht-degree: 0%
 
 ---
@@ -37,7 +37,7 @@ Prepare Formツールを使用すると、既存のPDFにフォームフィー�
 
 <br> 
 
->[!VIDEO](https://video.tv.adobe.com/v/3448512?quality=12&learn=on&hidetitle=true&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/340084?quality=12&learn=on&hidetitle=true)
 
 <br> 
 
@@ -58,7 +58,7 @@ Prepare Formツールを使用すると、既存のPDFにフォームフィー�
 
 1. 「*HQの場所*」テキストフィールドを選択して削除します。
 1. ツールバーの&#x200B;**リストボックス**&#x200B;を選択し、削除されたテキストフィールドの場所に新しいフィールドを配置します。
-1. **フィールド名：**&#x200B;に&#x200B;*HQの場所*&#x200B;を入力します。
+1. *フィールド名：*&#x200B;に&#x200B;**HQの場所**&#x200B;を入力します。
 1. **すべてのプロパティ**&#x200B;を選択し、[**オプション**]タブを選択します。
 1. [**項目：**]フィールドに3つの異なる場所を追加します。
 1. **項目リスト：**&#x200B;フィールドで既定の場所を選択します。
@@ -70,7 +70,7 @@ Prepare Formツールを使用すると、既存のPDFにフォームフィー�
 
 1. *プロジェクトのタイムライン*&#x200B;と&#x200B;*終了日*&#x200B;のフィールドを選択して削除します。
 1. ツールバーの&#x200B;**日付フィールド**&#x200B;を選択し、削除した&#x200B;*プロジェクトタイムライン*&#x200B;フィールドの場所に新しいフィールドを配置します。
-1. **フィールド名：**&#x200B;に&#x200B;*Project Start*&#x200B;と入力します。
+1. *フィールド名：*&#x200B;に&#x200B;**Project Start**&#x200B;と入力します。
 1. **すべてのプロパティ**&#x200B;を選択し、[**形式**]タブを選択します。
 1. 日付の形式オプションを選択し、**閉じる**&#x200B;を選択します。
 1. Ctrl + Shiftキー(MacのCmd + Shift)を押して、フィールドを複製します。
@@ -94,7 +94,7 @@ Prepare Formツールを使用すると、既存のPDFにフォームフィー�
 
 <br> 
 
->[!VIDEO](https://video.tv.adobe.com/v/3439893?hidetitle=true&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/340096?hidetitle=true)
 
 <br> 
 
@@ -104,7 +104,7 @@ Prepare Formツールを使用すると、既存のPDFにフォームフィー�
 
 1. Shiftキーを押しながら、右側のパネルでテキストフィールドとリストフィールドをすべて選択します。
 1. 右クリックして、**プロパティ…**&#x200B;を選択します。
-1. 「**フォントサイズ:**」ドロップダウンから「*12*」を選択します。
+1. 「*フォントサイズ:*」ドロップダウンから「**12**」を選択します。
 1. 「**閉じる**」を選択します。
 
 タブの順序を設定すると、フォーム入力者がフォームの入力中にフィールド間を簡単に移動できるようになります。
