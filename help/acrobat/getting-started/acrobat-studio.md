@@ -6,9 +6,9 @@ role: User
 level: Beginner
 jira: KT-18748
 exl-id: f4a5cab8-0f6c-4607-9188-88011afcf882
-source-git-commit: 47ebb96c31cd2e049ee09e3b1e8813bfc8d03082
+source-git-commit: df889b59e41a41316746cb14803f4d40a473fea4
 workflow-type: tm+mt
-source-wordcount: '197'
+source-wordcount: '196'
 ht-degree: 0%
 
 ---
@@ -17,9 +17,9 @@ ht-degree: 0%
 
 Acrobat Studioを使用してブランドセーフのコンテンツを作成し、洞察を抽出し、複雑な作業を合理化して、チームの動きを高速化する方法について説明します。 Acrobat Studioは、Acrobat Pro、AIアシスタント、PDFスペース、Adobe Expressプレミアムを含むオールインワンソリューションです。 これらの統合されたツールは、ファイルの一元化、AIによる分析の実現、統合されたワークスペースでのエンドツーエンドのコンテンツ作成のサポートによって、チームの生産性を向上させます。
 
->[!VIDEO](https://video.tv.adobe.com/v/3475057?captions=jpn&quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3475053?quality=12&learn=on&hidetitle=true)
 
-[!BADGE ロール別]
+[!BADGE チーム固有]
 
 ## Acrobat Studioで様々なチームを支援する方法
 

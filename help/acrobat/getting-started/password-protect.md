@@ -7,10 +7,10 @@ level: Beginner
 jira: KT-5532
 thumbnail: 35497.jpg
 exl-id: cd535ccc-cd5b-4643-88dd-a9a3c1d26691
-source-git-commit: 4d5faf1c7011e294fee4ad3a9426c02d5efecde4
+source-git-commit: df889b59e41a41316746cb14803f4d40a473fea4
 workflow-type: tm+mt
-source-wordcount: '108'
-ht-degree: 7%
+source-wordcount: '190'
+ht-degree: 1%
 
 ---
 
@@ -24,33 +24,27 @@ ht-degree: 7%
 >
 >複数のPDFファイルをパスワードで保護するには、[Action Wizard](../advanced-tasks/action.md)を使用してみてください。
 
-<table style="table-layout:fixed">
-<tr>
-  <td>
-    <a href="password-protect.md">
-      <img alt="PDF をパスワードで保護する" src="../assets/protect.png" />
-    </a>
-    <div>
-    <a href="password-protect.md"><strong>パスワードを使用してPDFをProtectする</strong></a>
-    </div>
-    <em>PDFにパスワードを設定する方法</em>
-    <br>
-  </td>
-  <td>
-        <img alt="スペーサー" src="../assets/Whitespacer.png" />
-        <div>
-        <br>
-    </td>
-    <td>
-        <img alt="スペーサー" src="../assets/Whitespacer.png" />
-        <div>
-        <br>
-    </td>
-    <td>
-        <img alt="スペーサー" src="../assets/Whitespacer.png" />
-        <div>
-        <br>
-    </td>
-    <td>
-</tr>
-</table>
+[!BADGE チーム固有]
+
+## PDFの保護が様々なチームにどのように役立つか
+
+* **法務**
+
+  PDFを保護することで、契約書、ケースファイル、クライアントとのコミュニケーションは、権限のある関係者のみがアクセスできるようにし、コンプライアンスやプライバシーのリスクを軽減します。
+
+* **Sales**
+
+  提案、価格シート、パートナー契約を保護することで、競合他社や不正な関係者が戦略的情報にアクセスできないようにします。
+
+* **時間**
+
+  PDFの保護により、社員の記録、業績のレビュー、ドキュメントの採用を保護し、プライバシーの保護と規制要件への対応を支援します。
+
+* **財務**
+
+  パスワード保護により、機密性の高い財務報告書、予測、顧客データを安全に保ち、不正アクセスや不正行為の可能性を防止します。
+
+* **調達**
+
+  パスワード保護PDFは、サプライヤとの契約、入札、価格設定文書を安全に保ち、承認された関係者のみがネゴシエーションおよびソーシングに関する機密情報にアクセスできるようにします。
+
