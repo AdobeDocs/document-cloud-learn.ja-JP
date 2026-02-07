@@ -25,4 +25,4 @@ Acrobatで複雑なリストにタグを付けてアクセシビリティを実�
 
 >[!TIP]
 >
->このビデオは、Experience Leagueで無料で提供されている再生リスト[PDFのアクセシビリティシリーズ](https://experienceleague.adobe.com/en/playlists/acrobat-pdf-accessibility)の一部です。
+>このビデオは、Experience Leagueで無料で提供されている再生リスト[PDFのアクセシビリティシリーズ](https://experienceleague.adobe.com/ja/playlists/acrobat-pdf-accessibility)の一部です。
