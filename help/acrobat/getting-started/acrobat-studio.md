@@ -17,7 +17,7 @@ ht-degree: 0%
 
 Acrobat Studioを使用してブランドセーフのコンテンツを作成し、洞察を抽出し、複雑な作業を合理化して、チームの動きを高速化する方法について説明します。 Acrobat Studioは、Acrobat Pro、AIアシスタント、PDFスペース、Adobe Expressプレミアムを含むオールインワンソリューションです。 以下の&#x200B;*今すぐ試す*&#x200B;インタラクティブオプションを調べて、Acrobat Studioでチームの作業を効率化する方法を確認してください。
 
->[!VIDEO](https://video.tv.adobe.com/v/3475053?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3475057?captions=jpn&quality=12&learn=on&hidetitle=true)
 
 [!BADGE チーム固有]
 
