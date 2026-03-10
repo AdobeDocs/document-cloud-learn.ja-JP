@@ -6,18 +6,18 @@ role: User
 level: Beginner
 jira: KT-18748
 exl-id: f4a5cab8-0f6c-4607-9188-88011afcf882
-source-git-commit: 4bb236eeda0e9a569b0c9b2639623ad10f28d5f3
+source-git-commit: 3343ab883acf6e350814ccbf3eceb49eb33c6d5e
 workflow-type: tm+mt
-source-wordcount: '226'
+source-wordcount: '227'
 ht-degree: 0%
 
 ---
 
 # Acrobat Studioとは
 
-Acrobat Studioを使用してブランドセーフのコンテンツを作成し、洞察を抽出し、複雑な作業を合理化して、チームの動きを高速化する方法について説明します。 Acrobat Studioは、Acrobat Pro、AIアシスタント、PDFスペース、Adobe Expressプレミアムを含むオールインワンソリューションです。 以下の&#x200B;*今すぐ試す*&#x200B;インタラクティブオプションを調べて、Acrobat Studioでチームの作業を効率化する方法を確認してください。
+Acrobat Studioを使用してブランドセーフのコンテンツを作成し、洞察を抽出し、複雑な作業を合理化して、チームの動きを高速化する方法について説明します。 Acrobat Studioは、Acrobat Pro、AIアシスタント、PDFスペース、Adobe Expressプレミアムを含むオールインワンソリューションです。 以下の&#x200B;**今すぐ試す**&#x200B;インタラクティブオプションを調べて、Acrobat Studioでチームの作業を効率化する方法を確認してください。
 
->[!VIDEO](https://video.tv.adobe.com/v/3475057?captions=jpn&quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3475053?quality=12&learn=on&hidetitle=true)
 
 [!BADGE チーム固有]
 
@@ -41,4 +41,4 @@ Acrobat Studioを使用してブランドセーフのコンテンツを作成し
 
 * **財務**
 
-  財務チームが財務報告を通じて、正確性、信頼性、管理を損なうことなく迅速に対応する方法について説明します。[今すぐ試す]https://w.adobedemo.com/s/31LpAI。
+  財務チームが財務報告を通じて、正確性、信頼性、管理を損なうことなく迅速に対応する方法について説明します。[今すぐ試す](https://w.adobedemo.com/s/31LpAI。)
