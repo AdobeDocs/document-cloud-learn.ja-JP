@@ -6,7 +6,7 @@ role: User
 level: Beginner
 jira: KT-18748
 exl-id: f4a5cab8-0f6c-4607-9188-88011afcf882
-source-git-commit: daca53a7b806bcac06d6c7ac9e1e75c2e6555447
+source-git-commit: cbd35489e8b5736ef7461ea60d357bf4df1f5fd9
 workflow-type: tm+mt
 source-wordcount: '227'
 ht-degree: 0%
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 Acrobat Studioを使用してブランドセーフのコンテンツを作成し、洞察を抽出し、複雑な作業を合理化して、チームの動きを高速化する方法について説明します。 Acrobat Studioは、Acrobat Pro、AIアシスタント、PDFスペース、Adobe Expressプレミアムを含むオールインワンソリューションです。 以下の&#x200B;**今すぐ試す**&#x200B;インタラクティブオプションを調べて、Acrobat Studioでチームの作業を効率化する方法を確認してください。
 
->[!VIDEO](https://video.tv.adobe.com/v/3475057?captions=jpn&quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3475053?quality=12&learn=on&hidetitle=true)
 
 [!BADGE チーム固有]
 
@@ -25,15 +25,15 @@ Acrobat Studioを使用してブランドセーフのコンテンツを作成し
 
 * **法務とコンプライアンス**
 
-  ポリシー、契約、規制に関するガイダンスを1つのワークスペースに一元化し、AI Assistantを使用して、変更の反映、リスクの特定、検証可能なライセンスに基づくコンプライアンス対応アップデートの生成を実行できます。**[今すぐ試す](https://w.adobedemo.com/s/ujZN1y).**
+  ポリシー、契約、規制に関するガイダンスを1つのワークスペースに一元化し、AI Assistantを使用して、変更の反映、リスクの特定、検証可能なライセンスに基づくコンプライアンス対応アップデートの生成を実行できます。**[今すぐ試す](https://w.adobedemo.com/s/ujZN1y){target="_blank"}.**
 
 * **人事**
 
-  メッセージングの一貫性とコンプライアンスを維持しながら、複雑なポリシー文書を明確な概要、FAQ、社員向けの資料に変換できます。**[今すぐ試す](https://w.adobedemo.com/s/NvvfVm).**
+  メッセージングの一貫性とコンプライアンスを維持しながら、複雑なポリシー文書を明確な概要、FAQ、社員向けの資料に変換できます。**[今すぐ試す](https://w.adobedemo.com/s/NvvfVm){target="_blank"}.**
 
 * **Sales**
 
-  承認されたコンテンツを既存のドキュメントから取得し、洗練されたクライアント対応のファイルに変換することで、提案とRFPの回答をすばやく組み立てることができます。**[今すぐ試す](https://w.adobedemo.com/s/HEEljN).**
+  承認されたコンテンツを既存のドキュメントから取得し、洗練されたクライアント対応のファイルに変換することで、提案とRFPの回答をすばやく組み立てることができます。**[今すぐ試す](https://w.adobedemo.com/s/HEEljN){target="_blank"}.**
 
 * **マーケティングとコミュニケーション**
 
@@ -41,4 +41,4 @@ Acrobat Studioを使用してブランドセーフのコンテンツを作成し
 
 * **財務**
 
-  財務チームが財務報告を通じて、正確性、信頼性、管理を損なうことなく迅速に対応する方法について説明します。**[今すぐ試す](https://w.adobedemo.com/s/31LpAI。)**
+  財務チームが財務報告を通じて、正確性、信頼性、管理を損なうことなく迅速に対応する方法について説明します。**[今すぐ試す](https://w.adobedemo.com/s/31LpAI。){target="_blank"}**
