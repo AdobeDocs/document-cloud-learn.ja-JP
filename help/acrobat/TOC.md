@@ -22,7 +22,7 @@ ht-degree: 4%
    + 基本の学習 {#basics}
       + [ワークスペースの基本](getting-started/workspace-basics.md)
       + [新しいAcrobatエクスペリエンス](getting-started/new-experience.md)
-      + [ [!DNL Microsoft 365]を使用する](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/integrations/integrate-overview.html#microsoft)
+      + [&#x200B; [!DNL Microsoft 365]を使用する](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/integrations/integrate-overview.html#microsoft)
       + [Acrobat webでどこでも作業](getting-started/acrobatweb.md)
       + [外出先での生産性](getting-started/productivity.md)
       + [PDFはどこから来るのですか。](getting-started/where-do-pdfs-come-from.md)
@@ -93,7 +93,7 @@ ht-degree: 4%
    + 中央省庁 {#gov}
       + [概要](use-cases/gov/gov-overview.md)
       + Acrobatでどこでも作業するための 5 つのヒント {#tips}
-         + Acrobatを使用してどこでも作業するための [5 つのヒント ](use-cases/gov/5-tips-for-working-anywhere-with-acrobat-dc-for-government.md)
+         + [Acrobatを使用してどこでも作業するための 5 つのヒント &#x200B;](use-cases/gov/5-tips-for-working-anywhere-with-acrobat-dc-for-government.md)
          + [ヒント #1 - ツールを入手する](use-cases/gov/get-your-tools.md)
          + [ヒント #2 - ドキュメントでの共同作業](use-cases/gov/collaborate-on-documents.md)
          + [ヒント #3 - デジタルドキュメントの保護](use-cases/gov/protect-digital-documents.md)
@@ -136,11 +136,11 @@ ht-degree: 4%
    + [Web 用  [!DNL Office] PDF の作成](integrate/createofficeweb.md)
    + [PDFとの共同作業  [!DNL Microsoft Teams]](integrate/acrobatandteams.md)
    + [ファイル  [!DNL SharePoint]  操作](integrate/acrobatandsp.md)
-   + [ [!DNL Outlook] の場所でメールメッセージと添付ファイルをPDFに変換します。](integrate/outlook.md)
-   + [ [!DNL Microsoft Edge] を使用して閲覧中にPDF コンテンツを作成する：](integrate/edge.md)
+   + [&#x200B; [!DNL Outlook] の場所でメールメッセージと添付ファイルをPDFに変換します。](integrate/outlook.md)
+   + [&#x200B; [!DNL Microsoft Edge] を使用して閲覧中にPDF コンテンツを作成する：](integrate/edge.md)
    + [機密ラベルを使用した PDF [!DNL Microsoft Purview Information]  保護](integrate/microsoftsensitivitylabels.md)
    + [Adobe Acrobat [!DNL Google Drive]](integrate/acrobatandgoogle.md)
-   + [ [!DNL Dropbox] の場所にあるファイルの操作](integrate/acrobat-dropbox.md)
+   + [&#x200B; [!DNL Dropbox] の場所にあるファイルの操作](integrate/acrobat-dropbox.md)
 + 開発 {#develop}
    + [概要](develop/develop-overview.md)
 + デプロイ {#deploy}

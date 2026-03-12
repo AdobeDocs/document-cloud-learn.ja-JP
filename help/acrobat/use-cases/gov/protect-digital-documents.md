@@ -15,7 +15,7 @@ ht-degree: 10%
 
 # Acrobatで場所を問わず作業するための 5 つのヒント – デジタルドキュメントを保護
 
-[PDFにパスワードを追加 ](https://www.adobe.com/jp/acrobat/online/password-protect-pdf.html){target="_blank"} して、コピー、編集、印刷を防ぎます。
+[PDFにパスワードを追加 &#x200B;](https://www.adobe.com/jp/acrobat/online/password-protect-pdf.html){target="_blank"} して、コピー、編集、印刷を防ぎます。
 
 ## ヒント #3 - デジタルドキュメントの保護（1:23）
 
