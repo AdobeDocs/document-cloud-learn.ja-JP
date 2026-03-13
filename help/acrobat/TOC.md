@@ -6,9 +6,9 @@ feature-set: Document Cloud
 role: User
 type: Tutorial
 auto-video-transcripts: true
-source-git-commit: a6bfbb75a89221e4ac63e3922f8763326f85bdca
+source-git-commit: 8c7b6e8e80f89e5f2c5f6a1d957657096bccd9c2
 workflow-type: tm+mt
-source-wordcount: '646'
+source-wordcount: '648'
 ht-degree: 4%
 
 ---
@@ -22,7 +22,7 @@ ht-degree: 4%
    + 基本の学習 {#basics}
       + [ワークスペースの基本](getting-started/workspace-basics.md)
       + [新しいAcrobatエクスペリエンス](getting-started/new-experience.md)
-      + [&#x200B; [!DNL Microsoft 365]を使用する](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/integrations/integrate-overview.html?lang=ja#microsoft)
+      + [ [!DNL Microsoft 365]を使用する](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/integrations/integrate-overview.html#microsoft)
       + [Acrobat webでどこでも作業](getting-started/acrobatweb.md)
       + [外出先での生産性](getting-started/productivity.md)
       + [PDFはどこから来るのですか。](getting-started/where-do-pdfs-come-from.md)
@@ -83,49 +83,49 @@ ht-degree: 4%
       + [カスタムコマンドとツール](advanced-tasks/custom.md)
 + AI搭載 {#ai-powered}
    + [概要](ai-powered/ai-overview.md)
-   + [AIアシスタントでPDFのインサイトを見つける](https://experienceleague.adobe.com/ja/docs/document-cloud-learn/acrobat-learning/get-started/ai/ai-assistant)
-   + [PDFスペースでチームの効率を向上](https://experienceleague.adobe.com/ja/docs/document-cloud-learn/acrobat-learning/get-started/ai/pdf-spaces-legal)
-   + [Acrobat Studioとは](https://experienceleague.adobe.com/ja/docs/document-cloud-learn/acrobat-learning/get-started/ai/acrobat-studio)
-   + [PDF内のグラフィックの編集](https://experienceleague.adobe.com/ja/docs/document-cloud-learn/acrobat-learning/get-started/edit/edit-graphics)
-   + [このPDFをスタイライズ](https://experienceleague.adobe.com/ja/docs/document-cloud-learn/acrobat-learning/get-started/edit/stylize-this-pdf)
+   + [AIアシスタントでPDFのインサイトを見つける](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/ai/ai-assistant)
+   + [PDFスペースでチームの効率を向上](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/ai/pdf-spaces-legal)
+   + [Acrobat Studioとは](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/ai/acrobat-studio)
+   + [PDF内のグラフィックの編集](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/edit/edit-graphics)
+   + [このPDFをスタイライズ](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/edit/stylize-this-pdf)
 + 使用事例 {#use-cases}
    + [概要](use-cases/use-cases-overview.md)
    + 基幹業務 {#lob}
       + [概要](use-cases/lob/finance/finance-overview.md)
       + 財務 {#finance}
-         + [財務レポートを経営陣が使えるインサイトに変換](use-cases/lob/finance/finance-insights.md)
+         + [インサイトから提供に至るまで、経営幹部が利用できる財務ドキュメントを準備する](use-cases/lob/finance/finance-insights.md)
    + 中央省庁 {#gov}
       + [概要](use-cases/gov/gov-overview.md)
       + Acrobatでどこでも作業するための5つのヒント {#tips}
-         + [Acrobatでどこでも作業するための5つのヒント](use-cases/gov/5-tips-for-working-anywhere-with-acrobat-dc-for-government.md)
+         + Acrobatでどこでも作業するための[5つのヒント](use-cases/gov/5-tips-for-working-anywhere-with-acrobat-dc-for-government.md)
          + [ヒント#1 – ツールを入手](use-cases/gov/get-your-tools.md)
          + [ヒント#2 – ドキュメントでの共同作業](use-cases/gov/collaborate-on-documents.md)
-         + [Tip #3 – Protect digital documents](use-cases/gov/protect-digital-documents.md)
-         + [Tip #4 – Work with forms and signatures](use-cases/gov/work-with-forms-and-signatures.md)
-         + [Tip #5 – Scan and edit on mobile](use-cases/gov/scan-and-edit-on-mobile.md)
+         + [ヒント#3 - Protectデジタルドキュメント](use-cases/gov/protect-digital-documents.md)
+         + [ヒント#4 – フォームと署名の操作](use-cases/gov/work-with-forms-and-signatures.md)
+         + [ヒント#5 – モバイルでスキャンして編集](use-cases/gov/scan-and-edit-on-mobile.md)
 + 60秒Acrobat {#60-second}
    + [概要](60-second/60-second-overview.md)
-   + [Edit PDF with Acrobat web](60-second/edit.md)
+   + [Acrobat webでPDFを編集](60-second/edit.md)
    + [スキャンしたPDFファイルのテキストを認識](60-second/textrecognition.md)
-   + [Combine files into one PDF](60-second/combine-to-one-pdf.md)
-   + [Organize pages in a snap](60-second/organize.md)
-   + [Edit a photo in your PDF](60-second/editphoto.md)
-   + [Edit a graphic in your PDF](60-second/editgraphic.md)
-   + [Convert a PDF to Word](60-second/convert-pdf-word.md)
-   + [Convert a PDF to Excel](60-second/convert-pdf-excel.md)
-   + [Convert a PDF to PowerPoint](60-second/convert-pdf-powerpoint.md)
-   + [Export PDF to Word from your phone](60-second/exportwordphone.md)
-   + [Create a PDF from Microsoft Word](60-second/word-to-pdf.md)
-   + [Create PDF files with Acrobat](60-second/create-from-acrobat.md)
+   + [ファイルを1つのPDFに結合](60-second/combine-to-one-pdf.md)
+   + [スナップでページを整理](60-second/organize.md)
+   + [PDF内の写真を編集](60-second/editphoto.md)
+   + [PDF内のグラフィックの編集](60-second/editgraphic.md)
+   + [PDFをWordに変換](60-second/convert-pdf-word.md)
+   + [PDFをExcelに変換](60-second/convert-pdf-excel.md)
+   + [PDFをPowerPointに変換](60-second/convert-pdf-powerpoint.md)
+   + [携帯電話からWordにExport PDF](60-second/exportwordphone.md)
+   + [Microsoft WordからPDFを作成](60-second/word-to-pdf.md)
+   + [AcrobatでのPDFファイルの作成](60-second/create-from-acrobat.md)
    + [フォームフィールドを含むPDFにWordを変換](60-second/wordform.md)
    + [瞬時にPDFを作成](60-second/photo.md)
-   + [Convert a PPT file to PDF on your phone](60-second/phone.md)
-   + [Create more efficient PDF files in a snap](60-second/optimize.md)
-   + [Electronically sign a paper document](60-second/sign.md)
+   + [スマートフォンでPPTファイルをPDFに変換](60-second/phone.md)
+   + [より効率的なPDFファイルを簡単に作成](60-second/optimize.md)
+   + [紙の文書に電子サイン](60-second/sign.md)
    + [PDFファイルをパスワードでProtectする](60-second/protect.md)
-   + [Redaction: The Right Way](60-second/redaction.md)
-   + [Share for commenting](60-second/share-comment.md)
-   + [Share and comment on PDF files in Teams](60-second/share-comment-teams.md)
+   + [墨消し：適切な方法](60-second/redaction.md)
+   + [コメント用に共有](60-second/share-comment.md)
+   + [TeamsでのPDFファイルの共有とコメント](60-second/share-comment-teams.md)
    + [「要約」を使用したPDFのコメントの交換](60-second/summarize-comments.md)
    + [PDFコメントのInDesignへの読み込み](60-second/indesign.md)
    + [アクセシブルなPDFを行う際にAcrobatを活用](60-second/accessible.md)
@@ -136,15 +136,15 @@ ht-degree: 4%
    + [ウェビナー](skill-builder/skill-builder-webinars.md)
 + 統合 {#integrations}
    + [概要](integrate/integrate-overview.md)
-   + [&#x200B; [!DNL Microsoft Word]からPDFを作成](integrate/createfromword.md)
+   + [ [!DNL Microsoft Word]からPDFを作成](integrate/createfromword.md)
    + [Web用 [!DNL Office] でPDFを作成](integrate/createofficeweb.md)
-   + [&#x200B; [!DNL Microsoft Teams]でのPDFの共同作業](integrate/acrobatandteams.md)
-   + [&#x200B; [!DNL SharePoint] ファイルの操作](integrate/acrobatandsp.md)
+   + [ [!DNL Microsoft Teams]でのPDFの共同作業](integrate/acrobatandteams.md)
+   + [ [!DNL SharePoint] ファイルの操作](integrate/acrobatandsp.md)
    + [電子メールメッセージと添付ファイルを [!DNL Outlook]内のPDFに変換](integrate/outlook.md)
-   + [&#x200B; [!DNL Microsoft Edge]で参照中にPDFコンテンツを作成する](integrate/edge.md)
-   + [&#x200B; [!DNL Microsoft Purview Information] 秘密度ラベルを使用したProtect PDF](integrate/microsoftsensitivitylabels.md)
-   + [&#x200B; [!DNL Google Drive]のAdobe Acrobat](integrate/acrobatandgoogle.md)
-   + [&#x200B; [!DNL Dropbox]のファイルを使用する](integrate/acrobat-dropbox.md)
+   + [ [!DNL Microsoft Edge]で参照中にPDFコンテンツを作成する](integrate/edge.md)
+   + [ [!DNL Microsoft Purview Information] 秘密度ラベルを使用したProtect PDF](integrate/microsoftsensitivitylabels.md)
+   + [ [!DNL Google Drive]のAdobe Acrobat](integrate/acrobatandgoogle.md)
+   + [ [!DNL Dropbox]のファイルを使用する](integrate/acrobat-dropbox.md)
 + 現像 {#develop}
    + [概要](develop/develop-overview.md)
 + デプロイ {#deploy}
@@ -152,5 +152,5 @@ ht-degree: 4%
    + [ETLA版のお客様向けのAcrobat DC製品の重要なアップデート](deploy/signentitlementchanges.md)
 + モバイル {#mobile}
    + [概要](mobile/mobile-overview.md)
-   + [外出先での生産性](https://experienceleague.adobe.com/ja/docs/document-cloud-learn/acrobat-learning/get-started/basics/productivity)
+   + [外出先での生産性](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/basics/productivity)
    + [スキャンしたものはすべてPDFに保存](mobile/scan-mobile-app.md)
