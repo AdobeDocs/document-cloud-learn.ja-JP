@@ -22,7 +22,7 @@ ht-degree: 4%
    + 基本の学習 {#basics}
       + [ワークスペースの基本](getting-started/workspace-basics.md)
       + [新しいAcrobatエクスペリエンス](getting-started/new-experience.md)
-      + [ [!DNL Microsoft 365]を使用する](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/integrations/integrate-overview.html#microsoft)
+      + [&#x200B; [!DNL Microsoft 365]を使用する](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/integrations/integrate-overview.html#microsoft)
       + [Acrobat webでどこでも作業](getting-started/acrobatweb.md)
       + [外出先での生産性](getting-started/productivity.md)
       + [PDFはどこから来るのですか。](getting-started/where-do-pdfs-come-from.md)
@@ -97,7 +97,7 @@ ht-degree: 4%
    + 中央省庁 {#gov}
       + [概要](use-cases/gov/gov-overview.md)
       + Acrobatでどこでも作業するための5つのヒント {#tips}
-         + Acrobatでどこでも作業するための[5つのヒント](use-cases/gov/5-tips-for-working-anywhere-with-acrobat-dc-for-government.md)
+         + [Acrobatでどこでも作業するための5つのヒント](use-cases/gov/5-tips-for-working-anywhere-with-acrobat-dc-for-government.md)
          + [ヒント#1 – ツールを入手](use-cases/gov/get-your-tools.md)
          + [ヒント#2 – ドキュメントでの共同作業](use-cases/gov/collaborate-on-documents.md)
          + [Tip #3 – Protect digital documents](use-cases/gov/protect-digital-documents.md)
@@ -136,15 +136,15 @@ ht-degree: 4%
    + [ウェビナー](skill-builder/skill-builder-webinars.md)
 + 統合 {#integrations}
    + [概要](integrate/integrate-overview.md)
-   + [ [!DNL Microsoft Word]からPDFを作成](integrate/createfromword.md)
+   + [&#x200B; [!DNL Microsoft Word]からPDFを作成](integrate/createfromword.md)
    + [Web用 [!DNL Office] でPDFを作成](integrate/createofficeweb.md)
-   + [ [!DNL Microsoft Teams]でのPDFの共同作業](integrate/acrobatandteams.md)
-   + [ [!DNL SharePoint] ファイルの操作](integrate/acrobatandsp.md)
+   + [&#x200B; [!DNL Microsoft Teams]でのPDFの共同作業](integrate/acrobatandteams.md)
+   + [&#x200B; [!DNL SharePoint] ファイルの操作](integrate/acrobatandsp.md)
    + [電子メールメッセージと添付ファイルを [!DNL Outlook]内のPDFに変換](integrate/outlook.md)
-   + [ [!DNL Microsoft Edge]で参照中にPDFコンテンツを作成する](integrate/edge.md)
-   + [ [!DNL Microsoft Purview Information] 秘密度ラベルを使用したProtect PDF](integrate/microsoftsensitivitylabels.md)
-   + [ [!DNL Google Drive]のAdobe Acrobat](integrate/acrobatandgoogle.md)
-   + [ [!DNL Dropbox]のファイルを使用する](integrate/acrobat-dropbox.md)
+   + [&#x200B; [!DNL Microsoft Edge]で参照中にPDFコンテンツを作成する](integrate/edge.md)
+   + [&#x200B; [!DNL Microsoft Purview Information] 秘密度ラベルを使用したProtect PDF](integrate/microsoftsensitivitylabels.md)
+   + [&#x200B; [!DNL Google Drive]のAdobe Acrobat](integrate/acrobatandgoogle.md)
+   + [&#x200B; [!DNL Dropbox]のファイルを使用する](integrate/acrobat-dropbox.md)
 + 現像 {#develop}
    + [概要](develop/develop-overview.md)
 + デプロイ {#deploy}
