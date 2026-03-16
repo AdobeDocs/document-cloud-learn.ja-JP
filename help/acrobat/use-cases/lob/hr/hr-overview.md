@@ -5,7 +5,8 @@ feature: Gen AI
 role: User
 level: Beginner, Intermediate
 jira: KT-20534
-source-git-commit: 5f9eb79aaedd0dcab16ef0483f1df7e359280b73
+exl-id: a3527421-1f3f-43da-af60-ceed93369ab0
+source-git-commit: 0777e123ef5665052453a787bd39828a9ca167be
 workflow-type: tm+mt
 source-wordcount: '135'
 ht-degree: 1%
@@ -20,7 +21,7 @@ ht-degree: 1%
 
 >[!BEGINTABS]
 
->[!TAB インサイトからインパクトまで：人事ワークフローの合理化]
+>[!TAB インサイトからインパクトまで：オンボーディングワークフローの効率化]
 
 人事チームがAcrobat Studioを使用して、従業員のオンボーディングコンテンツを[インサイト、コラボレーション、オンブランド配信](hr-insights.md)へと効率化する方法について説明します。
 
@@ -32,10 +33,10 @@ ht-degree: 1%
 <tr>
   <td>
     <a href="hr-insights.md">
-      <img alt="インサイトからインパクトへ：人事ワークフローの合理化" src="../../../assets/use-case-hr-insights.png" />
+      <img alt="インサイトからインパクトへ：オンボーディングワークフローの効率化" src="../../../assets/use-case-hr-insights.png" />
     </a>
     <div>
-    <a href="hr-insights.md"><strong>インサイトからインパクトまで：人事ワークフローの合理化</strong></a>
+    <a href="hr-insights.md"><strong>インサイトからインパクトまで：オンボーディングワークフローの効率化</strong></a>
     </div>
     <em>人事チームがAcrobat Studioを使用して、最初から最後まで従業員のオンボーディングを効率化する方法を説明します</em>
     <br>
