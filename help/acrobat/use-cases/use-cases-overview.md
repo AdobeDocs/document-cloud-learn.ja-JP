@@ -7,9 +7,9 @@ level: Beginner, Intermediate, Experienced
 thumbnail: KT-6860.jpg
 jira: KT-6860
 exl-id: 08886d95-8ddf-42a7-a802-7241d85fd9ff
-source-git-commit: 70988640e34ad1f06da7e8447c055435a2ac7239
+source-git-commit: 5f9eb79aaedd0dcab16ef0483f1df7e359280b73
 workflow-type: tm+mt
-source-wordcount: '155'
+source-wordcount: '175'
 ht-degree: 0%
 
 ---
@@ -35,9 +35,14 @@ Acrobatを使用して生産性を向上させ、情報をチームや業界向�
     <br>
   </td>
   <td>
-        <img alt="スペーサー" src="../assets/Whitespacer.png" />
-        <div>
-        <br>
+    <a href="lob/hr/hr-overview.md">
+      <img alt="HRの使用例" src="../assets/use-case-hr.png" />
+    </a>
+    <div>
+    <a href="lob/hr/hr-overview.md"><strong>HRの使用例</strong></a>
+    </div>
+    <em>人事チームがAcrobatを使用して、従業員ライフサイクル全体の文書とワークフローを管理する方法を確認する</em>
+    <br>
   </td>
   <td>
         <img alt="スペーサー" src="../assets/Whitespacer.png" />
@@ -60,8 +65,8 @@ Acrobatを使用して生産性を向上させ、情報をチームや業界向�
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/ja/docs/document-cloud-learn/acrobat-learning/use-cases/gov/gov-overview" title="Acrobat官公庁" target="_self" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/ja/docs/document-cloud-learn/acrobat-learning/by-industry/media_1abe687622f66d3337ba5f1e48f787f436753c3bc.png?width=400&format=webply&optimize=medium" alt="Acrobat官公庁"
+                    <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/use-cases/gov/gov-overview" title="Acrobat官公庁" target="_self" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/by-industry/media_1abe687622f66d3337ba5f1e48f787f436753c3bc.png?width=400&format=webply&optimize=medium" alt="Acrobat官公庁"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -69,11 +74,11 @@ Acrobatを使用して生産性を向上させ、情報をチームや業界向�
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/ja/docs/document-cloud-learn/acrobat-learning/use-cases/gov/gov-overview" target="_self" rel="referrer" title="Acrobat官公庁">官公庁向けAcrobat</a>
+                        <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/use-cases/gov/gov-overview" target="_self" rel="referrer" title="Acrobat官公庁">官公庁向けAcrobat</a>
                     </p>
                     <p class="is-size-6">連邦、州、地方自治体に特化したAcrobatチュートリアルをご覧ください</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/ja/docs/document-cloud-learn/acrobat-learning/use-cases/gov/gov-overview" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/use-cases/gov/gov-overview" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">チュートリアルを見る</span>
                 </a>
             </div>
