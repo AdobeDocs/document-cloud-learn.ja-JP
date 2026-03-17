@@ -6,9 +6,9 @@ feature-set: Document Cloud
 role: User
 type: Tutorial
 auto-video-transcripts: true
-source-git-commit: df117083332859e2ff8009b24424b4bdb2f9f748
+source-git-commit: 1d62c09eb558d00dd6cb3ed26985556c4d09f4ec
 workflow-type: tm+mt
-source-wordcount: '666'
+source-wordcount: '674'
 ht-degree: 5%
 
 ---
@@ -22,7 +22,7 @@ ht-degree: 5%
    + 基本の学習 {#basics}
       + [ワークスペースの基本](getting-started/workspace-basics.md)
       + [新しいAcrobatエクスペリエンス](getting-started/new-experience.md)
-      + [&#x200B; [!DNL Microsoft 365]を使用する](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/integrations/integrate-overview.html?lang=ja#microsoft)
+      + [ [!DNL Microsoft 365]を使用する](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/integrations/integrate-overview.html#microsoft)
       + [Acrobat webでどこでも作業](getting-started/acrobatweb.md)
       + [外出先での生産性](getting-started/productivity.md)
       + [PDFはどこから来るのですか。](getting-started/where-do-pdfs-come-from.md)
@@ -83,11 +83,11 @@ ht-degree: 5%
       + [カスタムコマンドとツール](advanced-tasks/custom.md)
 + AI搭載 {#ai-powered}
    + [概要](ai-powered/ai-overview.md)
-   + [AIアシスタントでPDFのインサイトを見つける](https://experienceleague.adobe.com/ja/docs/document-cloud-learn/acrobat-learning/get-started/ai/ai-assistant)
-   + [PDFスペースでチームの効率を向上](https://experienceleague.adobe.com/ja/docs/document-cloud-learn/acrobat-learning/get-started/ai/pdf-spaces-legal)
-   + [Acrobat Studioとは](https://experienceleague.adobe.com/ja/docs/document-cloud-learn/acrobat-learning/get-started/ai/acrobat-studio)
-   + [PDF内のグラフィックの編集](https://experienceleague.adobe.com/ja/docs/document-cloud-learn/acrobat-learning/get-started/edit/edit-graphics)
-   + [このPDFをスタイライズ](https://experienceleague.adobe.com/ja/docs/document-cloud-learn/acrobat-learning/get-started/edit/stylize-this-pdf)
+   + [AIアシスタントでPDFのインサイトを見つける](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/ai/ai-assistant)
+   + [PDFスペースでチームの効率を向上](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/ai/pdf-spaces-legal)
+   + [Acrobat Studioとは](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/ai/acrobat-studio)
+   + [PDF内のグラフィックの編集](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/edit/edit-graphics)
+   + [このPDFをスタイライズ](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/edit/stylize-this-pdf)
 + 使用事例 {#use-cases}
    + [概要](use-cases/use-cases-overview.md)
    + 基幹業務 {#lob}
@@ -97,13 +97,16 @@ ht-degree: 5%
       + HR {#hr}
          + [概要](use-cases/lob/hr/hr-overview.md)
          + [インサイトからインパクトへ：オンボーディングワークフローの効率化](use-cases/lob/hr/hr-insights.md)
+      + 法務情報 {#legal}
+         + [概要](use-cases/lob/legal/legal-overview.md)
+         + [法的な洞察を実用的なガイダンスに変換](use-cases/lob/legal/legal-insights.md)
       + セールス {#sales}
          + [概要](use-cases/lob/sales/sales-overview.md)
          + [顧客インテリジェンスを優れたセールスアセットに変える](use-cases/lob/sales/sales-insights.md)
    + 中央省庁 {#gov}
       + [概要](use-cases/gov/gov-overview.md)
       + Acrobatでどこでも作業するための5つのヒント {#tips}
-         + [Acrobatでどこでも作業するための5つのヒント](use-cases/gov/5-tips-for-working-anywhere-with-acrobat-dc-for-government.md)
+         + Acrobatでどこでも作業するための[5つのヒント](use-cases/gov/5-tips-for-working-anywhere-with-acrobat-dc-for-government.md)
          + [ヒント#1 – ツールを入手](use-cases/gov/get-your-tools.md)
          + [ヒント#2 – ドキュメントでの共同作業](use-cases/gov/collaborate-on-documents.md)
          + [ヒント#3 - Protectデジタルドキュメント](use-cases/gov/protect-digital-documents.md)
@@ -142,15 +145,15 @@ ht-degree: 5%
    + [ウェビナー](skill-builder/skill-builder-webinars.md)
 + 統合 {#integrations}
    + [概要](integrate/integrate-overview.md)
-   + [&#x200B; [!DNL Microsoft Word]からPDFを作成](integrate/createfromword.md)
+   + [ [!DNL Microsoft Word]からPDFを作成](integrate/createfromword.md)
    + [Web用 [!DNL Office] でPDFを作成](integrate/createofficeweb.md)
-   + [&#x200B; [!DNL Microsoft Teams]でのPDFの共同作業](integrate/acrobatandteams.md)
-   + [&#x200B; [!DNL SharePoint] ファイルの操作](integrate/acrobatandsp.md)
+   + [ [!DNL Microsoft Teams]でのPDFの共同作業](integrate/acrobatandteams.md)
+   + [ [!DNL SharePoint] ファイルの操作](integrate/acrobatandsp.md)
    + [電子メールメッセージと添付ファイルを [!DNL Outlook]内のPDFに変換](integrate/outlook.md)
-   + [&#x200B; [!DNL Microsoft Edge]で参照中にPDFコンテンツを作成する](integrate/edge.md)
-   + [&#x200B; [!DNL Microsoft Purview Information] 秘密度ラベルを使用したProtect PDF](integrate/microsoftsensitivitylabels.md)
-   + [&#x200B; [!DNL Google Drive]のAdobe Acrobat](integrate/acrobatandgoogle.md)
-   + [&#x200B; [!DNL Dropbox]のファイルを使用する](integrate/acrobat-dropbox.md)
+   + [ [!DNL Microsoft Edge]で参照中にPDFコンテンツを作成する](integrate/edge.md)
+   + [ [!DNL Microsoft Purview Information] 秘密度ラベルを使用したProtect PDF](integrate/microsoftsensitivitylabels.md)
+   + [ [!DNL Google Drive]のAdobe Acrobat](integrate/acrobatandgoogle.md)
+   + [ [!DNL Dropbox]のファイルを使用する](integrate/acrobat-dropbox.md)
 + 現像 {#develop}
    + [概要](develop/develop-overview.md)
 + デプロイ {#deploy}
@@ -158,5 +161,5 @@ ht-degree: 5%
    + [ETLA版のお客様向けのAcrobat DC製品の重要なアップデート](deploy/signentitlementchanges.md)
 + モバイル {#mobile}
    + [概要](mobile/mobile-overview.md)
-   + [外出先での生産性](https://experienceleague.adobe.com/ja/docs/document-cloud-learn/acrobat-learning/get-started/basics/productivity)
+   + [外出先での生産性](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/basics/productivity)
    + [スキャンしたものはすべてPDFに保存](mobile/scan-mobile-app.md)
