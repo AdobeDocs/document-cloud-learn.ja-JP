@@ -5,7 +5,7 @@ feature: Gen AI
 role: User
 level: Beginner, Intermediate
 jira: KT-20545
-source-git-commit: 1d62c09eb558d00dd6cb3ed26985556c4d09f4ec
+source-git-commit: 5645a4ec1bd6f5489f2ae2c50e66507481a140e2
 workflow-type: tm+mt
 source-wordcount: '120'
 ht-degree: 1%
@@ -14,7 +14,7 @@ ht-degree: 1%
 
 # Acrobatの法律上のユースケースの概要
 
-ドキュメントの分析、共同作業、コンテンツの作成を安全で管理された1つのワークフローにまとめることで、法律上の見直しを合理化する方法について説明します。
+法務チームは、ドキュメントのレビューと配信のすべての段階において、迅速な移動、リスクの軽減、管理の維持を実現できます。
 
 ## 新機能
 
