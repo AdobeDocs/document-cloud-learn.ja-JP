@@ -22,18 +22,18 @@ ht-degree: 2%
 
 まず、お客様のドキュメントを収集する方法、重要な情報を分析する方法、AIを活用した概要と分析結果を使用して、お客様のニーズを理解し、より効果的な商談に備える方法について学習します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3481562?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3481565?captions=jpn&quality=12&learn=on&hidetitle=true)
 
 ## 手順 2. チームのコラボレーションに重点を置いて案件を進める
 
 Insightsがチームレビューの準備ができました。 共有ワークスペースで顧客アカウントの共同作業を行い、関係者の役割ベースのアクセスを維持し、コンテキストや制御を失うことなくインサイト、メモ、ドキュメントをレビューする方法について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3481563?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3481589?captions=jpn&quality=12&learn=on&hidetitle=true)
 
 ## 手順 3. セールスに適したコンテンツのセールスを促進
 
 フィードバックが完了し、コンテンツを配信する準備ができました。 ゼロから始めたり、デザインのサポートに頼ることなく、検証済みのお客様のインサイトを洗練されたオンブランドのセールスプレゼンテーションや提案に変換する方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3481564?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3481600?captions=jpn&quality=12&learn=on&hidetitle=true)
 
 Acrobat Studioを使用して、顧客の理解、関係者との共同作業、販売準備の整ったプレゼンテーションや提案を提供するための繰り返し可能なプロセスが実現しました。
