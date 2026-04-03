@@ -15,13 +15,13 @@ ht-degree: 0%
 
 ## Adobeコンテンツに対するコントリビューションについて
 
-[Adobeドキュメントコントリビューターガイド](https://docs.adobe.com/content/help/en/contributor/contributor-guide/introduction.html)を参照してください。
+[Adobeドキュメントコントリビューターガイド](https://docs.adobe.com/content/help/ja-JP/contributor/contributor-guide/introduction.html)を参照してください。
 
 コントリビューターの役割は、コントリビューターの個人やコントリビューターの希望する変更の種類によって異なります。
 
 ### 軽微な変更
 
-心の優れからマイナーアップデートを提供している場合は、記事にアクセスして、記事のGitHubソースに移動する記事の&#x200B;**編集**&#x200B;リンクをクリックしてください。 次に、GitHub UIを使用してアップデートを行います。 詳細については、[Adobeドキュメントコントリビューターガイド](https://docs.adobe.com/content/help/en/contributor/contributor-guide/introduction.html)を参照してください。
+心の優れからマイナーアップデートを提供している場合は、記事にアクセスして、記事のGitHubソースに移動する記事の&#x200B;**編集**&#x200B;リンクをクリックしてください。 次に、GitHub UIを使用してアップデートを行います。 詳細については、[Adobeドキュメントコントリビューターガイド](https://docs.adobe.com/content/help/ja-JP/contributor/contributor-guide/introduction.html)を参照してください。
 
 このリポジトリのドキュメントおよびコード例に対して送信する軽微な訂正や説明は、Adobe利用条件の対象です。
 
@@ -43,7 +43,7 @@ If you submit a pull request with significant changes to documentation and code 
 
 コミュニティのコントリビューターは、GitHub UIを使用して基本的な編集を行ったり、リポジトリをフォークして大きな貢献を行うことができます。
 
-詳細については、[Adobeドキュメントコントリビューターガイド](https://docs.adobe.com/content/help/en/contributor/contributor-guide/introduction.html)を参照してください。
+詳細については、[Adobeドキュメントコントリビューターガイド](https://docs.adobe.com/content/help/ja-JP/contributor/contributor-guide/introduction.html)を参照してください。
 
 ## マークダウンを使用してトピックをフォーマットする方法
 
