@@ -7,4 +7,4 @@ ht-degree: 14%
 ---
 # アーカイブ済み
 
-このリポジトリは<https://github.com/Adobe-Enterprise-Docs/document-cloud-learn.en>に移行されました。
+このリポジトリは<https://github.com/Adobe-Enterprise-Docs/document-cloud-learn.ja-JP>に移行されました。
