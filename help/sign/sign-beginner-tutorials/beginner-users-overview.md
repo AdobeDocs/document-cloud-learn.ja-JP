@@ -7,10 +7,10 @@ level: Beginner
 jira: KT-6847
 thumbnail: KT-6847.jpg
 exl-id: e58ce43d-2e8e-4804-8f30-6591fa943607
-source-git-commit: 169855b701bbc9153e349687366a6f6e49adabe6
+source-git-commit: 2efeaa6ee37e4cbf6550d6ef868aa416abe1a7c0
 workflow-type: tm+mt
-source-wordcount: '494'
-ht-degree: 7%
+source-wordcount: '510'
+ht-degree: 26%
 
 ---
 
@@ -21,6 +21,10 @@ ht-degree: 7%
 ## 新機能
 
 >[!BEGINTABS]
+
+>[!TAB 送信後に文書を変更する]
+
+署名用に既に送信された文書を[変更](../sign-beginner-tutorials/manage-and-track.md)する方法について説明します。
 
 >[!TAB 契約書を管理およびトラック]
 
@@ -33,10 +37,6 @@ Acrobat Signを使用して送信された文書に[署名](../sign-beginner-tut
 >[!TAB 再利用可能なテンプレートを作成]
 
 [再利用可能な文書テンプレート](../sign-advanced-users/create-a-template.md)を作成する方法について説明します。
-
->[!TAB 送信オプションの構成]
-
-署名用に文書を送信する際の[各種オプションの設定](sending-options.md)方法について説明します。
 
 >[!ENDTABS]
 
@@ -51,7 +51,7 @@ Acrobat Signを使用して送信された文書に[署名](../sign-beginner-tut
     <div>
     <a href="new-sender.md"><strong>Acrobat Signの概要</strong></a>
     </div>
-    このチュートリアルは、Acrobat Signの新規ユーザーのために作業を開始するのに最適です
+    Acrobat Sign の新規ユーザーが使用を開始する際に役立つチュートリアル
     <br>
   </td>
  <td>
@@ -71,7 +71,7 @@ Acrobat Signを使用して送信された文書に[署名](../sign-beginner-tut
     <div>
     <a href="send-to-single-recipient.md"><strong>1人の署名者に文書を送信する</strong></a>
     </div>
-    署名用に文書を送信する方法を学びましょう
+    今すぐ署名用の文書を簡単に送信する方法を学習
     <br>
   </td>
   <td>
@@ -81,7 +81,7 @@ Acrobat Signを使用して送信された文書に[署名](../sign-beginner-tut
     <div>
     <a href="send-to-multiple-recipients.md"><strong>複数の署名者に送信</strong></a>
     </div>
-    電子サイン用の文書を複数の宛先に正確に希望の順序で送信します
+    電子サイン用の文書を複数の署名者に、指定した順序で送信
     <br>
   </td>
 </tr>
@@ -93,7 +93,7 @@ Acrobat Signを使用して送信された文書に[署名](../sign-beginner-tut
     <div>
     <a href="sending-options.md"><strong>送信オプションの構成</strong></a>
     </div>
-    署名用に文書を送信する際の各種オプションの設定方法について説明します
+    署名用に文書を送信する際に、各種オプションを設定する方法を学習
     <br>
   </td>
   <td>
@@ -108,12 +108,12 @@ Acrobat Signを使用して送信された文書に[署名](../sign-beginner-tut
   </td>
   <td>
     <a href="modify-in-flight.md">
-      <img alt="送信後の文書の変更" src="../assets/modify.png" />
+      <img alt="送信後に文書を変更" src="../assets/modify.png" />
     </a>
     <div>
-    <a href="modify-in-flight.md"><strong>送信後の文書の変更</strong></a>
+    <a href="modify-in-flight.md"><strong>送信後に文書を変更する</strong></a>
     </div>
-    既に処理中の文書を変更する
+    既に処理中のドキュメントを変更する方法を学ぶ
     <br>
   </td>
   <td>
@@ -145,7 +145,7 @@ Acrobat Signを使用して送信された文書に[署名](../sign-beginner-tut
     <div>
     <a href="../sign-advanced-users/create-a-template.md"><strong>再利用可能なテンプレートを作成</strong></a>
     </div>
-    再利用可能な文書テンプレートを作成して、組織の速度と一貫性を確保できます
+    再利用可能な文書テンプレートを作成して、組織の業務効率と一貫性を確保
     <br>
   </td>
     <td>
@@ -172,7 +172,7 @@ Acrobat Signを使用して送信された文書に[署名](../sign-beginner-tut
     <div>
     <a href="electronically-sign-a-document.md"><strong>文書に電子サインを行う</strong></a>
     </div>
-    Acrobat Signで送信された文書に簡単に署名する方法を説明します。
+    受信した文書に Acrobat Sign で簡単に署名する方法を学習
     <br>
   </td>
   <td>
@@ -251,7 +251,7 @@ Acrobat Signを使用して送信された文書に[署名](../sign-beginner-tut
     <div>
     <a href="manage-and-track.md"><strong>契約書の管理と追跡</strong></a>
     </div>
-    署名用に送信された契約書を管理およびトラックする方法について説明します
+    署名用に送信された契約書を管理およびトラックする方法を学習
     <br>
   </td>
   <td>
