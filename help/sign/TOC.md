@@ -1,5 +1,5 @@
 ---
-user-guide-title: Acrobat SignTutorials
+user-guide-title: Tutorials
 solution: Acrobat Sign
 solution-title: Learning Hub
 solution-hub-url: https://helpx.adobe.com/jp/support/sign.html
@@ -7,20 +7,20 @@ getting-started-title: Getting Started
 getting-started-url: https://helpx.adobe.com/jp/sign/using/get-started-guide.html
 tutorials-title: Tutorials
 tutorials-url: https://helpx.adobe.com/jp/sign/tutorials.html
-breadcrumb-title: Acrobat SignTutorials
+breadcrumb-title: Tutorials
 feature-set: Document Cloud
 feature: Use Cases, Web Forms, Workflow, Sign, Payments, Report, Workspace, Deadline, Administration, Digital ID, Form, Integrations, Mobile, Skill Builder
 type: Tutorial
 auto-video-transcripts: true
-source-git-commit: 179d668e1029d12da5147aa259fe28dbd5b681bf
+source-git-commit: 2efeaa6ee37e4cbf6550d6ef868aa416abe1a7c0
 workflow-type: tm+mt
-source-wordcount: '568'
-ht-degree: 15%
+source-wordcount: '683'
+ht-degree: 14%
 
 ---
 
 
-# Acrobat SignTutorials {#sign-learning-hub}
+# Tutorials {#sign-learning-hub}
 
 + [概要](overview.md)
 + はじめに {#getting-started}
@@ -32,7 +32,7 @@ ht-degree: 15%
       + [複数の署名者に送信](sign-beginner-tutorials/send-to-multiple-recipients.md)
       + [文書へのフィールドの追加](sign-beginner-tutorials/adding-fields.md)
       + [送信オプションの設定](sign-beginner-tutorials/sending-options.md)
-      + [送信後の文書の変更](sign-beginner-tutorials/modify-in-flight.md)
+      + [送信後に文書を変更](sign-beginner-tutorials/modify-in-flight.md)
       + [署名者の置き換え](sign-beginner-tutorials/replace-signer.md)
       + [期限とリマインダーの設定](sign-beginner-tutorials/set-deadlines-reminders.md)
       + [再利用可能なテンプレートを作成](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/create-a-template.html?lang=ja)
@@ -52,11 +52,11 @@ ht-degree: 15%
       + [委任者の役割の使用](sign-advanced-users/delegate-signature.md)
       + [承認者の役割の使用](sign-advanced-users/add-an-approver.md)
       + [一括送信](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/megasign.html?lang=ja)
-      + [Webフォームを作成しています](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/webform.html?lang=ja)
+      + [Webフォームの作成](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/webform.html?lang=ja)
       + [カスタムワークフローの作成](https://experienceleague.adobe.com/ja/docs/document-cloud-learn/sign-learning-hub/advanced-tasks/advanced-tasks-managing/creating-a-report)
       + [オンライン決済の設定](sign-advanced-users/set-up-online-payments.md)
       + [Acrobat Signの認証方法](sign-advanced-users/authentication-methods.md)
-      + [Acrobat Signのテキストタグ付け](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/advanced-tasks-admins/adobe-sign-text-tagging.html?lang=ja)
+      + [Acrobat Signテキストタグ付け](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/advanced-tasks-admins/adobe-sign-text-tagging.html?lang=ja)
       + [&#x200B; [!DNL Microsoft Word]でテキストタグを使用しています](sign-advanced-users/text-tagging-word.md)
    + 管理 {#advanced-tasks-managing}
       + [レポートとトランザクションの使用状況](sign-advanced-users/creating-a-report.md)
@@ -80,7 +80,7 @@ ht-degree: 15%
       + [レポートとトランザクションの使用状況](https://experienceleague.adobe.com/ja/docs/document-cloud-learn/sign-learning-hub/advanced-tasks/advanced-tasks-managing/creating-a-report)
       + [ユーザーのレポートオプション](admin/report-options.md)
       + [Webフォームの作成](sign-advanced-users/webform.md)
-      + [既存のWebフォームを変更する](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/advanced-tasks/advanced-tasks-managing/modify-webform.html?lang=ja)
+      + [既存のwebフォームを変更](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/advanced-tasks/advanced-tasks-managing/modify-webform.html?lang=ja)
       + [一括送信](sign-advanced-users/megasign.md)
       + [カスタムワークフローの作成](admin/building-a-custom-workflow.md)
       + [監査レポート](admin/audit-reports.md)
@@ -145,7 +145,7 @@ ht-degree: 15%
    + [概要](sign-usecase/expand-inspire-overview.md)
    + スキルビルダー {#innovation}
       + [ウェビナー](sign-usecase/innovation-series.md)
-   + ユースケース {#recipes}
+   + 使用事例 {#recipes}
       + [概要](sign-usecase/recipes.md)
       + 中央省庁 {#gov}
          + [複数の不明な署名者を含む政府からの融資申請](sign-usecase/webform-multiple-signers.md)
