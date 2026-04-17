@@ -8,9 +8,9 @@ jira: KT-6849
 topic-revisit: Administration
 thumbnail: KT-6849.jpg
 exl-id: 1b6ea9f0-6bbb-4ea5-aa22-bfa42f7cca18
-source-git-commit: b24235986241d53bfd09d602192e50290bfb8817
+source-git-commit: 184d041d27da2172761c4bfbb6f58ac80f3395cc
 workflow-type: tm+mt
-source-wordcount: '697'
+source-wordcount: '719'
 ht-degree: 3%
 
 ---
@@ -23,6 +23,10 @@ ht-degree: 3%
 
 >[!BEGINTABS]
 
+>[!TAB 契約書の変更を構成および管理する]
+
+Acrobat Signで[契約書を変更](configure-modify-agreement.md)を構成および管理する方法について説明します。
+
 >[!TAB カスタムワークフローの作成]
 
 [カスタムワークフロー](building-a-custom-workflow.md)を作成および使用して、契約書の作成と送信のプロセスを高速化する方法について説明します。
@@ -34,10 +38,6 @@ ht-degree: 3%
 >[!TAB ユーザーの自動割り当てルールを有効にする]
 
 Admin Console内のAcrobat Signへのアクセスをユーザーに許可する[自動割り当てルール](automatic-assignment-rules.md)を設定する方法について説明します。
-
->[!TAB Docusignテンプレートの移行]
-
-3つの簡単な手順で、[Docusignテンプレート](docusign-templates.md)とワークフローをシームレスに移行する方法について説明します。
 
 >[!ENDTABS]
 
@@ -234,8 +234,13 @@ Admin Console内のAcrobat Signへのアクセスをユーザーに許可する[
       <br>
     </td>
     <td>
-      <img alt="スペーサー" src="../assets/Whitespacer.png" />
+      <a href="configure-modify-agreement.md">
+        <img alt="契約書を変更の設定と管理" src="../assets/configure-modify.png" />
+      </a>
       <div>
+      <a href="configure-modify-agreement.md"><strong>契約書の変更を構成および管理する</strong></a>
+      </div>
+      <em>契約書の変更を構成および管理する方法の詳細</em>
       <br>
     </td>
     <td>
