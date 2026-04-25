@@ -23,4 +23,4 @@ Acrobat Signで&#x200B;**契約書を変更**&#x200B;を構成および管理す
 * 改訂モードによって契約書の整合性がどのように保護されるか
 * 監査レポートに記録される変更
 
->[!VIDEO](https://video.tv.adobe.com/v/3483690?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3483691?captions=jpn&quality=12&learn=on&hidetitle=true)
