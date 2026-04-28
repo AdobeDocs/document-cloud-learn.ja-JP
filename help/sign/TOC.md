@@ -12,9 +12,9 @@ feature-set: Document Cloud
 feature: Use Cases, Web Forms, Workflow, Sign, Payments, Report, Workspace, Deadline, Administration, Digital ID, Form, Integrations, Mobile, Skill Builder
 type: Tutorial
 auto-video-transcripts: true
-source-git-commit: 184d041d27da2172761c4bfbb6f58ac80f3395cc
+source-git-commit: c4dd480735696feee27fe21320b24aaa74c990f8
 workflow-type: tm+mt
-source-wordcount: '688'
+source-wordcount: '694'
 ht-degree: 13%
 
 ---
@@ -36,6 +36,7 @@ ht-degree: 13%
       + [署名者の置き換え](sign-beginner-tutorials/replace-signer.md)
       + [期限とリマインダーの設定](sign-beginner-tutorials/set-deadlines-reminders.md)
       + [再利用可能なテンプレートを作成](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/create-a-template.html?lang=ja)
+      + [チェックボックスグループを使用した必要な選択のガイド](sign-beginner-tutorials/checkbox-groups.md)
    + 署名 {#getting-started-signing}
       + [文書に電子サイン](sign-beginner-tutorials/electronically-sign-a-document.md)
       + [文書への入力と署名](sign-beginner-tutorials/fill-and-sign.md)
