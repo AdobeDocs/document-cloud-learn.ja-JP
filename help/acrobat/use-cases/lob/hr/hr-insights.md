@@ -6,9 +6,9 @@ role: User
 level: Intermediate
 jira: KT-20543
 exl-id: e557d793-906f-47af-b6d3-ca2f22bbe869
-source-git-commit: 0777e123ef5665052453a787bd39828a9ca167be
+source-git-commit: 6480632c135a02770d5ee160cb55001a2f780a06
 workflow-type: tm+mt
-source-wordcount: '257'
+source-wordcount: '272'
 ht-degree: 2%
 
 ---
@@ -19,22 +19,24 @@ ht-degree: 2%
 
 **次の人に最適：**&#x200B;人事リーダー、人事オペレーションとビジネスパートナー、オンボーディングと従業員エクスペリエンスチーム、および従業員やリーダーシップのために人事資料を準備する人。
 
+**お試し：**&#x200B;この人事オンボーディングワークフローを今すぐ試す[実践的](https://w.adobedemo.com/s/NvvfVm){target="_blank"}。
+
 ## 手順 1. オンボーディングドキュメントから明確な洞察を得る
 
 まず、AIを活用したオンボーディングインサイトによって、重要な情報を強調し、次のステップを提示して、新規採用者が適切な情報を適切なタイミングで確実に得られるようにする方法について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3481485?captions=jpn&quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3481484?quality=12&learn=on&hidetitle=true)
 
 ## 手順 2. オンボーディング資料の確認と整列
 
 Insightsがチームレビューの準備ができました。 PDFスペースでは、フィードバック、コメント、アップデートを整理して、関係者の連携を維持し、メールチェーンやバージョンを混乱させずにオンボーディングを進める方法について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3481522?captions=jpn&quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3481509?quality=12&learn=on&hidetitle=true)
 
 ## 手順 3. 新入社員のための魅力的なオンボーディングコンテンツを作成する
 
 フィードバックが完了し、コンテンツを配信する準備ができました。 Acrobat StudioでAIとブランドテンプレートを使用して、共有と更新が簡単な、従業員が使いやすいプレゼンテーションと資料をすばやく作成する方法をご覧ください。
 
->[!VIDEO](https://video.tv.adobe.com/v/3481533?captions=jpn&quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3481521?quality=12&learn=on&hidetitle=true)
 
 Acrobat Studioを使用して、従業員がオンボード対応の文書を分析、レビュー、および配布するための繰り返し可能なプロセスが実現されました。

@@ -5,10 +5,11 @@ feature: Gen AI
 role: User
 level: Intermediate
 jira: KT-20552
-source-git-commit: 1d62c09eb558d00dd6cb3ed26985556c4d09f4ec
+exl-id: 86b7e471-0e26-45d9-b87a-c91886e10c33
+source-git-commit: 6480632c135a02770d5ee160cb55001a2f780a06
 workflow-type: tm+mt
-source-wordcount: '191'
-ht-degree: 3%
+source-wordcount: '205'
+ht-degree: 2%
 
 ---
 
@@ -18,23 +19,24 @@ ht-degree: 3%
 
 **最適な対象：**&#x200B;法人のリーダー、社内弁護士、契約レビュー担当者、チームがビジネス全体で法律上のガイダンスを提供。
 
+**試す：**&#x200B;この法的ワークフローを今すぐ試す[実践的](https://w.adobedemo.com/s/ujZN1y){target="_blank"}。
+
 ## 手順 1. 法的情報の分析とインサイトの開示
 
 まず、複雑な法的文書の分析、重要な変更の提示、AIを活用したインサイトによるリスクの特定から始めます。
 
->[!VIDEO](https://video.tv.adobe.com/v/3481635?captions=jpn&quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3481634?quality=12&learn=on&hidetitle=true)
 
 ## 手順 2. 法的レビューのための安全な共同作業
 
 Insightsがチームレビューの準備ができました。 電子メールの混乱を軽減し、バージョン管理を維持し、複雑な法的レビューで安全に共同作業を行う方法について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3481648?captions=jpn&quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3481646?quality=12&learn=on&hidetitle=true)
 
 ## 手順 3. 法的に有効な情報をビジネスに適したコンテンツに変換
 
 フィードバックが完了し、コンテンツを配信する準備ができました。 リーガルチームがガイダンスをすばやく作成し、承認済みのブランディングを適用して、安全でアクセスしやすいPDFを提供する方法について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3481659?captions=jpn&quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3481647?quality=12&learn=on&hidetitle=true)
 
 法的文書の把握、安全な共同作業、明確な即戦力となるガイダンスの作成を行うための、繰り返し可能なプロセスが実現しました。
-

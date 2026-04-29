@@ -6,10 +6,10 @@ role: User
 level: Intermediate
 jira: KT-20532
 exl-id: bc553a33-0388-4f29-b6f3-4adf0d1a11af
-source-git-commit: 1d62c09eb558d00dd6cb3ed26985556c4d09f4ec
+source-git-commit: 6480632c135a02770d5ee160cb55001a2f780a06
 workflow-type: tm+mt
-source-wordcount: '198'
-ht-degree: 3%
+source-wordcount: '213'
+ht-degree: 2%
 
 ---
 
@@ -19,17 +19,19 @@ ht-degree: 3%
 
 **最適：**&#x200B;財務リーダー、FP&amp;Aチーム、アナリスト、およびエグゼクティブや取締役会のレビュー用の資料を準備している人。
 
+**お試しください：**&#x200B;今すぐ[実践](https://w.adobedemo.com/s/31LpAI){target="_blank"}で、この財務レポートワークフローを確認してください。
+
 ## 手順 1. 財務実績の把握
 
 まず、財務文書を統合し、重要なインサイトを提示して、経営陣によるレビューに向けた情報を準備します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3481424?captions=jpn&quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3481423?quality=12&learn=on&hidetitle=true)
 
 ## 手順 2. 財務レポートの共同作業
 
 Insightsがチームレビューの準備ができました。 安全なワークスペースで、関係者を集めて財務資料のレビュー、フィードバックの共有、およびインサイトの改善を行います。
 
->[!VIDEO](https://video.tv.adobe.com/v/3481437?captions=jpn&quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3481436?quality=12&learn=on&hidetitle=true)
 
 ## 手順 3. エグゼクティブ向けプレゼンテーションの作成
 

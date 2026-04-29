@@ -5,9 +5,10 @@ feature: Gen AI
 role: User
 level: Intermediate
 jira: KT-20546
-source-git-commit: 70378a366d714f100b7f4e4f4591c4369f6fee8b
+exl-id: 4fdb38c6-e742-41c9-8b14-1491532f1d4b
+source-git-commit: 6480632c135a02770d5ee160cb55001a2f780a06
 workflow-type: tm+mt
-source-wordcount: '240'
+source-wordcount: '254'
 ht-degree: 2%
 
 ---
@@ -18,22 +19,25 @@ ht-degree: 2%
 
 **最適：**&#x200B;アカウントエグゼクティブ、セールスマネージャー、ディールチーム、および会議、プレゼンテーション、提案のためにお客様向けの営業資料を準備している人。
 
+
+**試す：**&#x200B;今すぐこの販売ワークフローを調べる[実践的](https://w.adobedemo.com/s/HEEljN){target="_blank"}。
+
 ## 手順 1. AIを活用したインサイトで顧客を理解する
 
 まず、お客様のドキュメントを収集する方法、重要な情報を分析する方法、AIを活用した概要と分析結果を使用して、お客様のニーズを理解し、より効果的な商談に備える方法について学習します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3481565?captions=jpn&quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3481562?quality=12&learn=on&hidetitle=true)
 
 ## 手順 2. チームのコラボレーションに重点を置いて案件を進める
 
 Insightsがチームレビューの準備ができました。 共有ワークスペースで顧客アカウントの共同作業を行い、関係者の役割ベースのアクセスを維持し、コンテキストや制御を失うことなくインサイト、メモ、ドキュメントをレビューする方法について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3481589?captions=jpn&quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3481563?quality=12&learn=on&hidetitle=true)
 
 ## 手順 3. セールスに適したコンテンツのセールスを促進
 
 フィードバックが完了し、コンテンツを配信する準備ができました。 ゼロから始めたり、デザインのサポートに頼ることなく、検証済みのお客様のインサイトを洗練されたオンブランドのセールスプレゼンテーションや提案に変換する方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3481600?captions=jpn&quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3481564?quality=12&learn=on&hidetitle=true)
 
 Acrobat Studioを使用して、顧客の理解、関係者との共同作業、販売準備の整ったプレゼンテーションや提案を提供するための繰り返し可能なプロセスが実現しました。
