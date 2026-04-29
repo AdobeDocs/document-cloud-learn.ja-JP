@@ -6,10 +6,10 @@ role: User
 level: Intermediate
 jira: KT-20532
 exl-id: bc553a33-0388-4f29-b6f3-4adf0d1a11af
-source-git-commit: 1d62c09eb558d00dd6cb3ed26985556c4d09f4ec
+source-git-commit: 6480632c135a02770d5ee160cb55001a2f780a06
 workflow-type: tm+mt
-source-wordcount: '198'
-ht-degree: 3%
+source-wordcount: '213'
+ht-degree: 2%
 
 ---
 
@@ -18,6 +18,8 @@ ht-degree: 3%
 財務チームがAcrobatを使用して、インサイトから提供まで財務文書を管理する方法について説明します。 このユースケースでは、情報の分析、関係者との共同作業、および経営陣が使える財務資料の作成のためのエンドツーエンドのワークフローについて説明します。 このユースケースは、各ビデオ構築を前の手順に従って、順番に完了するように設計されています。
 
 **最適：**&#x200B;財務リーダー、FP&amp;Aチーム、アナリスト、およびエグゼクティブや取締役会のレビュー用の資料を準備している人。
+
+**お試しください：**&#x200B;今すぐ[実践](https://w.adobedemo.com/s/31LpAI){target="_blank"}で、この財務レポートワークフローを確認してください。
 
 ## 手順 1. 財務実績の把握
 
