@@ -25,13 +25,13 @@ ht-degree: 2%
 
 まず、財務文書を統合し、重要なインサイトを提示して、経営陣によるレビューに向けた情報を準備します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3481423?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3481424?captions=jpn&quality=12&learn=on&hidetitle=true)
 
 ## 手順 2. 財務レポートの共同作業
 
 Insightsがチームレビューの準備ができました。 安全なワークスペースで、関係者を集めて財務資料のレビュー、フィードバックの共有、およびインサイトの改善を行います。
 
->[!VIDEO](https://video.tv.adobe.com/v/3481436?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3481437?captions=jpn&quality=12&learn=on&hidetitle=true)
 
 ## 手順 3. エグゼクティブ向けプレゼンテーションの作成
 
