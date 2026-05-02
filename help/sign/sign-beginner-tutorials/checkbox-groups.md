@@ -22,4 +22,4 @@ ht-degree: 0%
 * 明確なインラインフィードバックで署名者をガイド
 * フォームで収集される情報の精度を向上させる
 
->[!VIDEO](https://video.tv.adobe.com/v/3484144?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3484161?captions=jpn&quality=12&learn=on&hidetitle=true)
