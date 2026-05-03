@@ -21,7 +21,7 @@ PDFスペースは、Acrobat StudioまたはAI Assistantアドオンを購入し
 
 **試す：**&#x200B;今すぐPDFスペースを探索[実践的](https://w.adobedemo.com/s/Y1h_Xk){target="_blank"}。
 
->[!VIDEO](https://video.tv.adobe.com/v/3475131?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3475133?captions=jpn&quality=12&learn=on&hidetitle=true)
 
 [!BADGE チーム固有]
 
