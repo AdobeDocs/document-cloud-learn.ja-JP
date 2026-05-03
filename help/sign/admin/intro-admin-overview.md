@@ -8,7 +8,7 @@ jira: KT-6849
 topic-revisit: Administration
 thumbnail: KT-6849.jpg
 exl-id: 1b6ea9f0-6bbb-4ea5-aa22-bfa42f7cca18
-source-git-commit: 184d041d27da2172761c4bfbb6f58ac80f3395cc
+source-git-commit: 51c7b414f2a0b4a67d70274e1d7d81f4c8be3455
 workflow-type: tm+mt
 source-wordcount: '719'
 ht-degree: 3%
@@ -235,7 +235,7 @@ Admin Console内のAcrobat Signへのアクセスをユーザーに許可する[
     </td>
     <td>
       <a href="configure-modify-agreement.md">
-        <img alt="契約書を変更の設定と管理" src="../assets/configure-modify.png" />
+        <img alt="契約書を変更の設定と管理" src="../assets/configure-modify-govern.png" />
       </a>
       <div>
       <a href="configure-modify-agreement.md"><strong>契約書の変更を構成および管理する</strong></a>
