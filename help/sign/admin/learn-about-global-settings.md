@@ -33,7 +33,7 @@ ht-degree: 32%
 
 「アカウント」タブの「グローバル設定」セクションには多数のオプションが含まれており、どのような設定にするかは環境によって異なります。 組織全体または特定のグループの設定をグローバルに編集する方法について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3412507?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3452103?captions=jpn&quality=12&learn=on&hidetitle=true)
 
 >[!TIP]
 >

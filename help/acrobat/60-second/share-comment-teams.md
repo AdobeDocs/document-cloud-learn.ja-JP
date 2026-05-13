@@ -24,4 +24,4 @@ ht-degree: 0%
 
 この60秒のビデオチュートリアルでは、Microsoft TeamsーでPDFファイルについてリアルタイムで共同作業する方法について学習します。
 
->[!VIDEO](https://video.tv.adobe.com/v/343048?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3437472?captions=jpn&quality=12&learn=on&hidetitle=true)

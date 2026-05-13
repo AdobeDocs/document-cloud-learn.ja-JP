@@ -24,4 +24,4 @@ ht-degree: 0%
 
 この60秒のビデオチュートリアルでは、Acrobatデスクトップアプリ内でMicrosoft 365ファイルからPDFを作成する方法について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/342628?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3437206?captions=jpn&quality=12&learn=on&hidetitle=true)

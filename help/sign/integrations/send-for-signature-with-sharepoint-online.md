@@ -33,7 +33,7 @@ ht-degree: 0%
 
 [!DNL Microsoft Sharepoint Online]内で署名用の文書を直接送信することで、文書ワークフローを効率化する方法について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/41263?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3409580?captions=jpn&quality=12&learn=on&hidetitle=true)
 
 >[!TIP]
 >

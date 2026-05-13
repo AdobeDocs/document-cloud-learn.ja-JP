@@ -25,7 +25,7 @@ ht-degree: 0%
 
 無料のAdobe Scanモバイルアプリを使用して、紙の文書をPDFに変換する方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3409254?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3412790?captions=jpn&quality=12&learn=on&hidetitle=true)
 
 ![QRコード](../assets/Scanqrcode.jpg)
 

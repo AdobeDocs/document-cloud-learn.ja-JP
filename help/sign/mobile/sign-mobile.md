@@ -26,4 +26,4 @@ ht-degree: 30%
 
 [iOS](https://apps.apple.com/jp/app/adobe-sign/id481082197)または[Android](https://play.google.com/store/apps/details?id=com.adobe.echosign&hl=ja)用Acrobat Signモバイルアプリを使用して文書に署名する方法について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3423957?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3439031?captions=jpn&quality=12&learn=on&hidetitle=true)

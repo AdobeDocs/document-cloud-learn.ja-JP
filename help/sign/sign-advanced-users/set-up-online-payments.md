@@ -29,4 +29,4 @@ ht-degree: 8%
 
 ドキュメントでオンライン支払いを設定して受け入れる方法について説明します。 Acrobat SignのOnline Paymentサービスは、署名プロセスに関連付けられたPayment Gatewayとして[!DNL Braintree]を統合しています。
 
->[!VIDEO](https://video.tv.adobe.com/v/345753?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3412755?captions=jpn&quality=12&learn=on&hidetitle=true)

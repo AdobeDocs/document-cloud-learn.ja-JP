@@ -25,4 +25,4 @@ ht-degree: 0%
 
 この60秒のビデオチュートリアルでは、PDFファイル内で検索を開始し、詳細検索を開いてPDFファイルのフォルダー全体を検索する方法について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/336363?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3409472?captions=jpn&quality=12&learn=on&hidetitle=true)

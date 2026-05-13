@@ -25,7 +25,7 @@ ht-degree: 7%
 
 この60秒のビデオチュートリアルでは、PDFをダウンロードせずに[簡単なPDF編集](https://www.adobe.com/jp/acrobat/online/pdf-editor.html){target="_blank"}をテキストや画像に加える方法について学習します。
 
->[!VIDEO](https://video.tv.adobe.com/v/336362?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3409466?captions=jpn&quality=12&learn=on&hidetitle=true)
 
 >[!TIP]
 >

@@ -31,7 +31,7 @@ ht-degree: 8%
 >
 >お客様には、Acrobat Enterpriseサブスクリプションに加えて、Acrobat Sign Enterpriseの使用権限が必要です。
 
->[!VIDEO](https://video.tv.adobe.com/v/338359?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/347164?captions=jpn&quality=12&learn=on&hidetitle=true)
 
 >[!TIP]
 >

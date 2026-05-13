@@ -31,4 +31,4 @@ ht-degree: 4%
 
 Acrobat Signユーザーの製品管理者およびサポート管理者ロールを[Admin Console](https://adminconsole.adobe.com/)に割り当てる方法について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3453157?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3453159?captions=jpn&quality=12&learn=on&hidetitle=true)

@@ -25,4 +25,4 @@ ht-degree: 16%
 
 この60秒のビデオチュートリアルでは、[ページを整理](https://www.adobe.com/jp/acrobat/online/rearrange-pdf.html)ツールを使用して、PDFを鳥瞰的に捉える方法を学習します。 ページ順とレイアウトを変更し、さらに[PDFを分割](https://www.adobe.com/jp/acrobat/online/split-pdf.html){target="_blank"}して小さいファイルにします。
 
->[!VIDEO](https://video.tv.adobe.com/v/338278?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3409111?captions=jpn&quality=12&learn=on&hidetitle=true)

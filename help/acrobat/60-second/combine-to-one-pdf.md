@@ -25,4 +25,4 @@ ht-degree: 10%
 
 この60秒のビデオチュートリアルでは、[複数の異なる種類のファイルを1つのPDFに組み合わせる](https://www.adobe.com/jp/acrobat/online/merge-pdf.html){target="_blank"}ことで、ドキュメントをすばやく作成する方法について学習します。
 
->[!VIDEO](https://video.tv.adobe.com/v/336361?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3409460?captions=jpn&quality=12&learn=on&hidetitle=true)

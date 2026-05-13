@@ -31,4 +31,4 @@ ht-degree: 5%
 >
 >ハイブリッドルーティングは、エンタープライズレベルのプランでのみ使用できます。 Acrobat Sign管理者が、アカウント設定の「送信設定」セクションでこれらの機能を有効にする必要がある場合があります。
 
->[!VIDEO](https://video.tv.adobe.com/v/342249?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3410717?captions=jpn&quality=12&learn=on&hidetitle=true)
