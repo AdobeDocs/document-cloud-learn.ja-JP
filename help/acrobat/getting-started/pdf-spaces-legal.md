@@ -6,9 +6,14 @@ role: User
 level: Beginner
 jira: KT-18747
 exl-id: dab3498a-3cc7-44b9-bb6f-3d843b521716
-source-git-commit: 51c7b414f2a0b4a67d70274e1d7d81f4c8be3455
+TQID: https://experienceleague.adobe.com/WvZkxP8E9CXI-X2-Ne-esSIh2bnLiNQqBRuuZsimTlg
+product_v2: id: b12c730b-5ddb-4a2d-ba42-da774988b909
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2: id: aa2f3246-cb95-4b30-8899-fdf7d73550ccid: e1e0219c-f879-479f-8427-888ed2a6e9c2
+source-git-commit: e7b587ebd5c53bb275289de2afba95f510746074
 workflow-type: tm+mt
-source-wordcount: '250'
+source-wordcount: 250
 ht-degree: 0%
 
 ---
@@ -21,7 +26,7 @@ PDFスペースは、Acrobat StudioまたはAI Assistantアドオンを購入し
 
 **試す：**&#x200B;今すぐPDFスペースを探索[実践的](https://w.adobedemo.com/s/Y1h_Xk){target="_blank"}。
 
->[!VIDEO](https://video.tv.adobe.com/v/3475133?captions=jpn&quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3475131?quality=12&learn=on&hidetitle=true)
 
 [!BADGE チーム固有]
 

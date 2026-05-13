@@ -7,10 +7,14 @@ level: Intermediate
 jira: KT-9343
 thumbnail: KT-9343.jpg
 exl-id: 827d5ff0-1c81-4c5c-9627-a01f7f5a8e6d
-source-git-commit: cc1902cf295d3608fb8ac4ed564a39dbcc885e4a
+TQID: https://experienceleague.adobe.com/PD7GJ1JxUbczgXIgvxf1roU0P0qIpNsK-6P9AS-okqw
+product_v2: id: b12c730b-5ddb-4a2d-ba42-da774988b909
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+source-git-commit: d92345097c162b68b9d8405122534371c87c5f1a
 workflow-type: tm+mt
-source-wordcount: '325'
-ht-degree: 0%
+source-wordcount: 337
+ht-degree: 1%
 
 ---
 
@@ -22,16 +26,16 @@ ht-degree: 0%
 
 ## 必要なもの
 
-[![ファイルを取得](../assets/Getfiles.svg)](../assets/Enhance.zip)
+[![ファイルを取得する](../assets/Getfiles.svg)](../assets/Enhance.zip)
 練習用のサンプルファイル(ZIP、342 KB)
 
 <br> 
 
 ## 背景のグラフィックを追加する方法を学ぶ
 
-[PDFを編集ツール](https://www.adobe.com/jp/acrobat/online/pdf-editor.html){target="_blank"}を使用して、PDFに背景のグラフィックを追加します。
+[PDFを編集ツール](https://www.adobe.com/jp/acrobat/online/pdf-editor.html){target="_blank"}を使用して、PDFに背景グラフィックを追加します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3443818?hidetitle=true&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/338746?hidetitle=true)
 
 <br> 
 
@@ -42,8 +46,8 @@ ht-degree: 0%
 1. サンプルファイルから&#x200B;*Altura Technology Employee Handbook.pdf*&#x200B;を開きます。
 1. 右側のパネルで「**PDFを編集**」を選択します。
 1. **その他/背景/追加**&#x200B;を選択します。
-1. **ページ範囲オプション…**&#x200B;を選択します。
-「**1&rbrace;から開始したページ」セクションに2 ～ 26と入力して、「** OK **」を選択します。**
+1. **ページ範囲オプション…**を選択します。
+「**1}から開始したページ」セクションに2 ～ 26と入力して、「** OK **」を選択します。**
 1. 「ソース」セクションで、「**ファイル**」を選択し、「**参照**」を選択して、*Background Graphic.pdf*&#x200B;サンプルファイルを追加します。
 1. 「**OK**」を選択して、背景グラフィックを追加します。
 
@@ -51,7 +55,7 @@ ht-degree: 0%
 
 編集ツールを使用して、PDFに新しいフッターを追加します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3437731?hidetitle=true&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/338745?hidetitle=true)
 
 <br> 
 
@@ -66,12 +70,12 @@ ht-degree: 0%
 1. **左側のフッターのテキスト**&#x200B;ボックスに&#x200B;*Altura Technology Confidential*&#x200B;と入力します。
 1. **中央のフッターテキスト**&#x200B;ボックスで&#x200B;**[ページ番号の挿入]**&#x200B;を選択します。
 1. **右フッターのテキスト**&#x200B;ボックスに&#x200B;*リビジョン3.0*&#x200B;を入力します。
-1. **ページ番号と日付の形式**&#x200B;を選択します。
+1. **ページ番号と日付の形式**を選択します。
 「**開始ページ番号**」に「2」と入力し、「**OK**」を選択します。
-1. **ページ範囲オプション…**&#x200B;を選択します。
+1. **ページ範囲オプション…**を選択します。
 「**次のページから：**」セクションに2 ～ 26と入力し、「**OK**」を選択します。
 1. [余白]セクションの&#x200B;**下**&#x200B;ボックスに0.7を入力します。
-1. **[設定の保存]**&#x200B;を選択します。
+1. **[設定の保存]**を選択します。
 ボックスに「*Revision 3.0*」と入力し、「**OK**」を選択します。
 1. 「**OK**」を選択して、新しいフッターをPDFに適用します。
 

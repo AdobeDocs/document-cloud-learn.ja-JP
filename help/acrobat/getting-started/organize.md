@@ -7,10 +7,15 @@ level: Beginner
 jira: KT-6832
 thumbnail: KT-6832.jpg
 exl-id: 1b39380c-ebdc-48b3-8237-1512cbc7b146
-source-git-commit: 06e8a40a7f97e486d009fc693487455725ab345f
+TQID: https://experienceleague.adobe.com/BWceROAU2bzAP6D5XdhT1erx7ioZXpFnDqLJtDINpMY
+product_v2: id: b12c730b-5ddb-4a2d-ba42-da774988b909
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2: id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
+source-git-commit: d92345097c162b68b9d8405122534371c87c5f1a
 workflow-type: tm+mt
-source-wordcount: '84'
-ht-degree: 10%
+source-wordcount: 114
+ht-degree: 32%
 
 ---
 
@@ -24,4 +29,4 @@ ht-degree: 10%
 
 <br> 
 
->[!VIDEO](https://video.tv.adobe.com/v/3412795?captions=jpn&quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3409022?quality=12&learn=on&hidetitle=true)
