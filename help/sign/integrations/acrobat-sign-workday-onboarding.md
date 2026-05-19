@@ -8,9 +8,22 @@ topic: Integrations
 topic-revisit: Integrations
 jira: KT-13006
 exl-id: 0b3eaf9b-b8c8-41ed-8ef6-851949d55ede
-source-git-commit: 063268e985b7a64beffec8fa939a3d8b38d3d03a
+TQID: https://experienceleague.adobe.com/LDG-n8DT7EI6sqPGGM4ejm8FGgHCn0KLHCRMYP6XdRc
+product_v2:
+  - id: b12c730b-5ddb-4a2d-ba42-da774988b909
+  - id: c1c5fb98-9105-44ed-9df1-9e04d062a784
+  - id: dc5cf79d-43c4-4731-bffa-1df5d7549cb1
+feature_v2:
+  - id: a1028f9a-6dbc-4a4f-adf5-eb9f85a408a6
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+topic_v2:
+  - id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
+source-git-commit: d92345097c162b68b9d8405122534371c87c5f1a
 workflow-type: tm+mt
-source-wordcount: '58'
+source-wordcount: 58
 ht-degree: 0%
 
 ---
@@ -19,4 +32,4 @@ ht-degree: 0%
 
 WorkdayのAcrobat Signでは、100%のデジタルプロセスで署名を収集するため、オンボーディングワークフローを簡単に合理化できます。 チームが署名プロセスの管理に費やす時間を減らし、貴重な作業を実行する時間を増やすことができます。
 
->[!VIDEO](https://video.tv.adobe.com/v/3446634?quality=12&learn=on&hidetitle=true&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/3446634?captions=jpn&quality=12&learn=on&hidetitle=true)

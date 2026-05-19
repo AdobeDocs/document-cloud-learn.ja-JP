@@ -8,10 +8,26 @@ jira: KT-6626
 topic-revisit: Integrations
 thumbnail: 328113.jpg
 exl-id: a59eab61-fe61-45c6-8137-f074e1f2b3ed
-source-git-commit: ba9931920ab3bfb6ea38a92cac4a35da1d0295cd
+TQID: https://experienceleague.adobe.com/62xUXPGJ-H5XyknrYgKSEErD-mW0zIZc-qxQJvzXgCM
+product_v2:
+  - id: b12c730b-5ddb-4a2d-ba42-da774988b909
+  - id: c1c5fb98-9105-44ed-9df1-9e04d062a784
+  - id: dc5cf79d-43c4-4731-bffa-1df5d7549cb1
+  - id: e43347a8-f2c5-4aa4-8623-6f13875d7e3a
+  - id: f002a92a-b99f-47a4-90c8-65e0e415bc7a
+feature_v2:
+  - id: a1028f9a-6dbc-4a4f-adf5-eb9f85a408a6
+role_v2:
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+topic_v2:
+  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+  - id: c1579802-ddd4-4214-8a91-97b2066abe11
+source-git-commit: d92345097c162b68b9d8405122534371c87c5f1a
 workflow-type: tm+mt
-source-wordcount: '298'
-ht-degree: 1%
+source-wordcount: 331
+ht-degree: 2%
 
 ---
 
@@ -23,7 +39,7 @@ Gigasignを使用すると、何千人もの人に同時に文書を送信、収
 >
 >GigaSignは、JavaまたはAcrobat Signの最新バージョンには更新されず、サポート対象外になります。 GigaSignの機能は、[一括送信](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/megasign.html?lang=ja&)機能の下の製品に追加されます。 GigaSignの使用を明示的に必要としないユースケースには、すべて「一括送信」を使用してください。
 
->[!VIDEO](https://video.tv.adobe.com/v/3453511?quality=12&learn=on&hidetitle=true&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/3453511?captions=jpn&quality=12&learn=on&hidetitle=true)
 
 ## GigaSignアプリをダウンロードしてインストールします
 
@@ -31,7 +47,7 @@ Gigasignを使用すると、何千人もの人に同時に文書を送信、収
 
 [Java 1.8ダウンロードリンク（必要な場合のみ）](https://www.oracle.com/java/technologies/javase/javase8-archive-downloads.html){target="_blank"} 
 
-[IPアドレスをホワイトリストに追加（必要な場合のみ）](https://helpx.adobe.com/jp/sign/system-requirements.html#IPs){target="_blank"}
+[ホワイトリストへのIPアドレス（必要な場合のみ）](https://helpx.adobe.com/jp/sign/system-requirements.html#IPs){target="_blank"}
 
 ## 基本的なセットアップ手順
 

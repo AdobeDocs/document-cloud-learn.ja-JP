@@ -1,20 +1,22 @@
 ---
-user-guide-title: AcrobatTutorials
+user-guide-title: Tutorials
 solution: Acrobat
-breadcrumb-title: AcrobatTutorials
+product_v2:
+  - id: b12c730b-5ddb-4a2d-ba42-da774988b909
+breadcrumb-title: Tutorials
 feature-set: Document Cloud
 role: User
 type: Tutorial
 auto-video-transcripts: true
-source-git-commit: 1d62c09eb558d00dd6cb3ed26985556c4d09f4ec
+source-git-commit: 8137e92fd1731d6b8f3c03176371b397061d227c
 workflow-type: tm+mt
-source-wordcount: '674'
+source-wordcount: 682
 ht-degree: 5%
 
 ---
 
 
-# AcrobatTutorials {#acrobat-learning}
+# Tutorials {#acrobat-learning}
 
 + [概要](overview.md)
 + はじめに {#get-started}
@@ -47,7 +49,7 @@ ht-degree: 5%
       + [PDFに対するコメント](getting-started/comment-on-pdf-files.md)
    + Forms、署名、保護 {#tools}
       + [入力可能なフォームの作成](getting-started/create-fillable-forms.md)
-      + [Fill &amp; SignPDF forms](getting-started/fill-and-sign.md)
+      + [PDF forms](getting-started/fill-and-sign.md)
       + [PDFファイルをパスワードでProtectする](getting-started/password-protect.md)
       + [署名を取得](getting-started/signatures.md)
       + [ドキュメントのトラック](getting-started/track.md)
@@ -100,6 +102,9 @@ ht-degree: 5%
       + 法務情報 {#legal}
          + [概要](use-cases/lob/legal/legal-overview.md)
          + [法的な洞察を実用的なガイダンスに変換](use-cases/lob/legal/legal-insights.md)
+      + Marketing {#marketing}
+         + [概要](use-cases/lob/marketing/marketing-overview.md)
+         + [Acrobat Studioを使用した製品のローンチを加速](use-cases/lob/marketing/marketing-product-launch.md)
       + セールス {#sales}
          + [概要](use-cases/lob/sales/sales-overview.md)
          + [顧客インテリジェンスを優れたセールスアセットに変える](use-cases/lob/sales/sales-insights.md)

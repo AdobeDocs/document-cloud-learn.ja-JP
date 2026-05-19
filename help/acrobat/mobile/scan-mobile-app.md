@@ -7,9 +7,16 @@ level: Beginner
 jira: KT-10838
 thumbnail: KT-10838.jpg
 exl-id: 4f752512-a06f-4fc2-a554-30889f96c7d3
-source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
+TQID: https://experienceleague.adobe.com/kBtqiq0kjF1wUZpu4IqNrSAFYQY6SkcBFIsbysCVgcs
+product_v2:
+  - id: b12c730b-5ddb-4a2d-ba42-da774988b909
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+source-git-commit: d92345097c162b68b9d8405122534371c87c5f1a
 workflow-type: tm+mt
-source-wordcount: '52'
+source-wordcount: 52
 ht-degree: 0%
 
 ---
@@ -18,7 +25,7 @@ ht-degree: 0%
 
 無料のAdobe Scanモバイルアプリを使用して、紙の文書をPDFに変換する方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3412790?quality=12&learn=on&hidetitle=true&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/3412790?captions=jpn&quality=12&learn=on&hidetitle=true)
 
 ![QRコード](../assets/Scanqrcode.jpg)
 

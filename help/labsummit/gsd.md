@@ -6,16 +6,23 @@ solution: Acrobat
 role: User
 level: Beginner
 exl-id: 5fab3cd2-315e-4c5d-b435-2d1401bd172a
-source-git-commit: 5b02a6316890f5b322fba3f693ce1cbe322dc669
+TQID: https://experienceleague.adobe.com/3iYzICVD--pXE4BGnTxOYO4yOII-tMdHYIPwEFdQcBQ
+product_v2:
+  - id: b12c730b-5ddb-4a2d-ba42-da774988b909
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+source-git-commit: d92345097c162b68b9d8405122534371c87c5f1a
 workflow-type: tm+mt
-source-wordcount: '85'
+source-wordcount: 88
 ht-degree: 1%
 
 ---
 
 # Adobe Document Cloudでデジタルエクスペリエンスを解き放つ練習
 
-[![image](assets/rebrand.png)](assets/Unleash_Digital_Experiences_with_Adobe_Document_Cloud.pdf)
+[![画像](assets/rebrand.png)](assets/Unleash_Digital_Experiences_with_Adobe_Document_Cloud.pdf)
 
 この配布資料には、さらに多くの演習と取り上げられているワークフローのレビューが含まれています。 次の実習で使用するデモファイルを以下に示します。 各練習では、次の内容も確認します。
 

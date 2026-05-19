@@ -7,10 +7,17 @@ level: Beginner
 jira: KT-8576
 thumbnail: KT-8576.jpg
 exl-id: 8d927cd6-f944-45b7-81c9-4f70e1ed5276
-source-git-commit: 51d1a59999a7132cb6e47351cc39a93d9a38eaeb
+TQID: https://experienceleague.adobe.com/tU14WgedR9bHfl346uP8-8gDrYh3x9I8k4zX34-565U
+product_v2:
+  - id: b12c730b-5ddb-4a2d-ba42-da774988b909
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+source-git-commit: d92345097c162b68b9d8405122534371c87c5f1a
 workflow-type: tm+mt
-source-wordcount: '93'
-ht-degree: 1%
+source-wordcount: 107
+ht-degree: 6%
 
 ---
 
@@ -18,7 +25,7 @@ ht-degree: 1%
 
 この60秒のビデオチュートリアルでは、携帯電話で電子メール[PowerPointの添付ファイルをPDF](https://www.adobe.com/jp/acrobat/online/ppt-to-pdf.html){target="_blank"}に変換する方法について説明します。 ファイルが戻ったら、ファイルを表示して「共有」をタップし、チームに送信します。この際、PowerPointをスマートフォンにインストールする必要はありません。
 
->[!VIDEO](https://video.tv.adobe.com/v/3409207?quality=12&learn=on&hidetitle=true&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/3409207?captions=jpn&quality=12&learn=on&hidetitle=true)
 
 >[!TIP]
 >
