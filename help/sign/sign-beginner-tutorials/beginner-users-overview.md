@@ -8,20 +8,14 @@ jira: KT-6847
 thumbnail: KT-6847.jpg
 exl-id: e58ce43d-2e8e-4804-8f30-6591fa943607
 TQID: https://experienceleague.adobe.com/vh-3Jo7Qm6k-Kt-JAdScJm7RIq7eCB4JmqpH6wLoHLE
-product_v2:
-  - id: b12c730b-5ddb-4a2d-ba42-da774988b909
-  - id: c1c5fb98-9105-44ed-9df1-9e04d062a784
-  - id: dc5cf79d-43c4-4731-bffa-1df5d7549cb1
-feature_v2:
-  - id: a8a587a8-9b83-4ab3-a2c9-24c085c8c7ba
-role_v2:
-  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
-level_v2:
-  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-source-git-commit: e7b587ebd5c53bb275289de2afba95f510746074
+product_v2: id: b12c730b-5ddb-4a2d-ba42-da774988b909id: c1c5fb98-9105-44ed-9df1-9e04d062a784id: dc5cf79d-43c4-4731-bffa-1df5d7549cb1
+feature_v2: id: a8a587a8-9b83-4ab3-a2c9-24c085c8c7ba
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+source-git-commit: 6be89d2539d3a17a74f75460b58b924590e89d43
 workflow-type: tm+mt
-source-wordcount: 539
-ht-degree: 24%
+source-wordcount: 583
+ht-degree: 22%
 
 ---
 
@@ -32,6 +26,10 @@ ht-degree: 24%
 ## 新機能
 
 >[!BEGINTABS]
+
+>[!TAB 「コピーを作成」を使用するタイミング]
+
+[コピーを作成](../sign-beginner-tutorials/create-a-copy.md)を使用して、既存の契約書を複製する方法について説明します。 必要な変更を調整し、数秒で再送信できます。 最初から再構築できません。
 
 >[!TAB 送信後に文書を変更する]
 
@@ -44,10 +42,6 @@ ht-degree: 24%
 >[!TAB 文書に電子サインを行う]
 
 Acrobat Signを使用して送信された文書に[署名](../sign-beginner-tutorials/electronically-sign-a-document.md)する簡単な方法を説明します。
-
->[!TAB 再利用可能なテンプレートを作成]
-
-[再利用可能な文書テンプレート](../sign-advanced-users/create-a-template.md)を作成する方法について説明します。
 
 >[!ENDTABS]
 
@@ -159,7 +153,7 @@ Acrobat Signを使用して送信された文書に[署名](../sign-beginner-tut
     再利用可能な文書テンプレートを作成して、組織の業務効率と一貫性を確保
     <br>
   </td>
-    <td>
+  <td>
      <a href="checkbox-groups.md">
       <img alt="チェックボックスグループを使用した必要な選択のガイド" src="../assets/checkboxes.png" />
     </a>
@@ -169,10 +163,15 @@ Acrobat Signを使用して送信された文書に[署名](../sign-beginner-tut
     チェックボックスグループを使用して、署名者がフォームで選択できるオプションの数を制御する方法について説明します
     <br>
     </td>
-    <td>
-      <img alt="スペーサー" src="../assets/Whitespacer.png" />
-      <div>
-      <br>
+  <td>
+     <a href="create-a-copy.md">
+      <img alt="「コピーを作成」を使用する場合" src="../assets/create-copy.png" />
+    </a>
+    <div>
+    <a href="create-a-copy.md"><strong>「コピーを作成」を使用するタイミング</strong></a>
+    </div>
+    「コピーを作成」を使用して既存の契約書を複製する方法について説明します。
+    <br>
     </td>
 </tr>
 </table>
