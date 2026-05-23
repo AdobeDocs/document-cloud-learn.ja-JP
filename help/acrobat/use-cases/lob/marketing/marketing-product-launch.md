@@ -19,5 +19,5 @@ ht-degree: 0%
 
 **次の人に最適：**&#x200B;マーケティングマネージャーと潜在顧客、プロジェクト/プログラムマネージャー、コミュニケーションと有効化チーム
 
->[!VIDEO](https://video.tv.adobe.com/v/3491107?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3491108?captions=jpn&quality=12&learn=on&hidetitle=true)
 

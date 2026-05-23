@@ -26,4 +26,4 @@ ht-degree: 0%
 >
 >「コピーを作成」は、エンタープライズレベルのプランで使用できます。
 
->[!VIDEO](https://video.tv.adobe.com/v/3491372?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3491373?captions=jpn&quality=12&learn=on&hidetitle=true)
