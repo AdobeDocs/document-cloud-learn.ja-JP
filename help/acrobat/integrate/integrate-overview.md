@@ -10,14 +10,10 @@ jira: KT-6859
 thumbnail: KT-6859.jpg
 exl-id: 76cb40b4-bbb4-4f50-b01d-4c5a74bf9f20
 TQID: https://experienceleague.adobe.com/Ou8oN-1Pqv6iPqJkAVjQtIlkAQNHW4zGpKPAubYXzMc
-product_v2:
-  - id: b12c730b-5ddb-4a2d-ba42-da774988b909
-role_v2:
-  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
-level_v2:
-  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-topic_v2:
-  - id: d095671a-1355-40aa-8b5f-06c33c68080b
+product_v2: id: b12c730b-5ddb-4a2d-ba42-da774988b909
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2: id: d095671a-1355-40aa-8b5f-06c33c68080b
 source-git-commit: d92345097c162b68b9d8405122534371c87c5f1a
 workflow-type: tm+mt
 source-wordcount: 777
@@ -31,7 +27,7 @@ Acrobatを[!DNL Box]、[!DNL Dropbox]、[!DNL Google Drive]、[!DNL OneDrive]お
 
 ## Microsoft
 
-[Microsoft 365](https://www.adobe.com/documentcloud/integrations/microsoft-office-365.html)内で、グループの全員がPDFファイルをシームレスに操作する方法について説明します。 AcrobatとMicrosoft 365の連携について専門的にキュレートされた[プレイリスト](https://experienceleague.adobe.com/ja/playlists/acrobat-integrate-microsoft-365)をご覧ください。
+[Microsoft 365](https://www.adobe.com/documentcloud/integrations/microsoft-office-365.html)内で、グループの全員がPDFファイルをシームレスに操作する方法について説明します。 AcrobatとMicrosoft 365の連携について専門的にキュレートされた[プレイリスト](https://experienceleague.adobe.com/en/playlists/acrobat-integrate-microsoft-365)をご覧ください。
 
 
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
@@ -40,8 +36,8 @@ Acrobatを[!DNL Box]、[!DNL Dropbox]、[!DNL Google Drive]、[!DNL OneDrive]お
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/ja/docs/document-cloud-learn/acrobat-learning/integrations/createfromword" title="Microsoft WordからのPDFファイルの作成" target="_self" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/ja/docs/document-cloud-learn/acrobat-learning/integrations/media_160850f4e616bba4cc020274b0bb208219bc5ba9a.png?width=400&format=webply&optimize=medium" alt="Microsoft WordからのPDFファイルの作成"
+                    <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/integrations/createfromword" title="Microsoft WordからのPDFファイルの作成" target="_self" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/integrations/media_160850f4e616bba4cc020274b0bb208219bc5ba9a.png?width=400&format=webply&optimize=medium" alt="Microsoft WordからのPDFファイルの作成"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -49,11 +45,11 @@ Acrobatを[!DNL Box]、[!DNL Dropbox]、[!DNL Google Drive]、[!DNL OneDrive]お
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/ja/docs/document-cloud-learn/acrobat-learning/integrations/createfromword" target="_self" rel="referrer" title="Microsoft WordからのPDFファイルの作成">Microsoft WordからPDFファイルを作成</a>
+                        <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/integrations/createfromword" target="_self" rel="referrer" title="Microsoft WordからのPDFファイルの作成">Microsoft WordからPDFファイルを作成</a>
                     </p>
                     <p class="is-size-6">Microsoft Wordから直接、堅牢でリッチなPDFファイルを作成する方法を説明します</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/ja/docs/document-cloud-learn/acrobat-learning/integrations/createfromword" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/integrations/createfromword" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">視聴</span>
                 </a>
             </div>
@@ -63,8 +59,8 @@ Acrobatを[!DNL Box]、[!DNL Dropbox]、[!DNL Google Drive]、[!DNL OneDrive]お
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/ja/docs/document-cloud-learn/acrobat-learning/integrations/createofficeweb" title="Web用OfficeでPDFを作成する" target="_self" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/ja/docs/document-cloud-learn/acrobat-learning/integrations/media_18aa95e189db566b04ebc9fbe5b06bf2824641c4d.png?width=400&format=webply&optimize=medium" alt="Web用OfficeでPDFを作成する"
+                    <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/integrations/createofficeweb" title="Web用OfficeでPDFを作成する" target="_self" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/integrations/media_18aa95e189db566b04ebc9fbe5b06bf2824641c4d.png?width=400&format=webply&optimize=medium" alt="Web用OfficeでPDFを作成する"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -72,11 +68,11 @@ Acrobatを[!DNL Box]、[!DNL Dropbox]、[!DNL Google Drive]、[!DNL OneDrive]お
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/ja/docs/document-cloud-learn/acrobat-learning/integrations/createofficeweb" target="_self" rel="referrer" title="Web用OfficeでPDFを作成する">Web用のOffice PDFの作成</a>
+                        <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/integrations/createofficeweb" target="_self" rel="referrer" title="Web用OfficeでPDFを作成する">Web用のOffice PDFの作成</a>
                     </p>
                     <p class="is-size-6">Webアプリ用のMicrosoft Officeを離れずにPDFファイルを作成する方法を説明します。</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/ja/docs/document-cloud-learn/acrobat-learning/integrations/createofficeweb" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/integrations/createofficeweb" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">視聴</span>
                 </a>
             </div>
@@ -86,8 +82,8 @@ Acrobatを[!DNL Box]、[!DNL Dropbox]、[!DNL Google Drive]、[!DNL OneDrive]お
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/ja/docs/document-cloud-learn/acrobat-learning/integrations/acrobatandsp" title="SharePointファイルの操作" target="_self" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/ja/docs/document-cloud-learn/acrobat-learning/integrations/media_11c43a21e8c6e903139e82e352cdc6a5cea8fc0b0.png?width=400&format=webply&optimize=medium" alt="SharePointファイルの操作"
+                    <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/integrations/acrobatandsp" title="SharePointファイルの操作" target="_self" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/integrations/media_11c43a21e8c6e903139e82e352cdc6a5cea8fc0b0.png?width=400&format=webply&optimize=medium" alt="SharePointファイルの操作"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -95,11 +91,11 @@ Acrobatを[!DNL Box]、[!DNL Dropbox]、[!DNL Google Drive]、[!DNL OneDrive]お
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/ja/docs/document-cloud-learn/acrobat-learning/integrations/acrobatandsp" target="_self" rel="referrer" title="SharePointファイルの操作">SharePointファイルの操作</a>
+                        <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/integrations/acrobatandsp" target="_self" rel="referrer" title="SharePointファイルの操作">SharePointファイルの操作</a>
                     </p>
                     <p class="is-size-6">SharePointとAcrobatで文書ワークフローを合理化</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/ja/docs/document-cloud-learn/acrobat-learning/integrations/acrobatandsp" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/integrations/acrobatandsp" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">視聴</span>
                 </a>
             </div>
@@ -109,8 +105,8 @@ Acrobatを[!DNL Box]、[!DNL Dropbox]、[!DNL Google Drive]、[!DNL OneDrive]お
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/ja/docs/document-cloud-learn/acrobat-learning/integrations/acrobatandteams" title="Microsoft TeamsでのPDFの共同作業" target="_self" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/ja/docs/document-cloud-learn/acrobat-learning/integrations/media_188870a15e61bcc699e58800392f30c1122ec61df.png?width=400&format=webply&optimize=medium" alt="Microsoft TeamsでのPDFの共同作業"
+                    <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/integrations/acrobatandteams" title="Microsoft TeamsでのPDFの共同作業" target="_self" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/integrations/media_188870a15e61bcc699e58800392f30c1122ec61df.png?width=400&format=webply&optimize=medium" alt="Microsoft TeamsでのPDFの共同作業"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -118,11 +114,11 @@ Acrobatを[!DNL Box]、[!DNL Dropbox]、[!DNL Google Drive]、[!DNL OneDrive]お
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/ja/docs/document-cloud-learn/acrobat-learning/integrations/acrobatandteams" target="_self" rel="referrer" title="Microsoft TeamsでのPDFの共同作業">Microsoft TeamsでのPDFの共同作業</a>
+                        <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/integrations/acrobatandteams" target="_self" rel="referrer" title="Microsoft TeamsでのPDFの共同作業">Microsoft TeamsでのPDFの共同作業</a>
                     </p>
                     <p class="is-size-6">Microsoft Teamsを離れずに共同作業とPDFのレビューを行うことができます</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/ja/docs/document-cloud-learn/acrobat-learning/integrations/acrobatandteams" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/integrations/acrobatandteams" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">視聴</span>
                 </a>
             </div>
@@ -132,8 +128,8 @@ Acrobatを[!DNL Box]、[!DNL Dropbox]、[!DNL Google Drive]、[!DNL OneDrive]お
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/ja/docs/document-cloud-learn/acrobat-learning/integrations/outlook" title="Outlookでの電子メールメッセージと添付ファイルのPDFへの変換" target="_self" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/ja/docs/document-cloud-learn/acrobat-learning/integrations/media_1ec7f9367d8d7b1377ae45b9701b9c5556a07484e.png?width=400&format=webply&optimize=medium" alt="Outlookでの電子メールメッセージと添付ファイルのPDFへの変換"
+                    <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/integrations/outlook" title="Outlookでの電子メールメッセージと添付ファイルのPDFへの変換" target="_self" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/integrations/media_1ec7f9367d8d7b1377ae45b9701b9c5556a07484e.png?width=400&format=webply&optimize=medium" alt="Outlookでの電子メールメッセージと添付ファイルのPDFへの変換"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -141,11 +137,11 @@ Acrobatを[!DNL Box]、[!DNL Dropbox]、[!DNL Google Drive]、[!DNL OneDrive]お
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/ja/docs/document-cloud-learn/acrobat-learning/integrations/outlook" target="_self" rel="referrer" title="Outlookでの電子メールメッセージと添付ファイルのPDFへの変換">Outlookで電子メールメッセージと添付ファイルをPDFに変換する</a>
+                        <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/integrations/outlook" target="_self" rel="referrer" title="Outlookでの電子メールメッセージと添付ファイルのPDFへの変換">Outlookで電子メールメッセージと添付ファイルをPDFに変換する</a>
                     </p>
                     <p class="is-size-6">Outlook内で情報をプロフェッショナルかつ安全に提供する方法を説明します</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/ja/docs/document-cloud-learn/acrobat-learning/integrations/outlook" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/integrations/outlook" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">視聴</span>
                 </a>
             </div>
@@ -155,8 +151,8 @@ Acrobatを[!DNL Box]、[!DNL Dropbox]、[!DNL Google Drive]、[!DNL OneDrive]お
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/ja/docs/document-cloud-learn/acrobat-learning/integrations/edge" title="Microsoft Edgeで参照中にPDFコンテンツを作成" target="_self" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/ja/docs/document-cloud-learn/acrobat-learning/integrations/media_1c6d030256fba40db1a9b2a9bfd53798abbb5048a.png?width=400&format=webply&optimize=medium" alt="Microsoft Edgeで参照中にPDFコンテンツを作成"
+                    <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/integrations/edge" title="Microsoft Edgeで参照中にPDFコンテンツを作成" target="_self" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/integrations/media_1c6d030256fba40db1a9b2a9bfd53798abbb5048a.png?width=400&format=webply&optimize=medium" alt="Microsoft Edgeで参照中にPDFコンテンツを作成"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -164,11 +160,11 @@ Acrobatを[!DNL Box]、[!DNL Dropbox]、[!DNL Google Drive]、[!DNL OneDrive]お
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/ja/docs/document-cloud-learn/acrobat-learning/integrations/edge" target="_self" rel="referrer" title="Microsoft Edgeで参照中にPDFコンテンツを作成">Microsoft Edgeで参照中にPDFコンテンツを作成する</a>
+                        <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/integrations/edge" target="_self" rel="referrer" title="Microsoft Edgeで参照中にPDFコンテンツを作成">Microsoft Edgeで参照中にPDFコンテンツを作成する</a>
                     </p>
                     <p class="is-size-6">Microsoft Edge向けAdobe Acrobat拡張機能を使用してwebページをPDFにする方法について説明します。</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/ja/docs/document-cloud-learn/acrobat-learning/integrations/edge" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/integrations/edge" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">視聴</span>
                 </a>
             </div>
@@ -178,8 +174,8 @@ Acrobatを[!DNL Box]、[!DNL Dropbox]、[!DNL Google Drive]、[!DNL OneDrive]お
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/ja/docs/document-cloud-learn/acrobat-learning/integrations/microsoftsensitivitylabels" title="Microsoft Purview Informationの秘密度ラベルを使用したProtect PDF" target="_self" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/ja/docs/document-cloud-learn/acrobat-learning/integrations/media_1085db4004c8609c978659d2faaaa254392749f9a.png?width=400&format=webply&optimize=medium" alt="Microsoft Purview Informationの秘密度ラベルを使用したProtect PDF"
+                    <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/integrations/microsoftsensitivitylabels" title="Microsoft Purview Informationの秘密度ラベルを使用したProtect PDF" target="_self" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/integrations/media_1085db4004c8609c978659d2faaaa254392749f9a.png?width=400&format=webply&optimize=medium" alt="Microsoft Purview Informationの秘密度ラベルを使用したProtect PDF"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -187,11 +183,11 @@ Acrobatを[!DNL Box]、[!DNL Dropbox]、[!DNL Google Drive]、[!DNL OneDrive]お
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/ja/docs/document-cloud-learn/acrobat-learning/integrations/microsoftsensitivitylabels" target="_self" rel="referrer" title="Microsoft Purview Informationの秘密度ラベルを使用したProtect PDF">Microsoft Purview Informationの秘密度ラベルを使用したProtectのPDF</a>
+                        <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/integrations/microsoftsensitivitylabels" target="_self" rel="referrer" title="Microsoft Purview Informationの秘密度ラベルを使用したProtect PDF">Microsoft Purview Informationの秘密度ラベルを使用したProtectのPDF</a>
                     </p>
                     <p class="is-size-6">AcrobatでMicrosoft Purviewの情報秘密度ラベルを使用してPDFを直接保護する方法について説明します</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/ja/docs/document-cloud-learn/acrobat-learning/integrations/microsoftsensitivitylabels" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/integrations/microsoftsensitivitylabels" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">視聴</span>
                 </a>
             </div>
@@ -210,8 +206,8 @@ Acrobatを[!DNL Box]、[!DNL Dropbox]、[!DNL Google Drive]、[!DNL OneDrive]お
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/ja/docs/document-cloud-learn/acrobat-learning/integrations/acrobatandgoogle" title="Googleドライブ向けAdobe Acrobat" target="_self" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/ja/docs/document-cloud-learn/acrobat-learning/integrations/media_10e63a1100a749da85d52fea9c8632aa92961ea5f.png?width=400&format=webply&optimize=medium" alt="Googleドライブ向けAdobe Acrobat"
+                    <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/integrations/acrobatandgoogle" title="Googleドライブ向けAdobe Acrobat" target="_self" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/integrations/media_10e63a1100a749da85d52fea9c8632aa92961ea5f.png?width=400&format=webply&optimize=medium" alt="Googleドライブ向けAdobe Acrobat"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -219,11 +215,11 @@ Acrobatを[!DNL Box]、[!DNL Dropbox]、[!DNL Google Drive]、[!DNL OneDrive]お
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/ja/docs/document-cloud-learn/acrobat-learning/integrations/acrobatandgoogle" target="_self" rel="referrer" title="Googleドライブ向けAdobe Acrobat">GoogleドライブのAdobe Acrobat</a>
+                        <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/integrations/acrobatandgoogle" target="_self" rel="referrer" title="Googleドライブ向けAdobe Acrobat">GoogleドライブのAdobe Acrobat</a>
                     </p>
                     <p class="is-size-6">Googleドライブアプリ内から直接時間を節約するPDFツールや電子サインワークフローにアクセス</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/ja/docs/document-cloud-learn/acrobat-learning/integrations/acrobatandgoogle" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/integrations/acrobatandgoogle" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">視聴</span>
                 </a>
             </div>
@@ -242,8 +238,8 @@ Acrobatを[!DNL Box]、[!DNL Dropbox]、[!DNL Google Drive]、[!DNL OneDrive]お
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/ja/docs/document-cloud-learn/acrobat-learning/integrations/acrobat-dropbox" title="Dropboxのファイルを操作" target="_self" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/ja/docs/document-cloud-learn/acrobat-learning/integrations/media_105ee44c75a28d5f8ed139a2224a0b54293bbe7c6.png?width=400&format=webply&optimize=medium" alt="Dropboxのファイルを操作"
+                    <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/integrations/acrobat-dropbox" title="Dropboxのファイルを操作" target="_self" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/integrations/media_105ee44c75a28d5f8ed139a2224a0b54293bbe7c6.png?width=400&format=webply&optimize=medium" alt="Dropboxのファイルを操作"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -251,11 +247,11 @@ Acrobatを[!DNL Box]、[!DNL Dropbox]、[!DNL Google Drive]、[!DNL OneDrive]お
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/ja/docs/document-cloud-learn/acrobat-learning/integrations/acrobat-dropbox" target="_self" rel="referrer" title="Dropboxのファイルを操作">Dropboxのファイルを操作する</a>
+                        <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/integrations/acrobat-dropbox" target="_self" rel="referrer" title="Dropboxのファイルを操作">Dropboxのファイルを操作する</a>
                     </p>
                     <p class="is-size-6">Acrobat内からDropboxファイルを開く、作成する、編集する、署名する、変更内容を保存する</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/ja/docs/document-cloud-learn/acrobat-learning/integrations/acrobat-dropbox" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/integrations/acrobat-dropbox" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">視聴</span>
                 </a>
             </div>

@@ -25,18 +25,18 @@ ht-degree: 2%
 
 まず、複雑な法的文書の分析、重要な変更の提示、AIを活用したインサイトによるリスクの特定から始めます。
 
->[!VIDEO](https://video.tv.adobe.com/v/3481635?captions=jpn&quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3481634?quality=12&learn=on&hidetitle=true)
 
 ## 手順 2. 法的レビューのための安全な共同作業
 
 Insightsがチームレビューの準備ができました。 電子メールの混乱を軽減し、バージョン管理を維持し、複雑な法的レビューで安全に共同作業を行う方法について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3481648?captions=jpn&quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3481646?quality=12&learn=on&hidetitle=true)
 
 ## 手順 3. 法的に有効な情報をビジネスに適したコンテンツに変換
 
 フィードバックが完了し、コンテンツを配信する準備ができました。 リーガルチームがガイダンスをすばやく作成し、承認済みのブランディングを適用して、安全でアクセスしやすいPDFを提供する方法について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3481659?captions=jpn&quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3481647?quality=12&learn=on&hidetitle=true)
 
 法的文書の把握、安全な共同作業、明確な即戦力となるガイダンスの作成を行うための、繰り返し可能なプロセスが実現しました。
