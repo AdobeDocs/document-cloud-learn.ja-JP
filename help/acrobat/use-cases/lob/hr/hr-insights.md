@@ -25,18 +25,18 @@ ht-degree: 2%
 
 まず、AIを活用したオンボーディングインサイトによって、重要な情報を強調し、次のステップを提示して、新規採用者が適切な情報を適切なタイミングで確実に得られるようにする方法について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3481484?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3481485?captions=jpn&quality=12&learn=on&hidetitle=true)
 
 ## 手順 2. オンボーディング資料の確認と整列
 
 Insightsがチームレビューの準備ができました。 PDFスペースでは、フィードバック、コメント、アップデートを整理して、関係者の連携を維持し、メールチェーンやバージョンを混乱させずにオンボーディングを進める方法について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3481509?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3481522?captions=jpn&quality=12&learn=on&hidetitle=true)
 
 ## 手順 3. 新入社員のための魅力的なオンボーディングコンテンツを作成する
 
 フィードバックが完了し、コンテンツを配信する準備ができました。 Acrobat StudioでAIとブランドテンプレートを使用して、共有と更新が簡単な、従業員が使いやすいプレゼンテーションと資料をすばやく作成する方法をご覧ください。
 
->[!VIDEO](https://video.tv.adobe.com/v/3481521?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3481533?captions=jpn&quality=12&learn=on&hidetitle=true)
 
 Acrobat Studioを使用して、従業員がオンボード対応の文書を分析、レビュー、および配布するための繰り返し可能なプロセスが実現されました。
