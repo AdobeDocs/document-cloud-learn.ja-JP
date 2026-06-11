@@ -16,9 +16,9 @@ level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 topic_v2:
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: ee8f99c350ea0931579c2b80d5d2ff26640ff21c
+source-git-commit: 7f4316ba94749de4ee1edb28948c312674965553
 workflow-type: tm+mt
-source-wordcount: 575
+source-wordcount: 467
 ht-degree: 0%
 
 ---
@@ -166,77 +166,3 @@ PDFで[PDFの詳細情報](../getting-started/ai-assistant.md)を確認する方
     </div>
 </div>
 <!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
-
-<!-- COMMENT -->
-<table style="table-layout:fixed">
-<tr>
-  <td>
-    <a href="../getting-started/ai-assistant.md">
-      <img alt="AIアシスタントでPDFのインサイトを見つける" src="../assets/ai-assistant.png" />
-    </a>
-    <div>
-    <a href="../getting-started/ai-assistant.md"><strong>AIアシスタントを使用してPDFの洞察を得る</strong></a>
-    </div>
-    <em>AIアシスタントを使ってPDFファイルから情報を得る</em>
-    <br>
-  </td>
-  <td>
-    <a href="../getting-started/pdf-spaces-legal.md">
-      <img alt="PDFスペースでチームの効率を向上" src="../assets/pdf-spaces.png" />
-    </a>
-    <div>
-    <a href="../getting-started/pdf-spaces-legal.md"><strong>PDFスペースでチームの効率を向上させる</strong></a>
-    </div>
-    <em>ファイルやWebサイトのコレクションを共有可能で会話可能なナレッジハブに変換する方法を説明します</em>
-    <br>
-  </td>
-  <td>
-    <a href="../getting-started/acrobat-studio.md">
-      <img alt="Acrobat Studioとは" src="../assets/acrobat-studio.png" />
-    </a>
-    <div>
-    <a href="../getting-started/acrobat-studio.md"><strong>Acrobat Studioとは</strong></a>
-    </div>
-    <em>Acrobat Studioを使用して、ブランドに適したコンテンツを作成し、洞察を抽出し、複雑な作業を効率化する方法を説明します</em>
-    <br>
-  </td>
-  <td>
-    <a href="../getting-started/edit-graphics.md">
-      <img alt="PDF内のグラフィックの編集" src="../assets/edit-graphics.png" />
-    </a>
-    <div>
-    <a href="../getting-started/edit-graphics.md"><strong>PDFのグラフィックを編集する</strong></a>
-    </div>
-    <em>PDFでグラフィックを作成、編集、拡張する方法を説明します</em>
-    <br>
-  </td>
-</tr>
-<tr>
-  <td>
-  <a href="../getting-started/stylize-this-pdf.md">
-      <img alt="このPDFをスタイライズ" src="../assets/stylize-pdf.png" />
-    </a>
-    <div>
-    <a href="../getting-started/stylize-this-pdf.md"><strong>このPDFのスタイルを設定する</strong></a>
-    </div>
-    <em>プロのようなPDFを作成する方法を学ぶ</em>
-    <br>
-  </td>
-  <td>
-        <img alt="スペーサー" src="../assets/Grayspacer.png" />
-        <div>
-        <br>
-  </td>
-  <td>
-        <img alt="スペーサー" src="../assets/Grayspacer.png" />
-        <div>
-        <br>
-  </td>
-  <td>
-        <img alt="スペーサー" src="../assets/Grayspacer.png" />
-        <div>
-        <br>
-  </td>
-</tr>
-</table>
-<!-- END COMMENT -->
