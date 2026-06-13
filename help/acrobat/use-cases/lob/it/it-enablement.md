@@ -22,19 +22,19 @@ ht-degree: 1%
 
 最初に、インシデントレポートから機密情報を削除し、文書を保護して共有し、エグゼクティブ向けのプレゼンテーションを作成します。これらはすべて、Acrobat Studioを離れることなく行うことができます。
 
->[!VIDEO](https://video.tv.adobe.com/v/3492183?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3492186?captions=jpn&quality=12&learn=on&hidetitle=true)
 
 ## 手順 2. 仕入先契約の分析と処理
 
 パート1の安全なインシデント・レポートを基に、自社のセキュリティ標準と照らし合わせたベンダー契約の分析方法、即座に調整のギャップを埋める方法、およびフォローアップのためのアンケートの作成方法をすべて1つのPDFスペースで確認できます。
 
->[!VIDEO](https://video.tv.adobe.com/v/3492184?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3492195?captions=jpn&quality=12&learn=on&hidetitle=true)
 
 ## 手順 3. AIガバナンスポリシーの作成と導入
 
 静的なポリシードキュメントを管理されたインタラクティブなワークスペースに変換し、組織全体が任意のデバイスでアクセスおよびクエリできるセルフサービスリソースとしてデプロイする方法について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3492185?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3492204?captions=jpn&quality=12&learn=on&hidetitle=true)
 
 インシデント・レポートのセキュリティ保護と要約、社内セキュリティ標準に照らしたベンダーとの契約の分析、および静的なポリシー文書の変換を行い、組織全体で管理されたセルフサービス型のリソースとしてご利用いただきました。3つのワークフロー、1つのプラットフォーム、ツールの切り替えなしで利用できます。
 
