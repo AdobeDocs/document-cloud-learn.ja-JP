@@ -9,27 +9,18 @@ topic-revisit: Administration
 thumbnail: KT-6849.jpg
 exl-id: 1b6ea9f0-6bbb-4ea5-aa22-bfa42f7cca18
 TQID: https://experienceleague.adobe.com/nOxiruWG2sMXMgd2GLSsngPIQ3xR6Kx4rDRWJ3S1dsM
-product_v2:
-  - id: b12c730b-5ddb-4a2d-ba42-da774988b909
-  - id: c1c5fb98-9105-44ed-9df1-9e04d062a784
-  - id: dc5cf79d-43c4-4731-bffa-1df5d7549cb1
-  - id: f7bdf6be-dd3b-4d2d-ac52-0e62ed0d3102
-feature_v2:
-  - id: a0ba023f-45f7-46ff-bcd1-92ed8bb4d79d
-role_v2:
-  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
-level_v2:
-  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
-topic_v2:
-  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
-  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-  - id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
-source-git-commit: e7b587ebd5c53bb275289de2afba95f510746074
+product_v2: id: b12c730b-5ddb-4a2d-ba42-da774988b909id: c1c5fb98-9105-44ed-9df1-9e04d062a784id: dc5cf79d-43c4-4731-bffa-1df5d7549cb1id: f7bdf6be-dd3b-4d2d-ac52-0e62ed0d3102
+feature_v2: id: a0ba023f-45f7-46ff-bcd1-92ed8bb4d79d
+role_v2: id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+topic_v2: id: aa2f3246-cb95-4b30-8899-fdf7d73550ccid: eddd9b14-83bd-4ff4-9072-54a4a484abb7id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
+source-git-commit: 31b6696fe63501f70cc7de0bf4d00c86e9105d11
 workflow-type: tm+mt
 source-wordcount: 719
 ht-degree: 3%
 
 ---
+
 
 # 管理者概要
 
@@ -69,7 +60,7 @@ Admin Console内のAcrobat Signへのアクセスをユーザーに許可する[
     <a href="get-started-admin.md"><strong>新しい管理者の基本を学ぶ</strong></a>
     </div>
     <em>この包括的なビデオガイドでは、Acrobat Signを使用して組織を稼働させるために必要なすべてのツールについて説明します</em>
-    <br>
+    
   </td>
   <td>
     <a href="up-and-running-admin.md">
@@ -79,7 +70,7 @@ Admin Console内のAcrobat Signへのアクセスをユーザーに許可する[
     <a href="up-and-running-admin.md"><strong>管理者の管理を開始しています</strong></a>
     </div>
     <em>Acrobat Signで管理者が迅速に導入および導入するための7つの主要分野の概要</em>
-    <br>
+    
   </td>
   <td>
     <a href="docusign-templates.md">
@@ -89,7 +80,7 @@ Admin Console内のAcrobat Signへのアクセスをユーザーに許可する[
     <a href="docusign-templates.md"><strong>Docusignテンプレートの移行</strong></a>
     </div>
     <em>Docusignテンプレートとワークフローをシームレスに移行する方法を説明します</em>
-    <br>
+    
   </td>
   <td>
     <a href="add-users-to-your-account.md">
@@ -99,7 +90,7 @@ Admin Console内のAcrobat Signへのアクセスをユーザーに許可する[
     <a href="add-users-to-your-account.md"><strong>新しいユーザーを追加する</strong></a>
     </div>
     <em>Acrobat Signに新しいユーザーを追加する方法の詳細</em>
-    <br>
+    
   </td>
 </tr>
 <tr>
@@ -111,7 +102,7 @@ Admin Console内のAcrobat Signへのアクセスをユーザーに許可する[
     <a href="automatic-assignment-rules.md"><strong>ユーザーの自動割り当てルールを有効にする</strong></a>
     </div>
     <em>Admin Console内のAcrobat Signへのアクセス権をユーザーに付与する自動割り当てルールを設定する方法を説明します</em>
-    <br>
+    
   </td>
   <td>
     <a href="add-admin.md">
@@ -121,7 +112,7 @@ Admin Console内のAcrobat Signへのアクセスをユーザーに許可する[
     <a href="add-admin.md"><strong>新しいアカウント管理者の追加</strong></a>
     </div>
     <em>新しいユーザーを作成する方法、または既存のユーザーをAcrobat Sign管理者ロールに昇格させる方法を説明します</em>
-    <br>
+    
   </td>
     <td>
       <a href="promote-admin.md">
@@ -131,7 +122,7 @@ Admin Console内のAcrobat Signへのアクセスをユーザーに許可する[
       <a href="promote-admin.md"><strong>製品とサポートの管理者の役割の割り当て</strong></a>
       </div>
       <em>Acrobat Signユーザーの製品管理者およびサポート管理者の役割をAdmin Consoleに割り当てる方法を説明します</em>
-      <br>
+      
     </td>
     <td>
       <a href="create-and-manage-groups.md">
@@ -141,7 +132,7 @@ Admin Console内のAcrobat Signへのアクセスをユーザーに許可する[
       <a href="create-and-manage-groups.md"><strong>グループの作成と管理</strong></a>
       </div>
       <em>グループの作成、グループへのユーザーの追加、およびグループ設定の編集</em>
-      <br>
+      
     </td>
 </tr>
 <tr>
@@ -153,7 +144,7 @@ Admin Console内のAcrobat Signへのアクセスをユーザーに許可する[
       <a href="set-up-your-external-archive.md"><strong>外部アーカイブを設定しています</strong></a>
       </div>
       <em>署名済みの契約書のバックアップコピーの外部アーカイブを作成する</em>
-      <br>
+      
     </td>
   <td>
     <a href="../sign-advanced-users/create-a-template.md">
@@ -163,7 +154,7 @@ Admin Console内のAcrobat Signへのアクセスをユーザーに許可する[
     <a href="../sign-advanced-users/create-a-template.md"><strong>再利用可能なテンプレートを作成</strong></a>
     </div>
     <em>スピードと一貫性を保つために再利用可能な文書テンプレートを作成</em>
-    <br>
+    
   </td>
   <td>
     <a href="../sign-advanced-users/creating-a-report.md">
@@ -173,7 +164,7 @@ Admin Console内のAcrobat Signへのアクセスをユーザーに許可する[
     <a href="../sign-advanced-users/creating-a-report.md"><strong>レポートとトランザクションの使用状況</strong></a>
     </div>
     <em>レポートを生成し、トランザクションの使用状況を追跡する方法を学ぶ</em>
-    <br>
+    
   </td>
   <td>
     <a href="report-options.md">
@@ -183,7 +174,7 @@ Admin Console内のAcrobat Signへのアクセスをユーザーに許可する[
     <a href="report-options.md"><strong>ユーザーのレポートオプション</strong></a>
     </div>
     <em>ユーザーのレポートオプションを設定する方法を説明します</em>
-    <br>
+    
   </td>
 </tr>  
 <tr>
@@ -195,7 +186,7 @@ Admin Console内のAcrobat Signへのアクセスをユーザーに許可する[
     <a href="../sign-advanced-users/webform.md"><strong>Webフォームを作成しています</strong></a>
     </div>
     <em>Webサイトで直接電子サインできる文書を作成</em>
-    <br>
+    
   </td>
   <td>
     <a href="../sign-advanced-users/modify-webform.md">
@@ -205,7 +196,7 @@ Admin Console内のAcrobat Signへのアクセスをユーザーに許可する[
     <a href="../sign-advanced-users/modify-webform.md"><strong>既存のWebフォームを変更する</strong></a>
     </div>
     <em>既存のWebフォームを無効にし、編集し、再度有効にする方法を説明します</em>
-    <br>
+    
   </td>
   <td>
     <a href="../sign-advanced-users/megasign.md">
@@ -215,7 +206,7 @@ Admin Console内のAcrobat Signへのアクセスをユーザーに許可する[
     <a href="../sign-advanced-users/megasign.md"><strong>一括送信</strong></a>
     </div>
     <em>あらゆる文書に対して一度に数千もの署名を収集</em>
-    <br>
+    
   </td>
   <td>
     <a href="building-a-custom-workflow.md">
@@ -225,7 +216,7 @@ Admin Console内のAcrobat Signへのアクセスをユーザーに許可する[
     <a href="building-a-custom-workflow.md"><strong>カスタムワークフローの作成</strong></a>
     </div>
     <em>カスタムワークフローを作成および使用して、契約書の作成と送信のプロセスを高速化する方法について説明します</em>
-    <br>
+    
   </td>
 </tr>
 <tr>
@@ -237,7 +228,7 @@ Admin Console内のAcrobat Signへのアクセスをユーザーに許可する[
     <a href="audit-reports.md"><strong>監査レポート</strong></a>
     </div>
     <em>監査レポートにアクセスし、利用し、構成する方法の詳細</em>
-    <br>
+    
     </td>
     <td>
       <a href="set-up-shared-events-and-alert.md">
@@ -247,7 +238,7 @@ Admin Console内のAcrobat Signへのアクセスをユーザーに許可する[
       <a href="set-up-shared-events-and-alert.md"><strong>イベントとアラートの通知を構成する</strong></a>
       </div>
       <em>アカウントのイベントとアラートの通知を構成する</em>
-      <br>
+      
     </td>
     <td>
       <a href="configure-modify-agreement.md">
@@ -257,7 +248,7 @@ Admin Console内のAcrobat Signへのアクセスをユーザーに許可する[
       <a href="configure-modify-agreement.md"><strong>契約書の変更を構成および管理する</strong></a>
       </div>
       <em>契約書の変更を構成および管理する方法の詳細</em>
-      <br>
+      
     </td>
     <td>
       <img alt="スペーサー" src="../assets/Whitespacer.png" />
@@ -279,7 +270,7 @@ Admin Console内のAcrobat Signへのアクセスをユーザーに許可する[
     <a href="learn-about-global-settings.md"><strong>グローバル設定</strong></a>
     </div>
     <em>組織全体または特定のグループの製品設定をグローバルに編集する</em>
-    <br>
+    
   </td>
   <td>
     <a href="share-account-access.md">
@@ -289,7 +280,7 @@ Admin Console内のAcrobat Signへのアクセスをユーザーに許可する[
     <a href="share-account-access.md"><strong>アカウントアクセスの共有</strong></a>
     </div>
     <em>別のユーザーのアカウントのトランザクションへの表示専用アクセスを設定します</em>
-    <br>
+    
   </td>
   <td>
     <a href="advanced-account-sharing.md">
@@ -299,7 +290,7 @@ Admin Console内のAcrobat Signへのアクセスをユーザーに許可する[
     <a href="advanced-account-sharing.md"><strong>高度なアカウント共有</strong></a>
     </div>
     <em>管理者とユーザーが送信、変更、および表示のアクセス許可を委任できるようにアカウント共有を設定する</em>
-    <br>
+    
   </td>
   <td>
     <a href="bulk-download-tool.md">
@@ -309,7 +300,7 @@ Admin Console内のAcrobat Signへのアクセスをユーザーに許可する[
     <a href="bulk-download-tool.md"><strong>一括ダウンロードツール</strong></a>
     </div>
     <em>一括ダウンロードツールを使用して、署名済みのすべての契約書をすばやくダウンロードする方法を説明します</em>
-    <br>
+    
   </td> 
 </tr>
 <tr>
@@ -321,7 +312,7 @@ Admin Console内のAcrobat Signへのアクセスをユーザーに許可する[
     <a href="../sign-advanced-users/adobe-sign-text-tagging.md"><strong>Acrobat Signのテキストタグ付け</strong></a>
     <div>
     <em>Adobe Acrobatを使用してテキストタグ付けによりAcrobat Signフォームフィールドを作成する</em>
-    <br>
+    
   </td>
   <td>
     <a href="use-bio-pharma-settings.md">
@@ -331,7 +322,7 @@ Admin Console内のAcrobat Signへのアクセスをユーザーに許可する[
     <a href="use-bio-pharma-settings.md"><strong>バイオ医薬業界標準対応の使い方</strong></a>
     </div>
     <em>FDA 21 CFR Part 11の要件を満たすことができるバイオ医薬業界標準対応の設定を行います</em>
-    <br>
+    
   </td>
   <td>
     <a href="privacy.md">
@@ -341,7 +332,7 @@ Admin Console内のAcrobat Signへのアクセスをユーザーに許可する[
     <a href="privacy.md"><strong>プライバシー管理者を設定する方法</strong></a>
     </div>
     <em>プライバシー管理者を設定して使用する方法を説明します</em>
-    <br>
+    
   </td>
   <td>
     <img alt="スペーサー" src="../assets/Grayspacer.png" />
