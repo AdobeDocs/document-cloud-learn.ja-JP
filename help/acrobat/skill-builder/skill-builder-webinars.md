@@ -27,4 +27,4 @@ ht-degree: 0%
 
 # Adobe Acrobat Resources
 
-Adobe Acrobatについて詳しくは、ウェビナー、ブログ、レポート、インフォグラフィック、ガイドなど、さまざまな[リソース](https://business.adobe.com/resources/acrobat.html?ch_Content-Type=Webinars)を参照してください。
+Adobe Acrobatについて詳しくは、ウェビナー、ブログ、レポート、インフォグラフィック、ガイドなど、さまざまな[リソース](https://business.adobe.com/jp/resources/acrobat.html?ch_Content-Type=Webinars)を参照してください。
