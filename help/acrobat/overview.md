@@ -18,16 +18,20 @@ level_v2:
 topic_v2:
   - id: cc72dcf1-72e1-48cc-b434-e7c27d62d67c
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
-source-git-commit: d92345097c162b68b9d8405122534371c87c5f1a
+source-git-commit: ed17f6a547ddf4e1fd7f5675bade9e2457cc14cb
 workflow-type: tm+mt
-source-wordcount: 483
-ht-degree: 1%
+source-wordcount: 802
+ht-degree: 2%
 
 ---
 
 # Acrobatチュートリアル
 
 Adobe Document CloudソリューションであるAdobe Acrobatは、PDFの変換、編集、共有、署名により、ビジネスを継続して進めることができます。 ここでは、初心者と上級者の両方にAdobe Acrobatの最新の状態にすばやく移行できるように設計された、幅広い学習体験を見つけることができます。
+
+>[!NOTE]
+>
+>機能へのアクセスは、ご利用のAcrobatプランによって異なります。 [Acrobatプランの比較](https://www.adobe.com/jp/acrobat/pricing.html)で、利用可能な機能を確認してください。 一部の機能は段階的に展開されており、まだ誰もが利用できるわけではありません。
 
 <div id="recs-overview-body-1"></div>
 <div id="recs-overview-body-2"></div>
