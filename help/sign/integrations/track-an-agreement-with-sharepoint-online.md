@@ -33,7 +33,7 @@ ht-degree: 0%
 
 Microsoft SharePoint内で契約書の進捗状況を直接追跡する方法について説明します。 文書を署名用に送信すると、SharePointを離れることなく、そのステータスをトラックできます。
 
->[!VIDEO](https://video.tv.adobe.com/v/29767t1?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3409587?captions=jpn&quality=12&learn=on&hidetitle=true)
 
 >[!TIP]
 >
