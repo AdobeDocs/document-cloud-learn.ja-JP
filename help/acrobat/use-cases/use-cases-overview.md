@@ -88,7 +88,7 @@ Acrobatを使用して生産性を向上させ、情報をチームや業界向�
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/use-cases/lob/it/it-overview" title="ITのユースケース" target="_self" rel="referrer">
+                    <a href="https://experienceleague.adobe.com/ja/docs/document-cloud-learn/acrobat-learning/use-cases/lob/it/it-overview" title="ITのユースケース" target="_self" rel="referrer">
                         <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/ja/docs/document-cloud-learn/acrobat-learning/use-cases/media_1a7c003cf866650b1275539d36bf87a4aaa136dda.png?width=400&format=webply&optimize=medium" alt="ITのユースケース"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
@@ -97,11 +97,11 @@ Acrobatを使用して生産性を向上させ、情報をチームや業界向�
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/use-cases/lob/it/it-overview" target="_self" rel="referrer" title="ITのユースケース">ITユースケース</a>
+                        <a href="https://experienceleague.adobe.com/ja/docs/document-cloud-learn/acrobat-learning/use-cases/lob/it/it-overview" target="_self" rel="referrer" title="ITのユースケース">ITユースケース</a>
                     </p>
                     <p class="is-size-6">ITチームがAcrobat Studioを使用して、文書ワークフローを合理化し、セキュリティとコンプライアンスを強化し、組織全体にガバナンスプログラムを拡張する方法について説明します</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/use-cases/lob/it/it-overview" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/ja/docs/document-cloud-learn/acrobat-learning/use-cases/lob/it/it-overview" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">チュートリアルを参照</span>
                 </a>
             </div>
@@ -134,7 +134,7 @@ Acrobatを使用して生産性を向上させ、情報をチームや業界向�
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/use-cases/lob/marketing/marketing-overview" title="マーケティングの使用例" target="_self" rel="referrer">
+                    <a href="https://experienceleague.adobe.com/ja/docs/document-cloud-learn/acrobat-learning/use-cases/lob/marketing/marketing-overview" title="マーケティングの使用例" target="_self" rel="referrer">
                         <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/ja/docs/document-cloud-learn/acrobat-learning/use-cases/media_1e37ca6c212ce654e1d849d9d49f96ccb9e827672.png?width=400&format=webply&optimize=medium" alt="マーケティングの使用例"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
@@ -143,11 +143,11 @@ Acrobatを使用して生産性を向上させ、情報をチームや業界向�
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/use-cases/lob/marketing/marketing-overview" target="_self" rel="referrer" title="マーケティングの使用例">マーケティングの使用例</a>
+                        <a href="https://experienceleague.adobe.com/ja/docs/document-cloud-learn/acrobat-learning/use-cases/lob/marketing/marketing-overview" target="_self" rel="referrer" title="マーケティングの使用例">マーケティングの使用例</a>
                     </p>
                     <p class="is-size-6">マーケティングチームが共同作業を合理化し、承認を加速させ、新しいアイデアを迅速に市場に投入する方法を説明します</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/use-cases/lob/marketing/marketing-overview" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/ja/docs/document-cloud-learn/acrobat-learning/use-cases/lob/marketing/marketing-overview" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">チュートリアルを参照</span>
                 </a>
             </div>
