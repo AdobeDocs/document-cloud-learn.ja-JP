@@ -4,10 +4,10 @@ description: Acrobat StudioのAnalyzerに関する詳細
 feature: Gen AI
 role: User
 level: Beginner, Intermediate, Experienced
-jira: KT-2255id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: fbafd7f563aefc530cdd9d0e7d75a4e29ae8dceb
+jira: KT-22555
+source-git-commit: 7e88f11d4e543c26bcb4039810f5f0c3b7888778
 workflow-type: tm+mt
-source-wordcount: 161
+source-wordcount: '161'
 ht-degree: 2%
 
 ---
@@ -44,7 +44,7 @@ Acrobat StudioのAnalyzerを使用すると、ビジネス・ユーザーは、�
     Acrobat StudioのAnalyzerを使用して、大量のドキュメントから構造化された引用付きデータを取得する方法について説明します。
     <br>
   </td>
- <td>
+  <td>
     <a href="collections.md">
       <img alt="コレクションの使用" src="../assets/analyzer_collections.png" />
     </a>
@@ -68,6 +68,6 @@ Acrobat StudioのAnalyzerを使用すると、ビジネス・ユーザーは、�
       <img alt="スペーサー" src="../assets/Whitespacer.png" />
       <div>
       <br>
-    </td>
+  </td>
 </tr>
 </table>
