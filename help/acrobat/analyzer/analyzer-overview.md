@@ -5,9 +5,9 @@ feature: Gen AI
 role: User
 level: Beginner, Intermediate, Experienced
 jira: KT-22555
-source-git-commit: 17b3c33bb1ff3c88938b9468b9934b7addebfecc
+source-git-commit: e5aa5a71abbd36787fdc0e4dcd1ed63315869924
 workflow-type: tm+mt
-source-wordcount: '161'
+source-wordcount: '179'
 ht-degree: 2%
 
 ---
@@ -55,6 +55,16 @@ Acrobat StudioのAnalyzerを使用すると、ビジネス・ユーザーは、�
     <br>
   </td>
   <td>
+    <a href="attributes.md">
+      <img alt="属性の操作" src="../assets/analyzer_attributes.png" />
+    </a>
+    <div>
+    <a href="attributes.md"><strong>属性の操作</strong></a>
+    </div>
+    Acrobat StudioでAnalyzerを使用して属性を作成、テスト、調整する方法について説明します。
+    <br>
+  </td>
+  <td>
     <a href="m-and-a-post-audit.md">
       <img alt="統合後のM&amp;A契約監査" src="../assets/m-and-a.jpg" />
     </a>
@@ -63,11 +73,6 @@ Acrobat StudioのAnalyzerを使用すると、ビジネス・ユーザーは、�
     </div>
     統合後のM&amp;A契約監査を数週間ではなく数分で実行するのに、Analyzerがどのように役立つかについて説明します。
     <br>
-  </td>
-  <td>
-      <img alt="スペーサー" src="../assets/Whitespacer.png" />
-      <div>
-      <br>
   </td>
 </tr>
 </table>
