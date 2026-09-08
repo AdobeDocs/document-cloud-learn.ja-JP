@@ -2,9 +2,9 @@
 user-guide-title: Tutorials
 auto-video-transcripts: true
 nudge: true
-source-git-commit: be030b0a26f367e8c79cdf08329b1597c1e4ee8b
+source-git-commit: e5aa5a71abbd36787fdc0e4dcd1ed63315869924
 workflow-type: tm+mt
-source-wordcount: '702'
+source-wordcount: '705'
 ht-degree: 6%
 
 ---
@@ -88,6 +88,7 @@ ht-degree: 6%
   + [概要](analyzer/analyzer-overview.md)
   + [はじめに](analyzer/get-started.md)
   + [コレクションの使用](analyzer/collections.md)
+  + [属性の操作](analyzer/attributes.md)
   + [統合後のM&amp;A契約監査](analyzer/m-and-a-post-audit.md)
 + 使用事例 {#use-cases}
   + [概要](use-cases/use-cases-overview.md)
