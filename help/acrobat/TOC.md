@@ -2,9 +2,9 @@
 user-guide-title: Tutorials
 auto-video-transcripts: true
 nudge: true
-source-git-commit: e5aa5a71abbd36787fdc0e4dcd1ed63315869924
+source-git-commit: 494aca2da9f3540264d81d60620a7a442a85ebc2
 workflow-type: tm+mt
-source-wordcount: '705'
+source-wordcount: '715'
 ht-degree: 6%
 
 ---
@@ -90,6 +90,7 @@ ht-degree: 6%
   + [コレクションの使用](analyzer/collections.md)
   + [属性の操作](analyzer/attributes.md)
   + [統合後のM&amp;A契約監査](analyzer/m-and-a-post-audit.md)
+  + [ウェビナー](https://experienceleague.adobe.com/ja/docs/events/acrobat-analyzer-webinars/overview){target=_blank}
 + 使用事例 {#use-cases}
   + [概要](use-cases/use-cases-overview.md)
   + 基幹業務 {#lob}
