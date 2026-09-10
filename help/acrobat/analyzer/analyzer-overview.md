@@ -5,7 +5,7 @@ feature: Gen AI
 role: User
 level: Beginner, Intermediate, Experienced
 jira: KT-22555
-source-git-commit: ca54a427e4885f162f1ec969b0c5918a84269550
+source-git-commit: af50780d9075bc8c926194ea44f8c1030e6b5f42
 workflow-type: tm+mt
 source-wordcount: '199'
 ht-degree: 2%
@@ -69,11 +69,11 @@ Acrobat Studioでアナライザーを使用して[属性](attributes.md)を作�
     <br>
   </td>
   <td>
-    <a href="/help/acrobat/analyzer/use-cases/use-case-overview.md">
+    <a href="use-cases/use-case-overview.md">
       <img alt="Acrobat StudioのAnalyzerの使用例" src="../assets/analyzer_usecases.png" />
     </a>
     <div>
-    <a href="/help/acrobat/analyzer/use-cases/use-case-overview.md"><strong>Acrobat Studioのアナライザーの使用例</strong></a>
+    <a href="use-cases/use-case-overview.md"><strong>Acrobat Studioのアナライザーの使用例</strong></a>
     </div>
     組織がレビュープロセスを合理化し、洞察を明らかにし、文書のコンテンツを即戦力となるデータに変換する方法を示す、実際のユースケースを探ります
     <br>
