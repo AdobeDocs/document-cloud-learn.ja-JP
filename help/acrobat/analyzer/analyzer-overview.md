@@ -5,9 +5,9 @@ feature: Gen AI
 role: User
 level: Beginner, Intermediate, Experienced
 jira: KT-22555
-source-git-commit: e5aa5a71abbd36787fdc0e4dcd1ed63315869924
+source-git-commit: ca54a427e4885f162f1ec969b0c5918a84269550
 workflow-type: tm+mt
-source-wordcount: '179'
+source-wordcount: '199'
 ht-degree: 2%
 
 ---
@@ -26,7 +26,11 @@ Acrobat StudioのAnalyzerを使用すると、ビジネス・ユーザーは、�
 
 >[!TAB コレクションを使用]
 
-手動でリンクされた[コレクション](collections.md)を作成する方法、属性を適用する方法、コンテンツの成長に合わせてドキュメントを整理する方法について説明します。
+手動でリンクされた[コレクション](collections.md)を作成する方法、属性を適用する方法、およびコンテンツの成長に合わせてドキュメントを整理する方法について説明します。
+
+>[!TAB 属性の操作]
+
+Acrobat Studioでアナライザーを使用して[属性](attributes.md)を作成、テスト、および調整する方法について説明します。
 
 >[!ENDTABS]
 
@@ -65,13 +69,13 @@ Acrobat StudioのAnalyzerを使用すると、ビジネス・ユーザーは、�
     <br>
   </td>
   <td>
-    <a href="m-and-a-post-audit.md">
-      <img alt="統合後のM&amp;A契約監査" src="../assets/m-and-a.jpg" />
+    <a href="/help/acrobat/analyzer/use-cases/use-case-overview.md">
+      <img alt="Acrobat StudioのAnalyzerの使用例" src="../assets/analyzer_usecases.png" />
     </a>
     <div>
-    <a href="m-and-a-post-audit.md"><strong>統合後のM&amp;A契約監査</strong></a>
+    <a href="/help/acrobat/analyzer/use-cases/use-case-overview.md"><strong>Acrobat Studioのアナライザーの使用例</strong></a>
     </div>
-    統合後のM&amp;A契約監査を数週間ではなく数分で実行するのに、Analyzerがどのように役立つかについて説明します。
+    組織がレビュープロセスを合理化し、洞察を明らかにし、文書のコンテンツを即戦力となるデータに変換する方法を示す、実際のユースケースを探ります
     <br>
   </td>
 </tr>
