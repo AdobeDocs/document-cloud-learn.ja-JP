@@ -17,4 +17,4 @@ ht-degree: 0%
 
 Acrobat StudioのAnalyzerを使用して、企業がM&amp;A統合後の契約監査を数週間ではなく数分で実行する方法を説明します。GenAIを使用して重要な情報を抽出し、リスクを抑える契約を見つける方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3496335?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3496355?captions=jpn&quality=12&learn=on&hidetitle=true)
