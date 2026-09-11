@@ -1,13 +1,13 @@
 ---
 title: 統合後のM&A契約監査
-description: 統合後のM&A契約監査を数週間ではなく数分で実行するのに、Analyzerがどのように役立つかについて説明します。
+description: Acrobat StudioのAnalyzerを使用して、統合後の契約監査を数週間ではなく数分で実行する方法を説明します
 feature: Workflow, Gen AI
 role: User
 level: Intermediate
 jira: KT-22149
-source-git-commit: fbafd7f563aefc530cdd9d0e7d75a4e29ae8dceb
+source-git-commit: ca54a427e4885f162f1ec969b0c5918a84269550
 workflow-type: tm+mt
-source-wordcount: '68'
+source-wordcount: '71'
 ht-degree: 0%
 
 ---

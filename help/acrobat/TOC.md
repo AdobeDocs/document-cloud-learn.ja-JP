@@ -2,9 +2,9 @@
 user-guide-title: Tutorials
 auto-video-transcripts: true
 nudge: true
-source-git-commit: 494aca2da9f3540264d81d60620a7a442a85ebc2
+source-git-commit: 099945973714aaa8e903af39ce50f92fb213ce1d
 workflow-type: tm+mt
-source-wordcount: '715'
+source-wordcount: '733'
 ht-degree: 6%
 
 ---
@@ -89,7 +89,11 @@ ht-degree: 6%
   + [はじめに](analyzer/get-started.md)
   + [コレクションの使用](analyzer/collections.md)
   + [属性の操作](analyzer/attributes.md)
-  + [統合後のM&amp;A契約監査](analyzer/m-and-a-post-audit.md)
+  + 使用事例 {#use-cases}
+    + [概要](/help/acrobat/analyzer/use-cases/use-case-overview.md)
+    + [統合後のM&amp;A契約監査](analyzer/use-cases/m-and-a-post-audit.md)
+    + [財務における収益と監査のレビューの迅速化](analyzer/use-cases/accelerate-revenue.md)
+    + [データのプライバシーに関するリスクを完全に可視化して監視](analyzer/use-cases/data-privacy-risk.md)
   + [ウェビナー](https://experienceleague.adobe.com/ja/docs/events/acrobat-analyzer-webinars/overview){target=_blank}
 + 使用事例 {#use-cases}
   + [概要](use-cases/use-cases-overview.md)
