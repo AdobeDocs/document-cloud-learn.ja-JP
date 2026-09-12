@@ -5,10 +5,10 @@ feature: Gen AI
 role: User
 level: Beginner, Intermediate, Experienced
 jira: KT-22555
-source-git-commit: af50780d9075bc8c926194ea44f8c1030e6b5f42
+source-git-commit: 2b1a02675d17de53eddde51de43d54ab00d12c84
 workflow-type: tm+mt
-source-wordcount: '199'
-ht-degree: 2%
+source-wordcount: '253'
+ht-degree: 1%
 
 ---
 
@@ -31,6 +31,10 @@ Acrobat StudioのAnalyzerを使用すると、ビジネス・ユーザーは、�
 >[!TAB 属性の操作]
 
 Acrobat Studioでアナライザーを使用して[属性](attributes.md)を作成、テスト、および調整する方法について説明します。
+
+>[!TAB 高度な機能の探索]
+
+抽出したデータの[書き出し、コレクションの共有、2つのドキュメントの比較、AIアシスタント](advanced.md)の使い方を説明し、必要に応じてすばやく質問できます
 
 >[!ENDTABS]
 
@@ -69,6 +73,18 @@ Acrobat Studioでアナライザーを使用して[属性](attributes.md)を作�
     <br>
   </td>
   <td>
+    <a href="advanced.md">
+      <img alt="高度な機能を見る" src="../assets/analyzer_advanced.png" />
+    </a>
+    <div>
+    <a href="advanced.md"><strong>高度な機能の探索</strong></a>
+    </div>
+    抽出したデータを書き出す方法、コレクションを共有する方法、2つのドキュメントを比較する方法、AIアシスタントを使用してすばやく非定型の質問を行う方法について説明します
+    <br>
+  </td>
+</tr>
+<tr>
+   <td>
     <a href="use-cases/use-case-overview.md">
       <img alt="Acrobat StudioのAnalyzerの使用例" src="../assets/analyzer_usecases.png" />
     </a>
@@ -76,6 +92,21 @@ Acrobat Studioでアナライザーを使用して[属性](attributes.md)を作�
     <a href="use-cases/use-case-overview.md"><strong>Acrobat Studioのアナライザーの使用例</strong></a>
     </div>
     組織がレビュープロセスを合理化し、洞察を明らかにし、文書のコンテンツを即戦力となるデータに変換する方法を示す、実際のユースケースを探ります
+    <br>
+  </td>
+    <td>
+    <img alt="スペーサー" src="../assets/Grayspacer.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="スペーサー" src="../assets/Grayspacer.png" />
+    <div>
+    <br>
+  </td>
+   <td>
+    <img alt="スペーサー" src="../assets/Grayspacer.png" />
+    <div>
     <br>
   </td>
 </tr>

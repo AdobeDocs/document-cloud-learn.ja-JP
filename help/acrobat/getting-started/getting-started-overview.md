@@ -17,10 +17,10 @@ level_v2:
 topic_v2:
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: 473918bc827d68228d12b8c8107960feb0b7f35a
+source-git-commit: db9d5ade5504ac04927dc7459695fc5cddb96c7c
 workflow-type: tm+mt
-source-wordcount: 2909
-ht-degree: 1%
+source-wordcount: 2884
+ht-degree: 0%
 
 ---
 
@@ -32,6 +32,10 @@ Adobe Acrobatの使い方をステップごとに説明するチュートリア�
 
 >[!BEGINTABS]
 
+>[!TAB Acrobat Studioとは]
+
+[Acrobat Studio](acrobat-studio.md)を使用して、ブランドに適したコンテンツを作成し、洞察を抽出し、複雑な作業を効率化する方法について説明します。
+
 >[!TAB 紙をPDFに]
 
 [紙の文書](scan-and-ocr.md)を検索可能で編集可能なPDFファイルに変換する方法を説明します
@@ -39,10 +43,6 @@ Adobe Acrobatの使い方をステップごとに説明するチュートリア�
 >[!TAB PDFスペースでチームの効率を向上させる]
 
 パーソナライズされたAIアシスタントを使用して、ファイルやWebサイトのコレクションを[共有可能で会話可能なナレッジハブ](pdf-spaces-legal.md)に変換します。
-
->[!TAB Acrobat Studioとは]
-
-[Acrobat Studio](acrobat-studio.md)を使用して、ブランドに適したコンテンツを作成し、洞察を抽出し、複雑な作業を効率化する方法について説明します。
 
 >[!TAB AIアシスタントを使用してPDFの洞察を得る]
 

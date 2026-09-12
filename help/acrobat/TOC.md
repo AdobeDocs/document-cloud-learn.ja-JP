@@ -2,9 +2,9 @@
 user-guide-title: Tutorials
 auto-video-transcripts: true
 nudge: true
-source-git-commit: 099945973714aaa8e903af39ce50f92fb213ce1d
+source-git-commit: e99f150b636c45dd0f06959db110c2c3257c897e
 workflow-type: tm+mt
-source-wordcount: '733'
+source-wordcount: '736'
 ht-degree: 6%
 
 ---
@@ -79,9 +79,9 @@ ht-degree: 6%
     + [カスタムコマンドとツール](advanced-tasks/custom.md)
 + AI搭載 {#ai-powered}
   + [概要](ai-powered/ai-overview.md)
+  + [Acrobat Studioとは](https://experienceleague.adobe.com/ja/docs/document-cloud-learn/acrobat-learning/get-started/basics/acrobat-studio)
   + [AIアシスタントでPDFのインサイトを見つける](https://experienceleague.adobe.com/ja/docs/document-cloud-learn/acrobat-learning/get-started/ai/ai-assistant)
   + [PDFスペースでチームの効率を向上](https://experienceleague.adobe.com/ja/docs/document-cloud-learn/acrobat-learning/get-started/ai/pdf-spaces-legal)
-  + [Acrobat Studioとは](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/ai/acrobat-studio)
   + [PDF内のグラフィックの編集](https://experienceleague.adobe.com/ja/docs/document-cloud-learn/acrobat-learning/get-started/edit/edit-graphics)
   + [このPDFをスタイライズ](https://experienceleague.adobe.com/ja/docs/document-cloud-learn/acrobat-learning/get-started/edit/stylize-this-pdf)
 + Acrobat StudioのAnalyzer {#analyzer}
@@ -89,6 +89,7 @@ ht-degree: 6%
   + [はじめに](analyzer/get-started.md)
   + [コレクションの使用](analyzer/collections.md)
   + [属性の操作](analyzer/attributes.md)
+  + [高度な機能を見る](analyzer/advanced.md)
   + 使用事例 {#use-cases}
     + [概要](/help/acrobat/analyzer/use-cases/use-case-overview.md)
     + [統合後のM&amp;A契約監査](analyzer/use-cases/m-and-a-post-audit.md)
@@ -130,7 +131,7 @@ ht-degree: 6%
   + [Acrobat webでPDFを編集](60-second/edit.md)
   + [スキャンしたPDFファイルのテキストを認識](60-second/textrecognition.md)
   + [ファイルを1つのPDFに結合](60-second/combine-to-one-pdf.md)
-  + [スナップでページを整理](60-second/organize.md)
+  + [スナップでのページの整理](60-second/organize.md)
   + [PDF内の写真を編集](60-second/editphoto.md)
   + [PDF内のグラフィックの編集](60-second/editgraphic.md)
   + [PDFをWordに変換](60-second/convert-pdf-word.md)
