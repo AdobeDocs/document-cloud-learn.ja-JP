@@ -17,4 +17,4 @@ ht-degree: 0%
 
 Acrobat StudioのAnalyzerを使用して、大量のドキュメントから構造化された引用データを取得する方法について説明します。 数百件または数千件の契約書、ベンダーの契約書、コンプライアンス文書を一度に1つずつ読み取る代わりに、
 
->[!VIDEO](https://video.tv.adobe.com/v/3503110?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3503112?captions=jpn&quality=12&learn=on&hidetitle=true)

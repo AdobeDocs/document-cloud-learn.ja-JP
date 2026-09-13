@@ -17,4 +17,4 @@ ht-degree: 0%
 
 Acrobat StudioのAnalyzerを使用すると、大量の文書セットを、構造化された引用付きのインサイトに変換できます。 コレクションを使用すると、関連ファイルをグループ化して、適切な属性を適用し、結果をフィルタし、重要な情報のみを確認することで、処理が容易になります。 このビデオでは、手動でリンクされたコレクションを作成する方法、属性を適用する方法、コンテンツの成長に合わせてドキュメントを整理する方法について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3503111?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3503121?captions=jpn&quality=12&learn=on&hidetitle=true)
