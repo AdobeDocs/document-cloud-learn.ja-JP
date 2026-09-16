@@ -2,13 +2,11 @@
 user-guide-title: Tutorials
 auto-video-transcripts: true
 nudge: true
-source-git-commit: e99f150b636c45dd0f06959db110c2c3257c897e
+source-git-commit: 86c5e0581e09572a5ccc52cebbc5db4ad26eeba9
 workflow-type: tm+mt
-source-wordcount: '736'
+source-wordcount: '745'
 ht-degree: 6%
-
 ---
-
 
 # Tutorials {#acrobat-learning}
 
@@ -95,6 +93,7 @@ ht-degree: 6%
     + [統合後のM&amp;A契約監査](analyzer/use-cases/m-and-a-post-audit.md)
     + [財務における収益と監査のレビューの迅速化](analyzer/use-cases/accelerate-revenue.md)
     + [データのプライバシーに関するリスクを完全に可視化して監視](analyzer/use-cases/data-privacy-risk.md)
+    + [侵食マージンのソース検出の識別のための下請管理](analyzer/use-cases/identify-margin-erosion.md)
   + [ウェビナー](https://experienceleague.adobe.com/ja/docs/events/acrobat-analyzer-webinars/overview){target=_blank}
 + 使用事例 {#use-cases}
   + [概要](use-cases/use-cases-overview.md)
@@ -131,7 +130,7 @@ ht-degree: 6%
   + [Acrobat webでPDFを編集](60-second/edit.md)
   + [スキャンしたPDFファイルのテキストを認識](60-second/textrecognition.md)
   + [ファイルを1つのPDFに結合](60-second/combine-to-one-pdf.md)
-  + [スナップでのページの整理](60-second/organize.md)
+  + [スナップでページを整理](60-second/organize.md)
   + [PDF内の写真を編集](60-second/editphoto.md)
   + [PDF内のグラフィックの編集](60-second/editgraphic.md)
   + [PDFをWordに変換](60-second/convert-pdf-word.md)
