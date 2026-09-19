@@ -5,13 +5,12 @@ feature: Gen AI
 role: User
 level: Beginner, Intermediate
 jira: KT-20545
-source-git-commit: 5645a4ec1bd6f5489f2ae2c50e66507481a140e2
+exl-id: 429e0e32-d15e-494b-9741-172d4f15dbb0
+source-git-commit: 072f7be21e70abc48e63045c522c5ad3f8cdd5be
 workflow-type: tm+mt
 source-wordcount: '120'
 ht-degree: 1%
-
 ---
-
 # Acrobatの法律上のユースケースの概要
 
 法務チームは、ドキュメントのレビューと配信のすべての段階において、迅速な移動、リスクの軽減、管理の維持を実現できます。
