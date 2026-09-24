@@ -5,9 +5,9 @@ feature: Gen AI
 role: User
 level: Beginner, Intermediate
 jira: KT-20143
-source-git-commit: a8314b28169e684e8da204aa548b84b67e53c820
+source-git-commit: 054ca00c06987f28d976beb44121787c03bd5709
 workflow-type: tm+mt
-source-wordcount: '99'
+source-wordcount: '77'
 ht-degree: 0%
 ---
 # ポッドキャストの作成
@@ -15,33 +15,3 @@ ht-degree: 0%
 Acrobat Studioを使用して、ドキュメントや研究マテリアルからAIが生成したポッドキャストを作成する方法について説明します。 ポッドキャストを活用して、重要な情報を要約し、重要な情報を強調し、コンテンツを外出先で簡単に利用できるようにする方法について説明します。 また、オーディエンス向けにポッドキャスト出力をカスタマイズする方法や、プロジェクトに新しい情報が追加されたときにポッドキャストを更新する方法についても説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3503840?enablevpops&quality=12&learn=on&hidetitle=true)
-
-<table style="table-layout:fixed">
-<tr>
-  <td>
-    <a href="podcast.md">
-      <img alt="ポッドキャストの作成" src="../assets/podcast.png" />
-    </a>
-    <div>
-    <a href="podcast.md"><strong>ポッドキャストの作成</strong></a>
-    </div>
-    ドキュメントやリサーチマテリアルからAIが生成したポッドキャストを作成する方法を説明します
-    <br>
-  </td>
-  <td>
-    <img alt="スペーサー" src="../assets/Whitespacer.png" />
-    <div>
-    <br>
-  </td>
-  <td>
-    <img alt="スペーサー" src="../assets/Whitespacer.png" />
-    <div>
-    <br>
-  </td>
-  <td>
-    <img alt="スペーサー" src="../assets/Whitespacer.png" />
-    <div>
-    <br>
-  </td>
-</tr>
-</table>
