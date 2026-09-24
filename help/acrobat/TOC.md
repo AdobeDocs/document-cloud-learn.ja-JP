@@ -2,9 +2,9 @@
 user-guide-title: Tutorials
 auto-video-transcripts: true
 nudge: true
-source-git-commit: 86c5e0581e09572a5ccc52cebbc5db4ad26eeba9
+source-git-commit: a8314b28169e684e8da204aa548b84b67e53c820
 workflow-type: tm+mt
-source-wordcount: '745'
+source-wordcount: '748'
 ht-degree: 6%
 ---
 
@@ -17,13 +17,14 @@ ht-degree: 6%
     + [Acrobat Studioとは](getting-started/acrobat-studio.md)
     + [ワークスペースの基本](getting-started/workspace-basics.md)
     + [新しいAcrobatエクスペリエンス](getting-started/new-experience.md)
-    + [&#x200B; [!DNL Microsoft 365]を使用する](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/integrations/integrate-overview.html?lang=ja#microsoft)
+    + [ [!DNL Microsoft 365]を使用する](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/integrations/integrate-overview.html#microsoft)
     + [Acrobat webでどこでも作業](getting-started/acrobatweb.md)
     + [外出先での生産性](getting-started/productivity.md)
     + [PDFはどこから来るのですか。](getting-started/where-do-pdfs-come-from.md)
   + AIでよりスマートに作業 {#ai}
     + [AIアシスタントでPDFのインサイトを見つける](getting-started/ai-assistant.md)
     + [PDFスペースでチームの効率を向上](getting-started/pdf-spaces-legal.md)
+    + [ポッドキャストの作成](getting-started/podcast.md)
   + 作成と整理 {#create}
     + [PDFを作成](getting-started/create-pdf.md)
     + [ファイルを1つのPDFに結合](getting-started/combine-to-pdf.md)
@@ -77,11 +78,11 @@ ht-degree: 6%
     + [カスタムコマンドとツール](advanced-tasks/custom.md)
 + AI搭載 {#ai-powered}
   + [概要](ai-powered/ai-overview.md)
-  + [Acrobat Studioとは](https://experienceleague.adobe.com/ja/docs/document-cloud-learn/acrobat-learning/get-started/basics/acrobat-studio)
-  + [AIアシスタントでPDFのインサイトを見つける](https://experienceleague.adobe.com/ja/docs/document-cloud-learn/acrobat-learning/get-started/ai/ai-assistant)
-  + [PDFスペースでチームの効率を向上](https://experienceleague.adobe.com/ja/docs/document-cloud-learn/acrobat-learning/get-started/ai/pdf-spaces-legal)
-  + [PDF内のグラフィックの編集](https://experienceleague.adobe.com/ja/docs/document-cloud-learn/acrobat-learning/get-started/edit/edit-graphics)
-  + [このPDFをスタイライズ](https://experienceleague.adobe.com/ja/docs/document-cloud-learn/acrobat-learning/get-started/edit/stylize-this-pdf)
+  + [Acrobat Studioとは](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/basics/acrobat-studio)
+  + [AIアシスタントでPDFのインサイトを見つける](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/ai/ai-assistant)
+  + [PDFスペースでチームの効率を向上](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/ai/pdf-spaces-legal)
+  + [PDF内のグラフィックの編集](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/edit/edit-graphics)
+  + [このPDFをスタイライズ](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/edit/stylize-this-pdf)
 + Acrobat StudioのAnalyzer {#analyzer}
   + [概要](analyzer/analyzer-overview.md)
   + [はじめに](analyzer/get-started.md)
@@ -94,7 +95,7 @@ ht-degree: 6%
     + [財務における収益と監査のレビューの迅速化](analyzer/use-cases/accelerate-revenue.md)
     + [データのプライバシーに関するリスクを完全に可視化して監視](analyzer/use-cases/data-privacy-risk.md)
     + [侵食マージンのソース検出の識別のための下請管理](analyzer/use-cases/identify-margin-erosion.md)
-  + [ウェビナー](https://experienceleague.adobe.com/ja/docs/events/acrobat-analyzer-webinars/overview){target=_blank}
+  + [ウェビナー](https://experienceleague.adobe.com/en/docs/events/acrobat-analyzer-webinars/overview){target=_blank}
 + 使用事例 {#use-cases}
   + [概要](use-cases/use-cases-overview.md)
   + 基幹業務 {#lob}
@@ -119,7 +120,7 @@ ht-degree: 6%
   + 中央省庁 {#gov}
     + [概要](use-cases/gov/gov-overview.md)
     + Acrobatでどこでも作業するための5つのヒント {#tips}
-      + [Acrobatでどこでも作業するための5つのヒント](use-cases/gov/5-tips-for-working-anywhere-with-acrobat-dc-for-government.md)
+      + Acrobatでどこでも作業するための[5つのヒント](use-cases/gov/5-tips-for-working-anywhere-with-acrobat-dc-for-government.md)
       + [ヒント#1 – ツールを入手](use-cases/gov/get-your-tools.md)
       + [ヒント#2 – ドキュメントでの共同作業](use-cases/gov/collaborate-on-documents.md)
       + [ヒント#3 - Protectデジタルドキュメント](use-cases/gov/protect-digital-documents.md)
@@ -158,15 +159,15 @@ ht-degree: 6%
   + [ウェビナー](skill-builder/skill-builder-webinars.md)
 + 統合 {#integrations}
   + [概要](integrate/integrate-overview.md)
-  + [&#x200B; [!DNL Microsoft Word]からPDFを作成](integrate/createfromword.md)
+  + [ [!DNL Microsoft Word]からPDFを作成](integrate/createfromword.md)
   + [Web用 [!DNL Office] でPDFを作成](integrate/createofficeweb.md)
-  + [&#x200B; [!DNL Microsoft Teams]でのPDFの共同作業](integrate/acrobatandteams.md)
-  + [&#x200B; [!DNL SharePoint] ファイルの操作](integrate/acrobatandsp.md)
+  + [ [!DNL Microsoft Teams]でのPDFの共同作業](integrate/acrobatandteams.md)
+  + [ [!DNL SharePoint] ファイルの操作](integrate/acrobatandsp.md)
   + [電子メールメッセージと添付ファイルを [!DNL Outlook]内のPDFに変換](integrate/outlook.md)
-  + [&#x200B; [!DNL Microsoft Edge]で参照中にPDFコンテンツを作成する](integrate/edge.md)
-  + [&#x200B; [!DNL Microsoft Purview Information] 秘密度ラベルを使用したProtect PDF](integrate/microsoftsensitivitylabels.md)
-  + [&#x200B; [!DNL Google Drive]のAdobe Acrobat](integrate/acrobatandgoogle.md)
-  + [&#x200B; [!DNL Dropbox]のファイルを使用する](integrate/acrobat-dropbox.md)
+  + [ [!DNL Microsoft Edge]で参照中にPDFコンテンツを作成する](integrate/edge.md)
+  + [ [!DNL Microsoft Purview Information] 秘密度ラベルを使用したProtect PDF](integrate/microsoftsensitivitylabels.md)
+  + [ [!DNL Google Drive]のAdobe Acrobat](integrate/acrobatandgoogle.md)
+  + [ [!DNL Dropbox]のファイルを使用する](integrate/acrobat-dropbox.md)
 + 現像 {#develop}
   + [概要](develop/develop-overview.md)
 + デプロイ {#deploy}
@@ -174,5 +175,5 @@ ht-degree: 6%
   + [ETLA版のお客様向けのAcrobat DC製品の重要なアップデート](deploy/signentitlementchanges.md)
 + モバイル {#mobile}
   + [概要](mobile/mobile-overview.md)
-  + [外出先での生産性](https://experienceleague.adobe.com/ja/docs/document-cloud-learn/acrobat-learning/get-started/basics/productivity)
+  + [外出先での生産性](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/basics/productivity)
   + [スキャンしたものはすべてPDFに保存](mobile/scan-mobile-app.md)
