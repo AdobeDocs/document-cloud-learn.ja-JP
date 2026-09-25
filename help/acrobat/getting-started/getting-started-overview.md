@@ -10,20 +10,23 @@ exl-id: 24660a17-a04e-4937-be94-0a42c4b2c2ca
 TQID: https://experienceleague.adobe.com/L-gJkWBpZ5juJ1fWR9dC7jrbONtjvE-DTphSMU2Dtmk
 product_v2:
   - id: b12c730b-5ddb-4a2d-ba42-da774988b909
+    internal-label: Acrobat
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
 topic_v2:
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
+    internal-label: Security
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: db9d5ade5504ac04927dc7459695fc5cddb96c7c
+    internal-label: Insights
+source-git-commit: c27925fb47f6fb33bbf2606da4f0f57d02552b0d
 workflow-type: tm+mt
-source-wordcount: 2884
+source-wordcount: '2995'
 ht-degree: 0%
-
 ---
-
 # 概要の開始
 
 Adobe Acrobatの使い方をステップごとに説明するチュートリアルで学びましょう。 文書の作成から、PDFファイルの保護または[編集](https://www.adobe.com/jp/acrobat/online/pdf-editor.html){target="_blank"}まで、このコンテンツはPDFワークフローを簡素化するように設計されています。 Acrobatの使用を開始するには、厳選されたこの[再生リスト](https://experienceleague.adobe.com/ja/playlists/acrobat-get-started-business-users)を参照してください。
@@ -31,6 +34,10 @@ Adobe Acrobatの使い方をステップごとに説明するチュートリア�
 ## 新機能
 
 >[!BEGINTABS]
+
+>[!TAB ポッドキャストの作成]
+
+AIが生成した[ポッドキャスト](podcast.md)を、PDF内のドキュメントやリサーチマテリアルから作成する方法を説明します。
 
 >[!TAB Acrobat Studioとは]
 
@@ -43,10 +50,6 @@ Adobe Acrobatの使い方をステップごとに説明するチュートリア�
 >[!TAB PDFスペースでチームの効率を向上させる]
 
 パーソナライズされたAIアシスタントを使用して、ファイルやWebサイトのコレクションを[共有可能で会話可能なナレッジハブ](pdf-spaces-legal.md)に変換します。
-
->[!TAB AIアシスタントを使用してPDFの洞察を得る]
-
-PDFで[PDFの詳細情報](ai-assistant.md)を確認する方法を説明します。
 
 >[!ENDTABS]
 
@@ -240,6 +243,29 @@ PDFで[PDFの詳細情報](ai-assistant.md)を確認する方法を説明しま�
                     <p class="is-size-6">ファイルやWebサイトのコレクションを共有可能で会話可能なナレッジハブに変換する方法を説明します</p>
                 </div>
                 <a href="https://experienceleague.adobe.com/ja/docs/document-cloud-learn/acrobat-learning/get-started/ai/pdf-spaces-legal" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">視聴</span>
+                </a>
+            </div>
+        </div>
+    </div>
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Create a podcast">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/ai/podcast" title="ポッドキャストの作成" target="_self" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/ja/docs/document-cloud-learn/acrobat-learning/get-started/ai/media_115e208368a60860fd06236cb04602a4fbd8fdebf.png?width=400&format=webply&optimize=medium" alt="ポッドキャストの作成"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/ai/podcast" target="_self" rel="referrer" title="PDFスペースでチームの効率を向上">ポッドキャストの作成</a>
+                    </p>
+                    <p class="is-size-6">ドキュメントやリサーチマテリアルからAIが生成したポッドキャストを作成する方法を説明します</p>
+                </div>
+                <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/ai/podcast" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">視聴</span>
                 </a>
             </div>

@@ -2,9 +2,9 @@
 user-guide-title: Tutorials
 auto-video-transcripts: true
 nudge: true
-source-git-commit: 86c5e0581e09572a5ccc52cebbc5db4ad26eeba9
+source-git-commit: c27925fb47f6fb33bbf2606da4f0f57d02552b0d
 workflow-type: tm+mt
-source-wordcount: '745'
+source-wordcount: '764'
 ht-degree: 6%
 ---
 
@@ -24,6 +24,7 @@ ht-degree: 6%
   + AIでよりスマートに作業 {#ai}
     + [AIアシスタントでPDFのインサイトを見つける](getting-started/ai-assistant.md)
     + [PDFスペースでチームの効率を向上](getting-started/pdf-spaces-legal.md)
+    + [ポッドキャストの作成](getting-started/podcast.md)
   + 作成と整理 {#create}
     + [PDFを作成](getting-started/create-pdf.md)
     + [ファイルを1つのPDFに結合](getting-started/combine-to-pdf.md)
@@ -80,6 +81,7 @@ ht-degree: 6%
   + [Acrobat Studioとは](https://experienceleague.adobe.com/ja/docs/document-cloud-learn/acrobat-learning/get-started/basics/acrobat-studio)
   + [AIアシスタントでPDFのインサイトを見つける](https://experienceleague.adobe.com/ja/docs/document-cloud-learn/acrobat-learning/get-started/ai/ai-assistant)
   + [PDFスペースでチームの効率を向上](https://experienceleague.adobe.com/ja/docs/document-cloud-learn/acrobat-learning/get-started/ai/pdf-spaces-legal)
+  + [ポッドキャストの作成](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/ai/podcast)
   + [PDF内のグラフィックの編集](https://experienceleague.adobe.com/ja/docs/document-cloud-learn/acrobat-learning/get-started/edit/edit-graphics)
   + [このPDFをスタイライズ](https://experienceleague.adobe.com/ja/docs/document-cloud-learn/acrobat-learning/get-started/edit/stylize-this-pdf)
 + Acrobat StudioのAnalyzer {#analyzer}
