@@ -12,21 +12,25 @@ exl-id: db300cb9-6513-4a64-af60-eadedcd4858e
 TQID: https://experienceleague.adobe.com/hpoT07uqXklt0yT3-oD6AW8mWcbGxqalTao-5lc6BCc
 product_v2:
   - id: b12c730b-5ddb-4a2d-ba42-da774988b909
+    internal-label: Acrobat
   - id: c1c5fb98-9105-44ed-9df1-9e04d062a784
+    internal-label: Document Cloud
   - id: dc5cf79d-43c4-4731-bffa-1df5d7549cb1
+    internal-label: Adobe Sign
 feature_v2:
   - id: a1028f9a-6dbc-4a4f-adf5-eb9f85a408a6
+    internal-label: Integrations
 role_v2:
   - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
-source-git-commit: d92345097c162b68b9d8405122534371c87c5f1a
+    internal-label: Intermediate
+source-git-commit: e56085c669f90be698e49f929786c0f639b397e8
 workflow-type: tm+mt
-source-wordcount: 917
+source-wordcount: '916'
 ht-degree: 1%
-
 ---
-
 # 埋め込まれた電子サインおよび文書エクスペリエンスの作成
 
 Acrobat Sign APIを使用して、電子サインおよび文書エクスペリエンスをwebプラットフォームとコンテンツおよび文書管理システムに埋め込む方法について説明します。 この実践チュートリアルは、4つの部分で構成されています。
@@ -41,10 +45,10 @@ Acrobat Sign APIを使用して、電子サインおよび文書エクスペリ�
 * [スターターコード](https://github.com/benvanderberg/adobe-sign-api-tutorial)
 * [VSコード（または任意のエディター）](https://code.visualstudio.com)
 * Python 3.x
-   * Mac — Homebrew
-   * Linux – 組み込みインストーラー
-   * Windows — Chocolatey
-   * すべて – https://www.python.org/downloads/
+  * Mac — Homebrew
+  * Linux – 組み込みインストーラー
+  * Windows — Chocolatey
+  * すべて – https://www.python.org/downloads/
 
 +++
 
@@ -98,13 +102,13 @@ Acrobat Sign APIを使用して、電子サインおよび文書エクスペリ�
 
 1. 一時ドキュメントを作成し、送信します。
 
->[!NOTE]
->
->JSONベースのリクエスト呼び出しには、「Model」および「Minimal Model Schema」オプションがあります。 これにより、仕様と最小ペイロードセットが提供されます。
+   >[!NOTE]
+   >
+   >JSONベースのリクエスト呼び出しには、「Model」および「Minimal Model Schema」オプションがあります。 これにより、仕様と最小ペイロードセットが提供されます。
 
-![一時的なドキュメントを作成するスクリーンショット](assets/embeddedesignature/embed_7.png)
+   ![一時的なドキュメントを作成するスクリーンショット](assets/embeddedesignature/embed_7.png)
 
-契約書を初めて送信した後は、ロジックを追加する準備が整いました。 繰り返しを最小限に抑えるためにヘルパーを設定することは常に良い考えです。 以下にその例を示します。
+契約書を初めて送信した後は、ロジックを追加する準備が整いました。 繰り返しを最小限に抑えるヘルパーを確立することは、常に良いアイデアです。 以下にその例を示します。
 
 **検証**
 
@@ -163,13 +167,13 @@ Acrobat Sign APIを使用して、電子サインおよび文書エクスペリ�
 
 * [JSイベント](https://www.adobe.io/apis/documentcloud/sign/docs.html#!adobedocs/adobe-sign/master/events.md)
 * Webhookイベント
-   * [REST API](https://sign-acs.na1.echosign.com/public/docs/restapi/v6#!/webhooks/createWebhook)
-   * [Acrobat Sign v6のwebhook](https://www.adobe.io/apis/documentcloud/sign/docs.html#!adobedocs/adobe-sign/master/webhooks.md)
+  * [REST API](https://sign-acs.na1.echosign.com/public/docs/restapi/v6#!/webhooks/createWebhook)
+  * [Acrobat Sign v6のwebhook](https://www.adobe.io/apis/documentcloud/sign/docs.html#!adobedocs/adobe-sign/master/webhooks.md)
 * [リクエストメールを再アクティベート（イベントを含む）](https://sign-acs.na1.echosign.com/public/docs/restapi/v6#!/agreements/updateAgreement)
 * [タイムアウトを再試行に置き換える](https://stackoverflow.com/questions/23267409/how-to-implement-retry-mechanism-into-python-requests-library)
 * カスタムリマインダー
-   * 最初の作成時
+  * 最初の作成時
 
-     ![Power Automateに移動したスクリーンショット](assets/embeddedesignature/embed_16.png)
+    ![Power Automateに移動したスクリーンショット](assets/embeddedesignature/embed_16.png)
 
-   * または[処理中](https://sign-acs.na1.echosign.com/public/docs/restapi/v6#!/agreements/createReminderOnParticipant)を1つ追加します
+  * または[処理中](https://sign-acs.na1.echosign.com/public/docs/restapi/v6#!/agreements/createReminderOnParticipant)を1つ追加します
