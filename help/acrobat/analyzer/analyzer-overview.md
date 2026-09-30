@@ -16,7 +16,7 @@ ht-degree: 0%
 
 Acrobat StudioでAnalyzerを使用して、複雑な文書から明確な洞察を得る方法について説明します。 これらの短いチュートリアルは、使用を開始したり、高度な機能を試したり、実際の使用例を確認したりするのに役立ちます。
 
-[!BADGE 情報]{type=Watch overview video url="https://video.tv.adobe.com/v/3503972"}
+[!BADGE 情報]{type="Watch overview video" url="https://video.tv.adobe.com/v/3503972"}
 
 ## 新機能
 
