@@ -16,4 +16,4 @@ ht-degree: 0%
 プロジェクトの収益性を低下させる可能性のある契約上の問題を特定します。 Acrobat StudioのAnalyzerを使用して、建設チームやプロジェクトチームが、未実施の変更管理、経年RFI、および下請契約の保護のギャップを検出し、マージンに影響を与える方法について説明します。
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3503507?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3503508?captions=jpn&quality=12&learn=on&hidetitle=true)

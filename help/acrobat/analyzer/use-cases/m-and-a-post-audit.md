@@ -15,4 +15,4 @@ ht-degree: 0%
 
 合併または買収後の契約リスクの特定 Acrobat StudioのAnalyzerを使用して、M&amp;Aチームが大規模な契約セットを分析し、重要な義務、条件、および潜在的なリスクを数週間ではなく数分で特定する方法について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3496335?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3496355?captions=jpn&quality=12&learn=on&hidetitle=true)

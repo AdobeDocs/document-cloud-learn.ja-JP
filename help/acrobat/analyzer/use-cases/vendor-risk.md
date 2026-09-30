@@ -15,4 +15,4 @@ ht-degree: 0%
 
 Acrobat StudioのAnalyzerを使用して、ベンダー契約に伴う情報セキュリティのリスクをプロアクティブに特定する方法について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3503853?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3503854?captions=jpn&quality=12&learn=on&hidetitle=true)
