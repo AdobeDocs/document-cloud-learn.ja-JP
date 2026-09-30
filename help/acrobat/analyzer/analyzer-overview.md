@@ -5,9 +5,9 @@ feature: Gen AI
 role: User
 level: Beginner, Intermediate, Experienced
 jira: KT-22555
-source-git-commit: 577634b37e46b0ff2f6240588d27513c5aef24b6
+source-git-commit: 222ff21015d4f90ea250a5b9e4d0971135f33f63
 workflow-type: tm+mt
-source-wordcount: '449'
+source-wordcount: '451'
 ht-degree: 0%
 ---
 # Acrobat StudioのAnalyzerの概要
@@ -16,7 +16,7 @@ ht-degree: 0%
 
 Acrobat StudioでAnalyzerを使用して、複雑な文書から明確な洞察を得る方法について説明します。 これらの短いチュートリアルは、使用を開始したり、高度な機能を試したり、実際の使用例を確認したりするのに役立ちます。
 
-[!BADGE 情報]{type="Watch overview video" url="https://video.tv.adobe.com/v/3503972"}
+[!BADGE 概要ビデオを見る]{type=Informative url="https://video.tv.adobe.com/v/3503972"}
 
 ## 新機能
 
