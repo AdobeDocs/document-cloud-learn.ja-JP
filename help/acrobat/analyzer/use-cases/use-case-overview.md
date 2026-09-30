@@ -5,9 +5,9 @@ feature: Gen AI
 role: User
 level: Beginner, Intermediate, Experienced
 jira: KT-22591
-source-git-commit: 412de3823992cd69436f77c38b1bc1d32dbfbe1c
+source-git-commit: 78b1d143414fd3e2b1d865de0aee7030b06e141c
 workflow-type: tm+mt
-source-wordcount: '286'
+source-wordcount: '338'
 ht-degree: 0%
 ---
 # Acrobat StudioのAnalyzerの使用例の概要
@@ -17,6 +17,10 @@ Acrobat StudioのAnalyzerを使用して、チームが大量の文書のコレ�
 ## 新機能
 
 >[!BEGINTABS]
+
+>[!TAB 仕入先契約のリスクの特定]
+
+Acrobat Studioのアナライザーを使用して、[ベンダー契約による情報セキュリティのリスク](vendor-risk.md)をプロアクティブに特定する方法について説明します。
 
 >[!TAB 侵食マージンの特定]
 
@@ -32,48 +36,77 @@ Acrobat StudioのAnalyzerを使用して、[プライバシー、法務、調達
 
 >[!ENDTABS]
 
-## Acrobat StudioのAnalyzerの使用事例チュートリアル
+## アクションでのユースケース
+
+実際のシナリオを参照してください。 さまざまなチームがAcrobat StudioのAnalyzerを活用して、よりスマートかつ迅速に作業する方法について説明します。
 
 <table style="table-layout:fixed">
 <tr>
   <td>
     <a href="m-and-a-post-audit.md">
-      <img alt="統合後のM&amp;A契約監査" src="../../assets/analyzer_m-and-a.png" />
+      <img alt="M&amp;A：買収後の契約の監査" src="../../assets/analyzer_m-and-a.png" />
     </a>
     <div>
-    <a href="m-and-a-post-audit.md"><strong>統合後のM&amp;A契約監査</strong></a>
+    <a href="m-and-a-post-audit.md"><strong>M&amp;A：買収後の契約の監査</strong></a>
     </div>
-    Acrobat StudioのAnalyzerを使用して、統合後の契約監査を数週間ではなく数分で実行する方法を説明します
+    M&amp;Aチームが大規模な契約セットを分析し、重要な義務、条件、および潜在的なリスクを数週間ではなく数分で特定する方法について説明します
     <br>
   </td>
   <td>
     <a href="accelerate-revenue.md">
-      <img alt="財務における収益と監査のレビューの迅速化" src="../../assets/analyzer_accelerate-revenue.png" />
+      <img alt="財務：収益認識と監査に関する契約のレビュー" src="../../assets/analyzer_accelerate-revenue.png" />
     </a>
     <div>
-    <a href="accelerate-revenue.md"><strong>財務における収益と監査のレビューの促進</strong></a>
+    <a href="accelerate-revenue.md"><strong>財務：収益認識と監査に関する契約を確認する</strong></a>
     </div>
-    Acrobat StudioのAnalyzerを使用して、財務チームが大規模に契約データを抽出、レビュー、検証する方法について説明します。
+    財務チームが監査に備え、収益認識をサポートし、会計リスクを迅速に特定する方法について説明します
     <br>
   </td>
   <td>
     <a href="data-privacy-risk.md">
-      <img alt="データのプライバシーに関するリスクを完全に可視化して監視" src="../../assets/analyzer_data-privacy.png" />
+      <img alt="プライバシーと情報のセキュリティ：データのプライバシーに関する契約書を確認する" src="../../assets/analyzer_data-privacy.png" />
     </a>
     <div>
-    <a href="data-privacy-risk.md"><strong>データプライバシーのリスクを完全に可視化して監視する</strong></a>
+    <a href="data-privacy-risk.md"><strong>プライバシーと情報のセキュリティ：データプライバシーに関する契約書を確認する</strong></a>
     </div>
-    Acrobat StudioのAnalyzerを使用して、プライバシー、法務、調達チームが重要なDPA条件を大規模に抽出、監視、検証する方法について説明します
+    プライバシーおよび情報セキュリティチームがコンプライアンスギャップを特定し、トレーサブルな結果によって義務を検証する方法について説明します
     <br>
   </td>
   <td>
     <a href="identify-margin-erosion.md">
-      <img alt="侵食マージンのソース検出の識別のための下請管理" src="../../assets/analyzer_margin-identification.png" />
+      <img alt="建設：下請け契約でのマージンリスクの検索" src="../../assets/analyzer_margin-identification.png" />
     </a>
     <div>
-    <a href="identify-margin-erosion.md"><strong>侵食する利益幅のソース検出を識別するための下請管理</strong></a>
+    <a href="identify-margin-erosion.md"><strong>建設：下請け契約のマージンリスクの検索</strong></a>
     </div>
-    Acrobat StudioのAnalyzerを使用して、下請業者契約全体のマージン損失の初期警告徴候を検出し、コストが上昇する前に対処する方法について説明します
+    建設チームおよびプロジェクトチームが、マージンに影響を与える前に、未実施の変更管理、経年劣化した情報依頼、および下請契約の保護のギャップを検出する方法について説明します
+    <br>
+  </td>
+</tr>
+<tr>
+<td>
+    <a href="vendor-risk.md">
+      <img alt="情報セキュリティ監査：ベンダーのリスクの特定" src="../../assets/analyzer_vendor-risk.png" />
+    </a>
+    <div>
+    <a href="vendor-risk.md"><strong>情報セキュリティ監査：仕入先のリスクの特定</strong></a>
+    </div>
+    ベンダー契約から情報セキュリティのリスクをプロアクティブに特定する方法を説明します
+    <br>
+  </td>
+  <td>
+    <img alt="スペーサー" src="../../assets/Grayspacer.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="スペーサー" src="../../assets/Grayspacer.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="スペーサー" src="../../assets/Grayspacer.png" />
+    <div>
     <br>
   </td>
 </tr>

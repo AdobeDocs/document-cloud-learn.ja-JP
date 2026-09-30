@@ -1,20 +1,19 @@
 ---
-title: データプライバシーリスクを完全な可視化と監視に
-description: Acrobat StudioのAnalyzerを使用して、プライバシー、法務、調達チームが重要なDPA条件を大規模に抽出、監視、検証する方法について説明します
+title: プライバシーと情報セキュリティ – データプライバシー契約の確認
+description: プライバシーおよび情報セキュリティチームがコンプライアンスギャップを特定し、トレーサブルな結果によって義務を検証する方法について説明します
 feature: Workflow, Gen AI
 role: User
 level: Intermediate
 jira: KT-22589
-source-git-commit: ca54a427e4885f162f1ec969b0c5918a84269550
+source-git-commit: 78b1d143414fd3e2b1d865de0aee7030b06e141c
 workflow-type: tm+mt
-source-wordcount: '87'
+source-wordcount: '64'
 ht-degree: 0%
-
 ---
 
+# プライバシーと情報のセキュリティ：データのプライバシーに関する契約書を確認する
 
-# データのプライバシーに関するリスクを完全に可視化して監視
+ベンダー契約およびDPA全体の重要なプライバシー条件を検索して監視します。 Acrobat StudioのAnalyzerを使用して、プライバシーおよび情報セキュリティチームがコンプライアンスギャップを特定し、追跡可能な結果で義務を検証する方法について説明します。
 
-データのプライバシーに関する義務は、多くの場合、数百に及ぶベンダー契約に埋もれているため、ビジネス・リスクになる前にコンプライアンスのギャップを特定することは困難です。 Acrobat StudioのAnalyzerを使用して、プライバシー、法務、調達チームが完全に追跡可能な結果を得て、重要なDPA条件を大規模に抽出、監視、検証する方法について説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3503312?quality=12&learn=on&hidetitle=true)
