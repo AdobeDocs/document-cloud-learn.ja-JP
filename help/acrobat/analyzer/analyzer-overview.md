@@ -5,14 +5,18 @@ feature: Gen AI
 role: User
 level: Beginner, Intermediate, Experienced
 jira: KT-22555
-source-git-commit: 78b1d143414fd3e2b1d865de0aee7030b06e141c
+source-git-commit: 577634b37e46b0ff2f6240588d27513c5aef24b6
 workflow-type: tm+mt
-source-wordcount: '437'
+source-wordcount: '449'
 ht-degree: 0%
 ---
 # Acrobat StudioのAnalyzerの概要
 
-Acrobat StudioのAnalyzerを使用すると、ビジネス・ユーザーは、数万個の非構造化ドキュメントから構造化された監査可能な洞察を抽出し、ドキュメント中心のビジネス・プロセスを自動化できます。
+![Acrobat Studioのアナライザー](../assets/analyzer-overview-banner.png)
+
+Acrobat StudioでAnalyzerを使用して、複雑な文書から明確な洞察を得る方法について説明します。 これらの短いチュートリアルは、使用を開始したり、高度な機能を試したり、実際の使用例を確認したりするのに役立ちます。
+
+[!BADGE 情報]{type=Watch overview video url="https://video.tv.adobe.com/v/3503972"}
 
 ## 新機能
 
