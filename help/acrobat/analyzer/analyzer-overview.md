@@ -5,16 +5,18 @@ feature: Gen AI
 role: User
 level: Beginner, Intermediate, Experienced
 jira: KT-22555
-source-git-commit: 2b1a02675d17de53eddde51de43d54ab00d12c84
+source-git-commit: 222ff21015d4f90ea250a5b9e4d0971135f33f63
 workflow-type: tm+mt
-source-wordcount: '253'
-ht-degree: 1%
-
+source-wordcount: '451'
+ht-degree: 0%
 ---
-
 # Acrobat StudioのAnalyzerの概要
 
-Acrobat StudioのAnalyzerを使用すると、ビジネス・ユーザーは、数万個の非構造化ドキュメントから構造化された監査可能な洞察を抽出し、ドキュメント中心のビジネス・プロセスを自動化できます。
+![Acrobat Studioのアナライザー](../assets/analyzer-overview-banner.png)
+
+Acrobat StudioでAnalyzerを使用して、複雑な文書から明確な洞察を得る方法について説明します。 これらの短いチュートリアルは、使用を開始したり、高度な機能を試したり、実際の使用例を確認したりするのに役立ちます。
+
+[!BADGE 概要ビデオを見る]{type=Informative url="https://video.tv.adobe.com/v/3503972"}
 
 ## 新機能
 
@@ -34,11 +36,17 @@ Acrobat Studioでアナライザーを使用して[属性](attributes.md)を作�
 
 >[!TAB 高度な機能の探索]
 
-抽出したデータの[書き出し、コレクションの共有、2つのドキュメントの比較、AIアシスタント](advanced.md)の使い方を説明し、必要に応じてすばやく質問できます
+抽出したデータの[書き出し、コレクションの共有、2つのドキュメントの比較、AIアシスタント](advanced.md)の使い方を説明し、その場しのぎの質問に回答します。
+
+>[!TAB アクション内のユースケース]
+
+実際の[使用例](use-cases/use-case-overview.md)と、さまざまなチームがAcrobat StudioでAnalyzerを利用して、よりスマートかつ迅速に作業する方法について説明します。
 
 >[!ENDTABS]
 
-## Acrobat StudioチュートリアルのAnalyzer
+## 基本
+
+基本を学びましょう。 Acrobat StudioでAnalyzerを使用して、ドキュメントの把握、要約、操作を迅速に行う方法について説明します。
 
 <table style="table-layout:fixed">
 <tr>
@@ -83,18 +91,66 @@ Acrobat Studioでアナライザーを使用して[属性](attributes.md)を作�
     <br>
   </td>
 </tr>
+</table>
+
+## アクションでのユースケース
+
+実際のシナリオを参照してください。 さまざまなチームがAcrobat StudioのAnalyzerを活用して、よりスマートかつ迅速に作業する方法について説明します。
+
+<table style="table-layout:fixed">
 <tr>
-   <td>
-    <a href="use-cases/use-case-overview.md">
-      <img alt="Acrobat StudioのAnalyzerの使用例" src="../assets/analyzer_usecases.png" />
+  <td>
+    <a href="use-cases/m-and-a-post-audit.md">
+      <img alt="M&amp;A：買収後の契約の監査" src="../assets/analyzer_m-and-a.png" />
     </a>
     <div>
-    <a href="use-cases/use-case-overview.md"><strong>Acrobat Studioのアナライザーの使用例</strong></a>
+    <a href="use-cases/m-and-a-post-audit.md"><strong>M&amp;A：買収後の契約の監査</strong></a>
     </div>
-    組織がレビュープロセスを合理化し、洞察を明らかにし、文書のコンテンツを即戦力となるデータに変換する方法を示す、実際のユースケースを探ります
+    M&amp;Aチームが大規模な契約セットを分析し、重要な義務、条件、および潜在的なリスクを数週間ではなく数分で特定する方法について説明します
     <br>
   </td>
-    <td>
+  <td>
+    <a href="use-cases/accelerate-revenue.md">
+      <img alt="財務：収益認識と監査に関する契約のレビュー" src="../assets/analyzer_accelerate-revenue.png" />
+    </a>
+    <div>
+    <a href="use-cases/accelerate-revenue.md"><strong>財務：収益認識と監査に関する契約を確認する</strong></a>
+    </div>
+    財務チームが監査に備え、収益認識をサポートし、会計リスクを迅速に特定する方法について説明します
+    <br>
+  </td>
+  <td>
+    <a href="use-cases/data-privacy-risk.md">
+      <img alt="プライバシーと情報のセキュリティ：データのプライバシーに関する契約書を確認する" src="../assets/analyzer_data-privacy.png" />
+    </a>
+    <div>
+    <a href="use-cases/data-privacy-risk.md"><strong>プライバシーと情報のセキュリティ：データプライバシーに関する契約書を確認する</strong></a>
+    </div>
+    プライバシーおよび情報セキュリティチームがコンプライアンスギャップを特定し、トレーサブルな結果によって義務を検証する方法について説明します
+    <br>
+  </td>
+  <td>
+    <a href="use-cases/identify-margin-erosion.md">
+      <img alt="建設：下請け契約でのマージンリスクの検索" src="../assets/analyzer_margin-identification.png" />
+    </a>
+    <div>
+    <a href="use-cases/identify-margin-erosion.md"><strong>建設：下請け契約のマージンリスクの検索</strong></a>
+    </div>
+    建設チームおよびプロジェクトチームが、マージンに影響を与える前に、未実施の変更管理、経年劣化した情報依頼、および下請契約の保護のギャップを検出する方法について説明します
+    <br>
+  </td>
+<tr>
+<td>
+    <a href="use-cases/vendor-risk.md">
+      <img alt="情報セキュリティ監査：ベンダーのリスクの特定" src="../assets/analyzer_vendor-risk.png" />
+    </a>
+    <div>
+    <a href="use-cases/vendor-risk.md"><strong>情報セキュリティ監査：仕入先のリスクの特定</strong></a>
+    </div>
+    ベンダー契約から情報セキュリティのリスクをプロアクティブに特定する方法を説明します
+    <br>
+  </td>
+  <td>
     <img alt="スペーサー" src="../assets/Grayspacer.png" />
     <div>
     <br>
@@ -104,10 +160,11 @@ Acrobat Studioでアナライザーを使用して[属性](attributes.md)を作�
     <div>
     <br>
   </td>
-   <td>
+  <td>
     <img alt="スペーサー" src="../assets/Grayspacer.png" />
     <div>
     <br>
   </td>
+</tr>
 </tr>
 </table>

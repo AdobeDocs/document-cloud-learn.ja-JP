@@ -2,9 +2,9 @@
 user-guide-title: Tutorials
 auto-video-transcripts: true
 nudge: true
-source-git-commit: c27925fb47f6fb33bbf2606da4f0f57d02552b0d
+source-git-commit: 78b1d143414fd3e2b1d865de0aee7030b06e141c
 workflow-type: tm+mt
-source-wordcount: '764'
+source-wordcount: '767'
 ht-degree: 6%
 ---
 
@@ -92,10 +92,11 @@ ht-degree: 6%
   + [高度な機能を見る](analyzer/advanced.md)
   + 使用事例 {#use-cases}
     + [概要](/help/acrobat/analyzer/use-cases/use-case-overview.md)
-    + [統合後のM&amp;A契約監査](analyzer/use-cases/m-and-a-post-audit.md)
-    + [財務における収益と監査のレビューの迅速化](analyzer/use-cases/accelerate-revenue.md)
-    + [データのプライバシーに関するリスクを完全に可視化して監視](analyzer/use-cases/data-privacy-risk.md)
-    + [侵食マージンのソース検出の識別のための下請管理](analyzer/use-cases/identify-margin-erosion.md)
+    + [M&amp;A：買収後の契約の監査](analyzer/use-cases/m-and-a-post-audit.md)
+    + [財務：収益認識と監査に関する契約のレビュー](analyzer/use-cases/accelerate-revenue.md)
+    + [プライバシーと情報のセキュリティ：データのプライバシーに関する契約書を確認する](analyzer/use-cases/data-privacy-risk.md)
+    + [建設：下請け契約でのマージンリスクの検索](analyzer/use-cases/identify-margin-erosion.md)
+    + [情報セキュリティ監査：ベンダーのリスクの特定](analyzer/use-cases/vendor-risk.md)
   + [ウェビナー](https://experienceleague.adobe.com/ja/docs/events/acrobat-analyzer-webinars/overview){target=_blank}
 + 使用事例 {#use-cases}
   + [概要](use-cases/use-cases-overview.md)
@@ -132,7 +133,7 @@ ht-degree: 6%
   + [Acrobat webでPDFを編集](60-second/edit.md)
   + [スキャンしたPDFファイルのテキストを認識](60-second/textrecognition.md)
   + [ファイルを1つのPDFに結合](60-second/combine-to-one-pdf.md)
-  + [スナップでページを整理](60-second/organize.md)
+  + [スナップでのページの整理](60-second/organize.md)
   + [PDF内の写真を編集](60-second/editphoto.md)
   + [PDF内のグラフィックの編集](60-second/editgraphic.md)
   + [PDFをWordに変換](60-second/convert-pdf-word.md)
