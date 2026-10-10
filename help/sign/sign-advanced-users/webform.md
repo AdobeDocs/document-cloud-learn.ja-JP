@@ -43,7 +43,7 @@ Webフォームを使用して、学生が必要なフォームに簡単にア�
 * [事業助成金及び貸付金](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/gov/usecasegovgrants.html?lang=ja)
 * [再就職援助](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/gov/usecasegovreemployment.html?lang=ja)
 
->[!VIDEO](https://video.tv.adobe.com/v/37841?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3411226?captions=jpn&quality=12&learn=on&hidetitle=true)
 
 >[!TIP]
 >

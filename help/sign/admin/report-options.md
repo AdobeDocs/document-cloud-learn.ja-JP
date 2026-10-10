@@ -41,4 +41,4 @@ Acrobat Sign管理者が、ユーザーのレポートオプションを設定�
 >
 >レポートは、ビジネスレベルおよびエンタープライズレベルのプランでのみ使用できます。
 
->[!VIDEO](https://video.tv.adobe.com/v/3419303?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3437145?captions=jpn&quality=12&learn=on&hidetitle=true)
