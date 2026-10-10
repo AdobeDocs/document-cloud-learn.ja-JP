@@ -8,50 +8,58 @@ jira: KT-6626
 topic-revisit: Integrations
 thumbnail: 328113.jpg
 exl-id: a59eab61-fe61-45c6-8137-f074e1f2b3ed
-TQID: https://experienceleague.adobe.com/62xUXPGJ-H5XyknrYgKSEErD-mW0zIZc-qxQJvzXgCM
+TQID: 'https://experienceleague.adobe.com/62xUXPGJ-H5XyknrYgKSEErD-mW0zIZc-qxQJvzXgCM'
 product_v2:
   - id: b12c730b-5ddb-4a2d-ba42-da774988b909
+    internal-label: Acrobat
   - id: c1c5fb98-9105-44ed-9df1-9e04d062a784
+    internal-label: Document Cloud
   - id: dc5cf79d-43c4-4731-bffa-1df5d7549cb1
+    internal-label: Acrobat Sign
   - id: e43347a8-f2c5-4aa4-8623-6f13875d7e3a
+    internal-label: Target
   - id: f002a92a-b99f-47a4-90c8-65e0e415bc7a
+    internal-label: Pass
 feature_v2:
   - id: a1028f9a-6dbc-4a4f-adf5-eb9f85a408a6
+    internal-label: Integrations
 role_v2:
   - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
 topic_v2:
   - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+    internal-label: Reporting
   - id: c1579802-ddd4-4214-8a91-97b2066abe11
-source-git-commit: d92345097c162b68b9d8405122534371c87c5f1a
+    internal-label: Troubleshooting
+source-git-commit: 99800d36a3515a93bff9867ace5d0f64505c5efd
 workflow-type: tm+mt
-source-wordcount: 331
-ht-degree: 2%
-
+source-wordcount: '331'
+ht-degree: 4%
 ---
-
 # GigaSignを使用した大量の文書の収集
 
 Gigasignを使用すると、何千人もの人に同時に文書を送信、収集、および署名用のトラックできます。 これは、従業員や顧客との大量の通信に適しており、一括送信ごとに最大2,500人の受信者をサポートします。 GigaSignは、Acrobat Sign APIを使用してMegaSignと同じ機能を提供します。また、複数の署名者、受信者グループ、受信者の役割、契約書名、カーボンコピーなどのサポートも含まれています。
 
 >[!IMPORTANT]
 >
->GigaSignは、JavaまたはAcrobat Signの最新バージョンには更新されず、サポート対象外になります。 GigaSignの機能は、[一括送信](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/megasign.html?lang=ja&)機能の下の製品に追加されます。 GigaSignの使用を明示的に必要としないユースケースには、すべて「一括送信」を使用してください。
+>GigaSignは、JavaまたはAcrobat Signの最新バージョンには更新されず、サポート対象外になります。 GigaSignの機能は、[一括送信](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/megasign.html?)機能の下の製品に追加されます。 GigaSignの使用を明示的に必要としないユースケースには、すべて「一括送信」を使用してください。
 
->[!VIDEO](https://video.tv.adobe.com/v/3453511?captions=jpn&quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/328113?quality=12&learn=on&hidetitle=true)
 
 ## GigaSignアプリをダウンロードしてインストールします
 
 [GigaSign Zipファイルのダウンロード](https://acrobat.adobe.com/id/urn:aaid:sc:US:001cf62d-1cab-46c7-aa96-661ac8680206)
 
-[Java 1.8ダウンロードリンク（必要な場合のみ）](https://www.oracle.com/java/technologies/javase/javase8-archive-downloads.html){target="_blank"} 
+[Java 1.8ダウンロードリンク（必要な場合のみ）](https://www.oracle.com/java/technologies/javase/javase8-archive-downloads.html) {target="_blank"}
 
 [ホワイトリストへのIPアドレス（必要な場合のみ）](https://helpx.adobe.com/jp/sign/system-requirements.html#IPs){target="_blank"}
 
 ## 基本的なセットアップ手順
 
-1. Acrobat Signアカウントにログインします。
+1. Acrobat Sign アカウントにログインします。
 
 1. 上部に表示されている&#x200B;**[!UICONTROL グループ]**&#x200B;または&#x200B;**[!UICONTROL アカウント]**&#x200B;のいずれかをクリックします。
 
