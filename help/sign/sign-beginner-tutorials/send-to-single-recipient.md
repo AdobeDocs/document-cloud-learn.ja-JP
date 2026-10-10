@@ -39,4 +39,4 @@ Acrobat Signでは、1つの署名用に文書を送信する操作が最も一�
 
 >[!TIP]
 >
->このビデオは、Experience Leagueで無料で利用できるプレイリスト[Acrobat Sign入門](https://experienceleague.adobe.com/en/playlists/acrobat-sign-get-started-business-users)の一部です。
+>このビデオは、Experience Leagueで無料で利用できるプレイリスト[Acrobat Sign入門](https://experienceleague.adobe.com/ja/playlists/acrobat-sign-get-started-business-users)の一部です。

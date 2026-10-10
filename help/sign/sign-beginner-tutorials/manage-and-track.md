@@ -39,4 +39,4 @@ Acrobat Signで署名用に送信された文書を管理およびトラック�
 
 >[!TIP]
 >
->このビデオは、Experience Leagueで無料で利用できるプレイリスト[Acrobat Sign入門](https://experienceleague.adobe.com/en/playlists/acrobat-sign-get-started-business-users)の一部です。
+>このビデオは、Experience Leagueで無料で利用できるプレイリスト[Acrobat Sign入門](https://experienceleague.adobe.com/ja/playlists/acrobat-sign-get-started-business-users)の一部です。
