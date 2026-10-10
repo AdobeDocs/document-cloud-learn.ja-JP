@@ -1,6 +1,6 @@
 ---
 title: Microsoft Power Platform向けAcrobat Signを使用したドキュメントの自動処理
-description: Microsoft Powerアプリケーション用のAcrobat SignおよびAdobe PDFツールコネクタをアクティベートして使用する方法について説明します。 コードを使用せずに、ビジネス承認および署名プロセスを迅速かつ安全に自動化するワークフローを構築
+description: Microsoft Powerアプリケーション用のAcrobat SignおよびAdobe PDFツールコネクターをアクティベートして使用する方法について説明します。 コードを使用せずに、ビジネス承認および署名プロセスを迅速かつ安全に自動化するワークフローを構築
 feature: Integrations, Workflow
 role: User, Developer
 level: Intermediate
@@ -8,31 +8,38 @@ topic: Integrations
 thumbnail: KT-7488.jpg
 jira: KT-7488
 exl-id: 4113bc3f-293c-44a8-94ab-e1dbac74caed
-TQID: https://experienceleague.adobe.com/-6Wi-1ypmwdIENbdMRe2z8dJ-OM7KQl3cGmyuIyKIC4
+TQID: 'https://experienceleague.adobe.com/-6Wi-1ypmwdIENbdMRe2z8dJ-OM7KQl3cGmyuIyKIC4'
 product_v2:
   - id: b12c730b-5ddb-4a2d-ba42-da774988b909
+    internal-label: Acrobat
   - id: c1c5fb98-9105-44ed-9df1-9e04d062a784
+    internal-label: Document Cloud
   - id: dc5cf79d-43c4-4731-bffa-1df5d7549cb1
+    internal-label: Acrobat Sign
   - id: f002a92a-b99f-47a4-90c8-65e0e415bc7a
+    internal-label: Pass
 feature_v2:
   - id: a1028f9a-6dbc-4a4f-adf5-eb9f85a408a6
+    internal-label: Integrations
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
   - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
 topic_v2:
   - id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
-source-git-commit: d92345097c162b68b9d8405122534371c87c5f1a
+    internal-label: Customer experience
+source-git-commit: 99800d36a3515a93bff9867ace5d0f64505c5efd
 workflow-type: tm+mt
-source-wordcount: 2466
+source-wordcount: '2445'
 ht-degree: 0%
-
 ---
-
 # Microsoft Power Platform向けAcrobat Signを使用した文書の自動処理
 
-Microsoft Powerアプリケーション用のAcrobat SignおよびAdobe PDFツールコネクタをアクティベートして使用する方法について説明します。 コードを使用せずに、ビジネス承認および署名プロセスを迅速かつ安全に自動化するワークフローを構築できます。 以下のリンクで概説されているこの実践チュートリアルには、4つの部分があります。
+Microsoft Powerアプリケーション用のAcrobat SignおよびAdobe PDFツールコネクターをアクティベートして使用する方法について説明します。 コードを使用せずに、ビジネス承認および署名プロセスを迅速かつ安全に自動化するワークフローを構築できます。 以下のリンクで概説されているこの実践チュートリアルには、4つの部分があります。
 
 <table style="table-layout:fixed">
 <tr>
@@ -86,7 +93,7 @@ Microsoft Powerアプリケーション用のAcrobat SignおよびAdobe PDFツ�
 
 **演習3および4**
 
-マテリアル[こちら](https://github.com/benvanderberg/adobe-sign-pdftools-powerautomate-tutorial)をダウンロード
+マテリアルをダウンロードする[こちら](https://github.com/benvanderberg/adobe-sign-pdftools-powerautomate-tutorial)
 
 ## パート1:Acrobat Signを使用して署名済み契約書をSharePointに保存する {#part1}
 
@@ -194,7 +201,7 @@ Microsoft Powerアプリケーション用のAcrobat SignおよびAdobe PDFツ�
    ![ファイルコンテンツの取得の構成のスクリーンショット](assets/documentautomation/automation_15.png)
 
    **サイトアドレス：**&#x200B;お客様のSharePointサイトです。
-   **ファイル識別子：** 「識別子」を検索し、**ファイルのプロパティを取得**&#x200B;の手順から識別子を選択します。
+   **ファイルの識別子:** [識別子]を検索し、**ファイルのプロパティを取得**&#x200B;の手順から[識別子]を選びます。
 1. 「Adobe」を検索し、**Acrobat Sign**&#x200B;を選択して別のアクションを追加します。
 
    ![検索メニューのスクリーンショット](assets/documentautomation/automation_16.png)
@@ -316,7 +323,7 @@ SharePointサイトの文書リポジトリに移動して、テストします�
 1. フローの一番下にある&#x200B;**ファイルの作成**&#x200B;アクションを編集します。
 
    **サイトアドレス**&#x200B;を自分のサイトアドレスに変更します。
-処理された契約フォルダの場所をフォルダ・パスで指定します。
+   処理された契約フォルダの場所をフォルダ・パスで指定します。
 
 1. 右上隅の「**保存**」をクリックします。
 1. [**テスト**]をクリックします。
@@ -397,7 +404,7 @@ Templatesフォルダには、Coversフォルダがあり、さまざまな都�
 1. 選択したファイルの&#x200B;**のトリガー**&#x200B;を選択します。
 
    「サイトアドレス」にSharePointサイトを追加します。
-ライブラリにライブラリを追加します。
+   ライブラリにライブラリを追加します。
 
    ![完了したトリガーのスクリーンショット](assets/documentautomation/automation_45.png)
 
@@ -422,7 +429,7 @@ Templatesフォルダには、Coversフォルダがあり、さまざまな都�
 1. **選択したファイル**&#x200B;の範囲アクションを展開します。
 
    **ファイルのプロパティを取得**&#x200B;で、サイトアドレスとライブラリ名をそれぞれSharePointサイトとライブラリに変更します。
-**ファイルコンテンツを取得**&#x200B;で、サイトアドレスをSharePointサイトに変更します。
+   **ファイルコンテンツを取得**&#x200B;で、サイトアドレスをSharePointサイトに変更します。
 
    ![展開された選択ファイルの操作のスクリーンショット](assets/documentautomation/automation_47.png)
 
