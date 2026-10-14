@@ -9,11 +9,9 @@ thumbnail: 33810.jpg
 exl-id: 47471402-6a7b-4e25-947f-5b5ffdc393fd
 source-git-commit: cda31f3acd9215184ba88dcb7c5ffd3e0cd3ac05
 workflow-type: tm+mt
-source-wordcount: '80'
+source-wordcount: '84'
 ht-degree: 0%
-
 ---
-
 # 政府事業助成金
 
 助成金、ローン、および税金の繰延リクエストフォームへのセルフサービスアクセスを提供することで、企業を迅速に支援します。 印刷したり、郵送したりすることなく、**および**&#x200B;に署名できるオンラインwebフォームを作成する方法について説明します。
