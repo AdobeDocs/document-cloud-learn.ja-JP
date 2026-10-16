@@ -20,4 +20,4 @@ ht-degree: 0%
 >
 >グループは、ビジネスレベルおよびエンタープライズレベルのプランでのみ使用できます。
 
->[!VIDEO](https://video.tv.adobe.com/v/344682?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3411250?captions=jpn&quality=12&learn=on&hidetitle=true)

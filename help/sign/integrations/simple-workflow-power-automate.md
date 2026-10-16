@@ -17,4 +17,4 @@ ht-degree: 0%
 Acrobat Signに含まれている事前定義済みの[!DNL Microsoft Power Automate] コネクターを使用して、社内の技術者以外のユーザーが簡単なワークフローを作成し、他のシステムに接続する方法について説明します。 これらの自動化された文書ワークフローにより、一般的なプロセスの速度と効率が向上し、繰り返し行う作業にかかる時間が短縮され、エラーや作業のやり直しが最小限に抑えられます。
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3424251?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3437910?captions=jpn&quality=12&learn=on&hidetitle=true)

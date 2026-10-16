@@ -20,4 +20,4 @@ ht-degree: 18%
 >
 >レポートは、ビジネスレベルおよびエンタープライズレベルのプランでのみ使用できます。
 
->[!VIDEO](https://video.tv.adobe.com/v/346754?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3444683?captions=jpn&quality=12&learn=on&hidetitle=true)
