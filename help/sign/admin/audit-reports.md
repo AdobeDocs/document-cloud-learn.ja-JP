@@ -10,11 +10,9 @@ source-git-commit: f3017163d6edf5c2b3e3c6c6c388bf4c1f338084
 workflow-type: tm+mt
 source-wordcount: '63'
 ht-degree: 0%
-
 ---
-
 # 監査レポート
 
 組織のニーズに合わせて監査レポートにアクセスし、利用し、設定する方法について説明します。 Acrobat Signのすべての文書は、トランザクションの進行状況を示す一連の「マイルストーン」イベントを経ます。 これらのマイルストーンは、すべてのトランザクションの監査レポートに完全に文書化されます。
 
->[!VIDEO](https://video.tv.adobe.com/v/3448546?quality=12&learn=on&hidetitle=true&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/3448546?captions=jpn&quality=12&learn=on&hidetitle=true)
