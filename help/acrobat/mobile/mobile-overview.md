@@ -87,14 +87,14 @@ ht-degree: 6%
 </div>
 <!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
 
-[Adobe Acrobat Readerモバイルアプリ](https://www.adobe.com/acrobat/mobile/acrobat-reader.html){target="_blank"}を無料のグローバルスタンダードでダウンロードして、PDFの表示、注釈の追加、署名を確実におこなうことができます。
+[Adobe Acrobat Readerモバイルアプリ](https://www.adobe.com/jp/acrobat/mobile/acrobat-reader.html){target="_blank"}を無料のグローバルスタンダードでダウンロードして、PDFの表示、注釈の追加、署名を確実におこなうことができます。
 
-[iOS用Acrobat Readerモバイルガイド](https://www.adobe.com/devnet-docs/acrobat/ios/jp/){target="_blank"}
-[Android用Acrobat Readerモバイルガイド](https://www.adobe.com/devnet-docs/acrobat/android/jp/){target="_blank"}
+[iOS用Acrobat Readerモバイルガイド](https://www.adobe.com/jp/devnet-docs/acrobat/ios/jp/){target="_blank"}
+[Android用Acrobat Readerモバイルガイド](https://www.adobe.com/jp/devnet-docs/acrobat/android/jp/){target="_blank"}
 
-[Adobe Scanモバイルアプリ](https://www.adobe.com/acrobat/mobile/scanner-app.html){target="_blank"}をダウンロードすれば、紙の文書をキャプチャして、テキスト検索で高品質なPDFに変換できます。
+[Adobe Scanモバイルアプリ](https://www.adobe.com/jp/acrobat/mobile/scanner-app.html){target="_blank"}をダウンロードすれば、紙の文書をキャプチャして、テキスト検索で高品質なPDFに変換できます。
 
-[iOS用Adobe Scanモバイルガイド](https://www.adobe.com/devnet-docs/adobescan/ios/en/){target="_blank"}
-[Android用Adobe Scanモバイルガイド](https://www.adobe.com/devnet-docs/adobescan/android/en/){target="_blank"}
+[iOS用Adobe Scanモバイルガイド](https://www.adobe.com/jp/devnet-docs/adobescan/ios/en/){target="_blank"}
+[Android用Adobe Scanモバイルガイド](https://www.adobe.com/jp/devnet-docs/adobescan/android/en/){target="_blank"}
 
-[Adobe Fill &amp; Signモバイルアプリ](https://www.adobe.com/acrobat/mobile/fill-sign-pdfs.html){target="_blank"}をダウンロードすれば、どこからでも、どのデバイスからでも、指やスタイラスを使ってあらゆるフォームに入力し、署名して送信できます。
+[Adobe Fill &amp; Signモバイルアプリ](https://www.adobe.com/jp/acrobat/mobile/fill-sign-pdfs.html){target="_blank"}をダウンロードすれば、どこからでも、どのデバイスからでも、指やスタイラスを使ってあらゆるフォームに入力し、署名して送信できます。

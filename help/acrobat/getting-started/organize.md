@@ -25,7 +25,7 @@ ht-degree: 32%
 
 # ページを整理
 
-最高のカスタマーエクスペリエンスを提供するには、これまでになく高速にコンテンツを作成する必要があります。 お好みのレイアウトにページを数秒で並べ替える方法を説明します。 [挿入](https://www.adobe.com/jp/acrobat/online/add-pages-to-pdf.html){target="_blank"}、置換、[分割](https://www.adobe.com/jp/acrobat/online/split-pdf.html){target="_blank"}、[並べ替え](https://www.adobe.com/jp/acrobat/online/rearrange-pdf.html){target="_blank"}、[回転](https://www.adobe.com/jp/acrobat/online/rotate-pdf.html){target="_blank"}および[不連続ページの抽出](https://www.adobe.com/acrobat/online/extract-pdf-pages.html){target="_blank"}を行って、プロフェッショナルな印象のPDFを作成できます。 このビデオチュートリアルでは、[新しいAcrobatエクスペリエンス](new-experience.md)を使用します。
+最高のカスタマーエクスペリエンスを提供するには、これまでになく高速にコンテンツを作成する必要があります。 お好みのレイアウトにページを数秒で並べ替える方法を説明します。 [挿入](https://www.adobe.com/jp/acrobat/online/add-pages-to-pdf.html){target="_blank"}、置換、[分割](https://www.adobe.com/jp/acrobat/online/split-pdf.html){target="_blank"}、[並べ替え](https://www.adobe.com/jp/acrobat/online/rearrange-pdf.html){target="_blank"}、[回転](https://www.adobe.com/jp/acrobat/online/rotate-pdf.html){target="_blank"}および[不連続ページの抽出](https://www.adobe.com/jp/acrobat/online/extract-pdf-pages.html){target="_blank"}を行って、プロフェッショナルな印象のPDFを作成できます。 このビデオチュートリアルでは、[新しいAcrobatエクスペリエンス](new-experience.md)を使用します。
 
 >[!TIP]
 >
