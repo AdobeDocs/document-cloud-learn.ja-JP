@@ -31,7 +31,7 @@ Acrobatを[!DNL Box]、[!DNL Dropbox]、[!DNL Google Drive]、[!DNL OneDrive]お
 
 ## Microsoft
 
-[Microsoft 365](https://www.adobe.com/documentcloud/integrations/microsoft-office-365.html)内で、グループの全員がPDFファイルをシームレスに操作する方法について説明します。 AcrobatとMicrosoft 365の連携について専門的にキュレートされた[プレイリスト](https://experienceleague.adobe.com/ja/playlists/acrobat-integrate-microsoft-365)をご覧ください。
+[Microsoft 365](https://www.adobe.com/jp/documentcloud/integrations/microsoft-office-365.html)内で、グループの全員がPDFファイルをシームレスに操作する方法について説明します。 AcrobatとMicrosoft 365の連携について専門的にキュレートされた[プレイリスト](https://experienceleague.adobe.com/ja/playlists/acrobat-integrate-microsoft-365)をご覧ください。
 
 
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
@@ -266,4 +266,4 @@ Acrobatを[!DNL Box]、[!DNL Dropbox]、[!DNL Google Drive]、[!DNL OneDrive]お
 
 ## Box
 
-Acrobatと[Box](https://www.adobe.com/documentcloud/integrations/box.html){target="_blank"}を使用して、組織内の誰もが業務を継続しやすくする方法を説明します。
+Acrobatと[Box](https://www.adobe.com/jp/documentcloud/integrations/box.html){target="_blank"}を使用して、組織内の誰もが業務を継続しやすくする方法を説明します。

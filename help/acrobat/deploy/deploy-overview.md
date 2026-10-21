@@ -27,6 +27,6 @@ ht-degree: 5%
 
 * グループ版またはエンタープライズ版のAdobe、Creative Cloud版を使用している場合に®Adobe Acrobatを[デプロイ™る](https://helpx.adobe.com/jp/enterprise/using/deploying-acrobat.html){target="_blank"}方法について説明します。
 
-* [Enterprise Toolkit for Acrobat Products](https://www.adobe.com/devnet-docs/acrobatetk/index.html){target="_blank"}について説明します。このツールキットを使用すると、カスタマイズした製品を組織全体にデプロイし、仮想化インストールをセットアップして、エンタープライズPDFワークフローを構築できます。
+* [Enterprise Toolkit for Acrobat Products](https://www.adobe.com/jp/devnet-docs/acrobatetk/index.html){target="_blank"}について説明します。このツールキットを使用すると、カスタマイズした製品を組織全体にデプロイし、仮想化インストールをセットアップして、エンタープライズPDFワークフローを構築できます。
 
 * 2020年8月から2020年11月20日までのETLAタームライセンス契約([&#128279;](signentitlementchanges.md){target="_blank"})の提供に含まれるAcrobat DCの使用権限に対する重要な変更点について説明します。

@@ -43,7 +43,7 @@ PDFコンテンツは一意であり、次のように構造化されている�
 * 25ページを超えるドキュメントのハイパーリンクされた目次の追加
 * スキャンしたすべての文書に対して[テキスト認識](https://experienceleague.adobe.com/ja/docs/document-cloud-learn/acrobat-learning/getting-started/scan-and-ocr)を実行する
 * モバイル対応のPDFを構築
-PDFのモバイル表示エクスペリエンスを確認するには、[Acrobat Readerモバイルアプリ](https://www.adobe.com/acrobat/mobile/acrobat-reader.html)でファイルを開き、Liquid Modeをオンにします。 必要に応じて、ナビゲーションを向上させるために追加の小見出しを含めます。
+PDFのモバイル表示エクスペリエンスを確認するには、[Acrobat Readerモバイルアプリ](https://www.adobe.com/jp/acrobat/mobile/acrobat-reader.html)でファイルを開き、Liquid Modeをオンにします。 必要に応じて、ナビゲーションを向上させるために追加の小見出しを含めます。
 
   ![Acrobat ReaderモバイルアプリのLiquid Modeのスクリーンショット](../assets/optimizeseo1.png)
 

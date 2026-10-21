@@ -41,7 +41,7 @@ Acrobat Sign APIを使用して、電子サインおよび文書エクスペリ�
 
 +++API資格情報の取得方法の詳細を表示
 
-* [Acrobat Signデベロッパーアカウント](https://www.adobe.com/acrobat/business/developer-form.html)
+* [Acrobat Signデベロッパーアカウント](https://www.adobe.com/jp/acrobat/business/developer-form.html)
 * [スターターコード](https://github.com/benvanderberg/adobe-sign-api-tutorial)
 * [VSコード（または任意のエディター）](https://code.visualstudio.com)
 * Python 3.x
