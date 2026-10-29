@@ -10,10 +10,13 @@ exl-id: 83896285-7339-4d95-8a51-b91de4d4731a
 TQID: https://experienceleague.adobe.com/9hgctVHU0eO1tfOKmtRWYwjvx8cCSxDVwZgIUGkUpWg
 product_v2:
   - id: b12c730b-5ddb-4a2d-ba42-da774988b909
+    internal-label: Acrobat
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
 source-git-commit: d92345097c162b68b9d8405122534371c87c5f1a
 workflow-type: tm+mt
 source-wordcount: 173
