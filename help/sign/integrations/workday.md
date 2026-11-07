@@ -38,4 +38,4 @@ ht-degree: 0%
 
 Acrobat Sign Workday版を使用すると、署名ワークフローが合理化され、チームの生産性がさらに向上します。 このビデオチュートリアルでは、Workday内で直接Acrobat Signを使用して、すべての人事関連書類をシームレスに管理する方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/39372?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3506334?captions=jpn&quality=12&learn=on&hidetitle=true)
