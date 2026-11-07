@@ -33,7 +33,7 @@ ht-degree: 0%
 
 テレワーク契約書やポリシーの更新などですべての従業員から署名を効率的に収集する方法について説明します。 まず、文書ライブラリから迅速にアクセスできる再利用可能な文書テンプレートを作成します。 次に、Megaサインを使用して、新しい文書テンプレートを署名用に一度に数百人の従業員に送信します。
 
->[!VIDEO](https://video.tv.adobe.com/v/33978?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3506370?captions=jpn&quality=12&learn=on&hidetitle=true)
 
 テレワーク契約書の手順を追ったPDFレシピをダウンロードするか、開きます。
 
