@@ -24,9 +24,9 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: f4a2ca705da9c9662c925702fd41d4f5fc494785
+source-git-commit: 8bff0f338f32aec1065ec258e1507078631600dd
 workflow-type: tm+mt
-source-wordcount: '607'
+source-wordcount: '593'
 ht-degree: 22%
 ---
 # はじめに/概要
@@ -39,7 +39,7 @@ ht-degree: 22%
 
 >[!TAB 送信する前にドキュメントとテンプレートを編集する]
 
-Acrobat Signで[&#128279;](edit.md)を直接送信する前に、テキスト、画像、テンプレートを編集する方法について説明します。
+Acrobat Signで](edit.md)を直接送信する前に、[テキスト、画像、テンプレートを編集する方法について説明します。
 
 >[!TAB 「コピーを作成」を使用するタイミング]
 
@@ -48,10 +48,6 @@ Acrobat Signで[&#128279;](edit.md)を直接送信する前に、テキスト、
 >[!TAB 送信後に文書を変更する]
 
 署名用に既に送信された文書を[変更](../sign-beginner-tutorials/manage-and-track.md)する方法について説明します。
-
->[!TAB 契約書を管理およびトラック]
-
-署名用に送信された[契約書を管理およびトラック](../sign-beginner-tutorials/manage-and-track.md)する方法について説明します。
 
 >[!ENDTABS]
 
@@ -183,6 +179,8 @@ Acrobat Signで[&#128279;](edit.md)を直接送信する前に、テキスト、
     「コピーを作成」を使用して既存の契約書を複製する方法について説明します。
     <br>
     </td>
+  </tr>
+  <tr>
     <td>
      <a href="edit.md">
       <img alt="送信前に文書とテンプレートを編集" src="../assets/edit.png" />
