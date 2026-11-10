@@ -24,9 +24,9 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: 99800d36a3515a93bff9867ace5d0f64505c5efd
+source-git-commit: 8bff0f338f32aec1065ec258e1507078631600dd
 workflow-type: tm+mt
-source-wordcount: '583'
+source-wordcount: '593'
 ht-degree: 22%
 ---
 # はじめに/概要
@@ -37,6 +37,10 @@ ht-degree: 22%
 
 >[!BEGINTABS]
 
+>[!TAB 送信する前にドキュメントとテンプレートを編集する]
+
+Acrobat Signで[&#128279;](edit.md)を直接送信する前に、テキスト、画像、テンプレートを編集する方法について説明します。
+
 >[!TAB 「コピーを作成」を使用するタイミング]
 
 [コピーを作成](../sign-beginner-tutorials/create-a-copy.md)を使用して、既存の契約書を複製する方法について説明します。 必要な変更を調整し、数秒で再送信できます。 最初から再構築できません。
@@ -44,14 +48,6 @@ ht-degree: 22%
 >[!TAB 送信後に文書を変更する]
 
 署名用に既に送信された文書を[変更](../sign-beginner-tutorials/manage-and-track.md)する方法について説明します。
-
->[!TAB 契約書を管理およびトラック]
-
-署名用に送信された[契約書を管理およびトラック](../sign-beginner-tutorials/manage-and-track.md)する方法について説明します。
-
->[!TAB 文書に電子サインを行う]
-
-Acrobat Signを使用して送信された文書に[署名](../sign-beginner-tutorials/electronically-sign-a-document.md)する簡単な方法を説明します。
 
 >[!ENDTABS]
 
@@ -183,6 +179,33 @@ Acrobat Signを使用して送信された文書に[署名](../sign-beginner-tut
     「コピーを作成」を使用して既存の契約書を複製する方法について説明します。
     <br>
     </td>
+  </tr>
+  <tr>
+    <td>
+     <a href="edit.md">
+      <img alt="送信前に文書とテンプレートを編集" src="../assets/edit.png" />
+    </a>
+    <div>
+    <a href="edit.md"><strong>送信する前にドキュメントとテンプレートを編集する</strong></a>
+    </div>
+    送信前にテキスト、画像、テンプレートを編集する方法を説明します。
+    <br>
+    </td>
+     <td>
+    <img alt="スペーサー" src="../assets/Grayspacer.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="スペーサー" src="../assets/Grayspacer.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="スペーサー" src="../assets/Grayspacer.png" />
+    <div>
+    <br>
+  </td>
 </tr>
 </table>
 
