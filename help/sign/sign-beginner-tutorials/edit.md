@@ -17,4 +17,4 @@ ht-degree: 0%
 >
 >ドキュメントの編集は管理者が有効にする必要があります。詳細については、[こちら](https://helpx.adobe.com/jp/sign/web/settings-configuration/send-settings/edit-agreement.html)を参照してください。
 
->[!VIDEO](https://video.tv.adobe.com/v/3508107?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3508108?captions=jpn&quality=12&learn=on&hidetitle=true)
